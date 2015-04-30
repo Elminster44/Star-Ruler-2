@@ -53,7 +53,7 @@ SAVE_NO_COMPAT: <<|
 	L'équipe de développement présente ses excuses pour la gêne occasionnée.
 >>
 SAVE_NO_MODS: <<
-	Cannot load save: one or more mods used in this save file are not installed.
+	Vous ne pouvez pas charger la save: un ou plusieurs mods utilisés dans ce fichier de sauvegarde ne sont pas installés.
 >>
 
 MP_OPTIONS: Options Multi-joueurs
