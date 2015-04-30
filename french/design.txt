@@ -1,0 +1,181 @@
+ERROR_NOT_UNLOCKED: $1 non débloqué.
+ERROR_MODULE_NOT_UNLOCKED: Module $1 non débloqué.
+ERROR_NO_CORE: $1 nécessite un noyau.
+ERROR_NEEDS_EXTERIOR_CORE: $1's Le noyau doit être à l'extérieur.
+ERROR_REQUIRED_MODULE: le module $1 requière le module $2 qui est absent.
+ERROR_UNIQUE_MODULE: Un seul $2 admis sur $1.
+ERROR_INSUFFICIENT_Crew: Équipage insuffisant.
+ERROR_INSUFFICIENT_Command: Contrôle Insuffisant.
+ERROR_INSUFFICIENT_Power: Énergie Insuffisante.
+ERROR_DUPLICATE_DESIGN: Un modèle avec ce nom existe: renommer en '$1'.
+ERROR_INVALID_FILE: Le fichier n'est pas un modèle exporté valide.
+ERROR_INVALID_HULL: Vous ne pouvez pas utiliser $1 sur ce type de coque.
+ERROR_MINIMUM_SIZE: '$1' Coque requières la taille minimum de $2.
+ERROR_MAXIMUM_SIZE: '$1' Coque a une taille maximum de $2.
+ERROR_MIN_SIZE: $1 has minimum size $2.
+ERROR_HULL_NOT_IN_SHIPSET: Ce modèle de coque n'est pas disponible avec le modèle actuel.
+ERROR_NEED_CONTROL: Au moins 1 contrôle nécessaire.
+ERROR_HEX_LIMIT_ARC: $1 la tourelle doit pointer vers l'extérieur.
+ERROR_FACE_BACKWARDS: $1 l'échappement doit faire face à l'arrière.
+ERROR_NOT_CONNECTED: Le design doit former un tout connecté.
+ERROR_NOT_CONTIGUOUS: $1 doit être une zone contiguë.
+ERROR_TOO_SMALL: $1 trop petit.
+ERROR_GRID_SIZE: Invalid hex grid size.
+ERROR_HEX_COUNT: Too much interior space used.
+ERROR_MUST_BE_EXTERIOR: All $1 hexes must be exterior.
+ERROR_MUST_COVER: $1 must cover the ship in all directions.
+ERROR_ONE_APPLIED: Only one $1 may be applied.
+ERROR_CANNOT_APPLY: Cannot apply $1 subsystem.
+ERROR_MUST_ADJACENT: All hexes must be adjacent to at least one $1.
+ERROR_MUST_ADJACENT_INTERIOR: Interior hexes must be adjacent to at least one $1.
+ERROR_CONTIGUOUS: $1 must be a connected whole.
+ERROR_MUST_BE_FILLED: Interior space must be filled.
+ERROR_EXPOSE_LEFT_RIGHT: $1 must be exterior on both the left and right sides of the design.
+ERROR_ONLY_ONE: Only one $1 is allowed.
+ERROR_NEED_PRAYER: Ship requires a Shrine to generate prayer.
+ERROR_EQUAL_PRAYER: Must have at least as much Prayer as Control.
+REQUIRE_CONSTRUCTION_BAY: $1 requires Construction Bay to feed labor into.
+APPLIED_HULL: Hull
+DESIGNS: Modèles
+DSG_INSERT_NAME: Entrer un Nom pour le modèle...
+AUTO_SELECT_HULL: sélectionner automatiquement le modèle de coque...
+FORCE_HULL: Modèle de coque: $1
+DESIGN_HEX_LIMIT: Interior Space: $1 / $2
+TT_DESIGN_HEX_LIMIT: <<
+	Designs can only contain up to a limited amount of interior hexes.
+
+	Certain subsystems like armor hexes placed on the outside of the ship do not count towards a ship's interior hex count.
+>>
+
+TIP_ROTATE: Vous pouvez faire pivoter l'orientation d'une tourelle en utilisant la molette de défilement.
+
+SUBSYS_CORE: Noyau
+SUBSYS_AT: " à "
+SUBSYS_HEX: "Hexagone "
+
+HULL_DELETE_FILE_CONFIRM: Êtes-vous sûr de vouloir supprimer le fichier de la coque '$1'?
+HULL_DELETE_HULL_CONFIRM: Êtes-vous sûr de vouloir supprimer la coque '$1'?
+HULL_CLEAR: Effacer les coques
+HULL_CONFIRM_CLEAR: Êtes-vous sûr de vouloir effacer les données de la coque?
+
+IMPORT_ERRORS: Les erreurs suivantes sont survenues lors de l'importation:
+IMPORT_INTO_CLASS: Importer dans la classe:
+SAVED_CLASS: <Classe sauvegardé>
+EXPORT_DESIGN: Exporter
+DUPLICATE_DESIGN: Dupliquer
+
+SANDBOX_WAR: Combattre !
+SANDBOX_PEACE: Cesser le feu..
+SPAWN_ALLIED: Apparaître allier
+SPAWN_ENEMY: Apparaître ennemi
+SANDBOX_CLEAR: Nettoyer Sandbox
+SANDBOX_CONFIRM_CLEAR: Êtes-vous sûr de vouloir détruire tous les vaisseaux dans le Sandbox ?
+SANDBOX_DESC: Bienvenue dans le sandbox des conceptions !\nLes conceptions sont auto-exporté ici\nUtilisez 'importer conception' pour les charger en jeu.
+SANDBOX_SAVE_EXPORT: Sauver + Exporter
+
+TT_EDIT_DESIGN: Modifier ce modèle.
+TT_OBSOLETE_DESIGN: Marquer ce modèle comme obsolète. Il n'apparaîtra plus dans la liste. Les conceptions obsolète ne seront plus construit automatiquement par la défense.
+TT_UNOBSOLETE_DESIGN: Marquer ce modèle comme actif, retire le statut obsolète.
+SHOW_OBSOLETE: Afficher obsolète
+TT_SHOW_OBSOLETE: Basculer pour afficher les modèles marquer comme obsolètes.
+TT_SUPPORT_DESIGN: Ce modèle utilise une coque de vaisseau de support. Les vaisseaux de support ne peuvent se déplacer de façon indépendante et ne peuvent agir que dans le cadre d'une flotte autour d'un vaisseau mère ou d'une planète.
+TT_FLAGSHIP_DESIGN: Ce modèle utilise une coque de vaisseau amiral. Les vaisseaux amiral peuvent se déplacer et agir de façon indépendante, et peuvent être en mesure d'assurer le commandement d'une flotte de support. La quantité de vaisseaux dans sa flotte dépend du nombe de "Centre de commandement" qu'il dispose dans sa conception. // J'ai rien trouver de mieux pour "Support Command" besoin d'avis/d'aide
+TT_STATION_DESIGN: Ce modèle utilise une coque de station. Les stations ne peuvent pas se déplacer, mais elle peuvent être construite à distance en orbite.
+
+S_HP: Total Health
+S_HexHP: Health
+STT_HP: The sum hitpoints of all hexes on the design.
+
+S_REPAIR: Repair / Second
+STT_REPAIR: The amount of hitpoints the ship can repair per second. Reduced to 25% of the normal rate during combat.
+
+S_Shield: Shield Capacity
+STT_Shield: Maximum hitpoints of the shield.
+
+S_ShieldRegen: Shield Regen
+STT_ShieldRegen: Shield hitpoints regenerated per second.
+
+S_DPS: Damage / Second
+STT_DPS: Total damage per second (DPS) dealt by the ship in combat, when undamaged.
+
+S_SUPPLYCAP: Supply Capacity
+STT_SUPPLYCAP: The total amount of supply this flagship can store.
+
+S_SUPPLYCAP_SUPPORT: Ammo Stores
+STT_SUPPLYCAP_SUPPORT: The amount of supply this ship can take with it on an attack run made detached from its fleet. When the local supply stores run out, the support ship needs to return to the fleet to resupply for the next run. Not all support ship behaviors pefrom attack runs.
+
+S_SUPPORTCAP: Support Command
+STT_SUPPORTCAP: The sum size of support ships this flagship has the capacity to command.
+
+S_ACCEL: Acceleration
+STT_ACCEL: The maximum acceleration the ship can maintain in transit.
+
+S_THRUST: Thrust
+STT_THRUST: Maximum amount of sublight thrust the ship's engines are capable of generating.
+
+S_TURN_THRUST: Turn Rate
+STT_TURN_THRUST: The speed at which the ship can rotate to change direction.
+
+S_MASS: Mass
+STT_MASS: Total mass of the ship.
+
+S_SUPPLYREGEN: Resupply Rate
+STT_SUPPLYREGEN: Amount of supply regenerated per second in friendly space.
+
+S_SUPPLYUSE: Combat Supply Use
+STT_SUPPLYUSE: Amount of supply used by this ship per second while firing all weapons in combat.
+
+S_POWER: Power
+STT_POWER: Amount of power generated and used up by the subsystems on the ship.
+
+S_CONTROL: Control
+STT_CONTROL: Amount of control generated and used up by the subsystems on the ship.
+
+S_HYPERDRIVESPEED: Hyperdrive Speed
+STT_HYPERDRIVESPEED: The speed this ship is capable of maintaining while traveling through hyperspace when undamaged.
+
+S_SLIPSTREAMTIME: Slipstream Time
+STT_SLIPSTREAMTIME: The duration any slipstream tears created by this ship stay open.
+
+S_CargoStorage: Cargo Storage
+STT_CargoStorage: Used to store multiple types of materials, primarily those mined from asteroids.
+
+S_MiningRate: Mining Rate
+STT_MiningRate: Rate at which this ship's mining laser can mine materials from asteroids and put them into cargo storage.
+
+S_LaborIncome: Labor Generation
+STT_LaborIncome: The amount of labor generated per minute by this ship's construction bays.
+
+S_OreProcessRate: Ore Processing
+STT_OreProcessRate: Ore stored ore mined by this ship is processed into labor at this rate.
+
+S_LaborProcessRate: Processing Labor Output
+STT_LaborProcessRate: The amount of stored labor generated when enough ore is available to supply the full Ore Processing rate.
+
+S_OreCost: Ore Cost
+STT_OreCost: When building this ship, Ore mined from asteroids must be spent from local storage.
+
+S_PRAYER: Prayer
+STT_PRAYER: The amount of prayer the shrine on the ship provides. Ships must have at least as much Prayer as they do Control.
+
+S_DPS_SMALL: DPS
+S_DAMAGE: Damage
+S_BEAMDPS: Beam DPS
+S_DURATION: Duration
+S_COOLDOWN: Cooldown
+S_RELOAD: Reload
+S_RADIUS: Radius
+S_RANGE: Range
+S_SPEED: Speed
+S_PROJ_DR: Projectile DR
+S_BEAM_DR: Beam DR
+S_EXPL_DR: Explosive DR
+S_DR: Damage Resistance
+S_DamageThreshold: Damage Threshold
+S_SUPPLYCOST: Supply Cost
+S_BUILDCOST: Cost
+S_LABORCOST: Labor Cost
+S_RESUPPLY: Resupply
+S_ENERGYCOST: Energy Cost
+S_COST_FACTOR: Cost Factor
+S_STELLAR_DAMAGE: Stellar Damage
