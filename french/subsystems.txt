@@ -9,7 +9,7 @@ SC_Support: [vspace=-14][img=SupportCommand;42x42/][/vspace]  [color=#eda1ff]Sou
 SC_Equipment: [vspace=-22][hspace=-29/][img=TractorGun::2;100x76/][/vspace][hspace=-29/]  [color=#8bb800]Equipement[/color]
 SC_Misc: Misc
 
-CREWCONTROL_NAME: Bridge and Crew
+CREWCONTROL_NAME: Pont et équipage
 CREWCONTROL_DESC: <<
 	A bridge, crew quarters, and other facilities for a crew to command a vessel.
 
