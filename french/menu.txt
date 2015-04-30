@@ -162,17 +162,17 @@ NGTT_ENABLE_INFLUENCE_EVENTS: <<
 
 	La désactivation de cette option empêchera les événement de type Zeitgeists et autres événements diplomatique de se produire.
 >>
-NG_START_EXPLORED_MAP: Fully Explored Map
+NG_START_EXPLORED_MAP: Carte Entièrement Explorée
 NGTT_START_EXPLORED_MAP: <<
-	When enabled, all systems in the map start out explored and all empires know where they are.
+	Quand activé, tous les systèmes de la carte seront exploré et tous les empires connaissent leur emplacement.
 
-	Otherwise, empires will need to scout for systems to reveal them.
+	Autrement, les empires devront envoyer des explorateurs pour révéler les systèmes.
 >>
-NG_ENABLE_TERRAFORMING: Enable Terraforming
+NG_ENABLE_TERRAFORMING: Activer la terraformation
 NGTT_ENABLE_TERRAFORMING: <<
-	When terraforming is enabled, empires will be able to change the resources on their planets to any basic Tier 1 resource at will.
-
-	To terraform a resource, select a planet with labor and right click another planet to terraform.
+	Quand on permet la terraformation, les empires pourront changer les ressources sur leurs planètes à n'importe quel niveau de base 1 de ressource à volonté.
+	
+	Pour terraformer une ressource, choisissez une planète avec de la main-d'œuvre et clic droit sur une autre planète à terraformer.
 >>
 
 FLATTEN: Aplatir
@@ -232,7 +232,7 @@ NG_WARN_OHGOD: <<|
 	avec un modem 2038 de Core i42, votre jeu [b]aura[/b] d'énormes ralentissements
 	dans le jeu.
 
-	De Plus, votre expérience de jeu [b]sera[/b] affectée négativement par le rythme beaucoup plus lent de jeu.
+	De plus, votre expérience de jeu [b]sera[/b] affectée négativement par le rythme beaucoup plus lent de jeu.
 	Nous vous recommandons de jouer avec environ 10-20 systèmes solaire par empires pour
 	des résultats optimale.
 
@@ -283,9 +283,9 @@ PROMPT_START_NEW: Êtes-vous sûr de vouloir terminer la partie actuelle et en c
 PROMPT_DISCONNECT: Êtes-vous sûr que vous voulez déconnecter ?
 PROMPT_TUTORIAL: Démarrer le tutoriel maintenant va mettre fin à votre partie en cours. Tout progrès non sauvegarder sera perdu. Continuer ?
 PROMPT_SANDBOX: Démarrer l'éditeur de conception maintenant va mettre fin à votre partie en cours. Tout progrès non sauvegarder sera perdu. Continuer ?
-CHECK_FOR_UPDATES: Check for Updates
-CHECKING_UPDATES: Checking for updates....
-CHECK_UPDATE_FAIL: Failed to check for updates.
-CHECK_UPDATE_UPTODATE: Game version is up to date!
-UPDATE_PROGRESS: Downloading Update... $1%
-UPDATE_FAIL: Downloading update failed... (Code $1)
+CHECK_FOR_UPDATES: Vérifiez mises à jour
+CHECKING_UPDATES: Vérification pour mises à jour....
+CHECK_UPDATE_FAIL: Echec de vérification des mises à jour.
+CHECK_UPDATE_UPTODATE: Version du jeu à jour!
+UPDATE_PROGRESS: Mise à jour en téléchargement... $1%
+UPDATE_FAIL: Le téléchargement de la mise à jour a échoué... (Code $1)
