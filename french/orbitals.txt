@@ -1,5 +1,5 @@
 ORBITAL_REPACK: Pack up Orbital
-PROMPT_SCUTTLE: Destroy $1?
+PROMPT_SCUTTLE: Détruire $1?
 ORB_TT_COST: Cost: $1, $2 Labor
 ORBITAL_MODULES: Modules
 TRADE: Trade
