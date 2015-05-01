@@ -162,7 +162,7 @@ S_DPS_SMALL: DPS
 S_DAMAGE: Dommage
 S_BEAMDPS: Faisceau DPS
 S_DURATION: Durée
-S_COOLDOWN: Refroidir
+S_COOLDOWN: Latence
 S_RELOAD: Recharger
 S_RADIUS: Rayon
 S_RANGE: Portée
