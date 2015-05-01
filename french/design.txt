@@ -172,7 +172,7 @@ S_BEAM_DR: Faisceau DR
 S_EXPL_DR: Explosif DR
 S_DR: Résistance aux dégâts
 S_DamageThreshold: Seuil de dégâts
-S_SUPPLYCOST: Coût approvisionnement
+S_SUPPLYCOST: Approvisionnement
 S_BUILDCOST: Coût
 S_LABORCOST: Coût main d'oeuvre
 S_RESUPPLY: Réapprovisionnement
