@@ -29,7 +29,7 @@ R_DEV_MONEY_DESC: <<
 >>
 
 R_DEV_BUDGET: Commerce
-R_DEV_BUDGET_SMALL: Business
+R_DEV_BUDGET_SMALL: Affaire
 R_DEV_BUDGET_BLURB: +§$1 Budget
 R_DEV_BUDGET_DESC: <<
 	[i][color=#aaa]Les améliorations apportées à l'efficacité des échanges et du commerce.[/color][/i]
