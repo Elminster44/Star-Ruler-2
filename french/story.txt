@@ -1,4 +1,4 @@
-SCEN1_NAME: Inevitable Conquest
+SCEN1_NAME: Conquête Inévitable
 SCEN1_DESC: <<|
 	[b]3277 CE:[/b]
 	A new coalition - the Gevron Initiative - has recently formed with the goal
