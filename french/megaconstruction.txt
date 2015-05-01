@@ -2,70 +2,70 @@ ARTIFICIAL_PLANETOID: Planétoïde artificiel
 ARTIFICIAL_PLANETOID_DESC: <<
 	Un planétoïde entièrement construit artificiellement, avec sa propre atmosphère et son champ gravitationnel.
 
-	Artificial planetoids produce all their own food and do not need to import it, and can construct large processing plants to satisfy their other levelup requirements. The planetoid can also be upgraded to add more surface space.
+	Les planetoids artificiels produisent leur propre nourriture et ne doivent pas l'importer, et peut construire de grandes usines de traitement pour satisfaire leurs autres exigences de monté de niveau. Le planétoïde peut aussi être amélioré pour ajouter plus d'espace de superfie.
 
-	[img=ResourceIconsSmall::11;22;#91692c][b][color=#91692c]Building an artificial planetoid or any of its upgrades requires large amounts of Ore mined from asteroids.[/color][/b][/img]
+	[img=ResourceIconsSmall::11;22;#91692c][b][color=#91692c]La construction d'un planétoïde artificiel ou n'importe laquelle de ses améliorations exige de grandes quantités de minerai extrait d'astéroïdes.[/color][/b][/img]
 >>
-CONS_PLANETOID_UPGRADE: Extra Planetoid Layer
+CONS_PLANETOID_UPGRADE: Couche Planétoïde Supplémentaire
 CONS_PLANETOID_UPGRADE_DESC: <<
-	Add an extra layer of surface space to the artificial planetoid, expanding it and allowing for more buildings to be constructed.
+	Ajoutez une couche supplémentaire d'espace superficiel au planétoïde artificiel, augmente sa capacité de construction de bâtiments.
 
-	[img=ResourceIconsSmall::11;22;#91692c][b][color=#91692c]Requires large amounts of Ore mined from asteroids.[/color][/b][/img]
+	[img=ResourceIconsSmall::11;22;#91692c][b][color=#91692c]Exige de grandes quantités de minerai extrait d'astéroïdes.[/color][/b][/img]
 >>
-BLD_PLANETOID_LV1: Tier 1 Processing Plant
+BLD_PLANETOID_LV1: Niveau 1 Usine de traitement
 BLD_PLANETOID_LV1_DESC: <<
-	A specialized processing plant that can replace one of the artificial planetoid's tier 1 resource requirements.
+	Une usine de traitement spécialisée qui peut remplacer un niveau du planetoid artificiel en exigences de ressource.
 
-	[img=ResourceIconsSmall::11;22;#91692c][b][color=#91692c]Requires large amounts of Ore mined from asteroids.[/color][/b][/img]
+	[img=ResourceIconsSmall::11;22;#91692c][b][color=#91692c]Exige de grandes quantités de minerai extrait d'astéroïdes.[/color][/b][/img]
 >>
-BLD_PLANETOID_LV2: Tier 2 Processing Plant
+BLD_PLANETOID_LV2: Niveau 2 Usine de traitement
 BLD_PLANETOID_LV2_DESC: <<
-	A specialized processing plant that can replace one of the artificial planetoid's tier 2 resource requirements.
+	Une usine de traitement spécialisée qui peut remplacer un niveau du planetoid artificiel en exigences de ressource.
 
-	[img=ResourceIconsSmall::11;22;#91692c][b][color=#91692c]Requires large amounts of Ore mined from asteroids.[/color][/b][/img]
+	[img=ResourceIconsSmall::11;22;#91692c][b][color=#91692c]Exige de grandes quantités de minerai extrait d'astéroïdes.[/color][/b][/img]
 >>
 
-STARFORGE: Star Forge
-STARFORGE_BLURB: Rips apart and absorbs portions of the system's star to generate labor.
+STARFORGE: Forge stellaire
+STARFORGE_BLURB: Déchire en morceaux et absorbe les parties de l'étoile du système pour produire la main d'oeuvre.
 STARFORGE_DESC: <<
-	A highly advanced construction yard that rips power and material straight from the outer layers of the star.
+	Une construction avancée qui déchire la puissance et la matière tout droit des couches extérieures de l'étoile.
 
-	Generates 25 labor per minute at the cost of slowly damaging the star in the system it is in. Upgrades can be constructed on the star forge to increase its labor generation as well as the rate at which it damages the star.
+	Produit 25 main-d'œuvre par minute aux dépens du lent endommagement de l'étoile dans le système où elle se situe. Des améliorationsde la forge peuvent être construites sur l'étoile pour augmenter sa génération de main d'oeuvre mais égelement le taux d'endommagement de l'étoile.
 
-	All construction on a Star Forge has a 50% reduction in build cost compared to normal.
+	Toute les constructions dans une forge stellaire ont une réduction de 50 % du coût normal.
 
-	[img=ResourceIconsSmall::11;22;#91692c][b][color=#91692c]Building a star forge or any of its upgrades requires large amounts of Ore mined from asteroids.[/color][/b][/img]
+	[img=ResourceIconsSmall::11;22;#91692c][b][color=#91692c]La construction et l'amélioration de la forge stellaire exige de grandes quantités de minerai extrait d'astéroïdes.[/color][/b][/img]
 >>
-CONS_STARFORGE_UPGRADE: Upgrade Star Forge
+CONS_STARFORGE_UPGRADE: Amélioration Forge stellaire
 CONS_STARFORGE_UPGRADE_DESC: <<
-	Increase the rate at which the Star Forge generates labor by 25 per minute. This also increases the damage dealt to the system's star while using that labor.
+	Augmentez le taux auquel la forge stellaire produit la main-d'œuvre de 25 par minute. Ceci augmente aussi les dégâts de l'étoile.
 
-	[img=ResourceIconsSmall::11;22;#91692c][b][color=#91692c]Requires large amounts of Ore mined from asteroids.[/color][/b][/img]
+	[img=ResourceIconsSmall::11;22;#91692c][b][color=#91692c]Exige de grandes quantités de minerai extrait d'astéroïdes.[/color][/b][/img]
 >>
-CONS_CANNIBALIZE_PLANET: Cannibalize Planet
+CONS_CANNIBALIZE_PLANET: Cannibalisez Planète
 CONS_CANNIBALIZE_PLANET_DESC: <<
-	Use the Star Forge's matter acquisition beam to completely rip apart an unowned or abandoned planet in this system, gaining ore and stored labor in the process.
+	Utilisez le rayon d'acquisition de matière de la forge stellaire pour déchirer complètement en morceaux une planète non en possession ou abandonnée dans ce système, gain de main-d'œuvre et de minerai qui seront stocké dans le processus.
 
-	Target uncolonized planet is destroyed, gain 5000 Ore and 250 stored Labor.
+	La planète non colonisée  est détruite, le gain est de 5000 Minerai et 250 main d'oeuvre.
 >>
 
-VACUUM_TELESCOPE: Vacuum Telescope
-VACUUM_TELESCOPE_BLURB: Gives vision over all fleets currently anywhere in deep space.
+VACUUM_TELESCOPE: Télescope de l'espace vide
+VACUUM_TELESCOPE_BLURB: Donne la vision sur toutes les flottes n'importe où dans l'espace lointain.
 VACUUM_TELESCOPE_DESC: <<
-	By detecting minute fluctuations in the hyperfield corresponding to changes in realspace vacuum energy, clusters of concentrated mass can be pinpointed. This has very little use in solar system gravity wells, as the overwhelming mass of the star creates too much noise to detect any other objects, but can very accurately detect fleets traveling through the vast reaches of deep space, where no other significant clusters of mass exist.
+	En détectant des fluctuations infimes dans l'hyperchamp correspondant aux changements dans l'espace, des groupes de masse concentrée peuvent être détectées. Ceci a très peu d'utilisation dans des puits de gravité de système solaires, comme la masse écrasante de l'étoile crée trop de bruit pour détecter des autres objets, mais peut très précisément détecter des flottes voyageant par les portées énormes d'espace profond, où aucun autre groupe significatif de masse n'existe.
 
-	Gives vision over all fleets currently anywhere in deep space.
+	Donne la vision sur toutes les flottes n'importe où dans l'espace lointain.
 
-	[img=ResourceIconsSmall::11;22;#91692c][b][color=#91692c]Requires large amounts of Ore mined from asteroids to construct.[/color][/b][/img]
+	[img=ResourceIconsSmall::11;22;#91692c][b][color=#91692c]Exige de grandes quantités de minerai extrait d'astéroïdes.[/color][/b][/img]
 >>
 
-RINGWORLD: Ringworld
+RINGWORLD: Monde d'anneau
 RINGWORLD_DESC: <<
-	An enormous ring constructed around a system's star, with habitable space on the inner surface of the ring, facing the star.
+	Un énorme anneau construit autour de l'étoile d'un système, avec un espace habitable sur la surface intérieure de l'anneau, faisant face à l'étoile.
 
-	Ringworlds have [levels=$1;#ffb4b6]+0/+10/+20/+30/+40/+50[/levels] increased maximum population.
+	Le monde d'anneau a [levels=$1;#ffb4b6]+0/+10/+20/+30/+40/+50[/levels] population maximale accrue.
 
-	For each resource type, if the ringworld is receiving any pressure at all for that resource, it gains [levels=$1;#ffb4b6]2/4/6/8/10/12[/levels] extra pressure of that resource.
+	Pour chaque type de ressource, si l'anneau reçoit une pression pour cette ressource, il gagne [levels=$1;#ffb4b6]2/4/6/8/10/12[/levels] pression supplémentaire pour cette ressource.
 
-	[img=ResourceIconsSmall::11;22;#91692c][b][color=#91692c]Requires extremely large amounts of Ore mined from asteroids.[/color][/b][/img]
+	[img=ResourceIconsSmall::11;22;#91692c][b][color=#91692c]Exige de grandes quantités de minerai extrait d'astéroïdes.[/color][/b][/img]
 >>
