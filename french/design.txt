@@ -101,50 +101,50 @@ STT_DPS: Total des dommages par seconde (DPS) infligés par le vaisseau au comba
 S_SUPPLYCAP: Capacité de ravitaillement
 STT_SUPPLYCAP: Le total de provision que ce vaisseau amiral peut stocker.
 
-S_SUPPLYCAP_SUPPORT: Ammo Stores
-STT_SUPPLYCAP_SUPPORT: The amount of supply this ship can take with it on an attack run made detached from its fleet. When the local supply stores run out, the support ship needs to return to the fleet to resupply for the next run. Not all support ship behaviors pefrom attack runs.
+S_SUPPLYCAP_SUPPORT: Magasins de munitions
+STT_SUPPLYCAP_SUPPORT: Le montant de munitions que ce vaisseau peut prendre avec lui pour un raid d'attaque détaché de sa flotte. Lorsque les magasins de fournitures locales sont épuisées, le vaisseau de soutien a besoin de retourner à la flotte pour ravitailler avant le prochain raid.
 
-S_SUPPORTCAP: Support Command
-STT_SUPPORTCAP: The sum size of support ships this flagship has the capacity to command.
+S_SUPPORTCAP: Commandement du soutien
+STT_SUPPORTCAP: La taille de la somme de vaisseau de soutien que vous pouvez commander.
 
-S_ACCEL: Acceleration
-STT_ACCEL: The maximum acceleration the ship can maintain in transit.
+S_ACCEL: Accélération
+STT_ACCEL: L'accélération maximale du vaisseau qu'il peut maintenir en transit.
 
-S_THRUST: Thrust
-STT_THRUST: Maximum amount of sublight thrust the ship's engines are capable of generating.
+S_THRUST: Poussée
+STT_THRUST: Montant maximal de poussée subluminiques des moteurs du vaisseau qu'ils sont capables de générer.
 
-S_TURN_THRUST: Turn Rate
-STT_TURN_THRUST: The speed at which the ship can rotate to change direction.
+S_TURN_THRUST: Taux de virage
+STT_TURN_THRUST: La vitesse à laquelle le vaisseau peut tourner pour changer de direction.
 
-S_MASS: Mass
-STT_MASS: Total mass of the ship.
+S_MASS: Masse
+STT_MASS: La masse totale du vaisseau.
 
-S_SUPPLYREGEN: Resupply Rate
-STT_SUPPLYREGEN: Amount of supply regenerated per second in friendly space.
+S_SUPPLYREGEN: Taux de réapprovisionnement
+STT_SUPPLYREGEN: Quantité de provision régénérée par seconde dans l'espace amical.
 
-S_SUPPLYUSE: Combat Supply Use
-STT_SUPPLYUSE: Amount of supply used by this ship per second while firing all weapons in combat.
+S_SUPPLYUSE: Utilisation de Munitions de Combat
+STT_SUPPLYUSE: Quantité de munitions utilisées par seconde pour ce vaisseau en tirant avec toutes les armes dans un combat.
 
-S_POWER: Power
-STT_POWER: Amount of power generated and used up by the subsystems on the ship.
+S_POWER: Puissance
+STT_POWER: Quantité de puissance produit et utilisé par les sous-systèmes sur le vaisseau.
 
-S_CONTROL: Control
-STT_CONTROL: Amount of control generated and used up by the subsystems on the ship.
+S_CONTROL: Contrôle
+STT_CONTROL: Quantité de contrôle produit et utilisé par les sous-systèmes sur le vaisseau.
 
-S_HYPERDRIVESPEED: Hyperdrive Speed
-STT_HYPERDRIVESPEED: The speed this ship is capable of maintaining while traveling through hyperspace when undamaged.
+S_HYPERDRIVESPEED: Vitesse Hyperdrive
+STT_HYPERDRIVESPEED: La vitesse du vaisseau a laquelle il est capable de se maintenir en voyageant dans l'hyper espace sans dommage.
 
-S_SLIPSTREAMTIME: Slipstream Time
-STT_SLIPSTREAMTIME: The duration any slipstream tears created by this ship stay open.
+S_SLIPSTREAMTIME: Temps de sillage
+STT_SLIPSTREAMTIME: La durée que le sillage créées par ce vaisseau reste ouvert.
 
-S_CargoStorage: Cargo Storage
-STT_CargoStorage: Used to store multiple types of materials, primarily those mined from asteroids.
+S_CargoStorage: Stockage de Cargaison
+STT_CargoStorage: Utilisé pour stocker les multiples types de matières, principalement ceux extraits d'astéroïdes.
 
-S_MiningRate: Mining Rate
-STT_MiningRate: Rate at which this ship's mining laser can mine materials from asteroids and put them into cargo storage.
+S_MiningRate: Taux d'extraction
+STT_MiningRate: Le taux auquel le laser minier de ce vaisseau peut miner les astéroïdes et mettre le minerai dans la cargaison.
 
-S_LaborIncome: Labor Generation
-STT_LaborIncome: The amount of labor generated per minute by this ship's construction bays.
+S_LaborIncome: Génération de main d'oeuvre
+STT_LaborIncome: La quantité de main-d'œuvre produite par minute par les baies de construction de ce vaisseau.
 
 S_OreProcessRate: Traitement du minerai
 STT_OreProcessRate: Le minerai a stocké et extrait par ce vaisseau est traité par la main-d'œuvre à ce taux.
