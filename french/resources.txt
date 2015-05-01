@@ -135,14 +135,14 @@ GTT_DEFENSE: <<
 >>
 
 RESOURCE_BUDGET: Budget
-RESOURCE_MONEY: Money
+RESOURCE_MONEY: Argent
 RESOURCE_INFLUENCE: Influence
-RESOURCE_ENERGY: Energy
+RESOURCE_ENERGY: Energie
 RESOURCE_FTL: FTL
-RESOURCE_RESEARCH: Research
-RESOURCE_DEFENSE: Defense
-RESOURCE_LABOR: Labor
-LOYALTY: Loyalty
+RESOURCE_RESEARCH: Recherche
+RESOURCE_DEFENSE: Défense
+RESOURCE_LABOR: Main d'oeuvre
+LOYALTY: Fidélité
 
 PRESSURE_Money: <<|
 	[b]Money[/b] generates budget income for the empire.
