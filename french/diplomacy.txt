@@ -54,7 +54,7 @@ TT_RELATION: <<
 >>
 RELATION_WAR: [img=StatusWar;22] En guerre avec $1.[/img]
 NOTIF_VASSAL: $2 est maintenant un Vassal de $3.
-VASSAL_TEXT: $1's Vassal
+VASSAL_TEXT: Vassal de $1
 PARENT_VASSAL_TEXT: [b][color=#0f0]Votre Maître[/color][/b]
 PROPOSE_TREATY: Proposer nouveau traité...
 NO_SIGNATORIES: [i][color=#aaa]Pas encore de signataires...[/color][/i]
