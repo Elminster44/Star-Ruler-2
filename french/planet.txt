@@ -1,20 +1,20 @@
 CONSTRUCTION: Construction
-UNCOLONIZED: Uncolonized
-SHIPS: Ships
-ORBITALS: Orbitals
+UNCOLONIZED: Non colonisée
+SHIPS: Vaisseaux
+ORBITALS: Orbitales
 POPULATION: Population
 MAX_POPULATION: Maximum Population
-COLONIZE_GENERIC: Colonize
-COLONIZE_WITH: Colonize with $1 (ETA $2 minutes)
-AUTO_COLONIZE: Colonize this
-AUTO_COLONIZE_BLOCKED: Colonize this (currently blocked)
-AUTO_COLONIZE_LEVEL: Colonize this and Auto-Import to Level $1
-AUTO_COLONIZE_SYSTEM: Colonize planets in $1
-AUTO_COLONIZE_SYSTEM_LEVEL: Colonize planets in $1 and Auto-Import
-STOP_COLONIZE_SYSTEM: Stop colonizing planets in $1
-CANCEL_AUTO_COLONIZE: Stop colonizing this
-COLONIZE_CONTINUE: Continue colonizing
-COLONIZE_CANCEL: Stop colonizing $1
+COLONIZE_GENERIC: Coloniser
+COLONIZE_WITH: Coloniser avec $1 (ETA $2 minutes)
+AUTO_COLONIZE: Colonisation automatique
+AUTO_COLONIZE_BLOCKED: Colonisation automatique (actuellement bloqué)
+AUTO_COLONIZE_LEVEL: Colonisation automatique et Auto-Import au niveau $1
+AUTO_COLONIZE_SYSTEM: Coloniser des planètes dans $1
+AUTO_COLONIZE_SYSTEM_LEVEL: Coloniser des planètes dans $1 et Auto-Import
+STOP_COLONIZE_SYSTEM: Stop Coloniser des planètes dans $1
+CANCEL_AUTO_COLONIZE: Stop Colonisation automatique
+COLONIZE_CONTINUE: Continuer colonisation
+COLONIZE_CANCEL: Stop colonisation $1
 COLONIZE_UNSAFE_PROMPT: <<|
 	Ordering a colonization with this planet right now can drop its total population below what is required to sustain its current planet level.
 	
@@ -364,13 +364,13 @@ COND_MOON_DESC: <<
 	Multiple instances of this indicate more moons and more potential moon bases.
 >>
 
-BIOME_CRYSTALLIC: Crystallic
-BIOME_DESERT: Desert
-BIOME_FOREST: Forest
-BIOME_ICE: Ice
-BIOME_MOUNTAINS: Mountains
-BIOME_OCEANIC: Oceanic
-BIOME_VOLCANIC: Volcanic
-BIOME_MOON: Moon
-BIOME_SPACE: Space
-BIOME_ARTIFICIAL: Artificial
+BIOME_CRYSTALLIC: Cristallique
+BIOME_DESERT: Désert
+BIOME_FOREST: Forêt
+BIOME_ICE: Glace
+BIOME_MOUNTAINS: Montagnes
+BIOME_OCEANIC: Océanique
+BIOME_VOLCANIC: Volcanique
+BIOME_MOON: Lune
+BIOME_SPACE: Espace
+BIOME_ARTIFICIAL: Artificiel
