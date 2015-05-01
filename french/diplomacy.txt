@@ -259,7 +259,7 @@ VOTE_LOG_SUCCESS: * [color=#0f0]Proposition acceptée![/color]
 VOTE_LOG_FAIL: * [color=#f00]Proposition rejetée.[/color]
 
 VS: vs
-VOTE_LOG: Enregistrement Sénat
+VOTE_LOG: Débat du Sénat
 VOTE_YEA: Soutien
 VOTE_NAY: Opposition
 VOTES_YEA: $1 Soutien
@@ -301,64 +301,64 @@ CARD_NEGOTIATE_DESC: <<|
 
 CARD_SPY: Espion ($1)
 CARD_SPY_DESC: <<|
-	Through a clandestine intelligence operation, we can obtain the transponder
-	codes of another empire's communications system, letting us keep close tabs
-	on their territory and movements for a limited time until countered.
+	Grâce à une opération de renseignement clandestine, nous pouvons obtenir le code du
+	transpondeur du système de communication d'un autre empire, nous laissant surveiller de près
+	leur territoire et de voir les mouvements pour une durée limitée.
 
-	[i]Grants vision for 5 minutes. Each additional quality will increase the
-	duration of the spy effect by 3 minutes.[/i]
+	[i]Vision pendant 5 minutes. Chaque qualité supplémentaire augmentera la
+	durée de l'effet d'espionnage de 3 minutes.[/i]
 >>
-CARD_SPY_EFFECT: Spy on the $1
+CARD_SPY_EFFECT: Espionnez $1
 CARD_SPY_EFFECT_DESC: <<|
-	The $1 is currently being spied on, granting vision over all their systems and fleets.
+	$1 est actuellement espionné, donne la vision sur tous leurs systèmes et leurs flottes.
 >>
 
-CARD_OPENFORUM: Open Forum
+CARD_OPENFORUM: Forum Ouvert
 CARD_OPENFORUM_DESC: <<|
-	Holding an open and unrestricted debate about issues provides additional
-	opportunities for political maneuvering and media manipulation.
+	La tenue d'un débat ouvert et sans restriction sur des questions fournit des
+	possibilités supplémentaires de manœuvres politiques et de manipulation des médias.
 
-	[i]Increases the size of the influence card stack by 1. The cost of
-	purchasing cards further into the stack is reduced by one for you.[/i]
+	[i]Augmente la taille de la pile de cartes d'influence par 1. Le coût de
+	l'achat de cartes plus loin dans la pile est réduite par un.[/i]
 >>
-EFFECT_OPENFORUM: Open Forum
+EFFECT_OPENFORUM: Forum Ouvert
 
-CARD_BUREAUCRACY: Bureaucracy
+CARD_BUREAUCRACY: Bureaucratie
 CARD_BUREAUCRACY_DESC: <<|
-	Setting up arcane and convoluted bureaucratic systems for getting anything
-	done within the galactic senate forces all other empires to rely on your
-	understanding for guidance.
+	Mise en place de systèmes bureaucratiques obscures et compliquées pour obtenir des
+	informations au sein des forces du Sénat Galactique, tous les autres empires compte sur vous pour
+	comprendre.
 	
-	[i]Whenever another empire starts a vote or persistent effect, you gain
-	leverage against them.[/i]
+	[i]Chaque fois qu'un autre empire commence un vote ou un effet persistant, vous gagnez un
+	effet de levier contre eux.[/i]
 >>
-EFFECT_BUREAUCRACY: Bureaucracy
+EFFECT_BUREAUCRACY: Bureaucratie
 
-CARD_ANNEX_PLANET: Annex Planet
+CARD_ANNEX_PLANET: Annexion planète
 CARD_ANNEX_PLANET_DESC: <<|
-	Despite the current situation, certain territories belong to our empire by
-	right! We can petition the galactic senate to rectify the situation, and
-	try to convince them we deserve to be in control.
+	Malgré la situation actuelle, certains territoires appartiennent à notre empire de
+	droit ! Nous pouvons demander au sénat galactique de rectifier la situation, et
+	essayer de les convaincre que nous méritons d'en avoir le contrôle.
 	
-	[i]The influence cost to play this action depends on the loyalty of the
-	target planet. If the vote created by this action passes, you will gain
-	control of the planet. The target planet must be within your trade
-	borders.[/i]
+	[i]Le coût d'influence pour jouer cette action dépend de la loyauté de la
+	planète cible. Si le vote créé par cette action passe, vous gagnerez le
+	contrôle de la planète. La planète cible doit être dans votre limite de
+	commerce.[/i]
 >>
-VOTE_ANNEX_PLANET: Annex Planet $1
+VOTE_ANNEX_PLANET: Annexion planète $1
 
-CARD_ANNEX_SYSTEM: Annex System
+CARD_ANNEX_SYSTEM: Annexion système
 CARD_ANNEX_SYSTEM_DESC: <<|
-	Putting pressure on the galactic senate to act, we claim that the people of
-	the system are better off under our benevolent rule. The empires that control
-	it now are no good for the populace.
+	Faire pression sur le sénat galactique pour qu'il agisse, nous prétendons que les gens
+	du système seront mieux lotis sous notre règne bienveillant. Les empires qui les contrôlent
+	actuellementne ne sont pas bon pour le peuple.
 	
-	[i]The influence cost to play this action depends on the loyalty of the
-	planets in the target system. If the vote created by this action passes,
-	you will gain control of those planets. The target system must be within
-	your trade borders.[/i]
+	[i]Le coût d'influence pour jouer cette action dépend de la loyauté de la
+	planète du système cible. Si le vote créé par cette action passe,
+	vous pourrez prendre le contrôle de ces planètes. Le système cible doit être dans
+	vos frontières commerciales.[/i]
 >>
-VOTE_ANNEX_SYSTEM: Annex System $1
+VOTE_ANNEX_SYSTEM: Annexion système $1
 
 CARD_PROFITEERING: Profiteering
 CARD_MONEY_GAIN: Money Gained
@@ -788,7 +788,7 @@ CARD_HEDGE_LOG: * The $1 [color=#fff700][b]Hedges[/b][/color] the vote in case i
 
 ZEITGEIST_ENERGY: Zeitgeist: Power
 ZEITGEIST_ENERGY_DESC: <<
-	[b]Zeitgeist Effect[/b]
+	[b]Zeitgeist effet[/b]
 
 	If the vote passes, the energy generation rate of all empires will be increased by 25%, and all empires will be able to construct Solar Engine orbitals to generate more energy.
 
@@ -799,7 +799,7 @@ ZEITGEIST_ENERGY_DESC: <<
 
 ZEITGEIST_COOPERATION: Zeitgeist: Cooperation
 ZEITGEIST_COOPERATION_DESC: <<
-	[b]Zeitgeist Effect[/b]
+	[b]Zeitgeist effet[/b]
 
 	If the vote passes, all empires will gain vision over any empires they are not currently at war with, even if they are not allied.
 
@@ -808,9 +808,9 @@ ZEITGEIST_COOPERATION_DESC: <<
 	[i]Only one zeitgeist effect can be active at the same time. Passing a new zeitgeist will remove any previously active ones.[/i]
 >>
 
-ZEITGEIST_PROGRESS: Zeitgeist: Progress
+ZEITGEIST_PROGRESS: Zeitgeist: Progrès
 ZEITGEIST_PROGRESS_DESC: <<
-	[b]Zeitgeist Effect[/b]
+	[b]Zeitgeist effet[/b]
 
 	If the vote passes, 50% of all energy generation on planets and by civilian structures is converted to research generation instead.
 
@@ -818,12 +818,12 @@ ZEITGEIST_PROGRESS_DESC: <<
 	[img=QuickbarIcons::3;32]If the vote fails, the most opposing empire will receive an instant bonus of [b]800 energy[/b].[/img]
 	[i]Only one zeitgeist effect can be active at the same time. Passing a new zeitgeist will remove any previously active ones.[/i]
 >>
-STATUS_PROGRESS_GEIST: Zeitgeist: Progress
+STATUS_PROGRESS_GEIST: Zeitgeist: Progrès
 STATUS_PROGRESS_GEIST_DESC: All energy generation on the surface of this planet is converted to research generation instead.
 
 ZEITGEIST_ZEALOT: Zeitgeist: Zealotry
 ZEITGEIST_ZEALOT_DESC: <<
-	[b]Zeitgeist Effect[/b]
+	[b]Zeitgeist effet[/b]
 
 	If the vote passes, all owned planets will defend themselves from enemy fleets with missile launchers. The amount of launchers on a planet is dependent on its planet level. Planetary missile launchers always deactivate when all orbital support ships are destroyed and an enemy fleet starts sieging to capture the world.
 
@@ -836,7 +836,7 @@ STATUS_ZEALOT_GEIST_DESC: This planet defends itself with missile silos while no
 
 ZEITGEIST_ART: Zeitgeist: Art
 ZEITGEIST_ART_DESC: <<
-	[b]Zeitgeist Effect[/b]
+	[b]Zeitgeist effet[/b]
 
 	While this zeitgeist is active, all empires will be able to construct Museums on their planets. Museums cost labor to construct, but give an instant bonus of 10 influence when constructed.
 
