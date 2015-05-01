@@ -146,17 +146,17 @@ STT_MiningRate: Rate at which this ship's mining laser can mine materials from a
 S_LaborIncome: Labor Generation
 STT_LaborIncome: The amount of labor generated per minute by this ship's construction bays.
 
-S_OreProcessRate: Ore Processing
-STT_OreProcessRate: Ore stored ore mined by this ship is processed into labor at this rate.
+S_OreProcessRate: Traitement du minerai
+STT_OreProcessRate: Le minerai a stocké et extrait par ce vaisseau est traité par la main-d'œuvre à ce taux.
 
-S_LaborProcessRate: Processing Labor Output
-STT_LaborProcessRate: The amount of stored labor generated when enough ore is available to supply the full Ore Processing rate.
+S_LaborProcessRate: Traitement du rendement de main d'oeuvre
+STT_LaborProcessRate: La quantité de main d'oeuvre accumulé généré lorsque suffisamment de minerai est disponible pour fournir le taux de traitement complet du minerai.
 
-S_OreCost: Ore Cost
-STT_OreCost: When building this ship, Ore mined from asteroids must be spent from local storage.
+S_OreCost: Coût de minerai
+STT_OreCost: Lors de la construction de ce vaisseau, le minerai extrait des astéroïdes doit être dépensé du stockage local.
 
-S_PRAYER: Prayer
-STT_PRAYER: The amount of prayer the shrine on the ship provides. Ships must have at least as much Prayer as they do Control.
+S_PRAYER: Prière
+STT_PRAYER: Le montant de prière le lieu saint sur le vaisseau. Les vaisseaux doivent avoir au moins autant de prière que de contrôle.
 
 S_DPS_SMALL: DPS
 S_DAMAGE: Dommage
