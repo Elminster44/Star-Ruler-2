@@ -1,6 +1,6 @@
-COLONY_SHIP: Colony Ship
+COLONY_SHIP: Vaisseau de colonisation
 SPORE_SHIP: Spore
-CRUISER: Cruiser
+CRUISER: Croiseur
 TRANSFER_SUPPORT_SHIPS: Transfer Support Ships
 CREATE_SUPPORT_SHIPS: Create More Support Ships
 SCUTTLE_SUPPORT_SHIPS: Remove/Scuttle Support Ships
