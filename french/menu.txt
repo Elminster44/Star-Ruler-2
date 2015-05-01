@@ -20,11 +20,11 @@ MOD_INCOMPATIBLE: Impossible d'activer, le mod n'est pas compatible avec '$1'.
 MOD_CONFLICT_BASE: Ne peut être activer qu'un seul mod de base à la fois.
 MOD_CONFLICT: Fichiers en conflit :
 MENU_LOADING: Chargement...
-CHOOSE_RACE: Choose Race
+CHOOSE_RACE: Choisissez Race
 AI_CANNOT_PLAY: <<
-	The AI cannot play as this race at this time.
+	L'IA ne peut pas jouer cette race en ce moment.
 >>
-ENABLE_INTERNET: Allow Internet Access
+ENABLE_INTERNET: Autoriser l'accès Internet
 
 MAIN_MENU: Menu principal
 PAUSED_MENU: Pause
@@ -69,10 +69,10 @@ MP_VERSION_MISMATCH: (VERSION INCOMPATIBLE)
 MP_MISSING_MODS: (MODS MANQUANTS)
 MP_ENTER_PASSWORD: Mot-de-passe requis
 MP_CHAT_INTRO: [i][color=#aaa]Pressez Maj+Retour pour ré-ouvrir la fenêtre de chat après l'avoir fermé...[/color][/i]
-MP_CHAT_ALL: To All
-MP_CHAT_ALLIES: To Allies
-MP_CHAT_PEACE: To Peaceful
-MP_CHAT_TO: To $1
+MP_CHAT_ALL: à Tous
+MP_CHAT_ALLIES: AUx Alliés
+MP_CHAT_PEACE: Au pacifique
+MP_CHAT_TO: à $1
 MP_NOT_READY: Pas prêt
 MP_READY: Prêt
 MP_PLAYER_READY: Joueur prêt à lancer la partie.
@@ -125,7 +125,7 @@ NG_RESET: Rétablir la page par défaut
 NG_EMPIRE_OPTIONS: Options d'Empire 
 NG_ENABLE_CIVILIAN_TRADE: Active les Vaisseaux de Commerce Civile
 NG_VICTORY_OPTIONS: Options de Victoire
-NG_RANDOM_EVENTS: Random Events
+NG_RANDOM_EVENTS: Evénements aléatoires
 NG_TIME_LIMIT: Limite de Temps
 NGTT_TIME_LIMIT: <<|
 	Fixer un délai pour le jeu. Lorsque le nombre de minutes indiqué a expiré, l'empire qui a le plus de points est déclaré vainqueur.
@@ -146,7 +146,7 @@ NGTT_ALLOW_TEAM_SURRENDER: <<
 >>
 NG_ENABLE_DREAD_PIRATE: Activer le Pirate de l'Effroi
 NGTT_ENABLE_DREAD_PIRATE: <<
-	Lorsque le Pirate de l'Effroi est activée, un bateau pirate erre dans la galaxie s'attaquant au vaisseaux de commerce civils désarmés.
+	Lorsque le Pirate de l'Effroi est activée, un vaisseau pirate erre dans la galaxie s'attaquant au vaisseaux de commerce civils désarmés.
 
 	Le pirate stocke son butin dans plusieurs stations de stock pirates cachés dans l'espace profond. Détruire l'une des stations de stockage de trésors ou tuer le Pirate de l'Effroi lui-même pour obtenir l'argent volé dans les fonds spéciaux.
 >>
