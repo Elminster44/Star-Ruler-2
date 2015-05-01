@@ -12,7 +12,7 @@ ERROR_INVALID_FILE: Le fichier n'est pas un modèle exporté valide.
 ERROR_INVALID_HULL: Vous ne pouvez pas utiliser $1 sur ce type de coque.
 ERROR_MINIMUM_SIZE: '$1' Coque requières la taille minimum de $2.
 ERROR_MAXIMUM_SIZE: '$1' Coque a une taille maximum de $2.
-ERROR_MIN_SIZE: $1 has minimum size $2.
+ERROR_MIN_SIZE: $1 a taille minimale $2.
 ERROR_HULL_NOT_IN_SHIPSET: Ce modèle de coque n'est pas disponible avec le modèle actuel.
 ERROR_NEED_CONTROL: Au moins 1 contrôle nécessaire.
 ERROR_HEX_LIMIT_ARC: $1 la tourelle doit pointer vers l'extérieur.
