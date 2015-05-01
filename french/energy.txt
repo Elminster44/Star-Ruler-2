@@ -35,11 +35,11 @@ STATUS_PRESS_ATTACK_DESC: <<|
 
 ABL_FLOAT_BUDGET: Contributions Warchest
 ABL_FLOAT_BUDGET_DESC: <<|
-	Dépensez tout le budget actuel et gagnez-le cycle budgétaire suivant pour gagner un bonus  	 
+	Dépensez tout le budget actuel et gagnez le cycle budgétaire suivant pour gagner un bonus  	 
 	d'argent.
 
-	The closer to the start of the budget cycle and the more energy charges you
-	are currently holding, the more extra money you get.
+	Plus c'est près du début du cycle budgétaire et plus d'énergie vous gagnerez 	
+	, vous aurez de l'argent supplémentaire.
 >>
 
 STATUS_ENTANGLED: Incapable
@@ -107,5 +107,5 @@ STATUS_SEEDSHIP_DESC: <<|
 	and leaving them for younger races to find.
 >>
 
-ENERGY_COST: Energy Cost
-COOLDOWN: Cooldown
+ENERGY_COST: Coût de l'énergie
+COOLDOWN: Latence
