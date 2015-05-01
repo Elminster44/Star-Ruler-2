@@ -113,10 +113,10 @@ NOTIF_MET_EMPIRE: Vous avez fait le premier contact avec $1 dans le système $2 
 NOTIF_MET_EMPIRE_BONUS: Vous avez reçu $3 de bonus d'influence pour être la première personne à prendre contact avec $1!
 VOTES_FOR: $1 pour
 VOTES_AGAINST: $1 contre
-OFFER_FOR: Faire une offre\nfor Soutien
+OFFER_FOR: Faire une offre\npour Soutien
 OFFER_FOR_TITLE: Faire une offre pour le soutien
 OFFER_FOR_TEXT: Faire une offre à un autre empire pour rajouter [b][color=#0f0]son soutien[/color][/b] à ce vote en échange.
-OFFER_AGAINST: Faire une offre\nfor Opposition
+OFFER_AGAINST: Faire une offre\npour Opposition
 OFFER_AGAINST_TITLE: Faire une offre pour l'opposition
 OFFER_AGAINST_TEXT: Faire une offre à un autre empire pour rajouter [b][color=#f00]son opposition[/color][/b] à ce vote en échange.
 OFFER: Offre
@@ -250,8 +250,8 @@ OPTION_INFLUENCE_COST: $1 ($2 influence)
 
 PROMPT_WAR: Etes-vous sûr de vouloir déclarer la guerre à $1?
 
-VOTE_LOG_START: * Proposition a commencé par $1.
-VOTE_LOG_START_CARD: * Proposition [b][color=$3]$2[/color][/b] commencé par $1.
+VOTE_LOG_START: * Proposition a commencée dans $1.
+VOTE_LOG_START_CARD: * Proposition de [b][color=$3]$2[/color][/b] commencée dans $1.
 VOTE_LOG_MESSAGE: $1: [offset=140]$2[/offset]
 VOTE_LOG_LEAVE: * $1 a quitté les négociations.
 VOTE_LOG_WITHDRAW: * $1 a retiré sa proposition.
