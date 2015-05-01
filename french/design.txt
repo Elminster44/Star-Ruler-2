@@ -98,14 +98,14 @@ STT_ShieldRegen: Nombre de points régénéré par seconde
 S_DPS: Dommage / Seconde
 STT_DPS: Total des dommages par seconde (DPS) infligés par le vaisseau au combat, quand en bon état.
 
-S_SUPPLYCAP: Capacité de ravitaillement
+S_SUPPLYCAP: Capacité ravitaillement
 STT_SUPPLYCAP: Le total de provision que ce vaisseau amiral peut stocker.
 
 S_SUPPLYCAP_SUPPORT: Magasins de munitions
 STT_SUPPLYCAP_SUPPORT: Le montant de munitions que ce vaisseau peut prendre avec lui pour un raid d'attaque détaché de sa flotte. Lorsque les magasins de fournitures locales sont épuisées, le vaisseau de soutien a besoin de retourner à la flotte pour ravitailler avant le prochain raid.
 
-S_SUPPORTCAP: Commandement du soutien
-STT_SUPPORTCAP: La taille de la somme de vaisseau de soutien que vous pouvez commander.
+S_SUPPORTCAP: Commandement
+STT_SUPPORTCAP: La somme de vaisseau de soutien que vous pouvez commander.
 
 S_ACCEL: Accélération
 STT_ACCEL: L'accélération maximale du vaisseau qu'il peut maintenir en transit.
@@ -119,10 +119,10 @@ STT_TURN_THRUST: La vitesse à laquelle le vaisseau peut tourner pour changer de
 S_MASS: Masse
 STT_MASS: La masse totale du vaisseau.
 
-S_SUPPLYREGEN: Taux de réapprovisionnement
+S_SUPPLYREGEN: Taux réapprovisionnement
 STT_SUPPLYREGEN: Quantité de provision régénérée par seconde dans l'espace amical.
 
-S_SUPPLYUSE: Utilisation de Munitions de Combat
+S_SUPPLYUSE: Utilisation Munitions
 STT_SUPPLYUSE: Quantité de munitions utilisées par seconde pour ce vaisseau en tirant avec toutes les armes dans un combat.
 
 S_POWER: Puissance
@@ -143,7 +143,7 @@ STT_CargoStorage: Utilisé pour stocker les multiples types de matières, princi
 S_MiningRate: Taux d'extraction
 STT_MiningRate: Le taux auquel le laser minier de ce vaisseau peut miner les astéroïdes et mettre le minerai dans la cargaison.
 
-S_LaborIncome: Génération de main d'oeuvre
+S_LaborIncome: Génération main d'oeuvre
 STT_LaborIncome: La quantité de main-d'œuvre produite par minute par les baies de construction de ce vaisseau.
 
 S_OreProcessRate: Traitement du minerai
@@ -172,7 +172,7 @@ S_BEAM_DR: Faisceau DR
 S_EXPL_DR: Explosif DR
 S_DR: Résistance aux dégâts
 S_DamageThreshold: Seuil de dégâts
-S_SUPPLYCOST: Coût d'approvisionnement
+S_SUPPLYCOST: Coût approvisionnement
 S_BUILDCOST: Coût
 S_LABORCOST: Coût main d'oeuvre
 S_RESUPPLY: Réapprovisionnement
