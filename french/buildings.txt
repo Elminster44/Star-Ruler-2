@@ -16,7 +16,7 @@ BLD_TT_COST: [b]Coût de base:[/b] [offset=120]$1[/offset]
 
 BLD_BASE: Base
 BLD_BASE_DESC: <<
-	Produces 1 defense/min. Uses 1 defense pressure;
+	Produit 1 défense/min. Utilise 1 pression de défense;
 
 	[img=$Defense;22/] [bbloc=#PRESSURE_Defense/]
 
