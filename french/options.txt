@@ -4,12 +4,12 @@ OPT_ROTATE_OBJS: Rotate Objects in UI Display
 OPT_ICONIFY_NOTIFICATIONS: Icônifier les notifications
 OPT_MAX_NOTIFICATIONS: Max Visible
 OPT_AUTOPAUSE: Mettre en pause automatiquement lors de l'affichage d'un autre onglet
-OPT_HOLD_FOR_POPUP: Holding Left Button Anchors Tooltip
-OPTTT_HOLD_FOR_POPUP: When checked, holding the left mouse button for a moment while hovering over an object anchors the object's tooltip on the screen.
+OPT_HOLD_FOR_POPUP: Maintenir clic gauche pour ancrage infobulles
+OPTTT_HOLD_FOR_POPUP: Quand elle est cochée, en maintenant le bouton gauche de la souris pendant un moment tout en passant au-dessus d'un objet affiche l'infobulle de l'objet sur l'écran.
 
 OPT_KEYBINDS: Raccourci clavier
 OPT_RESET_KEYBINDS: Réinitialiser les raccourcis clavier aux valeurs par défaut
-OPT_RESET_SURE: Êtes-vous sûr de vouloir Réinitialiser les raccourcis clavier aux valeurs par défaut ?
+OPT_RESET_SURE: Êtes-vous sûr de vouloir réinitialiser les raccourcis clavier aux valeurs par défaut ?
 
 OPT_AUDIO: Son
 OPT_MASTER_VOLUME: Volume principale
@@ -22,7 +22,7 @@ LOC_japanese: Japanese
 
 OPT_MAX_FPS: Limiter les FPS
 OPT_AUTOSAVE: Sauvegarde Auto (en Minutes)
-OPT_AUTOSAVE_COUNT: Autosave Count
+OPT_AUTOSAVE_COUNT: Nombre d'autosave 
 
 KG_Global: Raccourcis clavier globale
 KB_WORLD_FORWARD: Déplacer Haut
@@ -41,12 +41,12 @@ KB_CAM_DOWN: Caméra Baisser
 
 KB_ZOOM_IN: Zoom avant
 KB_ZOOM_OUT: Zoom arrière
-KB_ZOOM_LOCK_OBJECT: Zoom to Object
+KB_ZOOM_LOCK_OBJECT: Zoom vers objet
 
 KB_RESET_CAM: Réinitialisé la caméra
 KB_TAKE_SCREENSHOT: Prendre une copie d'écran
 KB_TOGGLE_FIREARCS: Basculer l'affichage des Arc de tir
-KB_STOP: Stop/Cancel all Orders
+KB_STOP: Stop/Annuler tous les ordres
 
 KB_TAB_NEXT: Onglet suivante
 KB_TAB_PREVIOUS: Onglet précédente
@@ -165,4 +165,4 @@ KB_AUTO_IMPORT: Auto-Import
 KB_COLONIZE: Coloniser
 KB_ATTACK: Attaquer
 KB_HOMEWORLD: Zoom sur la Planète Mère
-KB_TRANSFER_SUPPORTS: Transfer Supports
+KB_TRANSFER_SUPPORTS: Supports de transfert
