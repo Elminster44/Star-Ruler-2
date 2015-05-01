@@ -2,8 +2,8 @@ COMMUNITY_TITLE: $1 (Communauté)
 COMMUNITY_HOME_TITLE: Communauté
 COMMUNITY_WIKI: Wiki: Page principale
 UPLOAD: Envoyer
-FEATURED_DESIGNS: Plans vedettes
-COMMUNITY_DESIGN_SPEC: Taille $1, par $2 sur $3
+FEATURED_DESIGNS: Conceptions vedettes
+COMMUNITY_DESIGN_SPEC: Taille $1, par $2 le $3
 COMMUNITY_DESIGN_CURLINE: [color=#aaa][img=ThumbsUp;20x20/] [b][color=#0f0]$1[/color][/b] [hspace=100/] [img=MenuIcons::6;20/] [b]$2[/b] Commentaire(s)[/color]
 DOWNLOAD_DESIGN_CLASS: Téléchargé
 DOWNLOAD_TO_PROFILE: Télécharger sur Profil
