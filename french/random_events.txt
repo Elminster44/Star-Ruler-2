@@ -21,7 +21,7 @@ EVT_REACTOR_FAILURE: <<
 	
 	Votre équipe de scientifique compte parmis les nombreux millions de vos citoyens morts. Vous espérez qu'ils seront incité à être un peu plus prudent avec la technologie la prochaine fois.
 >>
-STATUS_EVT_REACTOR: Remnant Reactor
+STATUS_EVT_REACTOR: Vestige de réacteur
 STATUS_EVT_REACTOR_DESC: <<
 	A remnant reactor was succesfully activated on this planet, giving it [b]+2 energy production[/b] as well as [b]+10 energy pressure[/b].
 >>
