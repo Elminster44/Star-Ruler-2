@@ -234,72 +234,72 @@ INFLUENCE_TT_DURATION: <<|
 >>
 
 INFLUENCE_TT_FAIL: <<|
-	When the vote timer expires and the [color=#f00][b]red[/b][/color] bar fills completely, the proposition is [b]rejected[/b] and none of its effects apply.
+	Lorsque la minuterie de vote expire et que la bar [color=#f00][b]rouge[/b][/color] est complètement remplit, la proposition est [b]rejetée[/b] et aucun de ses effets appliqués.
 >>
 INFLUENCE_TT_PASS: <<|
-	When the vote timer expires and the [color=#0f0][b]green[/b][/color] bar fills completely, the proposition is [b]passed[/b] and its effects are triggered.
+	Lorsque la minuterie de vote expire et que la bar [color=#0f0][b]verte[/b][/color] est complètement remplit, la proposition est [b]passée[/b] et ses effets sont déclenchés.
 >>
 
-INFLUENCE_TT_BOUGHTBY: Bought by the $1.
+INFLUENCE_TT_BOUGHTBY: Acheté par $1.
 
-DECLARE_WAR: Declare War
-PROPOSE_PEACE: Propose Peace
-RETRACT_PEACE: Retract Peace Proposal
-ACCEPT_PEACE: Accept Peace Proposal
+DECLARE_WAR: Déclarer la guerre
+PROPOSE_PEACE: Proposer la paix
+RETRACT_PEACE: Annuler proposition de paix
+ACCEPT_PEACE: Accepter la proposition de paix
 OPTION_INFLUENCE_COST: $1 ($2 influence)
 
-PROMPT_WAR: Are you sure you wish to declare war on the $1?
+PROMPT_WAR: Etes-vous sûr de vouloir déclarer la guerre à $1?
 
-VOTE_LOG_START: * Proposition started by the $1.
-VOTE_LOG_START_CARD: * Proposition [b][color=$3]$2[/color][/b] started by the $1.
+VOTE_LOG_START: * Proposition a commencé par $1.
+VOTE_LOG_START_CARD: * Proposition [b][color=$3]$2[/color][/b] commencé par $1.
 VOTE_LOG_MESSAGE: $1: [offset=140]$2[/offset]
-VOTE_LOG_LEAVE: * The $1 has left the negotiations.
-VOTE_LOG_WITHDRAW: * The $1 has withdrawn the proposition.
-VOTE_LOG_SUCCESS: * [color=#0f0]Proposition was accepted![/color]
-VOTE_LOG_FAIL: * [color=#f00]Proposition was rejected.[/color]
+VOTE_LOG_LEAVE: * $1 a quitté les négociations.
+VOTE_LOG_WITHDRAW: * $1 a retiré sa proposition.
+VOTE_LOG_SUCCESS: * [color=#0f0]Proposition acceptée![/color]
+VOTE_LOG_FAIL: * [color=#f00]Proposition rejetée.[/color]
 
 VS: vs
-VOTE_LOG: Senate Record
-VOTE_YEA: Support
+VOTE_LOG: Enregistrement Sénat
+VOTE_YEA: Soutien
 VOTE_NAY: Opposition
-VOTES_YEA: $1 Support
+VOTES_YEA: $1 Soutien
 VOTES_NAY: $1 Opposition
 
-NO_VOTES: No currently active propositions...
-NO_EFFECTS: No currently active effects...
-NO_TREATIES: No current treaties...
+NO_VOTES: Pas de propositions actuellement actives...
+NO_EFFECTS: Aucun effet actuellement actifs...
+NO_TREATIES: Aucun traités actuels...
 
-VOTE_LEAVE: Leave Negotiations
+VOTE_LEAVE: Abandonner Negotiations
 PROMPT_LEAVE: <<|
-	Are you sure you wish to leave the negotiations on this proposition
-	altogether? All your support or opposition will be withdrawn.
+	Êtes-vous sûr de vouloir quitter les négociations sur cette proposition ?
+	Tout votre appui ou opposition seront retirées.
 
-	You will no longer be able to see any of the communication or actions
-	used, but you will still be affected by the outcome.
+	Vous ne serez plus en mesure de voir toute les communications ou les actions
+	utilisées, mais vous serez toujours touché par les résultats.
 >>
 
-VOTE_WITHDRAW: Withdraw Proposition
+VOTE_WITHDRAW: Retirer la proposition
 PROMPT_WITHDRAW: <<|
-	Are you sure you wish to withdraw this proposition?
+	Êtes-vous sûr de vouloir retirer cette proposition ?
 
-	The vote will end in failure immediately if you do.
-	All effects will resolve as if the proposition was rejected.
+	Le vote se terminera par un échec immédiat si vous le faites.
+	Tous les effets seront annulés si la proposition a été rejetée.
 >>
 
 
-CARD_NEGOTIATE: Negotiate
-CARD_NEGOTIATIONS_LOG_Y: * The $1 [b]Negotiates[/b] to add [color=#0f0]$2 support[/color].
-CARD_NEGOTIATIONS_LOG_N: * The $1 [b]Negotiates[/b] to add [color=#f00]$2 opposition[/color].
+CARD_NEGOTIATE: Négocier
+CARD_NEGOTIATIONS_LOG_Y: * $1 [b]négocie[/b] pour ajouter [color=#0f0]$2 soutien[/color].
+CARD_NEGOTIATIONS_LOG_N: * $1 [b]négocie[/b] pour ajouter [color=#f00]$2 opposition[/color].
 CARD_NEGOTIATE_DESC: <<|
-	By employing a team of skillful negotiators, we can convince
-	a number of members of the galactic senate to support our cause
-	on a particular vote.
+	En employant une équipe de négociateurs habiles, nous pouvons convaincre
+	un certain nombre de membres du sénat galactique pour soutenir notre cause
+	sur un vote en particulier.
 
-	[i]Adds 1 weight to either side of the vote. Each additional quality will increase
-	the weight granted.[/i]
+	[i]Ajoute 1 poids de chaque côté des voix. Chaque qualité supplémentaire va augmenter
+	le poids accordé.[/i]
 >>
 
-CARD_SPY: Spy ($1)
+CARD_SPY: Espion ($1)
 CARD_SPY_DESC: <<|
 	Through a clandestine intelligence operation, we can obtain the transponder
 	codes of another empire's communications system, letting us keep close tabs
