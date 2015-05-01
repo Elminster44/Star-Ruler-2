@@ -661,5 +661,5 @@ Ceux qui tue votre prochain Kin et versé votre sang ne méritent pas votre prot
 Voir tous tel qu'il est, tel qu'il était, et comme il ne sera jamais; l'Union des Grands.
 >>
 
-PLAY_AS_RACE: Play $1
-CHOOSE_A_RACE: Select $1
+PLAY_AS_RACE: Jouer $1
+CHOOSE_A_RACE: Sélectionner $1
