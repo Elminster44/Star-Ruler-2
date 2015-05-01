@@ -120,7 +120,7 @@ S_MASS: Masse
 STT_MASS: La masse totale du vaisseau.
 
 S_SUPPLYREGEN: Taux réapprovisionnement
-STT_SUPPLYREGEN: Quantité de provision régénérée par seconde dans l'espace amical.
+STT_SUPPLYREGEN: Quantité de provisions régénérées par seconde dans l'espace amical.
 
 S_SUPPLYUSE: Utilisation Munitions
 STT_SUPPLYUSE: Quantité de munitions utilisées par seconde pour ce vaisseau en tirant avec toutes les armes dans un combat.
