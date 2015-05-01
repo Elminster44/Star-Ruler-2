@@ -1,4 +1,4 @@
-ARTIFICIAL_PLANETOID: Artificial Planetoid
+ARTIFICIAL_PLANETOID: Planétoïde artificiel
 ARTIFICIAL_PLANETOID_DESC: <<
 	Un planétoïde entièrement construit artificiellement, avec sa propre atmosphère et son champ gravitationnel.
 
