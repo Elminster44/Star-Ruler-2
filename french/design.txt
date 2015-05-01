@@ -159,23 +159,23 @@ S_PRAYER: Prayer
 STT_PRAYER: The amount of prayer the shrine on the ship provides. Ships must have at least as much Prayer as they do Control.
 
 S_DPS_SMALL: DPS
-S_DAMAGE: Damage
-S_BEAMDPS: Beam DPS
-S_DURATION: Duration
-S_COOLDOWN: Cooldown
-S_RELOAD: Reload
-S_RADIUS: Radius
-S_RANGE: Range
-S_SPEED: Speed
+S_DAMAGE: Dommage
+S_BEAMDPS: Faisceau DPS
+S_DURATION: Durée
+S_COOLDOWN: Refroidir
+S_RELOAD: Recharger
+S_RADIUS: Rayon
+S_RANGE: Portée
+S_SPEED: Vitesse
 S_PROJ_DR: Projectile DR
-S_BEAM_DR: Beam DR
-S_EXPL_DR: Explosive DR
-S_DR: Damage Resistance
-S_DamageThreshold: Damage Threshold
-S_SUPPLYCOST: Supply Cost
-S_BUILDCOST: Cost
-S_LABORCOST: Labor Cost
-S_RESUPPLY: Resupply
-S_ENERGYCOST: Energy Cost
-S_COST_FACTOR: Cost Factor
-S_STELLAR_DAMAGE: Stellar Damage
+S_BEAM_DR: Faisceau DR
+S_EXPL_DR: Explosif DR
+S_DR: Résistance aux dégâts
+S_DamageThreshold: Seuil de dégâts
+S_SUPPLYCOST: Coût d'approvisionnement
+S_BUILDCOST: Coût
+S_LABORCOST: Coût main d'oeuvre
+S_RESUPPLY: Réapprovisionnement
+S_ENERGYCOST: Coût en énergie
+S_COST_FACTOR: Facteur de coût
+S_STELLAR_DAMAGE: Dommages stellaire
