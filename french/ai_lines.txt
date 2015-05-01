@@ -23,7 +23,7 @@ AI_STANDING_BORDER_WAR: Ils chercheront à attaquer nos systèmes frontaliers.
 
 AI_STANDING_IGNORE: A moins d'être provoqué, ils nous ignoreront.
 AI_STANDING_WAAGH: Ils feront la guerre et ne peuvent être raisoné.
-AI_STANDING_WAIT: Ils sont peu susceptibles d'acceuillir de propositions diplomatiques pendant une courte période.
+AI_STANDING_WAIT: Ils sont peu susceptibles d'acceuillir des propositions diplomatiques pendant une courte période.
 AI_STANDING_GIVE_UP: Ils sont faibles et enclins à se rendre.
 
 AI_STANDING_CHEATS: Ils ne jouent pas fairplay.
