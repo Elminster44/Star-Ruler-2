@@ -11,7 +11,7 @@ SC_Misc: Misc
 
 CREWCONTROL_NAME: Pont et équipage
 CREWCONTROL_DESC: <<
-	A bridge, crew quarters, and other facilities for a crew to command a vessel.
+	Un pont, des quartiers d'équipage et d'autres installations d'équipage pour commander un vaisseau.
 
 	[img=ActionBarIcons::0;22;#00ff80]Provides [b][color=#00ff80]Control[/color][/b] to operate other subsystems.[/img]
 	[img=Plus]Slowly repairs the vessel.[/img]
