@@ -54,7 +54,7 @@ DESIGN_NAME_INPUT: Nom:
 DESIGN_CLASS_INPUT: Classe:
 DESIGN_SIZE_INPUT: Taille:
 DESIGN_HULL_INPUT: Coque:
-MINSIZE_SUPPORT: Taille $1+, Support
+MINSIZE_SUPPORT: Taille $1+, Soutien
 MINSIZE_FLAGSHIP: Taille $1+, Vaisseau amiral
 MINSIZE_STATION: Size $1+, Station
 DESIGN_FLAGSHIP: Vaisseau amiral
