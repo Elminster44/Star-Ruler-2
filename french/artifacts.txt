@@ -104,7 +104,7 @@ ABL_GENESIS_DEVICE_DESC: <<|
 
 ART_MIND_CONTROL: Système de contrôle mental
 
-ART_REVENANT_ENGINE: Engine of The Revenant
+ART_REVENANT_ENGINE: Moteur des Revenant
 ART_REVENANT_ENGINE_DESC: <<|
 	The Revenant's engine system.
 	Activate to grant all designs [b]100% increased thrust[/b].
