@@ -1,4 +1,4 @@
-TUTORIAL: Tutorial
+TUTORIAL: Didacticiel
 TUT_PLAYER_EMP: Terran Empire
 TUT_ENEMY_EMP: Xu'sio
 TUT_FLAGSHIP_NAME: Superion
