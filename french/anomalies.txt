@@ -102,9 +102,9 @@ ANOMALY_NAVBUOY_VISION: <<|
 >>
 
 ANOMALY_NAR_MINING_OUTPOST: <<|
-	An abandoned mining outpost sits dormant on a large asteroid. Its systems
-	are still broadcasting a request for orders, but its mining equipment has
-	been damaged beyond repair by weapons fire.
+	Un avant-poste minier abandonné inerte sur un grand astéroïde. Ses systèmes
+	émettent toujours une demande d'ordres, mais son équipement minier est
+	irréparable suite à des tirs d'armes.
 >>
 ANOMALY_NAR_MINING_OUTPOST_VOLAT: <<|
 	An abandoned mining outpost sits dormant on a large asteroid. Its systems
