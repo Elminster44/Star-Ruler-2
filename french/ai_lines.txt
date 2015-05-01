@@ -8,7 +8,7 @@ AI_STANDING_NEUTRAL: Ils n'ont aucune opinion particulière sur nous.
 AI_STANDING_TRUE_NEUTRAL: Ils n'ont pas de forts sentiments d'une façon ou l'autre.
 
 AI_STANDING_OFFENSE_WAR: Déclarer la guerre a gâché nos relations.
-AI_STANDING_OFFENSE_INFLUENCE: Actions diplomatiques contre eux ont endommagé nos relations.
+AI_STANDING_OFFENSE_INFLUENCE: Nos actions diplomatiques contre eux ont endommagé nos relations.
 AI_STANDING_OFFENSE_PLANET: Conquérir leurs mondes a dégradé nos relations.
 AI_STANDING_GLAD_DONATION: Notre généreux don améliore nos relations.
 
