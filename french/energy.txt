@@ -1,73 +1,73 @@
-ABL_FLEET_EFFICIENCY: Overcharge Fleet
+ABL_FLEET_EFFICIENCY: Surcharge de Flotte 
 ABL_FLEET_EFFICIENCY_DESC: <<|
-	Permanently increase the efficiency of the fleet by 30%.
+	Augmentation permanente de l'efficacité de la flotte de 30%.
 >>
 
-STATUS_OVERCHARGED: Overcharged
+STATUS_OVERCHARGED: Surchage
 STATUS_OVERCHARGED_DESC: <<|
-	Combat effectiveness increased by 30%.
+	L'efficacité du combat a augmenté de 30%.
 >>
 
-STATUS_PLANET_GROWTH: Energized
+STATUS_PLANET_GROWTH: Stimulé
 STATUS_PLANET_GROWTH_DESC: <<|
-	Population growth and development rate doubled temporarily.
+	La croissance démographique et le taux de développement a doublé temporairement.
 >>
 
-ABL_FLEET_SUPPORT: Expand Support
+ABL_FLEET_SUPPORT: Développer Soutien
 ABL_FLEET_SUPPORT_DESC: <<|
-	Expand the fleet's support capacity by 300.
+	Développer la capacité de support de la flotte de 300.
 >>
 
-STATUS_EXPANDED: Expanded
+STATUS_EXPANDED: Etendu
 STATUS_EXPANDED_DESC: <<|
-	Fleet support capacity expanded by 300 using energy.
+	La capacité de soutien de la flotte a augmenté de 300 en utilisant l'énergie.
 >>
 
-STATUS_DEFENDED: Defended
+STATUS_DEFENDED: Soutenue
 STATUS_DEFENDED_DESC: <<|
-	Has short-range gattling cannons for defense, installed through energy.
+	A des canons gattling à courte portée pour la défense, installée par l'énergie.
 >>
 
-STATUS_PRESS_ATTACK: Press the Attack
+STATUS_PRESS_ATTACK: Appuyez sur l'attaque
 STATUS_PRESS_ATTACK_DESC: <<|
-	Base effectiveness doubled. Fleet is healing for 50 health per second.
+	L'efficacité de base a doublé. La flotte guérit de 50 santé par seconde.
 >>
 
-ABL_FLOAT_BUDGET: Warchest Contributions
+ABL_FLOAT_BUDGET: Contributions Warchest
 ABL_FLOAT_BUDGET_DESC: <<|
-	Spend all current budget and gain it next budget cycle as bonus money at
-	a markup.
+	Dépensez tout le budget actuel et gagnez-le cycle budgétaire suivant pour gagner un bonus  	 
+	d'argent.
 
 	The closer to the start of the budget cycle and the more energy charges you
 	are currently holding, the more extra money you get.
 >>
 
-STATUS_ENTANGLED: Incapacitated
+STATUS_ENTANGLED: Incapable
 STATUS_ENTANGLED_DESC: <<|
-	Flagship cannot move or use FTL.
+	 Les vaisseaux amiraux ne peuvent pas se déplacer ou utilisater le FTL.
 >>
 
-OT_Ship: Ship
-OT_Planet: Planet
+OT_Ship: Vaisseau
+OT_Planet: Planète
 OT_Orbital: Orbital
-OT_Star: Star
-OT_Artifact: Artifact
-OT_Anomaly: Anomaly
-OT_Asteroid: Asteroid
+OT_Star: Etoile
+OT_Artifact: Artefact
+OT_Anomaly: Anomalie
+OT_Asteroid: Astéroïde
 
-NTRG_NOT_SPACE: Cannot target space.
-NTRG_SPACE: Must target unowned.
-NTRG_NOT_SELF: Cannot target self.
-NTRG_TRADE_PRESENCE: Requires trade presence.
-NTRG_NOT_WAR: Cannot target enemies.
-NTRG_TYPE: Must target $1.
-NTRG_ORBITAL_CORE: Must target $1.
-NTRG_FLAGSHIP: Must target flagship.
-NTRG_VISION: Requires vision.
-NTRG_OWNED: Must target self.
-NTRG_ALLIED: Must target self or allies.
-NTRG_NOT_ALLIED: Cannot target allies..
-NTRG_UNNAMED: Cannot target already named.
+NTRG_NOT_SPACE: Vous ne pouvez pas cibler l'espace.
+NTRG_SPACE: Doit cibler unowned.
+NTRG_NOT_SELF: Ne peut pas ce cibler soi-même.
+NTRG_TRADE_PRESENCE: Nécessite une présence commerciale.
+NTRG_NOT_WAR: Impossible de cibler des ennemis.
+NTRG_TYPE: Doit cibler $1.
+NTRG_ORBITAL_CORE: Doit cibler $1.
+NTRG_FLAGSHIP: Doit cibler vaisseau amiral.
+NTRG_VISION: Nécessite vision.
+NTRG_OWNED: Doit ce cibler soi-même.
+NTRG_ALLIED: Doit ce cibler soi-même ou un allié.
+NTRG_NOT_ALLIED: Vous ne pouvez pas cibler d'alliés.
+NTRG_UNNAMED: Ne peut pas cibler déjà nommé.
 NTRG_STATUS: Already has status.
 NTRG_FTL: Cannot target ships in FTL.
 NTRG_TERRITORY: Must target same territory.
