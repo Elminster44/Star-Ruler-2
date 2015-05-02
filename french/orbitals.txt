@@ -1,13 +1,13 @@
 ORBITAL_REPACK: Pack up Orbital
 PROMPT_SCUTTLE: Détruire $1?
-ORB_TT_COST: Cost: $1, $2 Labor
+ORB_TT_COST: Coût: $1, $2 Main d'oeuvre
 ORBITAL_MODULES: Modules
-TRADE: Trade
-OERR_SYSTEM: Cannot build orbitals outside systems.
-OERR_TRADE: Must build within trade borders.
-OERR_VISION: Cannot build outside vision.
-OERR_LIMIT: Only one per system allowed.
-OERR_BLACKHOLE: Must be built near black hole.
+TRADE: Commerce
+OERR_SYSTEM: Ne peut pas construire orbitals à l'extérieur des systèmes.
+OERR_TRADE: Doit construire dans des frontières commerciales.
+OERR_VISION: Ne peut pas construire à l'extérieur de la vision.
+OERR_LIMIT: Seulement un par système permis.
+OERR_BLACKHOLE: Doit être construit près du trou noir.
 
 LAB_RESOURCES: Imported Resources:
 LAB_AVAIL_AFFINITIES: Available Affinities:
