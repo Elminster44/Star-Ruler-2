@@ -45,27 +45,27 @@ ORB_GATE_CORE_BLURB: Permet le voyage instantané vers toute autre porte.
 ORB_GATE_CORE_DESC: <<|
 	Permet le voyage instantané vers toute autre porte.
 
-	Gates cost 0.15 FTL per second to maintain.
-	Gates can be packed back into a constructor.
-	Unpacking a gate from a constructor costs 150 FTL.
+	Un portail coûte 0,15 FTL par seconde à maintenir.
+	Un portail peut être embarqué dans un constructeur.
+	Débarquer un portail d'un constructeur coûte 150 FTL.
 >>
 
-ORB_DRY_DOCK: Dry Dock
-ORB_DRY_DOCK_BLURB: Single-use flagship construction in space.
+ORB_DRY_DOCK: Cale Sèche
+ORB_DRY_DOCK_BLURB: A usage unique de construction de vaisseau dans l'espace.
 ORB_DRY_DOCK: <<|
-	Can construct a flagship in space, letting other planets easily contribute
-	their labor to the construction.
+	Peut construire un vaisseau amiral dans l'espace, d'autres planètes contribuent facilement
+	a la force de main d'oeuvre pour la construction.
 >>
 
-ORB_REMNANT_DEFENSE_CORE: Remnant Defense Station
+ORB_REMNANT_DEFENSE_CORE: Station de défense vestige
 ORB_REMNANT_DEFENSE_CORE_BLURB: <<
-	Fires at nearby enemy ships.
+	Tir sur les vaisseaux ennemis à proximité.
 >>
 
-ORB_REMNANT_ENERGY_CORE: Reactor Core
-ORB_REMNANT_ENERGY_CORE_BLURB: Produces large amounts of energy.
+ORB_REMNANT_ENERGY_CORE: Cœur du réacteur
+ORB_REMNANT_ENERGY_CORE_BLURB: Produit de grandes quantités d'énergie.
 ORB_REMNANT_ENERGY_CORE_DESC: <<|
-	Produces 36 energy per minute.
+	Produit 36 énergies par minute.
 >>
 
 ORB_ANCIENT_EMBASSY: Ancient Embassy
