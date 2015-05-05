@@ -1,4 +1,4 @@
-ORBITAL_REPACK: Pack up Orbital
+ORBITAL_REPACK: Lâcher Orbital
 PROMPT_SCUTTLE: Détruire $1?
 ORB_TT_COST: Coût: $1, $2 Main d'oeuvre
 ORBITAL_MODULES: Modules
@@ -6,7 +6,7 @@ TRADE: Commerce
 OERR_SYSTEM: Ne peut pas construire orbitals à l'extérieur des systèmes.
 OERR_TRADE: Doit construire dans des frontières commerciales.
 OERR_VISION: Ne peut pas construire à l'extérieur de la vision.
-OERR_LIMIT: Seulement un par système permis.
+OERR_LIMIT: Seulement un par système autorisé.
 OERR_BLACKHOLE: Doit être construit près du trou noir.
 
 LAB_RESOURCES: Ressources importés:
