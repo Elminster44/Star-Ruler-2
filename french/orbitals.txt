@@ -95,25 +95,25 @@ ORB_SHIPYARD_DESC: <<|
 	A 6 génération de main-d'œuvre innée par minute. Les planètes peuvent exporter leur propre
 	main d'oeuvre aux chantiers navals à portée de commerce avec un taux réduit de 75%.
 
-	Les gains de main d'oeuvre pour la recherche de l'usine de la métallurgie a un taux réduit de 75%.
+	Les gains de main d'oeuvre pour la recherche de l'usine de métallurgie sont à un taux réduit de 75%.
 >>
 ORB_ARTILLERY_PLATFORM: Plate-forme d'artillerie
-ORB_ARTILLERY_PLATFORM_BLURB: Long-range artillery cannon.
+ORB_ARTILLERY_PLATFORM_BLURB: Artillerie à longue portée.
 ORB_ARTILLERY_PLATFORM_DESC: <<|
-	An independent orbital artillery cannon, capable of firing at enemies
-	throughout the system.
+	Un canon d'artillerie orbitale indépendante, capable de tirer sur les ennemis
+	 dans l'ensemble du système.
 >>
-ORB_DEFENSE_PLATFORM: Defense Platform
-ORB_DEFENSE_PLATFORM_BLURB: Defense platform with short range weaponry.
+ORB_DEFENSE_PLATFORM: Plate-forme de défense
+ORB_DEFENSE_PLATFORM_BLURB: Plate-forme de défense avec des armes de courte portée.
 ORB_DEFENSE_PLATFORM_DESC: <<|
-	An orbital defense platform outfitted with an arsenal of short-range
-	weaponry to defend its vicinity.
+	Une plate-forme de défense orbitale équipé d'un arsenal d'armes de courte portée
+	pour défendre son voisinage.
 >>
-ORB_TRADE_OUTPOST: Outpost
-ORB_TRADE_OUTPOST_BLURB: Allows trade through its system. Generates defense ships and protects planets in the system from being captured.
+ORB_TRADE_OUTPOST: Avant-poste
+ORB_TRADE_OUTPOST_BLURB: Permet le commerce grâce à son système. Défense des vaisseaux et protège les planètes dans le système.
 ORB_TRADE_OUTPOST_DESC: <<|
-	A small outpost that allows your civilian ships to travel through the
-	system it is in.
+	Un petit avant-poste qui permet à vos vaisseaux civils de voyager à travers le
+	système où il se trouve.
 
 	Outposts generate up to [b]3 Defense[/b] worth of local defense ships,
 	depending on how many adjacent systems have outposts in them.
@@ -197,7 +197,7 @@ ORB_FRAME_DESC: <<
 	Orbitals built on top of this frame have 50% reduced build and labor cost, and do not suffer from build distance labor penalties.
 >>
 
-ORB_SINGULARITY_LAB: Singularity Lab
+ORB_SINGULARITY_LAB: Laboratoire singularité
 ORB_SINGULARITY_LAB_BLURB: <<
 	Harnesses the unique properties of being near a singularity in order to generate power and gain scientific knowledge.
 >>
@@ -207,7 +207,7 @@ ORB_SINGULARITY_LAB_DESC: <<
 	Can only be built in systems that have a black hole. Only one may be constructed per system.
 >>
 
-ORB_FTL_STORAGE: FTL Storage
+ORB_FTL_STORAGE: Stockage FTL 
 ORB_FTL_STORAGE_DESC: <<
-	Stores 300 FTL Energy.
+	Stocke 300 énergies FTL.
 >>
