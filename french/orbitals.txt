@@ -115,18 +115,18 @@ ORB_TRADE_OUTPOST_DESC: <<|
 	Un petit avant-poste qui permet à vos vaisseaux civils de voyager à travers le
 	système où il se trouve.
 
-	Outposts generate up to [b]3 Defense[/b] worth of local defense ships,
-	depending on how many adjacent systems have outposts in them.
+	Les avant-postes produisent jusqu'à [b]3 Défense[/b],
+	selon le nombre de systèmes adjacents qui ont des avant-postes.
 
-	If all of the outpost's support command is used and it has a full
-	complement of defense ships, it will start adding its defense generation to
-	your empire's global pool.
+	Si la totalité de la commande de soutien de l'avant-poste est utilisé et qu'il est plein
+	en vaisseaux de défense, il commencera à ajouter sa génération de défense à
+	l'association globale de votre empire.
 
-	Planets in systems that have contained an outpost for at least 2 minutes
-	will be [b]Protected[/b] from being captured until the outpost is destroyed.
+	Les planètes dans les systèmes qui ont contenu un avant-poste pour au moins 2 minutes
+	seront [b]Protégé[/b] d'être capturé jusqu'à ce que l'avant-poste soit détruit.
 
-	[i]Can be built in systems you do not own planets in, expanding your
-	empire border. Only one outpost can be constructed per system.[/i]
+	[i]Peut être construit dans des systèmes dans lesquels vous ne possédez pas de planètes, en fonction 
+	des frontières de votre empire. Seulement un avant-poste peut être construit par système.[/i]
 >>
 
 ORB_TRADE_STATION: Commerce Station
@@ -164,47 +164,47 @@ STATUS_FAST_RESUPPLY_DESC: <<|
 	Is receiving supplies from a Supply Depot in the system. Regenerating
 	supplies at a significantly increased rate while not in combat.
 >>
-ORB_FTL_JAMMER: FTL Jammer
-ORB_FTL_JAMMER_BLURB: Prevents hostile empires from engaging their FTL drives in this system.
+ORB_FTL_JAMMER: Brouilleur FTL
+ORB_FTL_JAMMER_BLURB: Empêche les empires hostiles d'utiiser leur FTL dans ce système.
 ORB_FTL_JAMMER_DESC: <<|
-	An array of precise hyperfield excitors calibrated to specific frequencies
-	can block the use of particular makes of FTL drive.
+	Un tableau d'excitateurs d'hyper vitesse précis et calibré à des fréquences spécifiques
+	peut bloquer l'utilisation de marques particulières de propulsion FTL.
 
-	Empires you are at war with cannot use their FTL inside this system.
+	Les empires avec lesquels vous êtes en guerre ne peuvent pas utiliser leur FTL à l'intérieur de ce système.
 
-	[b][color=#00c0ff]Costs 0.15 FTL per second to maintain.[/color][/b]
+	[b][color=#00c0ff]Coûte 0.15 FTL par seconde pour le maintenir.[/color][/b]
 >>
-ORB_SCAFFOLDING: Scaffolding
-ORB_SCAFFOLDING_BLURB: An orbital hull is under construction here.
+ORB_SCAFFOLDING: Echafaudage
+ORB_SCAFFOLDING_BLURB: Une coque orbitale est en construction ici.
 ORB_SCAFFOLDING_DESC: <<|
-	An orbital is under construction at this location.
+	Une coque orbitale est en construction ici.
 >>
 NAME_SCAFFOLDING: $1 (Scaffolding)
 
-ORB_SOLAR_ORBITAL: Solar Engine
-ORB_SOLAR_ORBITAL_BLURB: Generates energy per second relative to the temperature of the system's star.
+ORB_SOLAR_ORBITAL: Moteur Solaire
+ORB_SOLAR_ORBITAL_BLURB: Génère de l'énergie par seconde par rapport à la température de l'étoile du système.
 ORB_SOLAR_ORBITAL_DESC: <<
-	Generates extra energy per second. The higher the temperature of the star of the system it's in, the more energy is generated.
+	Génère énergie supplémentaire par seconde. Plus la température de l'étoile du système est élevé, plus l'énergie est générée est importante.
 
-	Only one may be constructed per system.
+	Un seul peut être construit par système.
 >>
 
-ORB_FRAME: Orbital Frame
-ORB_FRAME_BLURB: An orbital can be built on this frame for a reduced build cost.
+ORB_FRAME: Cadre Orbital
+ORB_FRAME_BLURB: Un orbitale peut être construit sur ce cadre pour un coût de construction réduit.
 ORB_FRAME_DESC: <<
-	A pre-built frame and scaffold that can be refitted to other orbital types.
+	Un cadre pré-construit et échafaudé qui peut être réaménagé pour d'autres types orbitales.
 
-	Orbitals built on top of this frame have 50% reduced build and labor cost, and do not suffer from build distance labor penalties.
+	Orbitales construits au-dessus de ce cadre réduit de 50% l'accumulation et le coût du main d'oeuvre, et ne souffrent pas de pénalités de main d'oeuvre de construction à distance.
 >>
 
-ORB_SINGULARITY_LAB: Laboratoire singularité
+ORB_SINGULARITY_LAB: Laboratoire de singularité
 ORB_SINGULARITY_LAB_BLURB: <<
-	Harnesses the unique properties of being near a singularity in order to generate power and gain scientific knowledge.
+	Exploite les propriétés uniques d'être près d'une singularité dans le but de produire de l'énergie et acquérir des connaissances scientifiques.
 >>
 ORB_SINGULARITY_LAB_DESC: <<
-	Harnesses the unique properties of being near a singularity in order to generate power and gain scientific knowledge.
+	Exploite les propriétés uniques d'être près d'une singularité dans le but de produire de l'énergie et acquérir des connaissances scientifiques.
 
-	Can only be built in systems that have a black hole. Only one may be constructed per system.
+	Ne peut être construit dans les systèmes qui ont un trou noir. Un seul peut être construit par système.
 >>
 
 ORB_FTL_STORAGE: Stockage FTL 
