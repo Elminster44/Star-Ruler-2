@@ -108,4 +108,4 @@ STATUS_SEEDSHIP_DESC: <<|
 >>
 
 ENERGY_COST: Coût d'énergie
-COOLDOWN: Latence
+COOLDOWN: Tps rechargement
