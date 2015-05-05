@@ -1,16 +1,16 @@
 COLONY_SHIP: Vaisseau de colonisation
 SPORE_SHIP: Spore
 CRUISER: Croiseur
-TRANSFER_SUPPORT_SHIPS: Transfer Support Ships
-CREATE_SUPPORT_SHIPS: Create More Support Ships
-SCUTTLE_SUPPORT_SHIPS: Remove/Scuttle Support Ships
-MANAGE_SUPPORTS: Manage Support Ships
-ORDER_SUPPORT_COUNT: Order $1x $2
-ORDER_SUPPORT_CUSTOM: Order custom amount...
-ORDER_SUPPORT_DESIGN: Support Ship Design:
-ORDER_SUPPORT_AMOUNT: Amount:
-ORDER_SUPPORT_COST: Cost:
-ADD_SUPPORTS: Add Support Group
+TRANSFER_SUPPORT_SHIPS: Transfert vaisseau de soutien
+CREATE_SUPPORT_SHIPS: Créer plus de vaisseaux de soutien
+SCUTTLE_SUPPORT_SHIPS: Retirer/Saborder vaisseau de soutien
+MANAGE_SUPPORTS: Gérer vaisseau de soutien
+ORDER_SUPPORT_COUNT: Ordre $1x $2
+ORDER_SUPPORT_CUSTOM: Commandez quantité personnalisée...
+ORDER_SUPPORT_DESIGN: Conception vaisseau de soutien:
+ORDER_SUPPORT_AMOUNT: Quantité:
+ORDER_SUPPORT_COST: Coût:
+ADD_SUPPORTS: Ajouter un groupe de soutien
 SHIP_ORDERS: Orders
 SHIP_FORMATIONS: Formations
 CONSTRUCTOR_CONSTRUCT: Construct $1
