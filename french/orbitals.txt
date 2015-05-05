@@ -75,12 +75,12 @@ ORB_ANCIENT_EMBASSY_DESC: <<|
 	Actions ciblées d'influence dans ce système par tout empire coûtent moins 5
 	influence pour l'activer.
 
-	If this orbital is destroyed, the owner and all empires friendly to the
-	owner gain [b]major[/b] leverage against the empire that destroyed it.
+	Si cet orbital est détruit, le propriétaire et tous les empires amicaux auront
+	un gain de propriétaire [b]majeur[/b] démultiplie contre l'empire qui l'a détruit.
 
 	Protège toutes les planètes en votre possession dans le système si cet orbital est en cours de capture.
 
-	A 500 commandement de soutien, letting it hold support ships.
+	A 500 commandement de soutien, "letting it hold support ships".
 
 	Peut commercer librement avec des noyaux commerciaux.
 >>
