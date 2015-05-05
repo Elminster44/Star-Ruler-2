@@ -68,36 +68,36 @@ ORB_REMNANT_ENERGY_CORE_DESC: <<|
 	Produit 36 énergies par minute.
 >>
 
-ORB_ANCIENT_EMBASSY: Ancient Embassy
-ORB_ANCIENT_EMBASSY_BLURB: A marvel of engineering, respected by all.
+ORB_ANCIENT_EMBASSY: Ambassade antique
+ORB_ANCIENT_EMBASSY_BLURB: Une merveille d'ingénierie, respecté par tous.
 ORB_ANCIENT_EMBASSY_DESC: <<|
-	Increases the loyalty of all owned planets in the system by 5.
-	Influence actions targeted in this system by any empire cost 5 less
-	influence to activate.
+	Augmente la fidélité de toutes vos planètes dans le système par 5.
+	Actions ciblées d'influence dans ce système par tout empire coûtent moins 5
+	influence pour l'activer.
 
 	If this orbital is destroyed, the owner and all empires friendly to the
 	owner gain [b]major[/b] leverage against the empire that destroyed it.
 
-	Protects all owned planets in the system this orbital is in from being captured.
+	Protège toutes les planètes en votre possession dans le système si cet orbital est en cours de capture.
 
-	Has 500 support command, letting it hold support ships.
+	A 500 commandement de soutien, letting it hold support ships.
 
-	Can trade freely with trade cores.
+	Peut commercer librement avec des noyaux commerciaux.
 >>
 
-ORB_SHIPYARD: Shipyard
-ORB_SHIPYARD_BLURB: Can build flagships and support ships. Planets can be ordered to export their labor to this shipyard.
+ORB_SHIPYARD: Chantier naval
+ORB_SHIPYARD_BLURB: Peut construire vaisseau amiral et vaisseau de soutien. Les planètes peuvent être commandés d'exporter leur main d'oeuvre sur ce chantier naval.
 ORB_SHIPYARD_DESC: <<|
-	A massive orbital shipyard capable of constructing fleets in space.
+	Un chantier naval orbital massif capable de construire des flottes dans l'espace.
 
-	Construction of ships on a shipyard has a 20% cheaper build cost.
+	Construire des vaisseaux dans un chantier naval a un coût de construction de 20% moins chers.
 
-	Has 6 innate Labor generation per minute. Planets can export their own
-	labor to shipyards within trade range at a 75% reduced rate.
+	A 6 génération de main-d'œuvre innée par minute. Les planètes peuvent exporter leur propre
+	main d'oeuvre aux chantiers navals à portée de commerce avec un taux réduit de 75%.
 
-	Gains Labor from Metallurgy factory research at a 75% reduced rate.
+	Les gains de main d'oeuvre pour la recherche de l'usine de la métallurgie a un taux réduit de 75%.
 >>
-ORB_ARTILLERY_PLATFORM: Artillery Platform
+ORB_ARTILLERY_PLATFORM: Plate-forme d'artillerie
 ORB_ARTILLERY_PLATFORM_BLURB: Long-range artillery cannon.
 ORB_ARTILLERY_PLATFORM_DESC: <<|
 	An independent orbital artillery cannon, capable of firing at enemies
