@@ -11,15 +11,15 @@ ORDER_SUPPORT_DESIGN: Conception vaisseau de soutien:
 ORDER_SUPPORT_AMOUNT: Quantité:
 ORDER_SUPPORT_COST: Coût:
 ADD_SUPPORTS: Ajouter un groupe de soutien
-SHIP_ORDERS: Orders
+SHIP_ORDERS: Ordres
 SHIP_FORMATIONS: Formations
-CONSTRUCTOR_CONSTRUCT: Construct $1
-CONSTRUCTOR_CONSTRUCT_COST: Construct $1 ($2)
-SUPPLY: Supply
-STRENGTH: Strength
-PIRATE_HOARD: Pirate Hoard
-REBUY_GHOSTS: Rebuy ($1)
-FREIGHTER: Freighter
+CONSTRUCTOR_CONSTRUCT: Construire $1
+CONSTRUCTOR_CONSTRUCT_COST: construire $1 ($2)
+SUPPLY: Fourniture
+STRENGTH: Résistance
+PIRATE_HOARD: Magot pirate
+REBUY_GHOSTS: Réacheter ($1)
+FREIGHTER: Cargo
 TT_REBUY_GHOSTS: <<
 	Replace all remembered dead support ships by buying new ones. The fleet will need to be moved to a system with labor facilities before the ships are actually constructed.
 >>
@@ -37,8 +37,8 @@ TT_AUTO_BUY_SUPPORTS: <<
 >>
 REFRESH_SUPPORTS: Refresh Support Fleet from $1
 ABILITY_TRIGGER: $1
-ABILITY_ENERGY: "$1 Energy"
-ABILITY_COOLDOWN: " [cooldown: $1]"
+ABILITY_ENERGY: "$1 Energie"
+ABILITY_COOLDOWN: " [Tps rechargement: $1]"
 ABILITY_CD: " [cd: $1 remaining]"
 BUILD_RETROFIT: Retrofit Fleet: $1
 RETROFIT_OPTION: Retrofit Fleet ($1, $2 Labor)
