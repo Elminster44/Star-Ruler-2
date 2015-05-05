@@ -9,41 +9,41 @@ OERR_VISION: Ne peut pas construire à l'extérieur de la vision.
 OERR_LIMIT: Seulement un par système permis.
 OERR_BLACKHOLE: Doit être construit près du trou noir.
 
-LAB_RESOURCES: Imported Resources:
-LAB_AVAIL_AFFINITIES: Available Affinities:
+LAB_RESOURCES: Ressources importés:
+LAB_AVAIL_AFFINITIES: Affinités disponibles:
 
-ORB_REQ_AFFINITY: Requires [b]$1[/b] [img=$3;24/] $2 resource(s).
-ORB_REQ_RESOURCE: Requires [img=$2;24/] $1.
+ORB_REQ_AFFINITY: Nécessite [b]$1[/b] [img=$3;24/] $2 ressource(s).
+ORB_REQ_RESOURCE: Nécessite [img=$2;24/] $1.
 
 TT_MANAGE_ORBITAL: <<|
-	[b]Manage Orbital[/b]
+	[b]Gérer Orbital[/b]
 
-	View and modify the modules installed on this orbital.
+	Afficher et modifier les modules installés sur cette orbite.
 >>
 
 TT_PACKUP_ORBITAL: <<|
-	[b]Pack Up Orbital[/b]
+	[b]Embarquer Orbital[/b]
 
-	Pack the orbital back into a ship in order to move it around.
+	Embarquer l'orbitale dans un vaisseau afin de le déplacer.
 >>
 
-DRY_DOCK: Dry Dock
-DRY_DOCK_NAME: Dry Dock: $1
+DRY_DOCK: Cale Sèche
+DRY_DOCK_NAME: Cale Sèche: $1
 
-FLING_BEACONS: Fling Beacons
-ORB_FLING_CORE: Fling Beacon
-ORB_FLING_CORE_BLURB: Lets nearby ships use fling to FTL to anywhere in the galaxy.
+FLING_BEACONS: Balises de vol
+ORB_FLING_CORE: Balises de vol
+ORB_FLING_CORE_BLURB: Permet aux vaisseaux proches d'utiliser le vol FTL partout dans la galaxie.
 ORB_FLING_CORE_DESC: <<|
-	Allows use of fling-based FTL near the beacon.
+	Permet l'utilisation du FTL de base près de la balise.
 
-	Ships within 10,000 distance units of a fling beacon can be FTLed to
-	anywhere in the galaxy.
+	Les vaisseaux à 10 000 unités de distance d'une balise peuvent être FTLé 
+	partout dans la galaxie.
 >>
 
-ORB_GATE_CORE: Gate
-ORB_GATE_CORE_BLURB: Allows instant travel to any other gate.
+ORB_GATE_CORE: Portail
+ORB_GATE_CORE_BLURB: Permet le voyage instantané vers toute autre porte.
 ORB_GATE_CORE_DESC: <<|
-	Allows instant travel to any other gate.
+	Permet le voyage instantané vers toute autre porte.
 
 	Gates cost 0.15 FTL per second to maintain.
 	Gates can be packed back into a constructor.
