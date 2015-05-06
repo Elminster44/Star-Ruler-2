@@ -48,33 +48,33 @@ REV_SPEC: " r$1"
 SUPPORT_CAPACITY: Capacité Soutien
 SLIPSTREAM_TEAR: Slipstream Tear
 ODDITY_GATE: Warp Through
-EFFECTIVENESS: Effectiveness
+EFFECTIVENESS: Efficacité
 SHIP_CARGO: Cargo:
-SHIP_CARGO_WORTH: [right][b][color=#0f0]$1[/color][/b] value[/right]
-CARGO_GOODS: [img=ResourceIconsSmall::32;21;#888/] [color=#aaa]Goods[/color]
-CIVILIAN_MERCHANT: Civilian Trader
-CIVILIAN_FREIGHTER: Civilian Freighter
-CIVILIAN_CARAVAN: Civilian Caravan
-CIVILIAN_STATION: Civilian Trade Station
-CIVILIAN: Civilian
-STATUS_BLOCKADED: Blockaded!
+SHIP_CARGO_WORTH: [right][b][color=#0f0]$1[/color][/b] valeur[/right]
+CARGO_GOODS: [img=ResourceIconsSmall::32;21;#888/] [color=#aaa]Marchandises[/color]
+CIVILIAN_MERCHANT: Commerçant Civil
+CIVILIAN_FREIGHTER: Cargo Civil
+CIVILIAN_CARAVAN: Caravane Civile
+CIVILIAN_STATION: Station Commerciale Civile
+CIVILIAN: Civil
+STATUS_BLOCKADED: Bloqué!
 STATUS_BLOCKADED_DESC: <<|
-	Some of the civilian trade ships carrying this planet's imports were shot down. As a result, the planet produces 1 less of a random empire resource for each stack of "Blockaded!".
+	Certains des vaisseaux commerciaux civils qui transportent les importations de cette planète ont été abattus. En conséquence, la planète produit 1 une ressource d'empire aléatoire en moins pour chaque ensemble "Bloqué!".
 >>
-PICKUP_PROTECTING: Protecting
-PICKUP_UNPROTECTED: Unprotected
-VERB_PICKUP: Pick Up $1
-VERB_ACTIVATE: Activate $1
+PICKUP_PROTECTING: Protection
+PICKUP_UNPROTECTED: Non protégé
+VERB_PICKUP: Reprendre $1
+VERB_ACTIVATE: Activer $1
 STATUS_INTERDICT_FTL: FTL hors service
 STATUS_INTERDICT_FTL_DESC: <<|
-	This flagship's FTL capabilities have been disabled.
+	Les capacités FTL de ce vaisseau amiral ont été mises hors de service.
 >>
-SHIELD_STRENGTH: Shields
+SHIELD_STRENGTH: Boucliers
 
-PICKUP_RESEARCH: Research Data
+PICKUP_RESEARCH: Données de Recherche
 PICKUP_RESEARCH_DESC: Gain research points when picked up.
 
-PICKUP_INFLUENCE: Influential Knowledge
+PICKUP_INFLUENCE: Connaissance Influente
 PICKUP_INFLUENCE_DESC: Gain some influence points when picked up.
 
 PICKUP_DRYDOCK: Ancient Shipyard
