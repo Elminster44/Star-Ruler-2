@@ -1,6 +1,8 @@
 # Star-Ruler-2
-Trad FR
+Traduction FR
 
-V 1.0.1
+Statut : En cours
+
+Version du jeu : 1.0.1
 
 Download ZIP ------------------------------------------------------------------------------------------------------------>
