@@ -153,34 +153,34 @@ TT_SLIPSTREAM: <<|
 
 TT_SHIP_HEALTH: <<
 	[font=Medium]Santé[/font]
-	The remaining total health of the ship being displayed. Ships can die before their health runs out if all their bridge hexes are destroyed.
+	Le solde de la santé totale du vaisseau affiché. Les vaisseaux peuvent mourir avant que leur santé soit nulle  si tous leurs hexagones de ponts sont détruits.
 
-	[b]Current Health[/b] [offset=230]$1[/offset]
-	[b]Maximum Health[/b] [offset=230]$2[/offset]
+	[b]Santé actuelle[/b] [offset=230]$1[/offset]
+	[b]Santé maximum[/b] [offset=230]$2[/offset]
 
-	[b]Repair (In Combat)[/b] [offset=230]$3/sec[/offset]
-	[b]Repair (Outside Combat)[/b] [offset=230]$4/sec[/offset]
+	[b]Réparation (En Combat)[/b] [offset=230]$3/sec[/offset]
+	[b]Réparation (Hors Combat)[/b] [offset=230]$4/sec[/offset]
 >>
 
 TT_SHIP_SHIELD: <<
-	[font=Medium]Shield[/font]
-	Any incoming damage is first blocked by shields. The lower shields are, the more damage is let through instead of being blocked.
+	[font=Medium]Bouclier[/font]
+	Tout dommage entrant est d'abord bloqué par les boucliers. Plus les boucliers sont faible, plus les dégâts passe au lieu d'être bloqué.
 
-	[b]Current Shield[/b] [offset=230]$1[/offset]
-	[b]Maximum Shield[/b] [offset=230]$2[/offset]
+	[b]Bouclier actuel[/b] [offset=230]$1[/offset]
+	[b]Bouclier maximum[/b] [offset=230]$2[/offset]
 
-	[b]Shield Regeneration[/b] [offset=230]$3/sec[/offset]
+	[b]Régénération bouclier[/b] [offset=230]$3/sec[/offset]
 >>
 
 TT_SHIP_SUPPLY: <<
-	[font=Medium]Fleet Supply[/font]
-	The total remaining supplies stored in this fleet. Supplies are used to fire weapons and to capture planets. Fleets are resupplied out of combat. Running low on supplies decreases the fleet's efficiency and DPS.
+	[font=Medium]Approvisionnement flotte[/font]
+	Approvisionnement totale restante stocké dans cette flotte. Les fournitures sont utilisés pour tirer avec les armes et la capture des planètes. Les flottes sont réapprovisionnées hors de combat. Manquer d'approvisionnements diminue l'efficacité et le DPS de la flotte.
 
-	[b]Current Supply[/b] [offset=230]$1[/offset]
-	[b]Supply Storage[/b] [offset=230]$2[/offset]
+	[b]Approvisionnement actuel[/b] [offset=230]$1[/offset]
+	[b]Stockage approvisionnement[/b] [offset=230]$2[/offset]
 
-	[b]Resupply (Neutral Space)[/b] [offset=230]$3/sec[/offset]
-	[b]Resupply (Friendly Space)[/b] [offset=230]$4/sec[/offset]
+	[b]Réapprovisionnement (Espace neutre)[/b] [offset=230]$3/sec[/offset]
+	[b]Réapprovisionnement (Espace ami)[/b] [offset=230]$4/sec[/offset]
 >>
 
 TT_SHIP_STRENGTH: <<
@@ -199,35 +199,35 @@ TT_SHIP_STRENGTH: <<
 TT_SHIP_LEADER: <<
 	[font=Medium]$1[/font]
 
-	Flagship.
+	Vaisseau amiral.
 >>
 
 TT_SHIP_GROUP: <<
 	[font=Medium]$1 ($2)[/font]
 
-	[b]Active[/b] [offset=120]$3x[/offset]
-	[b]Dead[/b] [offset=120]$4x[/offset]
-	[b]Ordered[/b] [offset=120]$5x[/offset]
+	[b]Actif[/b] [offset=120]$3x[/offset]
+	[b]Mort[/b] [offset=120]$4x[/offset]
+	[b]Commandé[/b] [offset=120]$5x[/offset]
 >>
 
 TT_EXPLORE: <<|
-	[b]Auto-Explore[/b]
+	[b]Auto-Exploration[/b]
 	
-	Automatically explores systems.
+	Explore automatiquement les systèmes.
 >>
 
 TT_EXPLORE_FTL: <<|
-	[b]Auto-Explore with FTL[/b]
+	[b]Auto-Exploration avec FTL[/b]
 	
-	Automatically explores systems.
-	Uses up to half the empire's FTL stores to explore quickly.
+	Explore automatiquement les systèmes.
+	Utilise jusqu'à la moitié du stock d'énergie FTL de l'empire afin d'explorer rapidement.
 >>
 
-STATUS_PIRATESHIP: Pirate Ship
+STATUS_PIRATESHIP: Vaisseau pirate
 STATUS_PIRATESHIP_DESC: <<
-	This ship is a pirate ship and will raid civilian traders for their cargo.
+	Ce navire est un vaisseau pirate et pille les commerçants civils pour leur cargaison.
 
-	It will periodically bring its loot to "Pirate Hoard" stations, hidden in deep space.
+	Il ira périodiquement ramener son butin aux stations "Pirate", cachées dans l'espace profond.
 >>
 
 SUPPORT_BEH: Behavior
@@ -248,7 +248,7 @@ BEH_Support_DESC: Hide behind friendly fleet without attempting to engage target
 BEH_Bomber: Bomber
 BEH_Bomber_DESC: Focuses on enemy flagships, will raid if equipped with ammo stores
 
-SUPPORT_RANGE: Engagement Range
+SUPPORT_RANGE: Engagement a portée de tir
 RANGE_Auto: Auto
-RANGE_Far: Far
-RANGE_Close: Close
+RANGE_Far: De loin
+RANGE_Close: De près
