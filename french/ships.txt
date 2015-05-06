@@ -72,38 +72,38 @@ STATUS_INTERDICT_FTL_DESC: <<|
 SHIELD_STRENGTH: Boucliers
 
 PICKUP_RESEARCH: Données de Recherche
-PICKUP_RESEARCH_DESC: Gain research points when picked up.
+PICKUP_RESEARCH_DESC: Gagnez des points de recherche quand ramassé.
 
 PICKUP_INFLUENCE: Connaissance Influente
-PICKUP_INFLUENCE_DESC: Gain some influence points when picked up.
+PICKUP_INFLUENCE_DESC: Gagner quelques points d'influence quand ramassé.
 
-PICKUP_DRYDOCK: Ancient Shipyard
-PICKUP_DRYDOCK_DESC: Gain 120 research points and contains 3 unfinished ancient vessels.
+PICKUP_DRYDOCK: Chantier Ancient
+PICKUP_DRYDOCK_DESC: Gagnez 120 points de recherche et contient 3 vaisseaux anciens inachevés.
 
-PICKUP_ASTEROID: Mining Base
-PICKUP_ASTEROID_DESC: An activatable resource mining base ready to be used.
+PICKUP_ASTEROID: Base d'extraction
+PICKUP_ASTEROID_DESC: Une base d'exploitation minière de ressources activable et prêt à être utilisé.
 
-PICKUP_ENERGY: Energy Cache
-PICKUP_ENERGY_DESC: Gain some stored energy when picked up.
+PICKUP_ENERGY: Cachette d'Énergie
+PICKUP_ENERGY_DESC: Gagnez de l'énergie stockée quand ramassé.
 
-PICKUP_CARD: Luxury Tokens
-PICKUP_CARD_DESC: Gain Negotiate cards when picked up.
+PICKUP_CARD: Jetons de luxe
+PICKUP_CARD_DESC: Gagnez des cartes de négociation quand ramassé.
 
-PICKUP_ANCIENT_KNOWLEDGE: Ancient Knowledge
-PICKUP_ANCIENT_KNOWLEDGE_DESC: Gain an "Ancient Knowledge" card when picked up.
+PICKUP_ANCIENT_KNOWLEDGE: Savoir Ancien
+PICKUP_ANCIENT_KNOWLEDGE_DESC: Gagnez une carte "Savoir Ancien" quand ramassé.
 
-PICKUP_INSIGHT: R&D Storage
-PICKUP_INSIGHT_DESC: Gain a Theoretical Insight when picked up.
+PICKUP_INSIGHT: R&D Stockage
+PICKUP_INSIGHT_DESC: Gagnez une connaissance théorique quand ramassé.
 
-HOLD_POSITION: Hold Position
-HOLD_POSITION_DESC: Do not chase hostile fleets.
-AREA_BOUND: Engage Nearby Enemies
-AREA_BOUND_DESC: Chase after hostile fleets in the direct vicinity.
+HOLD_POSITION: Maintenir cette position
+HOLD_POSITION_DESC: Ne pas chasser flottes ennemies.
+AREA_BOUND: Engager les ennemis proches
+AREA_BOUND_DESC: Chasser flottes ennemies dans le voisinage direct.
 
-BEH_CLOSE_IN: Close in on Enemies
-BEH_CLOSE_IN_DESC: Move to weapons range when attacking enemies.
-BEH_KEEP_DISTANCE: Keep Distance
-BEH_KEEP_DISTANCE_DESC: Move to weapons range and try to keep distance.
+BEH_CLOSE_IN: Refermer sur Enemies
+BEH_CLOSE_IN_DESC: Se déplacer à portée de tir lors de l'attaque des ennemis.
+BEH_KEEP_DISTANCE: Gardez Distance
+BEH_KEEP_DISTANCE_DESC: Déplacez-vous à portée de tir et essayez de garder la distance.
 
 ENG_FLAGSHIP_MIN: Flagship Closest Range
 ENG_FLAGSHIP_MIN_DESC: Move to the shortest flagship weapon's range.
