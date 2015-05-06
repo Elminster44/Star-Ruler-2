@@ -21,31 +21,31 @@ PIRATE_HOARD: Magot pirate
 REBUY_GHOSTS: Réacheter ($1)
 FREIGHTER: Cargo
 TT_REBUY_GHOSTS: <<
-	Replace all remembered dead support ships by buying new ones. The fleet will need to be moved to a system with labor facilities before the ships are actually constructed.
+	Remplacer tous les vaisseaux de soutien morts par l'achat de nouveaux. La flotte devra être déplacé vers un système avec des installations de main d'oeuvre avant que les vaisseaux soit effectivement construits.
 >>
-CLEAR_GHOSTS: Clear Dead
+CLEAR_GHOSTS: Effacer Mort
 TT_CLEAR_GHOSTS: <<
-	Clear all remembered dead support ships from the fleet.
+	Effacer tous les vaisseaux de soutien mort dans la flotte.
 >>
-AUTO_FILL_SUPPORTS: Auto Fill
+AUTO_FILL_SUPPORTS: Remplissage automatique
 TT_AUTO_FILL_SUPPORTS: <<
-	When checked, the fleet will automatically pick up support ships from nearby planets to replenish its strength.
+	Quand coché, la flotte prendra automatiquement des vaisseaux de soutien des planètes proches afin de reconstituer sa force.
 >>
-AUTO_BUY_SUPPORTS: Auto Buy
+AUTO_BUY_SUPPORTS: Achat automatique
 TT_AUTO_BUY_SUPPORTS: <<
-	When checked, the fleet will automatically buy new support ships when in systems with labor facilities, until the fleet is full.
+	Quand coché, la flotte sera automatiquement acheté avec de nouveaux vaisseaux de soutien si vous êtes proche de systèmes avec des équipements de main d'oeuvre, jusqu'à ce que la flotte soit pleine.
 >>
-REFRESH_SUPPORTS: Refresh Support Fleet from $1
+REFRESH_SUPPORTS: Actualiser soutien de la flotte de $1
 ABILITY_TRIGGER: $1
 ABILITY_ENERGY: "$1 Energie"
 ABILITY_COOLDOWN: " [Tps rechargement: $1]"
-ABILITY_CD: " [cd: $1 remaining]"
-BUILD_RETROFIT: Retrofit Fleet: $1
-RETROFIT_OPTION: Retrofit Fleet ($1, $2 Labor)
-CAPTURE_OPTION: Capture Planet ($1 Supply, $2)
-PROTECTED_OPTION: Cannot Capture - Protected by Outpost or Decree
+ABILITY_CD: " [cd: $1 restant]"
+BUILD_RETROFIT: Rénovation de la flotte: $1
+RETROFIT_OPTION: Rénovation de la flotte ($1, $2 Main d'oeuvre)
+CAPTURE_OPTION: Capture Planète ($1 Ravitaillement, $2)
+PROTECTED_OPTION: Vous ne pouvez pas capturer - Protégé par Avant-poste ou décret
 REV_SPEC: " r$1"
-SUPPORT_CAPACITY: Support Capacity
+SUPPORT_CAPACITY: Capacité Soutien
 SLIPSTREAM_TEAR: Slipstream Tear
 ODDITY_GATE: Warp Through
 EFFECTIVENESS: Effectiveness
@@ -65,7 +65,7 @@ PICKUP_PROTECTING: Protecting
 PICKUP_UNPROTECTED: Unprotected
 VERB_PICKUP: Pick Up $1
 VERB_ACTIVATE: Activate $1
-STATUS_INTERDICT_FTL: FTL Disabled
+STATUS_INTERDICT_FTL: FTL hors service
 STATUS_INTERDICT_FTL_DESC: <<|
 	This flagship's FTL capabilities have been disabled.
 >>
