@@ -46,7 +46,7 @@ CAPTURE_OPTION: Capture Planète ($1 Ravitaillement, $2)
 PROTECTED_OPTION: Vous ne pouvez pas capturer - Protégé par Avant-poste ou décret
 REV_SPEC: " r$1"
 SUPPORT_CAPACITY: Capacité Soutien
-SLIPSTREAM_TEAR: Slipstream Tear
+SLIPSTREAM_TEAR: Déchirure de Sillage
 ODDITY_GATE: Warp Through
 EFFECTIVENESS: Efficacité
 SHIP_CARGO: Cargo:
@@ -105,54 +105,54 @@ BEH_CLOSE_IN_DESC: Se déplacer à portée de tir lors de l'attaque des ennemis.
 BEH_KEEP_DISTANCE: Gardez Distance
 BEH_KEEP_DISTANCE_DESC: Déplacez-vous à portée de tir et essayez de garder la distance.
 
-ENG_FLAGSHIP_MIN: Flagship Closest Range
-ENG_FLAGSHIP_MIN_DESC: Move to the shortest flagship weapon's range.
-ENG_FLAGSHIP_MAX: Flagship Furthest Range
-ENG_FLAGSHIP_MAX_DESC: Move to the furthest flagship weapon's range.
-ENG_SUPPORT_MIN: Support Closest Range
-ENG_SUPPORT_MIN_DESC: Move to the closest support weapon's range.
+ENG_FLAGSHIP_MIN: Vaisseau amiral le plus proche
+ENG_FLAGSHIP_MIN_DESC: Se déplacer à portée de tir la plus courte du vaisseau amiral 
+ENG_FLAGSHIP_MAX: Vaisseau amiral le plus éloigné
+ENG_FLAGSHIP_MAX_DESC: Se déplacer à portée de tir la plus éloignée du vaisseau amiral
+ENG_SUPPORT_MIN: Soutenez la portée de tir la plus proche
+ENG_SUPPORT_MIN_DESC: Se déplacer à la portée de tir la plus proche des armes de soutien.
 
-ABL_FULLBURST: Full Burst
-ABL_MISSILE_STORM: Missile Storm
+ABL_FULLBURST: Explosion Complète
+ABL_MISSILE_STORM: Missile Tempête
 ABL_RELOCATE_ALL: Transistential Relocate
 ABL_CHARGE_ALL: Hyperspace Supplypulse
-ABL_MIGRATE_ALL: Accelerated Migration
-ABL_UNPACK_GATE: Deploy Gate
-ABL_UNPACK_GATE_DESC: Deploy this ship as an ftl gate, costs 100 FTL.
-ABL_PACK_ORBITAL: Pack up Orbital
+ABL_MIGRATE_ALL: Migration accélérée
+ABL_UNPACK_GATE: Déployez portail
+ABL_UNPACK_GATE_DESC: Déployer ce vaisseau en tant que portail FTL, coûte 100 FTL.
+ABL_PACK_ORBITAL: Embarquez orbitale
 
 TT_OPEN_CONSTRUCTION: <<|
-	[b]Construction Queue[/b]
+	[b]File d'attente de Construction[/b]
 
-	Open the construction queue and build menu.
+	Ouvrez la file d'attente de construction et le menu de construction.
 >>
 
 TT_MANAGE_SHIP_SUPPORTS: <<|
-	[b]Manage Supports[/b]
+	[b]Gérez vaisseau de soutien[/b]
 
-	Manage the groups of support ships currently assigned to this fleet.
+	Gérer les groupes de vaisseaux de soutien actuellement affectés à cette flotte.
 >>
 
 TT_HYPERDRIVE: <<|
 	[b]Hyperdrive[/b]
 
-	Use the equipped hyperdrive to engage FTL movement.
+	Utilisez l'hyperdrive équipé pour engager le déplacement FTL.
 >>
 
 TT_FLING: <<|
-	[b]Fling[/b]
+	[b]Lancement[/b]
 
-	Use the nearby fling beacon to engage FTL movement.
+	Utilisez la balise de lancement voisine pour engager le mouvement FTL.
 >>
 
 TT_SLIPSTREAM: <<|
-	[b]Generate Slipstream Tear[/b]
+	[b]Générez Déchirure de Sillage[/b]
 
-	Use the ship's slipstream generator to create a new tear to the target destination.
+	Utilisez le générateur de sillage du vaisseau pour créer une nouvelle déchirure vers la destination cible.
 >>
 
 TT_SHIP_HEALTH: <<
-	[font=Medium]Health[/font]
+	[font=Medium]Santé[/font]
 	The remaining total health of the ship being displayed. Ships can die before their health runs out if all their bridge hexes are destroyed.
 
 	[b]Current Health[/b] [offset=230]$1[/offset]
