@@ -1,4 +1,4 @@
-ABL_HOTKEY_SPEC: [color=#aaa](Hotkey: [b][color=#00c0ff]$1[/color][/b])[/color]
+ABL_HOTKEY_SPEC: [color=#aaa](Raccourci: [b][color=#00c0ff]$1[/color][/b])[/color]
 
 ART_COMET: Comète
 ART_COMET_DESC: Une comète géante qui peut être exploitée pour fournir de l'eau à une planète.
@@ -65,7 +65,7 @@ ABL_BUSTER_BEAM: Activer le faisceau destructeur
 ABL_BUSTER_BEAM_DESC: <<
 	Activer le faisceau destructeur sur une planète.
 
-	Le faisceau destructeur tue la population et épuisent la santé d'une planète. Lorsque la santé de la planète atteint 0, la planète explose. Certains astéroïdes peuvent être laissés après la destruction.
+	Le faisceau destructeur tue la population et épuise la santé d'une planète. Lorsque la santé de la planète atteint 0, la planète explose. Certains astéroïdes peuvent être laissés après la destruction.
 >>
 ABL_BUST_PLANET: Détruire planète
 ABL_BUST_PLANET_DESC: <<|
@@ -104,78 +104,78 @@ ABL_GENESIS_DEVICE_DESC: <<|
 
 ART_MIND_CONTROL: Système de contrôle mental
 
-ART_REVENANT_ENGINE: Moteur des Revenant
+ART_REVENANT_ENGINE: Moteur du Revenant
 ART_REVENANT_ENGINE_DESC: <<|
-	The Revenant's engine system.
-	Activate to grant all designs [b]100% increased thrust[/b].
+	Le système de moteur du Revenant
+	Activez pour l'autoriser sur toute les conceptions [b]Poussée augmenté de 100%[/b].
 >>
-ORB_REVENANT_ENGINE: Engine of The Revenant
+ORB_REVENANT_ENGINE: Moteur du Revenant
 ORB_REVENANT_BLURB: <<
-	A part of the mighty Revenant. Grants a bonus while active, having all 4 parts active spawns the Revenant itself. Can be destroyed to disable its effects.
+	Une partie du puissant Revenant. Accorde un bonus actif, si vous avez les 4 parties cela activera le Revenant lui-même". Peut être détruit pour désactiver ses effets.
 >>
-ABL_REVENANT_ENGINE: Activate Engine of The Revenant
+ABL_REVENANT_ENGINE: Activer moteur du Revenant
 ABL_REVENANT_ENGINE_DESC: <<
-	Activate the engine of The Revenant, a dark ship of legend.
+	Activer le moteur du Revenant, un vaisseau sombre de légende.
 
-	While active, the engine provides all your designs with [b]double thrust/acceleration[/b] and designs with hyperdrives with [b]50% increased hyperdrive speed[/b].
+	Lorsqu'il est activé, le moteur fournit à vos créations une [b]une double poussée/accélération[/b] et les conceptions avec l'hyperpropulsion ont [b]50% d'augmentation de la vitesse hyperdrive[/b].
 
-	When the activated engine loses all its HP, it reverts back to its deactivated state.
+	Lorsque le moteur est activé le vaisseau perd tout son HP, il revient à son état normal une fois désactivé.
 	
-	[b]Having all 4 parts of The Revenant activated at the same time will grant you control over the most powerful warship in the universe.[/b]
+	[b]Si vous avez les 4 parties de Revenant activées en même temps vous aurez le contrôle du vaisseau de guerre le plus puissant de l'univers.[/b]
 >>
-NOTIFY_REVENANT_ENGINE: The [color=$2]$1[/color] have activated the [b]Engine of The Revenant[/b].
+NOTIFY_REVENANT_ENGINE: [color=$2]$1[/color] ont activé le [b]Moteur du Revenant[/b].
 
-ART_REVENANT_CANNON: Cannon of The Revenant
+ART_REVENANT_CANNON: Canon du Revenant
 ART_REVENANT_CANNON_DESC: <<|
-	The Revenant's weapons system.
-	Activate to grant all designs [b]75% increased weapons range[/b].
+	Le système d'arme du Revenant
+	Activez pour l'autoriser sur toute les conceptions [b]Portée de tir augmentée de 75%[/b].
 >>
 ORB_REVENANT_CANNON: Cannon of The Revenant
 ABL_REVENANT_CANNON: Activate Cannon of The Revenant
 ABL_REVENANT_CANNON_DESC: <<
-	Activate the cannon of The Revenant, a dark ship of legend.
+	Activate the cannon of The Revenant, un vaisseau sombre de légende.
 
 	While active, the cannon provides all your designs with [b]75% increased weapon range/speed[/b].
 
 	When the activated cannon loses all its HP, it reverts back to its deactivated state.
 	
-	[b]Having all 4 parts of The Revenant activated at the same time will grant you control over the most powerful warship in the universe.[/b]
+	[b]Si vous avez les 4 parties de Revenant activées en même temps vous aurez le contrôle du vaisseau de guerre le plus puissant de l'univers.[/b]
 >>
 NOTIFY_REVENANT_CANNON: The [color=$2]$1[/color] have activated the [b]Cannon of The Revenant[/b].
 
 ART_REVENANT_CHASSIS: Chassis of The Revenant
 ART_REVENANT_CHASSIS_DESC: <<|
 	The Revenant's chassis.
-	Activate to grant all designs [b]50% reduced build costs[/b].
+	Activez pour l'autoriser sur toute les conceptions [b]50% reduced build costs[/b].
 >>
 ORB_REVENANT_CHASSIS: Chassis of The Revenant
 ABL_REVENANT_CHASSIS: Activate Chassis of The Revenant
 ABL_REVENANT_CHASSIS_DESC: <<
-	Activate the chassis of The Revenant, a dark ship of legend.
+	Activate the chassis of The Revenant, un vaisseau sombre de légende.
 
 	While active, the chassis provides all your designs with [b]50% reduced build costs[/b].
 
 	When the activated chassis loses all its HP, it reverts back to its deactivated state.
 	
-	[b]Having all 4 parts of The Revenant activated at the same time will grant you control over the most powerful warship in the universe.[/b]
+	[b]Si vous avez les 4 parties de Revenant activées en même temps vous aurez le contrôle du vaisseau de guerre le plus puissant de l'univers.[/b]
 >>
 NOTIFY_REVENANT_CHASSIS: The [color=$2]$1[/color] have activated the [b]Chassis of The Revenant[/b].
 
 ART_REVENANT_CORE: Core of The Revenant
 ART_REVENANT_CORE_DESC: <<|
 	The Revenant's command modules.
-	Activate to grant all designs [b]25% increased support capacity[/b].
+	Activez pour l'autoriser sur toute les conceptions [b]25% increased support capacity[/b].
 >>
 ORB_REVENANT_CORE: Core of The Revenant
 ABL_REVENANT_CORE: Activate Core of The Revenant
 ABL_REVENANT_CORE_DESC: <<
-	Activate the core of The Revenant, a dark ship of legend.
+	Activate the core of The Revenant, un vaisseau sombre de légende.
 
 	While active, the core provides all your designs with [b]25% increased support capacity[/b].
 
 	When the activated core loses all its HP, it reverts back to its deactivated state.
 	
-	[b]Having all 4 parts of The Revenant activated at the same time will grant you control over the most powerful warship in the universe.[/b]
+	[b]Si vous avez les 4 parties de Revenant activées en même temps vous aurez le contrôle du vaisseau de guerre le plus puissant de l'univers.[/b]
 >>
 NOTIFY_REVENANT_CORE: The [color=$2]$1[/color] have activated the [b]Core of The Revenant[/b].
 
