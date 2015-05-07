@@ -1,6 +1,6 @@
 FTL: FTL
 FTL_COST: $1 FTL
-INSUFFICIENT_FTL: Insufficient FTL
+INSUFFICIENT_FTL: FTL insuffisant 
 NEED_FLING_BEACON: Requires a Fling Beacon
 OUT_OF_BEACON_RANGE: Too far from a Fling Beacon
 PER_SECOND: /s
