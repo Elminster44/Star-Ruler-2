@@ -232,21 +232,21 @@ STATUS_PIRATESHIP_DESC: <<
 
 SUPPORT_BEH: Comportement
 BEH_Brawler: Bagarreur
-BEH_Brawler_DESC: Opportunistically attacks supports, will raid enemy fleets if equipped with ammo stores
-BEH_Shield: Shield
-BEH_Shield_DESC: Protects the flagship and supports from enemy fleets
-BEH_Cavalry: Cavalry
-BEH_Cavalry_DESC: Finds openings to raid valuable enemy supports
-BEH_Artillery: Artillery
-BEH_Artillery_DESC: Hides behind friendly fleet, launches long range volleys at key enemy targets
-BEH_Bombardment: Bombardment
-BEH_Bombardment_DESC: Sieges enemy planets (Not yet implemented)
-BEH_Cannon: Cannon
-BEH_Cannon_DESC: Destroys support ships in the way of valuable enemy targets
-BEH_Support: Fleet Support
-BEH_Support_DESC: Hide behind friendly fleet without attempting to engage targets
-BEH_Bomber: Bomber
-BEH_Bomber_DESC: Focuses on enemy flagships, will raid if equipped with ammo stores
+BEH_Brawler_DESC: Attaque opportuniste des soutiens, va piller les flottes ennemies si équipées avec de magasins de munitions
+BEH_Shield: Bouclier
+BEH_Shield_DESC: Protège le vaisseau amiral et vaisseaux de soutien des flottes ennemies
+BEH_Cavalry: Cavalerie
+BEH_Cavalry_DESC: Cherche des ouvertures et font un raid sur les vaisseaux de soutien de valeur
+BEH_Artillery: Artillerie
+BEH_Artillery_DESC: Se cache derrière la flotte amical, lance des salves à longue portée sur des cibles ennemies clés
+BEH_Bombardment: Bombardement
+BEH_Bombardment_DESC: Sieges des planètes ennemies (non colonisé)
+BEH_Cannon: Canon
+BEH_Cannon_DESC: Détruit vaisseaux de soutien dans l'ordre dse cibles ennemies les plus précieuses
+BEH_Support: Flotte de soutien
+BEH_Support_DESC: Cachez-vous derrière la flotte amicale sans chercher à engager de cibles
+BEH_Bomber: Bombardier
+BEH_Bomber_DESC: Met l'accent sur les vaisseaux amiraux ennemi, feront un RAID si équipé avec des magasins de munitions
 
 SUPPORT_RANGE: Engagement à portée de tir
 RANGE_Auto: Auto
