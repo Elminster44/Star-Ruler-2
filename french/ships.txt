@@ -184,16 +184,16 @@ TT_SHIP_SUPPLY: <<
 >>
 
 TT_SHIP_STRENGTH: <<
-	[font=Medium]Fleet Combat Strength[/font]
-	An estimate indicator of the fleet's overall combat strength. Fleets with more strength are more likely to win. Fleet efficiency increases overall DPS and strength.
+	[font=Medium]Force de Combat de Flotte[/font]
+	Un indicateur d'estimation de l'ensemble des forces de combat de la flotte. Les flottes avec plus de force sont plus susceptibles de gagner. L'efficacité d'une flotte augmente le DPS globale et la force.
 
-	[b]Current Strength[/b] [offset=230]$1[/offset]
-	[b]Original Strength[/b] [offset=230]$2[/offset]
+	[b]Force actuelle[/b] [offset=230]$1[/offset]
+	[b]Force d'origine[/b] [offset=230]$2[/offset]
 
-	[b]Current Fleet Total HP[/b] [offset=230]$3[/offset]
-	[b]Current Fleet Total DPS[/b] [offset=230]$4/sec[/offset]
+	[b]HP Flotte totale actuel[/b] [offset=230]$3[/offset]
+	[b]DPS Flotte totale actuel[/b] [offset=230]$4/sec[/offset]
 
-	[b]Fleet Efficiency[/b] [offset=230]$5[/offset]
+	[b]Efficacité flotte[/b] [offset=230]$5[/offset]
 >>
 
 TT_SHIP_LEADER: <<
@@ -230,8 +230,8 @@ STATUS_PIRATESHIP_DESC: <<
 	Il ira périodiquement ramener son butin aux stations "Pirate", cachées dans l'espace profond.
 >>
 
-SUPPORT_BEH: Behavior
-BEH_Brawler: Brawler
+SUPPORT_BEH: Comportement
+BEH_Brawler: Bagarreur
 BEH_Brawler_DESC: Opportunistically attacks supports, will raid enemy fleets if equipped with ammo stores
 BEH_Shield: Shield
 BEH_Shield_DESC: Protects the flagship and supports from enemy fleets
@@ -248,7 +248,7 @@ BEH_Support_DESC: Hide behind friendly fleet without attempting to engage target
 BEH_Bomber: Bomber
 BEH_Bomber_DESC: Focuses on enemy flagships, will raid if equipped with ammo stores
 
-SUPPORT_RANGE: Engagement a portée de tir
+SUPPORT_RANGE: Engagement à portée de tir
 RANGE_Auto: Auto
 RANGE_Far: De loin
 RANGE_Close: De près
