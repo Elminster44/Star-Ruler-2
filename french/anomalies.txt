@@ -107,74 +107,75 @@ ANOMALY_NAR_MINING_OUTPOST: <<|
 	irréparable suite à des tirs d'armes.
 >>
 ANOMALY_NAR_MINING_OUTPOST_VOLAT: <<|
-	An abandoned mining outpost sits dormant on a large asteroid. Its systems
-	are still broadcasting a request for orders, but its mining equipment has
-	been damaged beyond repair by weapons fire.
+	Un avant-poste minier abandonné inerte sur un grand astéroïde. Ses systèmes
+	émettent toujours une demande d'ordres, mais son équipement minier est
+	irréparable suite à des tirs d'armes.
 
-	Your sensors detect a faint reading of an unknown reactive material below
-	the layer of minerals that were being mined.
+	Vos capteurs détectent une légère lecture d'un matériau réactif inconnue sous
+	la couche de minéraux minées.
 >>
 ANOMALY_MINING_OUTPOST_MINE: <<|
-	Ready the mining equipment for repairs and prepare to resume mining operations.
+	L'équipement minier est prêt pour les réparations et se prépare à reprendre les opérations minières.
 
-	[b][color=#72cbe0][right]Mine [template=resource_ref;Iron/], [template=resource_ref;AsteroidLabor/], or [template=resource_ref;Water/].[/right][/color][/b]
+	[b][color=#72cbe0][right]Mine [template=resource_ref;Iron/], [template=resource_ref;AsteroidLabor/], ou [template=resource_ref;Water/].[/right][/color][/b]
 >>
 ANOMALY_MINING_OUTPOST_CONVERT: <<|
-	Prepare to convert some of the mining equipment to obtain and filter the more valuable materials present.
+	Préparez-vous à convertir une partie de l'équipement minier pour obtenir et filtrer les matériaux les plus précieux présent.
 
-	[b][color=#e072c9][right]Mine [template=resource_ref;RareMetals/] or [template=resource_ref;NativeGold/].[/right][/color][/b]
+	[b][color=#e072c9][right]Mine [template=resource_ref;RareMetals/] ou [template=resource_ref;NativeGold/].[/right][/color][/b]
 >>
 ANOMALY_MINING_OUTPOST_EXPLODE: <<|
-	Detonate the surface layers of the asteroid to get to the reactive material below.
+	Faite exploser les couches superficielles de l'astéroïde pour atteindre la matière réactif en-dessous.
 
-	[b][color=#ff0000][right]Mine for a hidden resource.[/right][/color][/b]
+	[b][color=#ff0000][right]Extraire une ressource cachée.[/right][/color][/b]
 >>
 
 ANOMALY_NAR_RIFT: <<|
-	You encounter a strange station periodically emitting tachyon pulses at
-	a nearby spatial anomaly. The station's power system appears functional,
-	but the emitter's focusing mechanism is damaged.
+	Vous rencontrez une station étrange émettant périodiquement des impulsions de tachyons vers
+	une anomalie spatiale à proximité. Le système d'alimentation de la station apparaît fonctionnelle,
+	mais le mécanisme de focalisation de l'émetteur est endommagé.
 
-	If we repair the emitter, we may be able to widen the spatial anomaly
-	enough to pass through it.
+	Si nous réparons l'émetteur, nous pourrions être en mesure d'élargir suffisament l'anomalie spatiale
+	pour y passer au travers.
 >>
 ANOMALY_RIFT_PULSE: <<|
-	Repair the emitter's focusing mechanism.
+	Réparer le mécanisme de focalisation de l'émetteur.
 
-	[b][color=#96d16a]Open a permanent rift to an unknown point in the galaxy.[/color][/b]
+	[b][color=#96d16a]Ouvrez une fissure permanente vers un point inconnu de la galaxie.[/color][/b]
 >>
 ANOMALY_RIFT_DESTROY: <<|
-	[b][color=#ff0000]Destroy the station and collapse the anomaly.[/color][/b]
+	[b][color=#ff0000]Détruisez la station pour faire s'effondrer l'anomalie.[/color][/b]
 >>
 
 ANOMALY_NAR_PLANT: <<|
-	Within the debris you quickly detect a station of intriguing design.
+	Dans les débris vous détecter rapidement une station à la conception intrigante.
 
-	Controlling dozens of drones, the station systematically severs and
-	collects parts of the debris, using processes unknown to us to refine the
-	material into gel-like chemicals.
+	Contrôlant des dizaines de drones, la station tranche systématiquement et
+	recueille une parties des débris, en utilisant des procédés qui nous sont inconnues pour affiner les
+	matériaux en produits chimiques analogues à un gel.
 
-	At one point during your studies, the station launched a capsule containing
-	some of the chemicals into the system at great velocity. Study of the
-	capsule's trajectory revealed its slingshot course around one of the
-	planets and into interstellar space.
+	
+	À un moment donné au cours de vos études, la station a lancé à grande vitesse une capsule contenant
+	certains des produits chimiques dans le système. Etude de la
+	la trajectoire de la capsule a révélé sa trajectoire autour d'une des
+	planètes et dans l'espace interstellaire.
 >>
 ANOMALY_PLANT_SIPHON: <<|
-	Quickly drill a small hole into the hull around one of the chemical stores
-	and siphon it off for study and potential use.
+	Forer rapidement un petit trou dans la coque autour de l'un des magasins de produits chimiques
+	et le siphonner pour l'étude et l'utilisation potentielle.
 
-	[b][color=#ff0000][right]Unknown results.[/right][/color][/b]
+	[b][color=#ff0000][right]Résultats inconnus.[/right][/color][/b]
 >>
 ANOMALY_PLANT_SIPHON_SUCCESS: <<|
-	Your crew successfully siphons off a sample of one of the chemicals.
-	Initial tests suggest its use as an extremely potent fertilizer, able to
-	greatly increase the food production of one of your planets.
+	Votre équipage siphonne avec succès un échantillon de l'un des produits chimiques.
+	Les premiers tests indiquent son utilisation comme engrais extrêmement puissant, capable d'
+	augmenter considérablement la production alimentaire de l'une de vos planètes.
 
-	[color=#96d16a]You have gained one [b]Cultivation[/b] influence card.[/color]
+	[color=#96d16a]Vous avez gagné une carte d'influence [b]Cultivation[/b].[/color]
 
-	Unfortunately, subsequent attempts to siphon more chemicals were detected
-	and the station activated its self-destruct mechanisms in response to your
-	interference.
+	Malheureusement, les tentatives ultérieures de siphonnage de plus de produits chimiques ont été détectés
+	et la station a activé ses mécanismes d'autodestruction en réponse à votre
+	interférence.
 >>
 ANOMALY_PLANT_SIPHON_FAIL: <<|
 	The chemical you attempted to siphon turned out to be highly explosive and
