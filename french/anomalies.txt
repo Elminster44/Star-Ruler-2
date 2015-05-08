@@ -359,67 +359,67 @@ ANOMALY_LIQUIDTANKS_INFUSE: <<|
 	[b][color=#96d196][right]Augmenter l'efficacité d'une flotte de 20%.[/right][/color][/b]
 >>
 ANOMALY_LIQUIDTANKS_STUDY: <<|
-	This material may be one of a kind. Studying it could advance our understanding of material sciences.
+	Ce matériau est unique en son genre. L'étudier pourrait faire progresser notre compréhension de la science des matériaux.
 >>
-ANOMALY_NAR_BEAUTY: The survey team is unknowingly drawn toward a massive crystal. Nearly an hour passes before any of them thought to report anything of interest. After withdrawing to a safer distance and observing from afar, nothing further can be determined.
-ANOMALY_BEAUTY_DESTROY: The crystal clearly has some power over our species, destroy it before something can go wrong.
-ANOMALY_BEAUTY_VOLUNTEER: A particular scientist, longing to study such a unique artifact, volunteers to experience its effects.
+ANOMALY_NAR_BEAUTY: L'équipe d'enquête est inconsciemment attirée vers un cristal massif. Près d'une heure passe avant que l'un d'entre eux pense à signaler quelque chose d'intéressant. Après le retrait à une distance plus sûre et en observant de loin, rien de plus ne peut être déterminée.
+ANOMALY_BEAUTY_DESTROY: Le cristal a clairement un certain pouvoir sur notre espèce, le détruire avant que quelque chose tourne mal.
+ANOMALY_BEAUTY_VOLUNTEER: Un scientifique particulier, désir étudier un tel artefact unique, bénévole pour faire l'expérience de ses effets.
 ANOMALY_BEAUTY_SUCCESS: <<
-	The volunteer spends several days studying the crystal, progressing from ignorance, through babbling confusion, to an impressive clarity. We will be able to use this brilliance to our advantage.
+	Le bénévole passe plusieurs jours à étudier le cristal, progressant dans l'ignorance, avec une clarté impressionnante. Nous serons en mesure d'utiliser cette brillance à notre avantage.
 
-	[b][color=#4141ff]+$1 Influence Generation[/color]
-	[color=#af0baf]+$2/s Research Income[/color][/b]
+	[b][color=#4141ff]Génération d'influence +$1[/color]
+	[color=#af0baf]Bénéfice de recherche +$2/s[/color][/b]
 >>
 ANOMALY_BEAUTY_FAIL: <<
-	The volunteer becomes utterly obsessed with the crystal, becoming corrupted by its influence.
+	Le bénévolat devient complètement obsédé par le cristal, corrompu par son influence.
 
-	[b][color=#ff2121]A new pirate vessel will attack your space.[/color][/b]
+	[b][color=#ff2121]Un nouveau vaisseau pirate va attaquer votre espace.[/color][/b]
 >>
-ANOMALY_NAR_NEUTRONPLATE: All of the chunks of metal and rock in the area are heavily irradiated. One particular, distorted rock is easily located as the source. Careful study with a remote probe reveals the rock to be a fragment from the detonation of an ancient star. Within its core, a small amount of neutronium is discovered.
+ANOMALY_NAR_NEUTRONPLATE: Tous les morceaux de métal et de roche dans la région sont fortement irradiées. Un en particulier, la roche déformée est facilement localisée comme la source. Une étude attentive avec une sonde à distance révèle qu'une roche est un fragment de détonation d'une ancienne étoile. Dans son noyau, une petite quantité de neutronium est découvert.
 ANOMALY_NEUTRONPLATE_INFUSE: <<
-	The supply of neutronium is plenty to enhance all armor used by our fleets.
+	La fourniture de neutronium va beaucoup améliorer toutes les armures utilisées par nos flottes.
 
-	[b][color=#96d196][right]Increase all armor HP by $1%.[/right][/color][/b]
+	[b][color=#96d196][right]Augmente toutes les armures de $1%.[/right][/color][/b]
 >>
 ANOMALY_NEUTRONPLATE_STUDY: <<
-	This sample can give our scientists invaluable insight in replicating this material artificially.
-	[right][b][color=#80ff80]Unlock[/color] [template=subsys_ref;NeutronArmor/][/b][/right]
+	Cet échantillon peut donner à nos scientifiques de précieuses informations pour reproduire artificiellement ce matériau.
+	[right][b][color=#80ff80]Débloque[/color] [template=subsys_ref;NeutronArmor/][/b][/right]
 >>
 ANOMALY_NAR_HIDDEN_OUTPOSTS: <<
-	You find a small small outpost, covered in a stealth mesh and nearly undetectable to your sensors. Fortunately, the outpost's abandonment protocols were activated, and it has been broadcasting a distress signal ever since.
+	Vous trouvez une petit petit avant-poste, recouvert d'une maille furtive et presque indétectable par vos capteurs. Heureusement, les protocoles d'abandon de l'avant-poste ont été activés, et depuis il diffuse un signal de détresse.
 
-	Downloading some initial data from the outpost's memory bank, you find out it was a control station for a larger group of illegal black research stations, set up by an alien government long replaced.
+	Le téléchargement des données initiales de la banque de mémoire de l'avant-poste, vous découvrez que c'était un poste de contrôle pour un grand groupe de stations noires illégales de recherche, mis en place par un gouvernement étranger.
 
-	Still cloaked and undetectable, holding whatever secrets they were set up to protect, the outpost has data on how to find and detect these research stations.
+	Toujours masqué et indétectable, quelle que soit la tenue secrète qui ont été mis en place pour les protéger, l'avant-poste dispose de données sur la façon de trouver et de détecter ces stations de recherche.
 >>
 ANOMALY_HIDDEN_ACTIVATE: <<
-	Download the outpost's databanks and detect the locations of the cloaked research stations.
+	Télécharger les banques de données de l'avant-poste afin de détecter les emplacements des stations de recherche masqués.
 >>
 ANOMALY_HIDDEN_STUDY: <<
-	Dismantle the outpost's cloaking mesh and learn from it how to hide vessels from detection.
+	Démonter le treillis de camouflage de l'avant-poste afin d'apprendre de lui comment cacher les vaisseaux.
 
-	[right][b][color=#5186e6]Unlock[/color] [template=subsys_ref;CloakPlating/][/b][/right]
+	[right][b][color=#5186e6]Débloque[/color] [template=subsys_ref;CloakPlating/][/b][/right]
 >>
 ANOMALY_NAR_HIDDEN: <<
-	You find a cloaked black research outpost, still holding secrets researched by an alien government long replaced.
+	Vous trouvez un avant-poste de recherche noir masqué, tenant toujours secrets les recherches d'un gouvernement étranger depuis longtemps remplacé.
 >>
 ANOMALY_HIDDEN_1_TAKE: <<
-	Download the research data from the outpost.
+	Télécharger les données de recherche de l'avant-poste.
 
-	[b][color=#96d196][right]Increase all engine thrust by 25%.[/right][/color][/b]
+	[b][color=#96d196][right]Augmenter la poussée des moteurs de 25%.[/right][/color][/b]
 >>
 ANOMALY_HIDDEN_2_TAKE: <<
-	Download the research data from the outpost.
+	Télécharger les données de recherche de l'avant-poste.
 
-	[b][color=#96d196][right]Increase flagship supply storage capacity 25%.[/right][/color][/b]
+	[b][color=#96d196][right]Augmenter la capacité de stockage d'approvisionnement des vaisseaux amiraux de 25%.[/right][/color][/b]
 >>
 ANOMALY_HIDDEN_3_TAKE: <<
-	Download the research data from the outpost.
+	Télécharger les données de recherche de l'avant-poste.
 
-	[b][color=#96d196][right]Increase planet and outpost support capacity by 128.[/right][/color][/b]
+	[b][color=#96d196][right]Augmenter la capacité de soutien des planètes et avant-poste de 128.[/right][/color][/b]
 >>
 ANOMALY_HIDDEN_4_TAKE: <<
 	Télécharger les données de recherche de l'avant-poste.
 
-	[b][color=#96d196][right]Augmenter le travail générés des usines par 3.[/right][/color][/b]
+	[b][color=#96d196][right]Augmenter la main d'oeuvre générés des usines par 3.[/right][/color][/b]
 >>
