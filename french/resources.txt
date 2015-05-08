@@ -1,8 +1,8 @@
 FTL: FTL
 FTL_COST: $1 FTL
 INSUFFICIENT_FTL: FTL insuffisant 
-NEED_FLING_BEACON: Requires a Fling Beacon
-OUT_OF_BEACON_RANGE: Too far from a Fling Beacon
+NEED_FLING_BEACON: Exige une Balise de saut
+OUT_OF_BEACON_RANGE: Trop loin d'une Balise de saut
 PER_SECOND: /s
 PER_MINUTE: /min
 PER_MIN: /m
