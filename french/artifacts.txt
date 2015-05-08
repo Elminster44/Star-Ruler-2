@@ -43,7 +43,7 @@ STATUS_POWER_CELL_DESC: <<|
 >>
 
 ART_NATURE_DEVICE: Arcologie
-ART_ARCOLOGY_DESC: Un habitat orbitale abandonné qui peut être déplacé vers une planète pour augmenter population maximale.
+ART_ARCOLOGY_DESC: Un habitat orbitale abandonné qui peut être déplacé vers une planète pour augmenter la population maximale.
 ABL_DEVELOP_PLANET: Déplacer l'Arcologie
 ABL_DEVELOP_PLANET_DESC: <<|
 	Augmente la population maximale sur la planète ciblée de 10.
@@ -130,77 +130,77 @@ ART_REVENANT_CANNON_DESC: <<|
 	Le système d'arme du Revenant
 	Activez pour l'autoriser sur toute les conceptions [b]Portée de tir augmentée de 75%[/b].
 >>
-ORB_REVENANT_CANNON: Cannon of The Revenant
-ABL_REVENANT_CANNON: Activate Cannon of The Revenant
+ORB_REVENANT_CANNON: Canon du Revenant
+ABL_REVENANT_CANNON: Activer le canon du Revenant
 ABL_REVENANT_CANNON_DESC: <<
-	Activate the cannon of The Revenant, un vaisseau sombre de légende.
+	Activer le canon du Revenant, un vaisseau sombre de légende.
 
-	While active, the cannon provides all your designs with [b]75% increased weapon range/speed[/b].
+	Lorsqu'il est activé, le canon fournit à vos créations une [b]augmentation de la portée de tir/vitesse de 75%[/b].
 
-	When the activated cannon loses all its HP, it reverts back to its deactivated state.
+	Lorsque le canon est activé le vaisseau perd tout son HP, il revient à son état normal une fois désactivé.
 	
 	[b]Si vous avez les 4 parties de Revenant activées en même temps vous aurez le contrôle du vaisseau de guerre le plus puissant de l'univers.[/b]
 >>
-NOTIFY_REVENANT_CANNON: The [color=$2]$1[/color] have activated the [b]Cannon of The Revenant[/b].
+NOTIFY_REVENANT_CANNON: [color=$2]$1[/color] ont activé le [b]Canon du Revenant[/b].
 
-ART_REVENANT_CHASSIS: Chassis of The Revenant
+ART_REVENANT_CHASSIS: Châssis du Revenant
 ART_REVENANT_CHASSIS_DESC: <<|
-	The Revenant's chassis.
-	Activez pour l'autoriser sur toute les conceptions [b]50% reduced build costs[/b].
+	Châssis du Revenant.
+	Activez pour l'autoriser sur toute les conceptions [b]Réduit les coûts de construction de 50%[/b].
 >>
-ORB_REVENANT_CHASSIS: Chassis of The Revenant
-ABL_REVENANT_CHASSIS: Activate Chassis of The Revenant
+ORB_REVENANT_CHASSIS: Châssis du Revenant
+ABL_REVENANT_CHASSIS: Activer Châssis du Revenant
 ABL_REVENANT_CHASSIS_DESC: <<
-	Activate the chassis of The Revenant, un vaisseau sombre de légende.
+	Activer le Châssis du Revenant, un vaisseau sombre de légende.
 
-	While active, the chassis provides all your designs with [b]50% reduced build costs[/b].
+	Lorsqu'il est activé, le châssis fournit à vos créations une [b]réduction des coûts de construction de 50%[/b].
 
-	When the activated chassis loses all its HP, it reverts back to its deactivated state.
+	Lorsque le châssis est activé le vaisseau perd tout son HP, il revient à son état normal une fois désactivé.
 	
 	[b]Si vous avez les 4 parties de Revenant activées en même temps vous aurez le contrôle du vaisseau de guerre le plus puissant de l'univers.[/b]
 >>
-NOTIFY_REVENANT_CHASSIS: The [color=$2]$1[/color] have activated the [b]Chassis of The Revenant[/b].
+NOTIFY_REVENANT_CHASSIS: [color=$2]$1[/color] ont activé le [b]Châssis du Revenant[/b].
 
-ART_REVENANT_CORE: Core of The Revenant
+ART_REVENANT_CORE: Noyau du Revenant
 ART_REVENANT_CORE_DESC: <<|
-	The Revenant's command modules.
-	Activez pour l'autoriser sur toute les conceptions [b]25% increased support capacity[/b].
+	Les modules de commande du Revenant.
+	Activez pour l'autoriser sur toute les conceptions [b]Augmentation de la capacité de soutien de 25%[/b].
 >>
-ORB_REVENANT_CORE: Core of The Revenant
-ABL_REVENANT_CORE: Activate Core of The Revenant
+ORB_REVENANT_CORE: Noyau du Revenant
+ABL_REVENANT_CORE: Activer Noyau du Revenant
 ABL_REVENANT_CORE_DESC: <<
-	Activate the core of The Revenant, un vaisseau sombre de légende.
+	Activer le Noyau du Revenant, un vaisseau sombre de légende.
 
-	While active, the core provides all your designs with [b]25% increased support capacity[/b].
+	Lorsqu'il est activé, le noyau fournit à vos créations une [b]augmentation de la capacité de soutien de 25%[/b].
 
-	When the activated core loses all its HP, it reverts back to its deactivated state.
+	Lorsque le noyau est activé le vaisseau perd tout son HP, il revient à son état normal une fois désactivé.
 	
 	[b]Si vous avez les 4 parties de Revenant activées en même temps vous aurez le contrôle du vaisseau de guerre le plus puissant de l'univers.[/b]
 >>
-NOTIFY_REVENANT_CORE: The [color=$2]$1[/color] have activated the [b]Core of The Revenant[/b].
+NOTIFY_REVENANT_CORE: [color=$2]$1[/color] ont activé le [b]Noyau du Revenant[/b].
 
-ART_PLANET_GENERATOR: Planet Generator
-ART_PLANET_GENERATOR_DESC: An accelerated mass generator that can assemble brand new planets out of pure energy.
-ABL_GENERATE_PLANET: Generate Planet
+ART_PLANET_GENERATOR: Générateur de planète
+ART_PLANET_GENERATOR_DESC: Un générateur de masse accélérée qui peut assembler de nouvelles planètes d'énergie pure.
+ABL_GENERATE_PLANET: Générateur de planète
 ABL_GENERATE_PLANET_DESC: <<
-	Spontaneously create a new randomized planet at the targeted position.
+	Créer spontanément une nouvelle planète aléatoire sur la position ciblée.
 >>
 
-ART_STELLAR_GENERATOR: Stellar Generator
-ART_STELLAR_GENERATOR_DESC: Channels massive amounts of energy into a point in space to create a brand new star.
-ABL_GENERATE_STAR: Generate Star
+ART_STELLAR_GENERATOR: Générateur stellaire
+ART_STELLAR_GENERATOR_DESC: Des chaînes de quantité massive d'énergie dans un point de l'espace pour créer une nouvelle étoile.
+ABL_GENERATE_STAR: Générateur stellaire
 ABL_GENERATE_STAR_DESC: <<
-	Spontaneously create a new star at the targeted position.
+	Créer spontanément une nouvelle étoile sur la position ciblée.
 >>
 
-ART_SKIP_DRIVE: Skip Drive
-ART_SKIP_DRIVE_DESC: An equippable experimental drive system that uses raw energy to FTL very short distances.
-ABL_EQUIP_SKIP_DRIVE: Equip Skip Drive
-ABL_EQUIP_SKIP_DRIVE_DESC: Equip a skip drive to the targeted fleet. Skip drives are instant teleportation, but use up large amounts of energy.
-STATUS_SKIP_DRIVE: Skip Drive
-STATUS_SKIP_DRIVE_DESC: This flagship has a skip drive equipped. Skip drives are instant teleportation, but use up large amounts of energy.
-ABL_BLINK: Teleport
-ABL_BLINK_DESC: Instantly teleport the fleet to a nearby position. Costs more energy the further away the fleet is teleported.
+ART_SKIP_DRIVE: Énergie de Saut
+ART_SKIP_DRIVE_DESC: Un système de saut expérimental équipable qui utilise l'énergie brute du FTL à très courtes distances.
+ABL_EQUIP_SKIP_DRIVE: Equiper Énergie de Saut
+ABL_EQUIP_SKIP_DRIVE_DESC: Équiper Énergie de Saut sur la flotte ciblée. Energie de Saut est une téléportation instantanée, mais utilise de grandes quantités d'énergies.
+STATUS_SKIP_DRIVE: Énergie de Saut
+STATUS_SKIP_DRIVE_DESC: Ce vaisseau amiral est équipé de l'énergie de saut. Energie de Saut est une téléportation instantanée, mais utilise de grandes quantités d'énergies.
+ABL_BLINK: Téléporter
+ABL_BLINK_DESC: Téléporter instantanément la flotte sur une position à proximité. Plus vous téléporter loin plus cela coûte en énergies.
 
 ART_ION_CANNON: Ion Cannon
 ART_ION_CANNON_DESC: An equippable beam cannon that temporarily disables enemy engines and FTL.
