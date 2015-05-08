@@ -167,79 +167,63 @@ INFLUENCE_TT_ACTION: <<|
 	Ceci est une mission diplomatique [b]action[/b]. Après avoir été acheté, il peut être utilisé à volonté,
 	mais il peut exiger un coût d'activation à payer en premier.
 >>
-
 INFLUENCE_TT_INSTANT: <<|
 	Il s'agit d'une [b]action instantanée[/b]. Après avoir été acheté, son effet se déclenche immédiatement.
 >>
-
 INFLUENCE_TT_VOTE: <<|
 	C'est une [b]action de vote[/b]. Lors de l'activation de cette action, un vote du Sénat galactique
 	sera lancé pour déterminer son résultat.
 >>
-
 INFLUENCE_TT_EFFECT: <<|
 	Il s'agit d'une [b]action d'effet[/b]. Activer cette action créera un
 	effet persistant. Les effets peuvent avoir une durée limitée et réduire en général
 	votre génération totale d'influence en pourcentage pendant qu'il est actif.
 >>
-
 INFLUENCE_TT_EVENT: <<|
 	Il s'agit d'un [b]événement d'influence[/b]. Divers effets seront actif
 	cette action est dans l'influence stack.
 >>
-
 INFLUENCE_TT_SUPPORT: <<|
 	C'est une [b]action de soutien[/b]. Cette action ne peut être utilisé qu'a l'intérieur
 	d'un vote du Sénat galactique, et peut influencer le vote d'une façon particulière,
 	en fonction de son poids.
 >>
-
 INFLUENCE_TT_QUALITY: <<|
 	Cette une action supérieure de [b]qualité[/b], et est livré avec divers
 	avantages par rapport à son homologue banal.
 >>
-
 INFLUENCE_TT_BUY_COST: <<|
 	L'achat de cette action coûte [b]$1 influence[/b].
 >>
-
 INFLUENCE_TT_PLAY_COST: <<|
 	Jouer cette action coûte [b]$1 influence[/b].
 >>
-
 INFLUENCE_TT_PLAY_COST_UNKNOWN: <<|
 	Le coût pour jouer cette action dépend de facteurs spécifiques à son utilisation.
 >>
-
 INFLUENCE_TT_WEIGHT: <<|
 	Cette action offre [b]$1 poids[/b] de votes.
 >>
-
 INFLUENCE_TT_WEIGHT_NEXT: <<|
 	Cette action offre [b]$1 poids[/b] à une action de soutien à l'avenir.
 >>
-
 INFLUENCE_TT_WEIGHT_UNKNOWN: <<|
 	Le poids de cette action dépend de facteurs spécifiques à son utilisation.
 >>
-
 INFLUENCE_TT_UPKEEP: <<|
 	L'effet créé par cette action fera baisser votre totale
 	de génération d'influence par $1 alors qu'il est actif, que l'entretien.
 >>
-
 INFLUENCE_DURATION: Duration
 INFLUENCE_TT_DURATION: <<|
 	L'effet créé par cette action va durer $1.
 >>
-
 INFLUENCE_TT_FAIL: <<|
 	Lorsque la minuterie de vote expire et que la bar [color=#f00][b]rouge[/b][/color] est complètement remplit, la proposition est [b]rejetée[/b] et aucun de ses effets appliqués.
 >>
 INFLUENCE_TT_PASS: <<|
 	Lorsque la minuterie de vote expire et que la bar [color=#0f0][b]verte[/b][/color] est complètement remplit, la proposition est [b]passée[/b] et ses effets sont déclenchés.
 >>
-
 INFLUENCE_TT_BOUGHTBY: Acheté par $1.
 
 DECLARE_WAR: Déclarer la guerre
@@ -277,7 +261,6 @@ PROMPT_LEAVE: <<|
 	Vous ne serez plus en mesure de voir toute les communications ou les actions
 	utilisées, mais vous serez toujours touché par les résultats.
 >>
-
 VOTE_WITHDRAW: Retirer la proposition
 PROMPT_WITHDRAW: <<|
 	Êtes-vous sûr de vouloir retirer cette proposition ?
@@ -285,8 +268,6 @@ PROMPT_WITHDRAW: <<|
 	Le vote se terminera par un échec immédiat si vous le faites.
 	Tous les effets seront annulés si la proposition a été rejetée.
 >>
-
-
 CARD_NEGOTIATE: Négocier
 CARD_NEGOTIATIONS_LOG_Y: * $1 [b]négocie[/b] pour ajouter [color=#0f0]$2 soutien[/color].
 CARD_NEGOTIATIONS_LOG_N: * $1 [b]négocie[/b] pour ajouter [color=#f00]$2 opposition[/color].
@@ -298,7 +279,6 @@ CARD_NEGOTIATE_DESC: <<|
 	[i]Ajoute 1 poids de chaque côté des voix. Chaque qualité supplémentaire va augmenter
 	le poids accordé.[/i]
 >>
-
 CARD_SPY: Espion ($1)
 CARD_SPY_DESC: <<|
 	Grâce à une opération de renseignement clandestine, nous pouvons obtenir le code du
@@ -312,7 +292,6 @@ CARD_SPY_EFFECT: Espionnez $1
 CARD_SPY_EFFECT_DESC: <<|
 	$1 est actuellement espionné, donne la vision sur tous leurs systèmes et leurs flottes.
 >>
-
 CARD_OPENFORUM: Forum Ouvert
 CARD_OPENFORUM_DESC: <<|
 	La tenue d'un débat ouvert et sans restriction sur des questions fournit des
@@ -360,36 +339,35 @@ CARD_ANNEX_SYSTEM_DESC: <<|
 >>
 VOTE_ANNEX_SYSTEM: Annexion système $1
 
-CARD_PROFITEERING: Profiteering
-CARD_MONEY_GAIN: Money Gained
+CARD_PROFITEERING: Profiteurs
+CARD_MONEY_GAIN: Argent gagné
 CARD_PROFITEERING_DESC: <<|
-	Back-room deals with certain powerful civilian figures have gained you
-	a significant chunk of spending money.
+	Les accords anonymes avec certaines figures civiles puissantes vous ont fait gagné
+	un moyen significatif de dépenser de l'argent.
 
-	[i]You will receive the money immediately on purchase of this action.[/i]
+	[i]Vous recevrez immédiatement de l'argent suite à l'achat de cette action.[/i]
 >>
-
-CARD_GIFT: Gift
+CARD_GIFT: Don
 CARD_GIFT_DESC: <<|
-	Generously provide some of our political capital in order to solve one of
-	another empire's sticky situations, recording the events to be used as
-	leverage later.
+	Fournir généreusement une partie de notre capital politique en vue de résoudre l'une des
+	situations délicates d'un autre empire, enregistrer les événements pour les utiliser comme
+	effet de levier plus tard.
 
-	[i]Gifts any one influence action to another empire. Grants random leverage
-	on that empire, proportional to the purchase cost of the gifted action.
-	Cannot be used on empires you are currently at war with.[/i]
+	[i]Un don de n'importe quelle action d'influence envers un autre empire. Accorde une force de levier aléatoire 	
+	sur un empire, proportionnel au coût d'achat de l'action.
+	Ne peut pas être utilisé contre les empires où vous êtes actuellement en guerre.[/i]
 >>
-GIFT_NOTIFY: The $1 has gifted you a $5.
+GIFT_NOTIFY: $1 a fait don de $5.
 
 CARD_SABOTAGE: Sabotage
 CARD_SABOTAGE_DESC: <<|
-	Setting in motion a series of meticulously planned events and political
-	maneuvers, we can sabotage one of another empire's ongoing operations.
+	Mise en branle d'une série d'événements méticuleusement planifiés et de manoeuvres
+	politique, nous pouvons saboter l'une des opérations en cours d'un autre empire.
 
-	[i]Permanently dismisses any target influence effect. The owner of the
-	influence effect gains leverage on you.[/i]
+	[i]Rejette définitivement tout effet d'influence de la cible. Le propriétaire de l'
+	influence obtient un effet de levier sur vous.[/i]
 >>
-SABOTAGE_NOTIFY: The $1 have sabotaged the $2's "$5" effect.
+SABOTAGE_NOTIFY: $1 ont saboté $2 "$5" effet.
 
 CARD_INVESTIGATE: Investigate
 CARD_INVESTIGATE_DESC: <<|
@@ -426,7 +404,6 @@ CARD_LEVERAGE_DESC: <<|
 
 	[i]Can only be played if the $1 has voted on the opposite side of the proposition.[/i]
 >>
-
 CARD_BLACKMAIL: Blackmail: $1
 CARD_BLACKMAIL_LOG_Y: * The $1 [b]Blackmails[/b] the $2 to [color=#0f0]support the proposition[/color].
 CARD_BLACKMAIL_LOG_N: * The $1 [b]Blackmails[/b] the $2 to [color=#f00]oppose the proposition[/color].
@@ -438,7 +415,6 @@ CARD_BLACKMAIL_DESC: <<|
 	the target empire is still present in the negotiations, the target empire
 	loses a random proportion of their total influence.
 >>
-
 CARD_SUBDUE: Subdue: $1
 CARD_SUBDUE_LOG: * The $1 [b]Subdues[/b] the $2 to [color=#f0f]remove them from the negotiations[/color].
 CARD_SUBDUE_DESC: <<|
@@ -447,7 +423,6 @@ CARD_SUBDUE_DESC: <<|
 	Can only be played if the empire has attempted to influence the proposition
 	before.
 >>
-
 CARD_FAVORS: Favors
 CARD_FAVORS_DESC: <<|
 	By doing certain favors for powerful diplomatic figures, we have gained
@@ -458,7 +433,6 @@ CARD_FAVORS_DESC: <<|
 	This action does not cost influence to purchase, but takes money from your
 	budget.[/i]
 >>
-
 CARD_BRIBE: Bribe
 CARD_BRIBE_DESC: <<|
 	Offer a juicy bribe to the next empire to support our side of the
@@ -554,7 +528,6 @@ CARD_UPRISING_DESC: <<|
 	of defense ships. Each additional quality increases the amount of defense
 	ships created by 25 Labor.[/i]
 >>
-
 CARD_CULTIVATION: Cultivation
 CARD_CULTIVATION_DESC: <<|
 	A concerted effort from local governance and civilian enterprise has
@@ -563,7 +536,6 @@ CARD_CULTIVATION_DESC: <<|
 
 	[i]Target owned planet gains a native Fruit.[/i]
 >>
-
 CARD_ENHANCE: Enhance
 CARD_ENHANCE_DESC: <<|
 	Renewed efforts to gain a diplomatic advantage have benefited our position,
@@ -572,7 +544,6 @@ CARD_ENHANCE_DESC: <<|
 	[i]Upgrades one use of a card to its maximum quality.
 	Where appropriate, adds one additional extra quality.[/i]
 >>
-
 CARD_RHETORIC: Rhetoric
 CARD_RHETORIC_DESC: <<|
 	Incessantly repeated and emphasized talking points sway public opinion to
@@ -612,7 +583,6 @@ CARD_INTELLIGENCE_DESC: <<|
 	intelligence is being actively generated, your existing intelligence
 	will expire over time.[/i]
 >>
-
 CARD_PROMISES: Promises
 CARD_PROMISES_LOG_Y: * The $1 makes [b][color=#fa00ff]Promises[/color][/b] to add [color=#0f0]$2 support[/color].
 CARD_PROMISES_LOG_N: * The $1 makes [b][color=#fa00ff]Promises[/color][/b] to add [color=#f00]$2 opposition[/color].
@@ -624,7 +594,6 @@ CARD_PROMISES_DESC: <<|
 	[i]Adds weight in support or opposition of a vote. For the next 5 minutes,
 	all support cards you play into votes cost 1 additional influence to play.[/i]
 >>
-
 CARD_ASSURANCES: Assurances
 CARD_ASSURANCES_LOG_Y: * The $1 makes [b][color=#00faff]Assurances[/color][/b] to add [color=#0f0]$2 support[/color].
 CARD_ASSURANCES_LOG_N: * The $1 makes [b][color=#00faff]Assurances[/color][/b] to add [color=#f00]$2 opposition[/color].
@@ -636,7 +605,6 @@ CARD_ASSURANCES_DESC: <<|
 	[i]Adds weight in support or opposition of a vote. For the next 10 minutes,
 	all cards you buy from Influence Peddling cost 1 extra influence to buy.[/i]
 >>
-
 CARD_CLAIM_ARTIFACT: Claim Artifact
 CARD_CLAIM_ARTIFACT_DESC: <<|
 	We are the only empire qualified to use this artifact! If the galactic
@@ -668,7 +636,6 @@ STATUS_SENATE_BUILDING_DESC: <<|
 	The planet is gaining bonus influence generation per level and increases
 	the support level of votes you start by 2.
 >>
-
 CARD_UNITED_RESEARCH: United Research Center
 CARD_UNITED_RESEARCH_DESC: <<|
 	By hosting the senate's united research center on one of our worlds we can
@@ -689,7 +656,6 @@ STATUS_UNITED_RESEARCH_DESC: <<|
 	The planet is gaining bonus research generation per level and increases the
 	rate at which you gain random insights.
 >>
-
 CARD_GALAXY_MALL: Mall of the Galaxy
 CARD_GALAXY_MALL_DESC: <<|
 	Constructing the greatest mall in the galaxy drives the trade of materials
@@ -708,7 +674,6 @@ STATUS_GALAXY_MALL_DESC: <<|
 	
 	Construction projects on this planet have reduced build cost.
 >>
-
 CARD_DENOUNCE: Denounce ($1)
 CARD_DENOUNCE_DESC: <<|
 	No longer will we suffer the injustices of another. We fully denounce our
@@ -757,7 +722,6 @@ CARD_ENERGY_CLASH_DESC: <<|
 	Each time an Energy Clash is played into a vote, each subsequent play costs
 	more Energy and holds more weight.[/i]
 >>
-
 CARD_RUSH: Rush
 CARD_RUSH_DESC: <<|
 	Using our influence to convince the appropriate parties of the necessity of
@@ -777,7 +741,6 @@ STATUS_INFILTRATED: Infiltrated
 STATUS_INFILTRATED_DESC: <<
 	You have an operative infiltrated in this enemy fleet. It grants you vision and causes the fleet to have slightly reduced combat effectiveness.
 >>
-
 CARD_HEDGE: Hedge
 CARD_HEDGE_DESC: <<|
 	Set up fallback measures and positions in order to be able to try a similar proposal to this one in the future, if it fails.
@@ -796,7 +759,6 @@ ZEITGEIST_ENERGY_DESC: <<
 	[img=QuickbarIcons::3;32]If the vote fails, the most opposing empire will receive an instant bonus of [b]Â§800k special funds[/b].[/img]
 	[i]Only one zeitgeist effect can be active at the same time. Passing a new zeitgeist will remove any previously active ones.[/i]
 >>
-
 ZEITGEIST_COOPERATION: Zeitgeist: Cooperation
 ZEITGEIST_COOPERATION_DESC: <<
 	[b]Zeitgeist effet[/b]
@@ -807,7 +769,6 @@ ZEITGEIST_COOPERATION_DESC: <<
 
 	[i]Only one zeitgeist effect can be active at the same time. Passing a new zeitgeist will remove any previously active ones.[/i]
 >>
-
 ZEITGEIST_PROGRESS: Zeitgeist: Progrès
 ZEITGEIST_PROGRESS_DESC: <<
 	[b]Zeitgeist effet[/b]
@@ -844,32 +805,27 @@ ZEITGEIST_ART_DESC: <<
 	[img=QuickbarIcons::3;32]If the vote fails, the most opposing empire will receive an instant bonus of [b]800 research[/b].[/img]
 	[i]Only one zeitgeist effect can be active at the same time. Passing a new zeitgeist will remove any previously active ones.[/i]
 >>
-
 CLAUSE_VISION: Partager Vision
 CLAUSE_VISION_DESC: <<|
 	Tous les empires qui ont signé ce traité vont échanger des renseignements, donnant
 	la vision de leurs flottes et planètes.
 >>
-
 CLAUSE_TRADE: Accord commercial
 CLAUSE_TRADE_DESC: <<|
 	Les empires qui ont signé ce traité permettent les échanges civile dans les voisins
 	les uns des autres, autorisant l'exportation des ressources avec d'autres
 	territoires des signataires.
 >>
-
 CLAUSE_ALLIANCE: Alliance
 CLAUSE_ALLIANCE_DESC: <<|
 	Les empires signataires déclarent travailler ensemble et non se battre entre eux.
 
 	Vous ne pouvez pas déclarer la guerre à d'autres signataires de ce traité.
 >>
-
 CLAUSE_CONST: Permanent
 CLAUSE_CONST_DESC: <<|
 	Ce traité est permanent et ne peut pas être cassé ou modifié de quelque façon.
 >>
-
 CLAUSE_SUBJUGATE: Assujettissement
 CLAUSE_SUBJUGATE_DESC: <<|
 	Les empires assujetti deviennent vassaux de leurs empires parents. Les empires vassaux
@@ -879,7 +835,6 @@ CLAUSE_SUBJUGATE_DESC: <<|
 	An empire, once it has become a Vassal, cannot ever win the game, but can
 	only achieve [b]Lesser Victory[/b] by helping their parent achieve victory.
 >>
-
 CLAUSE_MUTUAL_DEFENSE: Défense mutuelle
 CLAUSE_MUTUAL_DEFENSE_DESC: <<|
 	Les empires qui ont signé ce traité s'engagent à aider et protéger les autres
@@ -887,7 +842,6 @@ CLAUSE_MUTUAL_DEFENSE_DESC: <<|
 	
 	Si un empire signataire va à la guerre, tous les signataires sont automatiquement en guerre aussi.
 >>
-
 CLAUSE_PEACE: Offre de paix
 CLAUSE_PEACE_DESC: <<
 	Si ce traité est accepté, la guerre entre les deux empires cessera immédiatement.
