@@ -215,20 +215,20 @@ ABL_ION_CANNON_DESC: <<
 	Le Canon à Ion coûte plus d'énergie pour se déclencher si le vaisseau ennemi est plus grand que le vaisseau équipé du canon.
 >>
 
-ART_PROTO_PLANET: Protoplanet
-ART_PROTO_PLANET_DESC: A planet still in the process of forming. Expend a large amount of energy to regulate its formation.
-ABL_PROTO_LEVEL0: Form Planet (Tier 0)
-ABL_PROTO_LEVEL0_DESC: Manipulate the planet's formation by expending a large amount of energy. The planet will produce a random tier 0 resource.
-ABL_PROTO_LEVEL1: Form Planet (Tier 1)
-ABL_PROTO_LEVEL1_DESC: Manipulate the planet's formation by expending a large amount of energy. The planet will produce a random tier 1 resource.
-ABL_PROTO_LEVEL2: Form Planet (Tier 2)
-ABL_PROTO_LEVEL2_DESC: Manipulate the planet's formation by expending a large amount of energy. The planet will produce a random tier 2 resource.
+ART_PROTO_PLANET: Protoplanète
+ART_PROTO_PLANET_DESC: Une planète encore en processus de formation. Développer une grande quantité d'énergies pour réguler sa formation.
+ABL_PROTO_LEVEL0: Former planète (Niveau 0)
+ABL_PROTO_LEVEL0_DESC: Manipuler la formation de la planète en dépensant une grande quantité d'énergies. La planète va produire un niveau 0 de ressources aléatoire.
+ABL_PROTO_LEVEL1: Former planète (Niveau  1)
+ABL_PROTO_LEVEL1_DESC: Manipuler la formation de la planète en dépensant une grande quantité d'énergies. La planète va produire un niveau 1 de ressources aléatoire.
+ABL_PROTO_LEVEL2: Former planète (Niveau  2)
+ABL_PROTO_LEVEL2_DESC: Manipuler la formation de la planète en dépensant une grande quantité d'énergies. La planète va produire un niveau 2 de ressources aléatoire.
 
-ART_FRAME_CONSTRUCTOR: Orbital Frame Constructor
+ART_FRAME_CONSTRUCTOR: Constructeur de Cadre Orbitale
 ART_FRAME_CONSTRUCTOR_DESC: <<
 	Create a frame that an orbital can be constructed on top of for reduced build and labor costs.
 >>
-ABL_ORBITAL_FRAME: Construct Orbital Frame
+ABL_ORBITAL_FRAME: Constructeur de Cadre Orbitale
 ABL_ORBITAL_FRAME_DESC: <<
 	Create an orbital frame at the specified location.
 
