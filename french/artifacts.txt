@@ -224,60 +224,60 @@ ABL_PROTO_LEVEL1_DESC: Manipuler la formation de la planète en dépensant une g
 ABL_PROTO_LEVEL2: Former planète (Niveau  2)
 ABL_PROTO_LEVEL2_DESC: Manipuler la formation de la planète en dépensant une grande quantité d'énergies. La planète va produire un niveau 2 de ressources aléatoire.
 
-ART_FRAME_CONSTRUCTOR: Constructeur de Cadre Orbitale
+ART_FRAME_CONSTRUCTOR: Constructeur de Cadre Orbital
 ART_FRAME_CONSTRUCTOR_DESC: <<
-	Create a frame that an orbital can be constructed on top of for reduced build and labor costs.
+	Créer un cadre où un orbital peut être construit au-dessus pour que les frais de construction et de main-d'œuvre soit réduits.
 >>
-ABL_ORBITAL_FRAME: Constructeur de Cadre Orbitale
+ABL_ORBITAL_FRAME: Constructeur de Cadre Orbital
 ABL_ORBITAL_FRAME_DESC: <<
-	Create an orbital frame at the specified location.
+	Créer un cadre orbital à l'emplacement spécifié.
 
-	You can construct any other orbital on top of an orbital frame to replace it. Orbitals constructed on top of frames have 50% reduced build and labor costs, and do not suffer from build distance labor penalties.
+	Vous pouvez construire tout autre orbitale au-dessus d'un cadre orbitale pour le remplacer. Un orbitale construit au-dessus des cadres bénéficie d'une réduction de 50% des coûts de construction et de main-d'œuvre, et ne souffre pas de pénalités de travail à distance pour la construction.
 >>
 
-ART_SUPPORT_STATION: Support Station
+ART_SUPPORT_STATION: Station de soutien
 ART_SUPPORT_STATION_DESC: <<
-	An activatable support station that can empower and resupply a nearby fleet during combat.
+	Une station de soutien activable qui peut renforcer et réapprovisionner une flotte à proximité durant le combat.
 >>
-ABL_SPAWN_SUPPORT_STATION: Support Station
+ABL_SPAWN_SUPPORT_STATION: Station de soutien
 ABL_SPAWN_SUPPORT_STATION_DESC: <<
-	Activate the support station in a particular position.
+	Activez la station de soutien dans une position particulière.
 
-	Support stations automatically target one nearby allied fleet with a support beam, providing repair, increased efficiency and significant resupply even in combat.
+	Station de soutien cible automatiquement une flotte alliée à proximité avec un rayon de soutien, fournit réparation, augmentation l'efficacité et le réapprovisionnement de manière significatif même au combat.
 
-	Support stations take 60 seconds to construct after being activated.
+	Station de soutien prennent 60 secondes pour être construite après avoir été activé.
 >>
-ABL_SUPPORT_BEAM: Target Support Beam
+ABL_SUPPORT_BEAM: Rayon de Soutien Cible
 ABL_SUPPORT_BEAM_DESC: <<
-	Target the station's support beam on a particular fleet.
+	Cibler le rayon de soutien de la station sur une flotte particulière.
 
-	Support beams repair the flagship of the fleet they're targeting by 1% of its hp per second, resupply the flagship by 1% of its total supply capacity per second, even in combat, and improve the fleet's strength by 20% while active.
+	Le rayon de soutien répare le vaisseau amiral de la flotte ciblé de 1% de son HP par seconde, réapprovisionne le vaisseau amiral de 1% de sa capacité totale d'approvisionnement par seconde, même au combat, et améliore la force de la flotte de 20%, pendant qu'il est actif.
 >>
-STATUS_CONSTRUCTING: Constructing...
-STATUS_SUPPORTED: Supported
+STATUS_CONSTRUCTING: Construire...
+STATUS_SUPPORTED: Soutenu
 STATUS_SUPPORTED_DESC: <<
-	This fleet is being empowered by a support beam.
+	Cette flotte est soutenu par un rayon de soutien.
 
-	Support beams repair the flagship of the fleet they're targeting by 1% of its hp per second, resupply the flagship by 1% of its total supply capacity per second, even in combat, and improve the fleet's strength by 20% while active.
+	Le rayon de soutien répare le vaisseau amiral de la flotte ciblé de 1% de son HP par seconde, réapprovisionne le vaisseau amiral de 1% de sa capacité totale d'approvisionnement par seconde, même au combat, et améliore la force de la flotte de 20%, pendant qu'il est actif.
 >>
-ORB_SUPPORT_STATION: Support Station
-ORB_SUPPORT_STATION_BLURB: Supports nearby fleets and stations with a repair and resupply beam.
+ORB_SUPPORT_STATION: Station de soutien
+ORB_SUPPORT_STATION_BLURB: Soutien les flottes et les stations à proximités avec un rayon de réparation et de réapprovisionnement.
 
-ART_FLOATING_CONTINENT: Floating Continent
+ART_FLOATING_CONTINENT: Continent flottant
 ART_FLOATING_CONTINENT_DESC: <<
-	Adds a large new continent to a planet's surface that can be moved between planets.
+	Ajoute un nouveau grand continent à la surface d'une planète qui peut être déplacé entre les planètes.
 >>
-ABL_ADD_FLOATING_CONTINENT: Claim Floating Continent
+ABL_ADD_FLOATING_CONTINENT: Revendication Continent flottant
 ABL_ADD_FLOATING_CONTINENT_DESC: <<
-	Claim the floating continent and attach it to one of your planets to build on.
+	Revendiquer un continent flottant et l'attacher à l'une de vos planètes en construction.
 
-	For a cost of energy dependent on distance, the floating continent and all buildings on it can be moved to another one of your planets.
+	Le coût en l'énergies dépend de la distance, le continent flottant et tous les bâtiments qui s'y trouvent peuvent être déplacés vers une autre de vos planètes.
 >>
-ABL_TRANSFER_FLOATING_CONTINENT: Move Floating Continent
+ABL_TRANSFER_FLOATING_CONTINENT: Déplacez Continent flottant
 ABL_TRANSFER_FLOATING_CONTINENT_DESC: <<
-	Move the floating continent and all buildings on it from this planet to another one of your planets.
+	Déplacez le continent flottant et tous les bâtiments qui s'y trouvent à partir de cette planète vers une autre de vos planètes.
 
-	The energy cost to move the floating continent is dependent on the distance between the two planets.
+	Le coût en énergies pour déplacer le continent flottant dépend de la distance entre les deux planètes.
 
-	This ability cannot be activated while the planet the floating continent is currently on is under siege.
+	Cette capacité ne peut être activé si la planète où se situe le continent flottant est actuellement en état de siège.
 >>
