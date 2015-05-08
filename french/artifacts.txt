@@ -202,17 +202,17 @@ STATUS_SKIP_DRIVE_DESC: Ce vaisseau amiral est équipé de l'énergie de saut. E
 ABL_BLINK: Téléporter
 ABL_BLINK_DESC: Téléporter instantanément la flotte sur une position à proximité. Plus vous téléporter loin plus cela coûte en énergies.
 
-ART_ION_CANNON: Ion Cannon
-ART_ION_CANNON_DESC: An equippable beam cannon that temporarily disables enemy engines and FTL.
-ABL_EQUIP_ION_CANNON: Equip Ion Cannon
-ABL_EQUIP_ION_CANNON_DESC: Equip an ion cannon to the targeted fleet. Firing an ion cannon temporarily prevents the targeted ship from moving or using FTL.
-STATUS_ION_CANNON: Ion Cannon
-STATUS_ION_CANNON_DESC: This flagship has an ion cannon equipped. Firing an ion cannon temporarily prevents the targeted ship from moving or using FTL.
-ABL_ION_CANNON: Fire Ion Cannon
+ART_ION_CANNON: Canon à Ion
+ART_ION_CANNON_DESC: Un canon à faisceau équipable qui désactive temporairement les moteurs et FTL ennemies.
+ABL_EQUIP_ION_CANNON: Equiper canon à ion
+ABL_EQUIP_ION_CANNON_DESC: Equiper un canon à ion sur la flotte ciblée. Utiliser un canon à ion empêche temporairement le vaisseau ciblé de se déplacer ou d'utiliser le FTL.
+STATUS_ION_CANNON: Canon à Ion
+STATUS_ION_CANNON_DESC: Ce vaisseau amiral est équipé du Canon à Ion. Utiliser un canon à ion empêche temporairement le vaisseau ciblé de se déplacer ou d'utiliser le FTL.
+ABL_ION_CANNON: Tirer avec le canon à ion
 ABL_ION_CANNON_DESC: <<
-	Fire the equipped ion cannon on a target enemy flagship. It will be unable to move or use FTL for a duration after being hit.
+	Tirer avec le canon à ion équipé sur un vaisseau amiral ennemie ciblé. Il sera incapable de bouger ou d'utiliser son FTL pour un temps après avoir été touché.
 	
-	Ion cannons cost more energy to fire if the enemy ship is larger than the ship with the ion cannon.
+	Le Canon à Ion coûte plus d'énergie pour se déclencher si le vaisseau ennemi est plus grand que le vaisseau équipé du canon.
 >>
 
 ART_PROTO_PLANET: Protoplanet
