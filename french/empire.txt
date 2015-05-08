@@ -77,30 +77,30 @@ TRAIT_INEFFICIENT_DESC: <<|
 
 TRAIT_EMPIRE: Gouvernement: Empire
 TRAIT_EMPIRE_DESC: <<
-	[vspace=6/][b][color=#0f0]Bonus:[/color][/b] [offset=140][color=#a06911]Extra nearby Asteroids[/color][/offset].
-	[vspace=6/][b][color=#f00]Starting Fleet:[/color][/b] [offset=140]Heavy Carrier with support.[/offset]
-	[vspace=6/][b][color=#0087c7]Starting Cards:[/color][/b] [offset=140]5x Negotiate, 1x Name Flagship, 1x Name Planet.[/offset]
+	[vspace=6/][b][color=#0f0]Bonus:[/color][/b] [offset=140][color=#a06911]Astéroïdes proches supplémentaires[/color][/offset].
+	[vspace=6/][b][color=#f00]Départ Flotte:[/color][/b] [offset=140]Transporteur lourd avec son soutien.[/offset]
+	[vspace=6/][b][color=#0087c7]Départ Carte:[/color][/b] [offset=140]5x Négocier, 1x Nom Vaisseau Amiral, 1x Nom Planète.[/offset]
 >>
 
 TRAIT_COMMUNISM: Gouvernement: Communisme
 TRAIT_COMMUNISM_DESC: <<
-	[vspace=6/][b][color=#0f0]Bonus:[/color][/b] [offset=140][color=#42b4bd]500 Energy[/color][/offset].
-	[vspace=6/][b][color=#f00]Starting Fleet:[/color][/b] [offset=140]2x Dreadnaught.[/offset]
-	[vspace=6/][b][color=#0087c7]Starting Cards:[/color][/b] [offset=140]1x Negotiate, 1x Investigate, 1x Cultivation, 1x United Research Center, 1x Sabotage.[/offset]
+	[vspace=6/][b][color=#0f0]Bonus:[/color][/b] [offset=140][color=#42b4bd]500 Energies/color][/offset].
+	[vspace=6/][b][color=#f00]Départ Flotte:[/color][/b] [offset=140]2x Cuirassé d'escadre.[/offset]
+	[vspace=6/][b][color=#0087c7]Départ Carte:[/color][/b] [offset=140]1x Négocier, 1x Enquêter, 1x Cultivation, 1x Center de recherche unifié, 1x Sabotage.[/offset]
 >>
 
 TRAIT_THEOCRACY: Gouvernement: Théocratie
 TRAIT_THEOCRACY_DESC: <<
 	[vspace=6/][b][color=#0f0]Bonus:[/color][/b] [offset=140][color=#00c0ff]250 FTL[/color][/offset].
-	[vspace=6/][b][color=#f00]Starting Fleet:[/color][/b] [offset=140]2x Scout, 1x Dreadnaught, Homeworld Defense.[/offset]
-	[vspace=6/][b][color=#0087c7]Starting Cards:[/color][/b] [offset=140]2x Call Out, 1x Ancient Knowledge, 2x Protect System, 1x Host Galactic Senate.[/offset]
+	[vspace=6/][b][color=#f00]Départ Flotte:[/color][/b] [offset=140]2x Eclaireur, 1x Cuirassé d'escadre, Défense planétaire.[/offset]
+	[vspace=6/][b][color=#0087c7]Départ Carte:[/color][/b] [offset=140]2x Faire Appel À, 1x Savoir Ancien, 2x Protection du système, 1x Hôte Sénat Galactique.[/offset]
 >>
 
 TRAIT_CAPITALISM: Gouvernement: Capitalisme
 TRAIT_CAPITALISM_DESC: <<
-	[vspace=6/][b][color=#0f0]Bonus:[/color][/b] [offset=140][color=#d1cb6a]§400k Special Funds[/color][/offset].
-	[vspace=6/][b][color=#f00]Starting Fleet:[/color][/b] [offset=140]Heavy Carrier.[/offset]
-	[vspace=6/][b][color=#0087c7]Starting Cards:[/color][/b] [offset=140]1-4x Leverage, 2x Attach Rider, 2x Gift.[/offset]
+	[vspace=6/][b][color=#0f0]Bonus:[/color][/b] [offset=140][color=#d1cb6a]§400k Fonds spéciaux[/color][/offset].
+	[vspace=6/][b][color=#f00]Départ Flotte:[/color][/b] [offset=140]Transporteur lourd.[/offset]
+	[vspace=6/][b][color=#0087c7]Départ Carte:[/color][/b] [offset=140]1-4x influence, 2x Attach Rider, 2x Don.[/offset]
 >>
 
 TRAIT_MERITOCRACY: Gouvernement: Méritocratie
