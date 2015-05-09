@@ -357,7 +357,7 @@ COND_BARREN_DESC: <<|
 	A barren rock devoid of atmosphere or resources.
 >>
 
-COND_MOON: Moon
+COND_MOON: Lune
 COND_MOON_DESC: <<
 	This planet has a moon large enough to construct a moon base on.
 	
