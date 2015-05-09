@@ -106,184 +106,184 @@ TILE_BIOME_UNGROWN: $1 (Non cultivé)
 BUILD_TIME: Temps de construction
 CANCEL_CONSTRUCTION: Annuler cette construction
 
-EXPBLOCK_USE: [color=#f33][b]Cannot Use Resource:[/b][/color]\n$1
-EXPBLOCK_EXPORT: [color=#f33][b]Cannot Export Resource:[/b][/color]\n$1
-EXPBLOCK_IMPORT: [color=#f33][b]Cannot Import Resource:[/b][/color]\n$1
-EXPBLOCK_DISABLED: Planet is blocked from exporting.
-EXPBLOCK_DEEPSPACE: Can only trade from within systems.
-EXPBLOCK_UNOWNED: Can only trade within the same empire.
-EXPBLOCK_UNMINED: Asteroid must be mined.
-EXPBLOCK_UNCOLONIZED: Planet must be colonized.
-EXPBLOCK_LOWLEVEL: Planet must be at least level $1.
-EXPBLOCK_POP: Planet needs $1 Billion population to export resource.
-EXPBLOCK_DISCONNECTED: May only trade through connected systems.
-EXPBLOCK_UNUSABLE: Special circumstances prevent export.
+EXPBLOCK_USE: [color=#f33][b]Impossible d'utiliser ressources:[/b][/color]\n$1
+EXPBLOCK_EXPORT: [color=#f33][b]Impossible d'exporter ressources:[/b][/color]\n$1
+EXPBLOCK_IMPORT: [color=#f33][b]Impossible d'importer ressources:[/b][/color]\n$1
+EXPBLOCK_DISABLED: La planète est bloqué pour l'exportation.
+EXPBLOCK_DEEPSPACE: Peut seulement commercer au sein de systèmes.
+EXPBLOCK_UNOWNED: Peut seulement commercer au sein du même empire.
+EXPBLOCK_UNMINED: Asteroid doit être exploité.
+EXPBLOCK_UNCOLONIZED: Planète doit être colonisée.
+EXPBLOCK_LOWLEVEL: Planète doit être au moins de niveau $1.
+EXPBLOCK_POP: La planète a besoin de $1 Milliard de population pour exporter les ressources.
+EXPBLOCK_DISCONNECTED: Peut seulement commercer avec des systèmes connectés.
+EXPBLOCK_UNUSABLE: Des circonstances particulières empêche l'exportation.
 
-HINT_USE_PLANETS_TITLE: Idle Planets
+HINT_USE_PLANETS_TITLE: Planète au repos
 HINT_USE_PLANETS: <<|
-	Level 0 planets cost money to maintain.
+	Les planètes de niveau 0 coûtent de l'argent à entretenir.
 	
-	Export resources from your low level planets to build up higher level ones,
-	or abandon unused planets to free up your budget.
+	Exporter les ressources de vos planètes de bas niveau pour construire ceux de niveau supérieur,
+	ou abandonner les planètes inutilisés pour libérer votre budget.
 >>
 
-HINT_COLONIZE_TITLE: Slow Colonization
+HINT_COLONIZE_TITLE: Colonisation lente
 HINT_COLONIZE: <<|
-	Colonization requires populations and costs money. When in debt, the rate of colonization
-	can be greatly slowed.
+	La colonisation nécessite de la population et coûte de l'argent. Lorsque qu'il y a de la dette, le taux
+	de colonisation peut être considérablement ralenti.
 	
-	Focus on colonizing a small number of planets at first and grow those planets to support further
-	colonization. You may also cancel colonization orders to speed up the remaining orders.
+	Concentrez vous sur la colonisation d'un petit nombre de planètes en premier et améliorez ces planètes pour soutenir davantage
+	de colonisation. Vous pouvez également annuler des commandes de colonisation pour accélérer les commandes restantes.
 >>
 
 TT_MANAGE_PLANET: <<|
-	[b]Manage Planet[/b]
+	[b]Gérer planète[/b]
 
-	View detailed information about the planet's surface, resources and construction.
+	Voir des informations détaillées sur la surface de la planète, des ressources et de la construction.
 >>
 
 TT_MANAGE_PLANET_SUPPORTS: <<|
-	[b]Manage Supports[/b]
+	[b]Gérer soutien[/b]
 
-	Manage the groups of support ships currently assigned to the planet.
+	Gérer les groupes de vaisseaux de soutien actuellement affectés à la planète.
 >>
 
-COLONIZE: Colonize
+COLONIZE: Coloniser
 TT_COLONIZE: <<|
-	[b]Colonize[/b]
+	[b]Coloniser[/b]
 
-	Send 1B population from the planet to another unoccupied planet to colonize it.
+	Envoyer 1M. de population de la planète vers une autre planète inoccupée pour la coloniser.
 >>
 TT_COLONIZE_THIS: <<|
-	[b]Colonize This[/b]
+	[b]Coloniser celle-là[/b]
 
-	Send 1B population from one of your planets to this planet to colonize it.
+	Envoyer 1M. de la population de l'une de vos planètes vers cette planète à coloniser.
 >>
 
-DEFENSE_TARGET: Build Defense
+DEFENSE_TARGET: Construire Défense
 TT_DEFENSE_TARGET: <<|
-	[b]Build Defense for...[/b]
+	[b]Construire Défense pour...[/b]
 
-	Instead of building defense ships around the planet itself, build defense ships
-	for use in another target system you control.
+	Au lieu de construire des vaisseaux de défense autour de la planète elle-même, construisez des vaisseaux de défense
+	pour une utilisation dans un autre système cible que vous contrôlez.
 >>
 
 PLANET_POPULATION_TIP: <<|
 	[b]Population[/b]
 	
-	How many billion people live on the planet. The more population a planet has, the higher its base income and pressure capacity.
+	Combien de milliards de personnes vivent sur la planète. Plus une planète a de la population, plus son revenu de base et sa capacité de pression sont élevé.
 >>
 
 PLANET_INCOME_TIP: <<
-	[b]Income[/b]
+	[b]Revenu[/b]
 
-	The amount of money this planet makes or loses every budget cycle.
+	Le montant d'argent que cette planète génère ou perd à chaque cycle budgétaire.
 
-	[b]Imported Pressure:[/b] [offset=220]$1[/offset]
-	[b]Active Pressure:[/b] [offset=220]$2[/offset]
+	[b]Pression importée:[/b] [offset=220]$1[/offset]
+	[b]Pression active:[/b] [offset=220]$2[/offset]
 >>
 
 PLANET_INFLUENCE_TIP: <<
-	[b]Influence Stake[/b]
+	[b]Intérêt d'Influence[/b]
 	
-	Each influence stake on a planet increases your percentage of the galactic influence generation.
+	Chaque intérêt d'influence sur une planète augmente votre pourcentage de la production d'influence galactique.
 
-	Influence is used to affect other empires diplomatically.
+	L'influence est utilisé pour affecter d'autres empires diplomatiquement.
 
-	[b]Imported Pressure:[/b] [offset=220]$1[/offset]
-	[b]Active Pressure:[/b] [offset=220]$2[/offset]
+	[b]Pression importée:[/b] [offset=220]$1[/offset]
+	[b]Pression active:[/b] [offset=220]$2[/offset]
 >>
 
 PLANET_ENERGY_TIP: <<
-	[b]Energy[/b]
+	[b]Energie[/b]
 	
-	Energy is used to activate artifacts found around the galaxy.
+	L'énergie est utilisée pour activer des artefacts trouvés autour de la galaxie.
 
-	[b]Imported Pressure:[/b] [offset=220]$1[/offset]
-	[b]Active Pressure:[/b] [offset=220]$2[/offset]
+	[b]Pression importée:[/b] [offset=220]$1[/offset]
+	[b]Pression active:[/b] [offset=220]$2[/offset]
 >>
 
 PLANET_DEFENSE_TIP: <<
-	[b]Defense[/b]
+	[b]Défense[/b]
 	
-	Periodically builds free defense support ships around the planet, or planets in
-	whichever other system this planet is set to produce defense for.
+	Construit gratuitement et périodiquement des vaisseaux de soutien autour des planètes, ou 
+	sur d'autres planètes où la défense est activée.
 
-	[b]Imported Pressure:[/b] [offset=220]$1[/offset]
-	[b]Active Pressure:[/b] [offset=220]$2[/offset]
+	[b]Pression importée:[/b] [offset=220]$1[/offset]
+	[b]Pression active:[/b] [offset=220]$2[/offset]
 >>
 
 PLANET_LOYALTY_TIP: <<|
-	[b]Loyalty[/b]
+	[b]Fidélité[/b]
 
-	Loyalty indicates how dedicated your subjects on this planet are.
+	La fidélisation indique comment vos sujets vous sont dédié sur cette planète.
 
-	Sieging a planet will gradually reduce its loyalty until it hits 0, after
-	which it will be captured by the sieging empire.
+	Assiègez une planète va progressivement réduire sa fidélité jusqu'à ce qu'elle arrive à 0, après
+	elle sera capturé par l'empire qui fait le siège.
 
-	The more loyal a planet, the more influence it takes to annex.
+	Plus une planète est fidèle, plus il faut d'influence pour l'annexer.
 >>
 
 PLANET_PRESSURE_TIP: <<
-	[b]Pressure Capacity[/b]
+	[b]Capacité de pression[/b]
 
-	Many types of planetary resources provide [b]Pressure[/b] to the planet they are on.
+	De nombreux types de ressources planétaires fournissent de la [b]Pression[/b] aux planètes où elles se trouvent.
 
-	[b]Pressure[/b] causes the civilians on a planet to put down buildings that generate certain types of resources for you.
+	La [b]Pression[/b] incite les civils sur une planète à construir les bâtiments qui génèrent certains types de ressources pour vous.
 
-	The amount of civilian structures a planet can support is limited by its [b]Pressure Capacity[/b]. If the pressure capacity is exceeded, lower efficiency civilian buildings will be constructed, leading to a loss of resource generation.
+	La quantité de structures civiles qu'une planète peut supporter est limitée par sa [b]Capacité de pression[/b]. Si la capacité de pression est dépassée, l'efficacité des civils à contruire des bâtiments sera réduite, conduisant à une perte de production de ressources.
 
-	The higher a planet's [b]Population[/b], the higher its [b]Pressure Capacity[/b].
+	Plus une planète a de [b]Population[/b], plus elle a de [b]Capacité de pression[/b].
 
-	[b]Total Imported Pressure:[/b] [offset=220]$1[/offset]
-	[b]Total Active Pressure:[/b] [offset=220]$2[/offset]
-	[b]Pressure Capacity:[/b] [offset=220]$3[/offset]
+	[b]Pression totale importée:[/b] [offset=220]$1[/offset]
+	[b]Pression totale active:[/b] [offset=220]$2[/offset]
+	[b]Capacité de pression:[/b] [offset=220]$3[/offset]
 >>
 
 PLANET_LABOR_TIP: <<
-	[b]Labor[/b]
+	[b]Main d'oeuvre[/b]
 	
-	Labor affects the rate of construction at the planet.
+	La main d'oeuvre affecte le taux de construction de la planète.
 
-	[b]Imported Pressure:[/b] [offset=220]$1[/offset]
-	[b]Active Pressure:[/b] [offset=220]$2[/offset]
+	[b]Pression importée:[/b] [offset=220]$1[/offset]
+	[b]Pression active:[/b] [offset=220]$2[/offset]
 >>
 
 PLANET_RESEARCH_TIP: <<
-	[b]Research[/b]
+	[b]Recherche[/b]
 	
-	Generates research points to spend in the research grid to unlock new technologies.
+	Génère des points de recherche à dépenser dans la grille de recherche pour débloquer de nouvelles technologies.
 
-	[b]Imported Pressure:[/b] [offset=220]$1[/offset]
-	[b]Active Pressure:[/b] [offset=220]$2[/offset]
+	[b]Pression importée:[/b] [offset=220]$1[/offset]
+	[b]Pression active:[/b] [offset=220]$2[/offset]
 >>
 
 PLANET_REQUIREMENTS_TIP: <<|
-	[b]Level Requirements[/b]
+	[b]Exigences de niveau[/b]
 	
-	Importing these types of resources to this planet will cause it
-	to level up.
+	L'importation de ces types de ressources sur cette planète la fera
+	monter de niveau.
 >>
 
-STATUS_HAPPY: Happy
+STATUS_HAPPY: Heureux
 STATUS_HAPPY_DESC: <<|
-	All empire resources already being produced on this planet gain 1 extra production.
+	Toutes les ressources de l'empire déjà produites sur cette planète gagnent 1 production supplémentaire.
 >>
 
 STATUS_VIRILE: Virile
 STATUS_VIRILE_DESC: <<|
-	Population is growing at twice the normal rate.
+	La population croît à deux fois le taux normal.
 >>
 
-COND_NATIVE_FISH: Native Fish
+COND_NATIVE_FISH: Poissons indigènes
 COND_NATIVE_FISH_DESC: <<
-	Delicious, but extremely perishable aquatic lifeforms. Unexportable.
+	Delicieux, mais une forme de vie aquatique extrêmement périssable. Inexportable.
 >>
-NATIVE_FISH: Native Fish
+NATIVE_FISH: Poissons indigènes
 NATIVE_FISH_DESC: <<
-	Increases lifetime of consumed temporary resources by 30%.
+	Augmente la durée de vie des ressources temporaires consommés par 30%.
 
-	[color=#ff7070][b]Cannot be exported.[/b][/color]
+	[color=#ff7070][b]Ne peut pas être exportés.[/b][/color]
 >>
 
 COND_EXTRA_MONEY: Precious Metal Deposits
