@@ -23,59 +23,59 @@ EVT_REACTOR_FAILURE: <<
 >>
 STATUS_EVT_REACTOR: Vestige de réacteur
 STATUS_EVT_REACTOR_DESC: <<
-	A remnant reactor was succesfully activated on this planet, giving it [b]+2 energy production[/b] as well as [b]+10 energy pressure[/b].
+	Un vestige de réacteur a été activé avec succès sur cette planète, ce qui donne [b]+2 en production d'énergie[/b] ainsi que [b]+10 en pression d'énergie[/b].
 >>
 
-EVT_CLIQUE: A Mechanical Town
+EVT_CLIQUE: Ville mécanique
 EVT_CLIQUE_TEXT: <<
-	The seismic detectors on [target=Location/] located a strange phenomenon at a nondescript point on the surface. Examining the site, the team sent finds a tiny hyperspace exit. A single [target=race;Other/] managed to make it through before the exit collapses.
+	Les détecteurs sismiques sur [target=Location/] ont situé un phénomène étrange sur un point quelconque de la surface. Après examen du site, l'équipe envoyée trouve une sortie d'hyperespace minuscule. Un seul [target=race;Other/] réussi à traverser avant l'effondrements de la sortie.
 
-	The lone mechanoid citizen of the [target=Other/] asks for an audience:
+	Le citoyen mechanoid solitaire de [target=Other/] demande une audience:
 
-	[offset=20][color=#aaa]Efforts of the [targer=Other/] to discover purpose deemed insufficient.
-	Purpose: Build more units to establish new [target=race;Other/] clique.
-	FTL device damaged in long jump.
-	Request for aid and shelter. Exchange for our labor.[/color][/offset]
+	[offset=20][color=#aaa]Les efforts de [targer=Other/] à découvrir la fin est jugée insuffisante.
+	But: Construire plus d'unités pour établir de nouvelles chapelles [target=race;Other/].
+	FTL appareil endommagé au saut a longue distance.
+	Demande d'aide et d'hébergement. Échange de notre main d'oeuvre.[/color][/offset]
 >>
 EVT_CLIQUE_ALLOW: <<
-	Allow the [target=race;Other/] to establish a new community on [target=Location/], making sure to make clear your position on the maximum amount of extra mechanoid units you will allow it to build.
+	Permettez au [target=race;Other/] d'établir une nouvelle communauté sur [target=Location/], en veillant à faire comprendre votre position sur le nombre maximal d'unités de Mechanoid supplémentaires que vous permettez de construire.
 >>
 EVT_CLIQUE_SUCCESS: <<
-	The small community has flourished and integrated nicely into your regular industry on the planet. The mechanoids seem peaceful enough, using any left over processing time to analyze stellar telemetry in an effort to discover something about their race.
+	La petite communauté a prospéré et c'est intégré parfaitement dans votre secteur d'activité régulière sur la planète. Les mécanoïdes semblent assez paisible, utilisant tout le temps de traitement pour analyser la télémétrie stellaire dans un effort pour découvrir quelque chose sur leur race.
 
-	The planet now has [b]+5 Labor per minute[/b], and [b]Imperial Building construction speed +100%[/b].
+	La planète a maintenant [b]+5 main d'oeuvre par minute[/b], et [b]Vitesse de construction de bâtiment impérial +100%[/b].
 >>
 EVT_CLIQUE_FAILURE: <<
-	The lone unit unit quickly starts constructing more and more units, mining the planet's metal deposits and multiplying exponentially, far beyond the small limit you set for its community.
+	L'unité solitaire commence à construire rapidement de plus en plus d'unités, l'exploitation minière des gisements de métaux de la planète se multipliant de façon exponentielle, bien au-delà de la petite limite définie pour sa communauté.
 
-	[offset=20][color=#aaa]More mechanoid are needed. Processing power must be raised to discover purpose.[/color][/offset]
+	[offset=20][color=#aaa]Plus de mechanoid sont nécessaires. La puissance de traitement doit être augmentée pour découvrir le but.[/color][/offset]
 
-	All attempts to convince them to stop have failed, and with no other options remaining your troops engage them in a bloody ground war. Many civilians are killed, but eventually all the mechanoid invaders are successfully destroyed.
+	Toutes les tentatives de les convaincre d'arrêter ont échoué, et pas d'autres options restante vos troupes se livrent entre eux dans une guerre terrestre sanglante. Beaucoup de civils sont tués, mais finalement tous les envahisseurs Mechanoid sont détruites avec succès.
 >>
 EVT_CLIQUE_STUDY: <<
-	Kill and dissect the [target=race;Other/], studying its parts and trying to divine how its miniaturization technology works.
+	Tuer et disséquer le [target=race;Other/], étudier ses parties et essayer de deviner comment sa technologie de miniaturisation fonctionne.
 >>
 EVT_CLIQUE_STUDY_R: <<
-	You kill and dissect the stray unit, but most of its internal parts are too damaged to operate correctly. You glean some small amount of research from the ones that aren't.
+	Vous tuez et disséquer l'unité perdue, mais la plupart de ses pièces internes sont trop endommagés pour fonctionner correctement. Vous glaner une petite quantité de recherche.
 >>
 EVT_CLIQUE_STUDY_F: <<
-	You kill and dissect the stray unit, finding an FTL Energy storage device many times smaller and denser than your own. You study the principles that allow it to contain so much FTL without leaking any into the surroundings, and in the process expand your own capacity.
+	Vous tuez et disséquer l'unité perdue, vous trouver un dispositif de stockage d'énergie FTL beaucoup plus petit et plus dense que le vôtre. Vous étudiez les principes qui lui permettent de contenir tant d'FTL sans fuite quelconque dans l'environnement, et dans le processus vous élargissez votre propre capacité.
 
-	Gained [b]+200 FTL Storage[/b].
+	Gagner [b]+200 Stockage FTL[/b].
 >>
 EVT_CLIQUE_RETURN: <<
-	Contain the unit and forcibly ship it back to its origin empire, the [target=Other/], explaining that it was malfunctioning and you are happy to return it to its intended place.
+	Contenir l'unité et de force l'expédier vers son empire d'origine, [target=Other/], vous explique qu'il était défectueux et qu'il est heureux de revenir vers son endroit prévu.
 >>
 EVT_CLIQUE_RETURN_R: <<
-	You return the malfunctioning unit to its original empire, who send a brief message in response.
+	Vous retournez l'appareil défectueux à son empire originale, qui envoi un bref message en réponse.
 
-	[offset=20][color=#aaa]Gratitude. Unit will be repaired and returned to place.[/color][/offset]
+	[offset=20][color=#aaa]Reconnaissance. L'unité sera réparé et renvoyé à sa place.[/color][/offset]
 
-	Gained [b]+5 Influence[/b].
+	Gagner [b]+5 Influence[/b].
 >>
-STATUS_EVT_CLIQUE: Mechanoid Clique
+STATUS_EVT_CLIQUE: Chapelle Mechanoid
 STATUS_EVT_CLIQUE_DESC: <<
-	A small community of mechanoid population from another empire lives here.
+	Une petite communauté de la population mechanoid d'un autre empire vit ici.
 
-	The planet has [b]+5 Labor per minute[/b], and [b]Imperial Building construction speed +100%[/b].
+	La planète a [b]+5 Main d'oeuvre par minute[/b], et [b]Vitesse de construction de bâtiment impérial +100%[/b].
 >>
