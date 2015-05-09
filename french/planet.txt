@@ -16,9 +16,9 @@ CANCEL_AUTO_COLONIZE: Stop Colonisation automatique
 COLONIZE_CONTINUE: Continuer colonisation
 COLONIZE_CANCEL: Stop colonisation $1
 COLONIZE_UNSAFE_PROMPT: <<|
-	Ordering a colonization with this planet right now can drop its total population below what is required to sustain its current planet level.
+	L'ordre d'une colonisation avec cette planète peut de suite faire baisser sa population totale qui est exigé pour maintenir son niveau de planète actuel.
 	
-	Are you sure you wish to colonize despite potentially deleveling?
+	Êtes-vous sûr de vouloir coloniser malgré la baisse potentielle de niveau ?
 >>
 ONLY_PLANETS: May only target planets.
 LEVEL: Level
