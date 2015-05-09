@@ -463,133 +463,133 @@ ASTEROID_FTL_DESC: <<|
 >>
 
 ASTEROID_GROWTH: Matériaux économiques
-ASTEROID_GROWTH_EFFECT: Growth
+ASTEROID_GROWTH_EFFECT: Croissance
 ASTEROID_GROWTH_DESC: <<|
-	Increases building (civilian and imperial) construction speed by 100%.
+	Augmente la vitesse de construction des bâtiments (civil et impériale) de 100%.
 
-	Increases planet maximum population by 2.
+	Augmente population planète maximale de 2.
 >>
 
-ASTEROID_INFLUENCE: Psionic Pellets
+ASTEROID_INFLUENCE: Pilules psioniques
 ASTEROID_INFLUENCE_EFFECT: Extra Influence
 ASTEROID_INFLUENCE_DESC: <<|
-	Generates influence proportional to the amount of
-	research being conducted on the consuming planet.
+	Génère une influence proportionnelle à la quantité de
+	recherche en cours sur la planète.
 >>
 
-ASTEROID_LABOR: Construction Materials
-ASTEROID_LABOR_EFFECT: Civilian Labor
+ASTEROID_LABOR: Matériaux De Construction
+ASTEROID_LABOR_EFFECT: Main d'oeuvre civile
 ASTEROID_LABOR_DESC: <<
-	Adds 10 flat labor generation to the consuming planet while active.
+	Ajoute 10 génération du main d'oeuvre pour la planète.
 
-	Only ticks down while the planet has active constructions.
+	Seulement actif tant que la planète a des constructions actives.
 >>
 
-ASTEROID_DEFENSE: Volatile Materials
+ASTEROID_DEFENSE: Matériaux volatils
 ASTEROID_DEFENSE_DESC: <<
-	Grants an arsenal of short-range weaponry wherever it is consumed.
+	Accorde un arsenal d'armes à courte portée là où ils sont utilisé.
 
-	Can only be exported once, then locks its destination and can no longer be changed.
+	Peut seulement être exporté une fois, puis verrouille sa destination et ne peut plus être modifiée.
 
-	Only ticks down while used in combat.
+	Seulement actif pendant le combat.
 >>
 
-ASTEROID_AFFINITY: Morphic Materials
+ASTEROID_AFFINITY: Matériaux transformable
 ASTEROID_AFFINITY_DESC: <<
-	Adds 2 pressure of the consuming planet's native resource.
+	Ajoute 2 pression de ressources natif sur la planète.
 >>
 
-SOYLENT1: Soylent Teal
+SOYLENT1: Solvant Bleu
 SOYLENT1_DESC: <<
-	This might be food.
+	Cela pourrait être la nourriture.
 >>
 
-SOYLENT2: Soylent Magenta
+SOYLENT2: Solvant Magenta
 SOYLENT2_DESC: <<
-	People eat it, so I guess it is.
+	Les gens mangent, donc je suppose qu'il est.
 >>
 
-SOYLENT3: Soylent Infrared
+SOYLENT3: Solvant Infrarouge
 SOYLENT3_DESC: <<
-	It's nice and warm.
+	Il fait beau et chaud.
 >>
 
-SOYLENT4: Soylent Green
+SOYLENT4: Solvant Vert
 SOYLENT4_DESC: <<
-	Definitely not people.
+	Certainement pas les gens.
 >>
 
-HEAVY_WATER: Heavy Water
+HEAVY_WATER: Eau Lourde
 HEAVY_WATER_DESC: <<|
-	Created from bonding 2 Water.
+	Créé à partir d'une liaison de 2 eau.
 
-	Adds $1 random pressure over time.
-	The type of the pressure changes every 3 minutes.
+	Ajoute $1 pression aléatoire au fil du temps.
+	Le type de la pression change toutes les 3 minutes.
 >>
 
-BOOST_WATER: Reactive Water
+BOOST_WATER: Eau Réactive
 BOOST_WATER_DESC: <<|
-	Created from bonding 4 Water.
+	Créé à partir d'une liaison de 4 eau.
 
-	[b]Boosts the native resource with:[/b]
-	[nl/][offset=30]+$1 Extra pressure given.[/offset]
+	[b]Stimule la ressource native avec:[/b]
+	[nl/][offset=30]+$1 Pression supplémentaire donnée.[/offset]
 >>
 
-CLEAR_WATER: Clear Water
+CLEAR_WATER: Eau Claire
 CLEAR_WATER_DESC: <<|
-	Created from bonding 8 Water.
+	Créé à partir d'une liaison de 8 eau.
 
-	Converts all civilian Influence, Defense, Research and Energy production
-	into money generation.
+	Convertit tout Influence civile, Défense, production de la recherche et de l'énergie
+	en génération d'argent.
 >>
 
 AWESOME_WATER: Phoenix Water
 AWESOME_WATER_DESC: <<|
-	Created from bonding 16 Water.
+	Créé à partir d'une liaison de 16 eau.
 
-	All civilian production +$1.
+	Toute la production civile +$1.
 >>
 
-SYNTHETICS: Synthetics
+SYNTHETICS: Synthétiques
 SYNTHETICS_DESC: <<|
-	Grants one wildcard affinity. Cannot be exported.
+	Accorde une affinité joker. Ne peut pas être exportés.
 >>
 
 MICROCLINE: MICROCLINE
 MICROCLINE_DESC: <<|
-	A completely useless resource that seems to occur in vast, vast quantities.
+	Une ressource complètement inutile qui semble se produire en grande, grandes quantités.
 
-	Somehow everything it touches turns into more microcline. Peculiar.
+	D'une certaine manière tout ce qu'il touche se transforme en plus de microcline. Particulier.
 >>
 
-SLAVE_LABOR: Slave Labor
+SLAVE_LABOR: Travail des esclaves
 SLAVE_LABOR_DESC: <<
-	Adds 5 flat labor generation.
+	Ajoute 5 génération de main d'oeuvre.
 
-	Only ticks down while used in construction.
+	Seulement actif si utilisé dans la construction.
 >>
 
-PLAINS: Vast Plains
+PLAINS: De vastes plaines
 PLAINS_BLURB: <<
-	Planet has a massive surface. Tile development rate increased per level.
+	La planète a une surface massive. Le taux de développement des cases augmente par niveau.
 >>
 
 QUARTZ: Quartz
 QUARTZ_BLURB: <<
-	Gain [levels=$1;#ffb4b6]10/25/50/80/120/200[/levels] bonus stored labor per artifact activated.
+	Gain [levels=$1;#ffb4b6]10/25/50/80/120/200[/niveau] bonus de main d'oeuvre accumulé par artefact activé.
 >>
 QUARTZ_DESC: <<
-	Every time you activate an artifact, this planet gains [levels=$1;#ffb4b6]10/25/50/80/120/200[/levels] stored labor, provided it has enough labor storage to hold it.
+	Chaque fois que vous activez un artefact, cette planète gagne [levels=$1;#ffb4b6]10/25/50/80/120/200[/niveau] de main-d'œuvre stockée, pourvu qu'il y est assez de stockage.
 
-	This planet has [levels=$1;#ffb4b6]10/110/210/310/410/510[/levels] bonus labor storage.
+	Cette planète a [levels=$1;#ffb4b6]10/110/210/310/410/510[/niveeau] de stockage de main d'oeuvre en bonus.
 
-	[i][color=#aaa]This resource is a scalable resource and cannot be exported or used to level up. Its bonuses depend on the level of the planet.[/color][/i]
+	[i][color=#aaa]Cette ressource est une ressource évolutive et ne peut pas être exporté ou utilisé pour monter de niveau. Les bonus dépendent du niveau de la planète.[/color][/i]
 >>
 
 ALLONDIUM: Allondium
 ALLONDIUM_BLURB: <<
-	Increases civilian influence generation.
-	Various improvements to diplomacy.
+	Augmente la génération d'influence civile.
+	Améliorations diverses de la diplomatie.
 >>
 ALLONDIUM_DESC: <<
 	Influence generation on this planet is increased by [levels=$1;#ffb4b6]10%/20%/30%/40%/50%/60%[/levels].
