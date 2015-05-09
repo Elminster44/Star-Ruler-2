@@ -20,91 +20,91 @@ COLONIZE_UNSAFE_PROMPT: <<|
 	
 	Êtes-vous sûr de vouloir coloniser malgré la baisse potentielle de niveau ?
 >>
-ONLY_PLANETS: May only target planets.
-LEVEL: Level
-MANAGE: Manage
-EXPORT_RESOURCE: Export $1 to $2
-EXPORT_RESOURCES: Export resources to $1
-QUEUE_EXPORT_RESOURCE: Queue export of $1 to $2
-STOP_EXPORT_RESOURCE: Stop exporting $1 to $2
-EXPORT_RESOURCE_PROMPT: Export $1
-EXPORT_RESOURCES_PROMPT: Export Resources
-STOP_EXPORT_RES_QUEUE: Cancel queued export of $1 to $2
-IMPORT_RESOURCE: Import $1 from $2
-QUEUE_IMPORT_RESOURCE: Queue import of $1 from $2
-STOP_IMPORT_RESOURCE: Stop importing $1 from $2
-STOP_IMPORT_RES_QUEUE: Cancel queued import of $1 from $2
-RESOURCE_POP_REQUIRED: Requires at least [b]$1 Billion[/b] population to produce.
-RESOURCE_LEVEL_REQUIRED: Requires level $1 planet to produce.
-RESOURCE_TIER_DESC: [b]Tier $1[/b] [img=$2;18/] resource: requires level $1 planet to produce.
-RESOURCE_EXPORTED_TO: Exporting to $1...
-RESOURCE_IMPORTED_FROM: Importing from $1...
-ONLY_WITH_RESOURCES: May only target planets or asteroids.
-INCOME: Income
-REQ_FOR_LEVEL: Required for level $1:
+ONLY_PLANETS: Peut cibler uniquement planètes.
+LEVEL: Niveau
+MANAGE: Gérer
+EXPORT_RESOURCE: Exportation de $1 vers $2
+EXPORT_RESOURCES: Exportation ressources vers $1
+QUEUE_EXPORT_RESOURCE: File d'attente d'exportation de $1 vers $2
+STOP_EXPORT_RESOURCE: Stop exportation de $1 vers $2
+EXPORT_RESOURCE_PROMPT: Exportation $1
+EXPORT_RESOURCES_PROMPT: Exportation ressources
+STOP_EXPORT_RES_QUEUE: Annuler file d'attente d'exportation de $1 vers $2
+IMPORT_RESOURCE: Importation de $1 depuis $2
+QUEUE_IMPORT_RESOURCE: File d'attente d'importation de $1 depuis $2
+STOP_IMPORT_RESOURCE: Stop importation de $1 depuis $2
+STOP_IMPORT_RES_QUEUE: Annuler file d'attente d'importation de $1 depuis $2
+RESOURCE_POP_REQUIRED: Nécessite au moins [b]$1 Milliard[/b] de population pour produire.
+RESOURCE_LEVEL_REQUIRED: Niveau de planète requis $1 pour produire.
+RESOURCE_TIER_DESC: [b]Rang $1[/b] [img=$2;18/] ressource: niveau de planète requis $1 pour produire.
+RESOURCE_EXPORTED_TO: Exportation de $1...
+RESOURCE_IMPORTED_FROM: Importation depuis $1...
+ONLY_WITH_RESOURCES: Peut cibler uniquement planètes ou astéroïdes.
+INCOME: Revenu
+REQ_FOR_LEVEL: Exigée pour le niveau $1:
 POP_REQ: [img=ResourceIcon::8;20/] [color=#ff9000][b]$1[/b]+ population[/color]
-REQ_STOP_DECAY: Missing Resources! Decays back to level $1 in $2 unless needs are met:
-REQ_TYPE: [font=Subtitle]Any [b]$1[/b] [img=$2;26/] Resource[/font]
-REQ_TYPE_UNIQUE: Any unique type of $1:
-REQ_LEVEL: [font=Subtitle]Any [b]Tier $1[/b] [img=$2;26/] Resource[/font]
-REQ_LEVEL_UNIQUE: Any unique type of Level $1 resource:
-WAIT_CONSTRUCT: Will not start construction until resolved.
-CONSTRUCTION_REQUIRES_LEVEL: Requires level $1 planet to construct.
-ABANDON: Abandon Planet
+REQ_STOP_DECAY: Ressources manquantes ! Déterioration retour au niveau $1 à $2 sauf si les besoins sont satisfaits:
+REQ_TYPE: [font=Subtitle]Toute [b]$1[/b] [img=$2;26/] Ressource[/font]
+REQ_TYPE_UNIQUE: Tout type unique de $1:
+REQ_LEVEL: [font=Subtitle]Toute [b]Rang $1[/b] [img=$2;26/] Ressource[/font]
+REQ_LEVEL_UNIQUE: N'importe quel type unique de ressource de Niveau $1 :
+WAIT_CONSTRUCT: La construction ne sera pas commencé jusqu'à leur résolution.
+CONSTRUCTION_REQUIRES_LEVEL: Niveau requis de planète $1 pour produire.
+ABANDON: Abandon Planète
 ABANDON_ACCEPT: Abandon
-PROMPT_ABANDON: Abandon $1? The entire population will perish.
-BUILDING_CONSTRUCTING_PCT: Under construction... $1%
-BUILDING_DISABLED_POP: Disabled due to lack of population.
-BUILDINGS: Buildings
-PROJECTS: Projects
-AVAILABLE_RESOURCES: Resources:
-REQUIRED_RESOURCES: Required for Lv$1
-RESOURCE_CLASS_Food: Food
-RESOURCE_CLASS_WaterType: Water
-RENAME_NOTIF: Renamed: $1
-RENAME_EVT: The $1 have renamed $2 to [b]$3[/b].
-DEFENSE_ON_OPTION: Start using defense for $1
-DEFENSE_OFF_OPTION: Stop using defense for $1
-TT_IS_DEFENDING: Marked to use defense. Defense provided by resources in your empire will be used to produce defense ships here.\n\nDefense ships produced are spread evenly amongst every location marked for defense.
-TERRAFORM: Terraform
-TERRAFORM_OPTION: Terraform...
-TERRAFORM_ITEM: $1 ($2, $3 Labor)
-BUILD_TERRAFORM: Terraform $2 on $1
-BUILD_DRY_DOCK: Dry Dock: $1
-EXPORT_LABOR: Export Labor to $1
-WORK_DRY_DOCK: Work on Dry Dock
+PROMPT_ABANDON: Abandon $1 ? La population entière périra.
+BUILDING_CONSTRUCTING_PCT: En construction... $1%
+BUILDING_DISABLED_POP: Désactivé en raison d'un manque de population.
+BUILDINGS: Bâtiments
+PROJECTS: Projets
+AVAILABLE_RESOURCES: Ressources:
+REQUIRED_RESOURCES: Requis pour Lv$1
+RESOURCE_CLASS_Food: Nourriture
+RESOURCE_CLASS_WaterType: Eau
+RENAME_NOTIF: Rebaptisé: $1
+RENAME_EVT: $1 ont rebaptisé $2 en [b]$3[/b].
+DEFENSE_ON_OPTION: Commencez à utiliser la défense pour $1
+DEFENSE_OFF_OPTION: Arrêtez d'utiliser défense pour $1
+TT_IS_DEFENDING: Marqué pour utiliser la défense. La défense fourni par les ressources de votre empire sera utilisé pour produire des vaisseaux de défense ici.\n\nLes vaisseaux de défense produit sont répartis équitablement entre chaque endroit marqué pour la défense.
+TERRAFORM: Terraformation
+TERRAFORM_OPTION: Terraformation...
+TERRAFORM_ITEM: $1 ($2, $3 Main d'oeuvre)
+BUILD_TERRAFORM: Terraformation $2 sur $1
+BUILD_DRY_DOCK: Cale Sèche: $1
+EXPORT_LABOR: Exportation main d'oeuvre vers $1
+WORK_DRY_DOCK: Travail sur Cale sèche
 TT_DRY_DOCK: <<
-	[b]Construct a Dry Dock[/b]
+	[b]Construire une Cale Sèche[/b]
 
-	Create a dry dock around the planet to construct a particular ship in. In a dry dock, a ship's build cost can be financed over multiple budget cycles.
+	Créer une cale sèche autour de la planète pour y construire un vaisseau. Dans une cale sèche, le coût de construction d'un vaisseau peut être financé sur des cycles budgétaires multiples.
 
-	Put more money into a dry dock by double clicking it in the galaxy view. To make a planet add its labor generation to a dry dock, select the planet, right click the dry dock and select "Work on Dry Dock".
+	Vous pouvez mettre plus d'argent dans une cale sèche en double cliquant dessus dans la vue galaxie. Pour faire travailler une planète ajouter sa génération de main-d'œuvre à une cale sèche, sélectionner la planète, faite un clic droit sur la cale sèche et sélectionnez "Travail sur Cale Sèche".
 
-	Building a ship in a dry dock increases its build cost by 25%.
+	La construction d'un vaisseau en cale sèche augmente son coût de construction de 25%.
 >>
 TT_REPEAT_QUEUE: <<
-	[b]Toggle Repeat Queue[/b]
+	[b]Interrupteur file d'attente à répétition[/b]
 
-	Toggle whether the current queue is set to repeat infinitely.
+	Basculer si la file d'attente actuelle est configuré pour se répéter à l'infini.
 >>
-FINANCE_OPTION: Finance...
-FINANCE_DRY_DOCK: Finance Dry Dock: $1
-FINANCE: Finance
-RENAME_OPTION: Rename... (1 Influence)
-AUTO_IMPORT_LEVEL: Auto-Import to Level $1
-AUTO_IMPORT_OPTION: Auto-Import $1 Resource
-AUTO_IMPORT_TWO_OPTION: Auto-Import $1 and $2 Resources
-CANCEL_AUTO_IMPORT: Cancel Auto-Imports
-QUEUED_AUTO_IMPORT: Queued auto import...
-DESTROY_BUILDING: Destroy $1
-CANCEL_BUILDING: Cancel $1
-STORED_LABOR: Stored Labor: $1 / $2
-TILE_BIOME_DEVELOPED: $1 (Developed)
-TILE_BIOME_UNDEVELOPED: $1 (Undeveloped)
-TILE_BIOME_GROWN: $1 (Grown)
-TILE_BIOME_UNGROWN: $1 (Ungrown)
-BUILD_TIME: Build Time
-CANCEL_CONSTRUCTION: Cancel this Construction
+FINANCE_OPTION: Financement...
+FINANCE_DRY_DOCK: Financement Cale Sèche: $1
+FINANCE: Financement
+RENAME_OPTION: Rebaptiser... (1 Influence)
+AUTO_IMPORT_LEVEL: Auto-Importation au niveau $1
+AUTO_IMPORT_OPTION: Auto-Importation $1 Ressource
+AUTO_IMPORT_TWO_OPTION: Auto-Importation $1 et $2 Ressources
+CANCEL_AUTO_IMPORT: Annuler Auto-Importations
+QUEUED_AUTO_IMPORT: File d'attente auto importation...
+DESTROY_BUILDING: Détruir $1
+CANCEL_BUILDING: Annuler $1
+STORED_LABOR: Stocker Main d'oeuvre: $1 / $2
+TILE_BIOME_DEVELOPED: $1 (Développé)
+TILE_BIOME_UNDEVELOPED: $1 (Sous-développé)
+TILE_BIOME_GROWN: $1 (Cultivé)
+TILE_BIOME_UNGROWN: $1 (Non cultivé)
+BUILD_TIME: Temps de construction
+CANCEL_CONSTRUCTION: Annuler cette construction
 
 EXPBLOCK_USE: [color=#f33][b]Cannot Use Resource:[/b][/color]\n$1
 EXPBLOCK_EXPORT: [color=#f33][b]Cannot Export Resource:[/b][/color]\n$1
