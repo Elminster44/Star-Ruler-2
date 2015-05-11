@@ -281,7 +281,7 @@ COND_NATIVE_FISH_DESC: <<
 >>
 NATIVE_FISH: Poissons indigènes
 NATIVE_FISH_DESC: <<
-	Augmente la durée de vie des ressources temporaires consommés par 30%.
+	Augmente la durée de vie des ressources temporaires consommés de 30%.
 
 	[color=#ff7070][b]Ne peut pas être exportés.[/b][/color]
 >>
