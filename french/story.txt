@@ -16,7 +16,7 @@ SCEN1_DESC: <<|
 >>
 
 SCEN1_PLAYER_EMP: Gevron Initiative
-SCEN1_ENEMY_EMP: Nevillin Empire
+SCEN1_ENEMY_EMP: Empire Nevillin 
 
 SCEN1_INTRO_TITLE: Inevitable Conquest
 SCEN1_INTRO_TEXT: <<|
