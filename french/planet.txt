@@ -281,39 +281,39 @@ COND_NATIVE_FISH_DESC: <<
 >>
 NATIVE_FISH: Poissons indigènes
 NATIVE_FISH_DESC: <<
-	Augmente la durée de vie des ressources temporaires consommés de 30%.
+	Augmente la durée de vie des ressources de façon temporaire de 30%.
 
 	[color=#ff7070][b]Ne peut pas être exportés.[/b][/color]
 >>
 
-COND_EXTRA_MONEY: Precious Metal Deposits
+COND_EXTRA_MONEY: Gisements de métaux précieux
 COND_EXTRA_MONEY_DESC: <<|
-	This planet's resource gives [b]1 bonus [img=ResourceIcon::0;20/] [color=#d1cb6aff]Money[/color] pressure[/b].
+	La ressource de cette planète donne [b]1 bonus [img=ResourceIcon::0;20/] pression [color=#d1cb6aff]Argent[/color][/b].
 >>
 
-COND_EXTRA_RESEARCH: Exotic Atmosphere
+COND_EXTRA_RESEARCH: Atmosphère exotique
 COND_EXTRA_RESEARCH_DESC: <<|
-	This planet's resource gives [b]1 bonus [img=ResourceIcon::4;20/] [color=#8c4ec9]Research[/color] pressure[/b].
+	La ressource de cette planète donne [b]1 bonus [img=ResourceIcon::4;20/] pression [color=#8c4ec9]Recherche[/color][/b].
 >>
 
-COND_EXTRA_INFLUENCE: Tropical Paradise
+COND_EXTRA_INFLUENCE: Paradis Tropical
 COND_EXTRA_INFLUENCE_DESC: <<|
-	This planet's resource gives [b]1 bonus [img=ResourceIcon::1;20/] [color=#0087c7]Influence[/color] pressure[/b].
+	La ressource de cette planète donne [b]1 bonus [img=ResourceIcon::1;20/] pression [color=#0087c7]Influence[/color][/b].
 >>
 
-COND_EXTRA_LABOR: Low Gravity
+COND_EXTRA_LABOR: Gravité Basse
 COND_EXTRA_LABOR_DESC: <<|
-	This planet's resource gives [b]1 bonus [img=ResourceIcon::6;20/] [color=#b1b4b6]Labor[/color] pressure[/b].
+	La ressource de cette planète donne [b]1 bonus [img=ResourceIcon::6;20/] pression [color=#b1b4b6]Main d'oeuvre[/color][/b].
 >>
 
-COND_EXTRA_DEFENSE: Volatile Minerals
+COND_EXTRA_DEFENSE: Minéraux Volatils
 COND_EXTRA_DEFENSE_DESC: <<|
-	This planet's resource gives [b]1 bonus [img=ResourceIcon::5;20/] [color=#af7926]Defense[/color] pressure[/b].
+	La ressource de cette planète donne [b]1 bonus [img=ResourceIcon::5;20/] pression [color=#af7926]Défense[/color][/b].
 >>
 
-COND_EXTRA_ENERGY: Geothermal Vents
+COND_EXTRA_ENERGY: Conduits Géothermiques
 COND_EXTRA_ENERGY_DESC: <<|
-	This planet's resource gives [b]1 bonus [img=ResourceIcon::2;20/] [color=#42b4bd]Energy[/color] pressure[/b].
+	La ressource de cette planète donne [b]1 bonus [img=ResourceIcon::2;20/] pression [color=#42b4bd]Energie[/color][/b].
 >>
 
 COND_ANCIENT_CANNON: Ancient Planetary Defense
