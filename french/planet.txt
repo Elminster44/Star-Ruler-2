@@ -328,40 +328,40 @@ BLD_ANCIENT_CANNON_DESC: <<|
 	toutes les défenses orbitales de la planète sont détruites.
 >>
 
-COND_ANCIENT_RUINS: Ancient Ruins
+COND_ANCIENT_RUINS: Ruines Antiques
 COND_ANCIENT_RUINS_DESC: <<|
-	When first colonized, gain a number of free research points.
+	Lors de la première colonisation, gagner un certain nombre de points de recherche.
 >>
-BLD_ANCIENT_RUINS: Ancient Ruins
+BLD_ANCIENT_RUINS: Ruines Antiques
 BLD_ANCIENT_RUINS_DESC: <<|
-	The ancient ruins of a military outpost constructed by an advanced race eons ago.
+	Des ruines antiques d'un avant-poste militaire construit à il y a une éternité par une race avancée.
 >>
 
-COND_HIGH_YIELD: High Yield Resource
+COND_HIGH_YIELD: Ressource à haut rendement
 COND_HIGH_YIELD_DESC: <<|
-	The resource gives double its normal pressure, but lowers pressure cap by 3.
+	La ressource donne le double de sa pression normale, mais baisse le plafond de pression par 3.
 >>
 
-COND_NOXIOUS_ATMOSPHERE: Noxious Atmosphere
+COND_NOXIOUS_ATMOSPHERE: Atmosphère Nocive
 COND_NOXIOUS_ATMOSPHERE_DESC: <<|
-	Reduces maximum population by 1.
+	Réduit population maximale de 1.
 >>
 
-COND_SPARSE: Sparse Resource
+COND_SPARSE: Ressource Clairsemée
 COND_SPARSE_DESC: <<|
-	The resource gives half its pressure, but requires one fewer Tier 1 [img=ResourceClassIcons::0;18/] to level.
+	La ressource donne la moitié de sa pression, mais nécessite un niveau 1 de moins [img=ResourceClassIcons::0;18/] pour monter de niveau.
 >>
 
-COND_BARREN: Barren
+COND_BARREN: Stérile
 COND_BARREN_DESC: <<|
-	A barren rock devoid of atmosphere or resources.
+	Une roche stérile dépourvue d'atmosphère ou de ressources.
 >>
 
 COND_MOON: Lune
 COND_MOON_DESC: <<
-	This planet has a moon large enough to construct a moon base on.
+	Cette planète a une lune assez grande y pour construire une base lunaire.
 	
-	Multiple instances of this indicate more moons and more potential moon bases.
+	Les cas multiples indiquent plus de lunes et plus de bases lunaire potentielles.
 >>
 
 BIOME_CRYSTALLIC: Cristallique
