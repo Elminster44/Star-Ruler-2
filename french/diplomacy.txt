@@ -369,7 +369,7 @@ CARD_SABOTAGE_DESC: <<|
 >>
 SABOTAGE_NOTIFY: $1 ont saboté $2 "$5" effet.
 
-CARD_INVESTIGATE: Investigate
+CARD_INVESTIGATE: Enquêter
 CARD_INVESTIGATE_DESC: <<|
 	After subtly spreading rumors of nefarious developments occuring in another
 	empire, we offer to petition for a galactic senate investigation into the
