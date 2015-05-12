@@ -316,16 +316,16 @@ COND_EXTRA_ENERGY_DESC: <<|
 	La ressource de cette planète donne [b]1 bonus [img=ResourceIcon::2;20/] pression [color=#42b4bd]Energie[/color][/b].
 >>
 
-COND_ANCIENT_CANNON: Ancient Planetary Defense
+COND_ANCIENT_CANNON: Défense Planétaire Antique
 COND_ANCIENT_CANNON_DESC: <<|
-	An ancient planetary cannon sits on the surface, deactivated but operational.
+	Un ancien canon planétaire se trouve sur la surface, désactivé mais opérationnel.
 >>
-BLD_ANCIENT_CANNON: Ancient Planetary Defense
+BLD_ANCIENT_CANNON: Défense Planétaire Antique
 BLD_ANCIENT_CANNON_DESC: <<|
-	An ancient planetary cannon, found on this planet and activated.
+	Un ancien canon planétaire, trouvé sur cette planète et activé.
 
-	The cannon is deactivated if there are enemy fleets sieging the planet, and
-	all the planet's orbital defenses are destroyed.
+	Le canon est désactivé en cas de siège de la planète par une flotte ennemie, et
+	toutes les défenses orbitales de la planète sont détruites.
 >>
 
 COND_ANCIENT_RUINS: Ancient Ruins
