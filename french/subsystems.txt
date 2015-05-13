@@ -1,17 +1,17 @@
-SC_Hulls: [hspace=4/][img=DesignationIcons::16;32x32/][hspace=6/]  [color=#cc6a3a]Coques[/color]
-SC_Control: [vspace=-14][img=Bridge;42x42/][/vspace]  [color=#2fd6b3]Contrôle[/color]
-SC_Weapons: [vspace=-18][hspace=-22/][img=Railgun::2;70x53/][/vspace][hspace=-10/]  [color=#f9464d]Armes[/color]
+SC_Hulls: [hspace=4/][img=DesignationIcons::16;32x32/][hspace=6/]  [color=#cc6a3a]Hulls[/color]
+SC_Control: [vspace=-14][img=Bridge;42x42/][/vspace]  [color=#2fd6b3]Control[/color]
+SC_Weapons: [vspace=-18][hspace=-22/][img=Railgun::2;70x53/][/vspace][hspace=-10/]  [color=#f9464d]Weapons[/color]
 SC_Propulsion: [hspace=-10/][vspace=-56][img=RocketEngine;84x84/][/vspace][hspace=-32/]  [color=#f9e146]Propulsion[/color]
-SC_Defense: [vspace=-14][img=PlateArmor;42x42/][/vspace]  [color=#a9a9a9]Défense[/color]
+SC_Defense: [vspace=-14][img=PlateArmor;42x42/][/vspace]  [color=#a9a9a9]Defense[/color]
 SC_FTL: [img=HexagonSubsystems::10;42x21;#f00/]  [color=#67a7ad]FTL[/color]
-SC_Modifiers: [img=HexagonSubsystems::0;42x21;#cf00ff/]  [color=#eda1ff]Modificateurs[/color]
-SC_Support: [vspace=-14][img=SupportCommand;42x42/][/vspace]  [color=#eda1ff]Soutien[/color]
-SC_Equipment: [vspace=-22][hspace=-29/][img=TractorGun::2;100x76/][/vspace][hspace=-29/]  [color=#8bb800]Equipement[/color]
+SC_Modifiers: [img=HexagonSubsystems::0;42x21;#cf00ff/]  [color=#eda1ff]Modifiers[/color]
+SC_Support: [vspace=-14][img=SupportCommand;42x42/][/vspace]  [color=#eda1ff]Support[/color]
+SC_Equipment: [vspace=-22][hspace=-29/][img=TractorGun::2;100x76/][/vspace][hspace=-29/]  [color=#8bb800]Equipment[/color]
 SC_Misc: Misc
 
-CREWCONTROL_NAME: Pont et équipage
+CREWCONTROL_NAME: Bridge and Crew
 CREWCONTROL_DESC: <<
-	Un pont, des quartiers d'équipage et d'autres installations d'équipage pour commander un vaisseau.
+	A bridge, crew quarters, and other facilities for a crew to command a vessel.
 
 	[img=ActionBarIcons::0;22;#00ff80]Provides [b][color=#00ff80]Control[/color][/b] to operate other subsystems.[/img]
 	[img=Plus]Slowly repairs the vessel.[/img]
@@ -31,10 +31,15 @@ SHIPCOMPUTER_NAME: Control Computer
 SHIPCOMPUTER_DESC: <<
 	An autonomous computer capable of controlling numerous ship systems.
 	
-	Supports many independent subsystems.
-	Requires power.
-	Ship is destroyed if no control facilities remain.
+	[img=ActionBarIcons::0;22;#00ff80]Provides a lot of [b][color=#00ff80]Control[/color][/b] to operate other subsystems.[/img]
+	[img=QuickbarIcons::6;22]For the first 30 seconds of any combat, the strength of the entire fleet is boosted by a percentage dependent on the size of the Control Computer.[/img]
+	[img=Plus]Slowly repairs the vessel.[/img]
+	[img=Minus]Requires power to run.[/img]
+	[img=Minus]Ship is destroyed if no control remains.[/img]
 >>
+
+STATUS_COMPUTER_BOOST: Computer Boost
+STATUS_COMPUTER_BOOST_DESC: Heavy computation done by the flagship's control computer is increasing this fleet's efficiency and combat strength for the first 30 seconds of any combat.
 
 SUPPLYMODULE_NAME: Supply Storage
 SUPPLYMODULE_DESC: <<
@@ -58,6 +63,14 @@ SHIELDGEN_DESC: <<
 
 	[img=Plus]Creates regenerating barrier against damage.[/img]
 	[img=Minus]Weakened shields allow some damage through.[/img]
+>>
+
+S_SHIELD_HARDENER: Shield Hardener
+S_SHIELD_HARDENER_DESC: <<
+	Supports and strengthens the ship's shield, allowing it to resist incoming damage without losing strength.
+
+	[img=Plus]While shields are up, grants a percentage chance to completely ignore any incoming hit of damage.[/img]
+	[img=Minus]When shields are at weakened strength, the block chance is lowered.[/img]
 >>
 
 FISSIONGEN_NAME: Fission Generator
@@ -488,4 +501,13 @@ S_SHRINE_DESC: <<
 	[img=Plus]Adds a Shield to the ship.[/img]
 	[img=Minus]At least as much Prayer must be generated as the ship has Control.[/img]
 	[img=ResourceIconsSmall::53;22][b][color=#408fc1]Only available when the 'Devout' race option is chosen.[/color][/b][/img]
+>>
+
+S_QUANTUM_BATTERY: Quantum Battery
+S_QUANTUM_BATTERY_DESC: <<
+	Quantum batteries can store parts of the vast amount of energy collected by an empire in the zero-point energy of a tiny region of folded subspace. This energy is then slowly let out to supplement the power requirements of the subsystem.
+
+	[img=Plus]Halves the power requirements of the subsystem it is placed in.[/img]
+	[img=Minus]If a Quantum Battery is destroyed in combat, the subsystem is nonfunctional until it is repaired.[/img]
+	[img=$Energy;20]Costs [b]Energy[/b] from your empire's global stores to construct.[/img]
 >>
