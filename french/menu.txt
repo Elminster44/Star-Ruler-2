@@ -124,8 +124,8 @@ NG_SYSTEM_SIZE: Tailles des Systèmes
 NG_RESET: Rétablir la page par défaut
 NG_EMPIRE_OPTIONS: Options d'Empire 
 NG_ENABLE_CIVILIAN_TRADE: Active les Vaisseaux de Commerce Civile
-NG_CIVILIAN_TRADE: Civilian Trade Activity
-NGTT_CIVILIAN_TRADE: The amount of activity from civilian trade ships in your empire. Higher civilian activity creates more trade ships, but can have an impact on game performance and framerate.
+NG_CIVILIAN_TRADE: Activité commerciale civile
+NGTT_CIVILIAN_TRADE: La quantité d'activité du commerce civil expédié dans votre empire. Une activité civile supérieur crée plus de navires de commerce, mais peut avoir un impact sur les performances du jeu et le framerate.
 NG_VICTORY_OPTIONS: Options de Victoire
 NG_RANDOM_EVENTS: Evénements aléatoires
 NG_TIME_LIMIT: Limite de Temps
