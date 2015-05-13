@@ -571,7 +571,14 @@ SLAVE_LABOR_DESC: <<
 
 PLAINS: De vastes plaines
 PLAINS_BLURB: <<
-	La planète a une surface massive. Le taux de développement des cases augmente par niveau.
+	Planet has a massive surface. Reduced total building maintenance per level.
+>>
+PLAINS_DESC: <<
+	The planet has a massive surface.
+
+	Tile development speed is increased by [levels=$1;#ffb4b6]100%/150%/200%/250%/300%/350%[/levels].
+
+	The total maintenance cost of buildings on this planet is reduced by up to [levels=$1;#d1cb6a]Â§50k/Â§150k/Â§300k/Â§750k/Â§1.2M/Â§1.8M[/levels].
 >>
 
 QUARTZ: Quartz
