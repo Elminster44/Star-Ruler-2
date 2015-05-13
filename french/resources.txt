@@ -569,16 +569,16 @@ SLAVE_LABOR_DESC: <<
 	Seulement actif si utilisé dans la construction.
 >>
 
-PLAINS: De vastes plaines
+PLAINS: Vastes plaines
 PLAINS_BLURB: <<
-	Planet has a massive surface. Reduced total building maintenance per level.
+	La planète a une surface massive. L'entretien total des bâtiments est réduit en fonction des niveaux.
 >>
 PLAINS_DESC: <<
-	The planet has a massive surface.
+	La planète a une surface massive.
 
-	Tile development speed is increased by [levels=$1;#ffb4b6]100%/150%/200%/250%/300%/350%[/levels].
+	La vitesse de développement des cases est augmentée de [levels=$1;#ffb4b6]100%/150%/200%/250%/300%/350%[/niveau].
 
-	The total maintenance cost of buildings on this planet is reduced by up to [levels=$1;#d1cb6a]Â§50k/Â§150k/Â§300k/Â§750k/Â§1.2M/Â§1.8M[/levels].
+	Le coût total de l'entretien des bâtiments sur cette planète est réduite de [levels=$1;#d1cb6a]Â§50k/Â§150k/Â§300k/Â§750k/Â§1.2M/Â§1.8M[/niveau].
 >>
 
 QUARTZ: Quartz
@@ -588,7 +588,7 @@ QUARTZ_BLURB: <<
 QUARTZ_DESC: <<
 	Chaque fois que vous activez un artefact, cette planète gagne [levels=$1;#ffb4b6]10/25/50/80/120/200[/niveau] de main-d'œuvre stockée, pourvu qu'il y est assez de stockage.
 
-	Cette planète a [levels=$1;#ffb4b6]10/110/210/310/410/510[/niveeau] de stockage de main d'oeuvre en bonus.
+	Cette planète a [levels=$1;#ffb4b6]10/110/210/310/410/510[/niveau] de stockage de main d'oeuvre en bonus.
 
 	[i][color=#aaa]Cette ressource est une ressource évolutive et ne peut pas être exporté ou utilisé pour monter de niveau. Les bonus dépendent du niveau de la planète.[/color][/i]
 >>
