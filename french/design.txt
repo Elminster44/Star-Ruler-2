@@ -136,7 +136,7 @@ S_HYPERDRIVESPEED: Vitesse Hyperdrive
 STT_HYPERDRIVESPEED: La vitesse du vaisseau a laquelle il est capable de se maintenir en voyageant dans l'hyper espace sans dommage.
 
 S_SLIPSTREAMTIME: Temps de sillage
-STT_SLIPSTREAMTIME: La durée que le sillage créées par ce vaisseau reste ouvert.
+STT_SLIPSTREAMTIME: La durée que le sillage créé par ce vaisseau reste ouvert.
 
 S_CargoStorage: Stockage de Cargaison
 STT_CargoStorage: Utilisé pour stocker les multiples types de matières, principalement ceux extraits d'astéroïdes.
@@ -180,8 +180,8 @@ S_RESUPPLY: Réapprovisionnement
 S_ENERGYCOST: Coût en énergie
 S_COST_FACTOR: Facteur de coût
 S_STELLAR_DAMAGE: Dommages stellaire
-S_EFFICIENCYBOOST: Strength Boost
+S_EFFICIENCYBOOST: Augmentation de Force
 S_Chance: Chance
-S_PowerUse: Power Used
-S_EnergyBuildCost: Energy Build Cost
-STT_EnergyBuildCost: The amount of the empire's energy that must be expended when first starting construction on a ship of this type.
+S_PowerUse: Puissance Utilisé
+S_EnergyBuildCost: Coût de construction en énergie
+STT_EnergyBuildCost: Le montant de l'énergie de l'empire qui doit être dépensée lors du premier lancement de construction d'un vaisseau de ce type.
