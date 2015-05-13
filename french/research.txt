@@ -1,16 +1,18 @@
-RESEARCH_COST_OR: ou
+RESEARCH_COST_OR: or
 RESEARCH_COST_JOIN: ", "
-RESEARCH_STUDY: Etude
-RESEARCH_COST: Coût de recherche
-RESEARCH_TIME: Temps de recherche
-NOT_RESEARCHING: Pas de recherche active...
+RESEARCH_STUDY: Study
+RESEARCH_COST: Research Cost
+RESEARCH_TIME: Research Time
+QUEUE_RESEARCH: Queue Research
+UNQUEUE_RESEARCH: Cancel Queued Research
+NOT_RESEARCHING: No Active Research...
 
 R_SCIENCE: Science
-R_SCIENCE_DESC: [i]La racine de toute connaissance. Débloqué par défaut comme point de départ.[/i]
+R_SCIENCE_DESC: [i]The root of all knowledge. Unlocked by default as a starting point.[/i]
 
 R_DEV_ENERGY: Energy Science
 R_DEV_ENERGY_DESC: <<
-	[i][color=#aaa]Les améliorations apportées à la collecte et l'utilisation de l'énergie.[/color][/i]
+	[i][color=#aaa]Improvements to the collection and use of energy.[/color][/i]
 
 	Generates $1 bonus energy immediately when researched normally. Energy gained is decreased by energy storage penalty.
 
@@ -18,10 +20,10 @@ R_DEV_ENERGY_DESC: <<
 	[offset=40][color=#f88][i]No bonus energy is gained from researching when using the alternate unlock.[/i][/color][/offset]
 >>
 
-R_DEV_MONEY: Economie
+R_DEV_MONEY: Economics
 R_DEV_MONEY_BLURB: §$1 Special Funds
 R_DEV_MONEY_DESC: <<
-	[i][color=#aaa]Un autre éclairage sur le comportement des marchés à grande échelle et des économies.[/color][/i]
+	[i][color=#aaa]Further insight into the behaviour of large scale markets and economies.[/color][/i]
 
 	When unlocked, immediately gives you §$1 extra special funds to spend.
 
@@ -29,10 +31,10 @@ R_DEV_MONEY_DESC: <<
 >>
 
 R_DEV_BUDGET: Commerce
-R_DEV_BUDGET_SMALL: Affaire
+R_DEV_BUDGET_SMALL: Business
 R_DEV_BUDGET_BLURB: +§$1 Budget
 R_DEV_BUDGET_DESC: <<
-	[i][color=#aaa]Les améliorations apportées à l'efficacité des échanges et du commerce.[/color][/i]
+	[i][color=#aaa]Improvements to the efficiency of trade and commerce.[/color][/i]
 
 	Permanently increases your budget income by §$1 when unlocked.
 >>
@@ -40,7 +42,7 @@ R_DEV_BUDGET_DESC: <<
 R_DEV_FTL: FTL Containment
 R_DEV_FTL_BLURB: $1 FTL, Storage
 R_DEV_FTL_DESC: <<
-	[i][color=#aaa]Les nouvelles technologies de stockage et de transport d'énergie FTL.[/color][/i]
+	[i][color=#aaa]New technologies to store and transport FTL energy.[/color][/i]
 
 	When unlocked, immediately increases your stored ftl and ftl storage capacity by $1.
 >>
@@ -48,7 +50,7 @@ R_DEV_FTL_DESC: <<
 R_DEV_FTL_INCOME: FTL Tuning
 R_DEV_FTL_INCOME_BLURB: +$1 FTL/s
 R_DEV_FTL_INCOME_DESC: <<
-	[i][color=#aaa]Un meilleur contrôle sur la collecte et le raffinement de l'énergie FTL.[/color][/i]
+	[i][color=#aaa]Better control over the collection and refinement of FTL energy.[/color][/i]
 
 	Increases empire FTL income by $1/s.
 >>
@@ -66,7 +68,7 @@ R_DEV_SURGE_DESC: <<
 R_DEV_NEGOTIATE: Political Science
 R_DEV_NEGOTIATE_BLURB: 1x Negotiate (*)
 R_DEV_NEGOTIATE_DESC: <<
-	[i][color=#aaa]Groupes de réflexion et d'études sur une meilleure utilisation du capital à des fins politiques.[/color][/i]
+	[i][color=#aaa]Think tanks and studies on better use of capital for political gain.[/color][/i]
 
 	Gain an increased-quality "Negotiate" card immediately upon unlocking this technology.
 
@@ -76,7 +78,7 @@ R_DEV_NEGOTIATE_DESC: <<
 R_DEV_ENHANCE: Synergy
 R_DEV_ENHANCE_BLURB: 1x Enhance
 R_DEV_ENHANCE_DESC: <<
-	[i][color=#aaa]Développer de meilleures façons d'utiliser les stratégies existantes.[/color][/i]
+	[i][color=#aaa]Develop better ways to utilize existing strategies.[/color][/i]
 
 	Gain an "Enhance" card immediately upon unlocking this technology.
 >>
@@ -84,7 +86,7 @@ R_DEV_ENHANCE_DESC: <<
 R_DEV_INFLUENCE: Diplomacy
 R_DEV_INFLUENCE_BLURB: 5 Influence
 R_DEV_INFLUENCE_DESC: <<
-	[i][color=#aaa]Axé d'études et de recherches sur le comportement des différentes factions.[/color][/i]
+	[i][color=#aaa]Focused studies and research on the behaviour of various factions.[/color][/i]
 
 	When unlocked, immediately gives you $1 influence points to spend.
 >>
@@ -93,7 +95,7 @@ R_SYS_ANTIMATTER: Antimatter Generator
 
 R_SYS_ANTIMATTER: Antimatter Generator
 R_SYS_ANTIMATTER_DESC: <<
-	[color=#aaa][i]Débloque le sous-système de générateur d'antimatière.[/i][/color]
+	[color=#aaa][i]Unlocks the Antimatter Generator subsystem.[/i][/color]
 
 	[bbloc=#AMGEN_DESC/]
 	[color=#42b4bd][b]Alternate Unlock:[/b] Spend 1250 energy.[/color]
@@ -101,7 +103,7 @@ R_SYS_ANTIMATTER_DESC: <<
 
 R_SYS_EMERGENCY_SUPPLIES: Emergency Supplies
 R_SYS_EMERGENCY_SUPPLIES_DESC: <<
-	[color=#aaa][i]Débloque la fournitures d'urgence des sous-système.[/i][/color]
+	[color=#aaa][i]Unlocks the Emergency Supplies subsystem.[/i][/color]
 
 	[bbloc=#S_EMERGENCY_SUPPLIES_DESC/]
 
@@ -110,7 +112,7 @@ R_SYS_EMERGENCY_SUPPLIES_DESC: <<
 
 R_SYS_CONSTRUCTION_BAY: Construction Bay
 R_SYS_CONSTRUCTION_BAY_DESC: <<
-	[color=#aaa][i]Débloque le sous-système de la baie de construction.[/i][/color]
+	[color=#aaa][i]Unlocks the Construction Bay subsystem.[/i][/color]
 
 	[bbloc=#S_CONSTRUCTION_BAY_DESC/]
 
@@ -253,6 +255,15 @@ R_MOD_AUGMENT_SUPPLY_DESC: <<
 	[color=#d1cb6a][b]Alternate Unlock:[/b] Spend §700k.[/color]
 >>
 
+R_MOD_QUANTUM_BATTERY: Quantum Battery
+R_MOD_QUANTUM_BATTERY_DESC: <<
+	[color=#aaa][i]Unlocks the 'Quantum Battery' modifier.[/i][/color]
+
+	[bbloc=#S_QUANTUM_BATTERY_DESC/]
+
+	[color=#42b4bd][b]Alternate Unlock:[/b] Spend $1 energy.[/color]
+>>
+
 R_IMP_DAMAGE: Kinetics
 R_IMP_DAMAGE2: Kinetics 2
 R_IMP_DAMAGE_SMALL: Impact
@@ -291,6 +302,13 @@ R_IMP_ALL_HEALTH_DESC: <<
 	[i][color=#aaa]Research on how to improve the structural integrity of starship subsystems, letting them take more damage before ceasing to function.[/color][/i]
 
 	Increases all ship subsystem health by $1.
+>>
+
+R_IMP_REPAIR: Repair
+R_IMP_REPAIR2: Repair 2
+R_IMP_REPAIR_BLURB: Repair +$1
+R_IMP_REPAIR_DESC: <<
+	Increases ship repair rate by $1.
 >>
 
 R_IMP_CIV_HEALTH: Mass Production
@@ -475,6 +493,13 @@ R_SYS_SHIELDGEN_DESC: <<
 	[color=#42b4bd][b]Alternate Unlock:[/b] Spend 750 energy.[/color]
 >>
 R_SYS_SHIELDGEN: Shield Generator
+R_SYS_SHIELD_HARDENER: Shield Hardener
+R_SYS_SHIELD_HARDENER_DESC: <<
+	[color=#aaa][i]Unlocks the Shield Hardener subsystem.[/i][/color]
+
+	[bbloc=#S_SHIELD_HARDENER_DESC/]
+	[color=#42b4bd][b]Alternate Unlock:[/b] Spend 750 energy.[/color]
+>>
 
 R_SHRINE: Shrine
 R_SHRINE_DESC: <<
@@ -582,4 +607,31 @@ R_IMP_SPREAD2: Accuracy 2
 R_IMP_SPREAD_BLURB: Accuracy +$1
 R_IMP_SPREAD_DESC: <<
 	Increases the accuracy of projectiles fired by railguns and other kinetic weapons by $1.
+>>
+
+R_KEY_RAILGUN_KNOCKBACK: Projectile Impulse
+R_KEY_RAILGUN_KNOCKBACK_DESC: <<
+	Adds a significant knockback effect to flagship railgun batteries. Ships hit by the projectiles will receive a jolt of impulse in the opposite direction.
+
+	Increases the accuracy of all railguns, but removes all hexagon pierce from railgun impacts.
+>>
+
+R_KEY_BUILD_COST: Decentralized Construction
+R_KEY_BUILD_COST_DESC: <<
+	Halves all flagship build costs.
+
+	Doubles all flagship labor costs.
+
+	Dry Docks no longer increase build costs by 25%, but can be used without penalty.
+>>
+
+R_KEY_EMERGENCY_SHIELDS: Emergency Shields
+R_KEY_EMERGENCY_SHIELDS_DESC: <<
+	Whenever you trigger an "Emergency Supplies" subsystem, shield regeneration is temporarily boosted to extreme levels.
+
+	The duration of the boost is dependent on the size of the emergency supplies subsystem.
+>>
+STATUS_EMERGENCY_SHIELDS: Emergency Shields
+STATUS_EMERGENCY_SHIELDS_DESC: <<
+	This ship is experiencing temporarily boosted shield regeneration due to activating an upgraded "Emergency Supplies" subsystem.
 >>
