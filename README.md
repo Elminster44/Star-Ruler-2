@@ -7,6 +7,6 @@ Statut : *Phase 1 (estimation 65%)
 *Phase 2 : correction traduction en contexte, fix affichage interface /
 *Phase 3 : correction orthographe
 
-Version du jeu : 1.0.1
+Version du jeu : 1.0.2
 
 Download ZIP >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
