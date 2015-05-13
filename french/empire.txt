@@ -89,7 +89,7 @@ TRAIT_EMPIRE_DESC: <<
 
 TRAIT_COMMUNISM: Gouvernement: Communisme
 TRAIT_COMMUNISM_DESC: <<
-	[vspace=6/][b][color=#0f0]Bonus:[/color][/b] [offset=140][color=#42b4bd]500 Energies/color][/offset].
+	[vspace=6/][b][color=#0f0]Bonus:[/color][/b] [offset=140][color=#42b4bd]500 Energies[/color][/offset].
 	[vspace=6/][b][color=#f00]Départ Flotte:[/color][/b] [offset=140]2x Cuirassé d'escadre.[/offset]
 	[vspace=6/][b][color=#0087c7]Départ Carte:[/color][/b] [offset=140]1x Négocier, 1x Enquêter, 1x Cultivation, 1x Center de recherche unifié, 1x Sabotage.[/offset]
 >>
