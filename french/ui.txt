@@ -149,7 +149,7 @@ ASTEROID_UNOWNED: <<
 	Sélectionnez une planète avec de la main d'oeuvre et cliquez droit sur cet astéroïde pour construire une [b][color=#8c4ec9]Mine d'extraction[/color][/b] pour accéder à l'une des ressources.
 >>
 ASTEROID_OWNED: <<
-	This asteroid has a mining base. If the empire mining it loses trade access, the mining base is removed.
+	Cet astéroïde a une base d'exploitation minière. Si l'empire l'exploite il perd l'accès commercial, la base d'exploitation minière est retirée.
 >>
 ASTEROID_MINING: <<
 	Cet astéroïde contient des minéraux spéciaux qui doivent être exploités par un [color=#91692c][b]Vaisseau minier[/b][/color], puis amené sur une planète pour son utilisation.
