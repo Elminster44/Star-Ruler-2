@@ -105,32 +105,32 @@ TRAIT_CAPITALISM_DESC: <<
 
 TRAIT_MERITOCRACY: Gouvernement: Méritocratie
 TRAIT_MERITOCRACY_DESC: <<|
-	Power to the most productive citizens. Start with 5x Negotiate (*), 1x Open Forum, 1x Investigate, 2x Gift, 2x Enhance.
+	Pouvoir aux citoyens les plus productifs. Commencez avec 5x Négocier (*), 1x Forum Ouvert, 1x Enquêter, 2x Don, 2x Améliorer.
 >>
 
 TRAIT_ANARCHY: Gouvernement: Anarchie
 TRAIT_ANARCHY_DESC: <<|
-	A total lack of structural government. Start without any influence cards.
+	Une absence totale de gouvernement structurelle. Commencez sans cartes d'influence.
 >>
 
 TRAIT_HYPERDRIVE: Hyperdrive
 TRAIT_HYPERDRIVE_DESC: <<|
-	Outfit your ships with hyperdrive engines to FTL long distances through hyperspace.
+	Équipez vos vaisseaux avec des moteurs hyperdrive FTL à longues distances dans l'hyperespace.
 >>
 
-TRAIT_FLING: Fling Beacons
+TRAIT_FLING: Balise de vol
 TRAIT_FLING_DESC: <<|
-	Build enormous beacons capable of flinging ships away from them at vast speeds.
+	Construire des balises énormes capables d'envoyer des vaisseaux à longue distance à de vastes vitesses.
 >>
 
-TRAIT_GATE: Gates
+TRAIT_GATE: Portail
 TRAIT_GATE_DESC: <<|
-	Gate orbitals establish stable wormholes and let ships move from any gate to any other gate.
+	Portails orbitale qui établissent des trous de ver stables et permettant aux vaisseaux de se déplacer de portail à portail.
 >>
 
-TRAIT_SLIPSTREAM: Slipstream
+TRAIT_SLIPSTREAM: Sillage
 TRAIT_SLIPSTREAM_DESC: <<|
-	Specialized generator ships rip tears in time and space so ships can instantly pass between them.
+	Générateur spécialisé de déchirure de temps et d'espace qui permet aux vaisseaux de se déplacer immédiatement entre eux.
 >>
 
 TRAIT_ANCIENT_VESSEL: Ancient Vessel
