@@ -145,7 +145,7 @@ TT_MANAGE_PLANET: <<|
 TT_MANAGE_PLANET_SUPPORTS: <<|
 	[b]Gérer soutien[/b]
 
-	Gérer les groupes de vaisseaux de soutien actuellement affectés à la planète.
+	Manage the groups of support ships currently assigned here.
 >>
 
 COLONIZE: Coloniser
