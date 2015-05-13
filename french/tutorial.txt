@@ -584,3 +584,4 @@ TUT_FINAL_TEXT: <<|
 	its mechanics, or feel free to join the in-game official Star Ruler [b]IRC
 	Channel[/b] to talk to fellow players or bug one of the resident SR Developers!
 >>
+
