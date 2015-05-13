@@ -1,5 +1,5 @@
-TUTORIAL: Didacticiel
-TUT_PLAYER_EMP: Empire Terran 
+TUTORIAL: Tutorial
+TUT_PLAYER_EMP: Terran Empire
 TUT_ENEMY_EMP: Xu'sio
 TUT_FLAGSHIP_NAME: Superion
 
@@ -201,7 +201,7 @@ TUT_IMPORT2_TEXT: <<|
 >>
 TUT_IMPORT2_ACT1_TITLE: Level Spacewood to level 2
 TUT_IMPORT2_ACT1_TEXT: <<|
-	Finish leveling up Spacewood to [b]Level 2[/b] by enabling the Tier 1 resource.
+	Finish leveling up Spacewood to [b]Level 2[/b] by waiting for the population on your Tier 1 resource planet to grow.
 >>
 
 TUT_EXPAND_SUCC_TITLE: Success!
@@ -359,7 +359,7 @@ TUT_RSC_TEXT: <<|
 TUT_RSC_ACT1_TITLE: View Research
 TUT_RSC_ACT1_TEXT: Switch to the [b]Research Tab[/b] in the tab bar.
 TUT_RSC_ACT2_TITLE: Research Armoring
-TUT_RSC_ACT2_TEXT: Research the 'Armoring' technology northeast of the top Science node.
+TUT_RSC_ACT2_TEXT: Research the 'Armoring' technology accessible from your Science starting point.
 TUT_RSC_ACT3_TITLE: Research Bulkheads
 TUT_RSC_ACT3_TEXT: Research the 'Bulkhead' technology that is now accessible.
 
