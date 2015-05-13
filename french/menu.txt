@@ -124,6 +124,8 @@ NG_SYSTEM_SIZE: Tailles des Systèmes
 NG_RESET: Rétablir la page par défaut
 NG_EMPIRE_OPTIONS: Options d'Empire 
 NG_ENABLE_CIVILIAN_TRADE: Active les Vaisseaux de Commerce Civile
+NG_CIVILIAN_TRADE: Civilian Trade Activity
+NGTT_CIVILIAN_TRADE: The amount of activity from civilian trade ships in your empire. Higher civilian activity creates more trade ships, but can have an impact on game performance and framerate.
 NG_VICTORY_OPTIONS: Options de Victoire
 NG_RANDOM_EVENTS: Evénements aléatoires
 NG_TIME_LIMIT: Limite de Temps
@@ -242,14 +244,14 @@ NG_WARN_OHGOD: <<|
 IRC_HELP: <<
 	Commandes disponible:
 
-	/msg <nom> <message> - Envoyé un message privé.
+	/msg <user> <message> - Envoyé un message privé.
 	/me <message> - Envoyer un message d'action.
 	/join #<channel> - Rejoindre un canal différent.
 	/part - Parti du canal en cours.
 	/close - Fermer le canal courant/mp en cours.
 	/nick <nouveau_nom> - Changer votre surnom.
 
-	Les commandes qui nécessitent des privilèges supplémentaires:
+	Commandes qui nécessitent des privilèges supplémentaires:
 
 	/topic <nouveau_sujet> - Change le sujet dans le canal actuel.
 	/mode <params> - Change le mode du canal.
@@ -267,6 +269,7 @@ IRC_TOPIC: [color=$3]$1[/color] a changé le sujet en '$2'
 IRC_TOPIC_IS: Topic for $1 est: $2
 IRC_MODE: [color=$3]$1[/color] définit le mode $2
 IRC_UMODE: [color=$3]$1[/color] définit le mode utilisateur $2
+IRC_DISCONNECT: [color=#f00]Disconnected from server.[/color]
 
 DISCONNECT_0: Connexion expiré
 DISCONNECT_1: Erreur de connexion
@@ -275,7 +278,6 @@ DISCONNECT_3: Éjecté par le serveur
 DISCONNECT_4: Version incompatible
 DISCONNECT_5: Mot-de-passe incorrect
 
-
 SANDBOX: Éditeur de conception
 PROMPT_QUIT: Êtes-vous sûr de vouloir quitter la partie ? Tout progrès non sauvegarder sera perdu.
 PROMPT_END: Êtes-vous sûr de vouloir terminer la partie ? Tout progrès non sauvegarder sera perdu.
@@ -283,6 +285,7 @@ PROMPT_START_NEW: Êtes-vous sûr de vouloir terminer la partie actuelle et en c
 PROMPT_DISCONNECT: Êtes-vous sûr que vous voulez déconnecter ?
 PROMPT_TUTORIAL: Démarrer le tutoriel maintenant va mettre fin à votre partie en cours. Tout progrès non sauvegarder sera perdu. Continuer ?
 PROMPT_SANDBOX: Démarrer l'éditeur de conception maintenant va mettre fin à votre partie en cours. Tout progrès non sauvegarder sera perdu. Continuer ?
+
 CHECK_FOR_UPDATES: Vérifiez mises à jour
 CHECKING_UPDATES: Vérification pour mises à jour....
 CHECK_UPDATE_FAIL: Echec de vérification des mises à jour.
