@@ -34,6 +34,7 @@ ERROR_EXPOSE_LEFT_RIGHT: $1 doit être extérieur sur les deux côtés gauche et
 ERROR_ONLY_ONE: Un seul $1 est autorisée.
 ERROR_NEED_PRAYER: LE vaisseau nécessite un lieu de culte pour générer la prière.
 ERROR_EQUAL_PRAYER: Doit avoir au moins autant de prière comme contrôle.
+ERROR_NEED_SHIELD: $1 can only be used if the ship has Shields.
 REQUIRE_CONSTRUCTION_BAY: $1 exige une baie de construction pour nourrir la main d'oeuvre.
 APPLIED_HULL: Coque
 DESIGNS: Modèles
@@ -179,3 +180,8 @@ S_RESUPPLY: Réapprovisionnement
 S_ENERGYCOST: Coût en énergie
 S_COST_FACTOR: Facteur de coût
 S_STELLAR_DAMAGE: Dommages stellaire
+S_EFFICIENCYBOOST: Strength Boost
+S_Chance: Chance
+S_PowerUse: Power Used
+S_EnergyBuildCost: Energy Build Cost
+STT_EnergyBuildCost: The amount of the empire's energy that must be expended when first starting construction on a ship of this type.
