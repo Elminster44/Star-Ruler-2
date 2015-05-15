@@ -27,35 +27,35 @@ R_DEV_MONEY_DESC: <<
 
 	Quand débloqué, vous donne immédiatement §$1 fonds spéciaux supplémentaires à dépenser.
 
-	[color=#0087c7][b]Déblocage alternatif:[/b] Spend $2 influence points.[/color]
+	[color=#0087c7][b]Déblocage alternatif:[/b] Dépenser $2 points d'influence.[/color]
 >>
 
 R_DEV_BUDGET: Commerce
-R_DEV_BUDGET_SMALL: Business
+R_DEV_BUDGET_SMALL: Affaire
 R_DEV_BUDGET_BLURB: +§$1 Budget
 R_DEV_BUDGET_DESC: <<
-	[i][color=#aaa]Improvements to the efficiency of trade and commerce.[/color][/i]
+	[i][color=#aaa]Les améliorations apportées à l'efficacité des échanges et du commerce.[/color][/i]
 
-	Permanently increases your budget income by §$1 when unlocked.
+	Augmente de façon permanente votre revenu budgétaire par §$1 lorsque déverrouillé.
 >>
 
-R_DEV_FTL: FTL Containment
-R_DEV_FTL_BLURB: $1 FTL, Storage
+R_DEV_FTL: Endiguement FTL 
+R_DEV_FTL_BLURB: $1 FTL, Stockage
 R_DEV_FTL_DESC: <<
-	[i][color=#aaa]New technologies to store and transport FTL energy.[/color][/i]
+	[i][color=#aaa]Les nouvelles technologies de stockage et de transport de l'énergie FTL.[/color][/i]
 
-	When unlocked, immediately increases your stored ftl and ftl storage capacity by $1.
+	Quand débloqué, augmente immédiatement votre capacité de FTL et le stockage de FTL stocké de $1.
 >>
 
-R_DEV_FTL_INCOME: FTL Tuning
+R_DEV_FTL_INCOME: Réglage FTL 
 R_DEV_FTL_INCOME_BLURB: +$1 FTL/s
 R_DEV_FTL_INCOME_DESC: <<
-	[i][color=#aaa]Better control over the collection and refinement of FTL energy.[/color][/i]
+	[i][color=#aaa]Un meilleur contrôle sur la collecte et le raffinement de l'énergie FTL.[/color][/i]
 
-	Increases empire FTL income by $1/s.
+	Augmente le revenu FTL de votre empire de $1/s.
 >>
 
-R_DEV_SURGE: Media Utilization
+R_DEV_SURGE: Utilisation Médiatique
 R_DEV_SURGE_BLURB: 1x Patriotic Surge
 R_DEV_SURGE_DESC: <<
 	[i][color=#aaa]Audience research into more effective ways of riling populations into action.[/color][/i]
