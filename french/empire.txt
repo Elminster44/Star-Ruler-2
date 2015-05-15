@@ -251,104 +251,104 @@ TRAIT_ENORMOUS_PLANET_DESC: <<|
 	Le nôtre est un titan contre qui tous les autres mondes sont mesurés. Votre monde natal est une grande (20x15) Planète.
 >>
 
-TRAIT_INNOVATIVE: Innovative
+TRAIT_INNOVATIVE: Novateur
 TRAIT_INNOVATIVE_DESC: <<|
-	Unlocking new research nodes does not take any time after purchasing them.
+	Le déverrouillage de nouveaux nœuds de recherche ne prend pas de temps après l'achat.
 >>
 
-TRAIT_RIGID: Rigid
+TRAIT_RIGID: Rigide
 TRAIT_RIGID_DESC: <<
-	Secondary unlock methods to study research nodes using money, energy or influence cannot be used.
+	Méthodes de déverrouillage secondaire pour étudier les nœuds de recherche en utilisant l'argent, l'énergie ou de l'influence ne peuvent pas être utilisés.
 >>
 
 TRAIT_FRUGAL: Frugal
 TRAIT_FRUGAL_DESC: <<
-	Planets require one fewer Tier 1 resource to upgrade to Level 3, and two fewer Tier 1 resources to upgrade to Level 4 and 5.
+	Les planètes exigent une ressource Niveau 1 en moins pour l'améliorer vers le Niveau 3, et deux en moins de ressources de Niveau 1 pour l'amélioration au niveau 4 et 5.
 >>
 
-TRAIT_PRIDEFUL: Prideful
+TRAIT_PRIDEFUL: Orgueilleux
 TRAIT_PRIDEFUL_DESC: <<
-	Whenever you construct a flagship of larger size than your previously largest flagship, you gain permanent bonus influence stake and defense generation dependent on how much larger the ship is.
+	Chaque fois que vous construisez un vaisseau amiral de plus grande taille que votre plus grand précédemment, vous gagnez un bonus d'intérêt d'influence permanent et la génération de défense dépendant de combien le vaisseau est plus grand.
 >>
 
-TRAIT_WORKSHOP: Ancient Workshop
+TRAIT_WORKSHOP: Ancien atelier
 TRAIT_WORKSHOP_DESC: <<
-	Your home system starts with 6 random artifacts. Artifacts in your home system cost 25% less energy to activate. Solar Engine orbitals can always be constructed.
+	Votre système natal commence avec 6 artefacts aléatoires. Les artefacts dans votre système coûtent 25% de moins en énergie pour les activer. L'orbitale moteur solaire peut toujours être construit.
 >>
 
-TRAIT_MOON_BASE: Moon Base
+TRAIT_MOON_BASE: Base lunaire
 TRAIT_MOON_BASE_DESC: <<
-	Your homeworld starts with a moon base already constructed.
+	Votre planète natale commence avec une base lunaire déjà construite.
 >>
 
-TRAIT_PARANOID: Paranoid
+TRAIT_PARANOID: Paranoïaque
 TRAIT_PARANOID_DESC: <<
-	Diplomacy cards cost 1 extra influence to purchase.
+	Les cartes de diplomatie coûtent 1 influence supplémentaire à l'achat.
 >>
 
-TRAIT_LAVISH: Lavish
+TRAIT_LAVISH: Prodiguer
 TRAIT_LAVISH_DESC: <<
-	Maximum population on level 3-5 planets is reduced by 1/3/5.
+	Population maximale de la planète au niveau 3-5 est réduite de 1/3/5.
 >>
 
-V_WON_TITLE: Glorious Victory!
-V_WON_TEXT: You have achieved [color=#0f0]victory![/color] All the lesser races bow in front of the mighty $2!
+V_WON_TITLE: Victoire Glorieuse !
+V_WON_TEXT: Vous avez atteint la [color=#0f0]victoire![/color] Toutes les races inférieure saluent devant le puissant $2!
 
-V_LESSER_TITLE: Lesser Victory...
-V_LESSER_TEXT: As a vassal empire, you've helped the $1 reach for the stars. Your race survives and even prospers, but will never again have hopes of galactic dominance...
+V_LESSER_TITLE: Petite victoire...
+V_LESSER_TEXT: Comme un vassal d'empire, vous avez aidé $1 à atteindre les étoiles. Votre race survit et même prospère, mais n'aurez jamais à nouveau l'espoir de domination galactique...
 
-V_LOST_TITLE: Defeat!
+V_LOST_TITLE: Défaite !
 V_LOST_TEXT: <<|
-	You have [color=#f00]lost[/color]! Your quest for galactic dominance has left your race in shambles, exterminated and enslaved under the $1's dominion.
+	vous avez [color=#f00]perdu[/color]! Votre recherche de la dominance galactique vous a quitté pour entrer à toute allure en pagaille, exterminé et asservis sous la domination de $1.
 >>
 
-V_SUBJUGATED: Vassal of the $1
-V_RANKINGS: Rankings
+V_SUBJUGATED: Vassal de $1
+V_RANKINGS: Classements
 V_SCORES: Scores
 
-STAT_PLANETS: Planets
-STAT_SHIPS: Flagships
-STAT_STRENGTH: Military
+STAT_PLANETS: Planètes
+STAT_SHIPS: Vaisseaus amiraux
+STAT_STRENGTH: Militaire
 STAT_BUDGET: Budget
-STAT_ENERGY: Energy
+STAT_ENERGY: Energie
 STAT_INFLUENCE: Influence
 STAT_POINTS: Points
 
-EMP_NAME_0: $1 Confederacy
-EMP_NAME_1: Confederacy of the $1
-EMP_NAME_2: $1 Unity
-EMP_NAME_3: United $1
-EMP_NAME_4: Unified $1
-EMP_NAME_5: Unbroken $1
-EMP_NAME_6: $1 Republic
-EMP_NAME_7: $1 People
+EMP_NAME_0: $1 confédération
+EMP_NAME_1: Confédération de $1
+EMP_NAME_2: $1 unité
+EMP_NAME_3: Unifié $1
+EMP_NAME_4: Unifié $1
+EMP_NAME_5: Intact $1
+EMP_NAME_6: $1 république
+EMP_NAME_7: $1 gens
 EMP_NAME_8: $1 Empire
-EMP_NAME_9: $1 Federation
-EMP_NAME_10: Federation of $1
-EMP_NAME_11: Federated $1
-EMP_NAME_12: $1 Hegemony
-EMP_NAME_13: $1 Kingdom
-EMP_NAME_14: $1 Commonwealth
-EMP_NAME_15: $1 States
-EMP_NAME_16: $1 Directorate
-EMP_NAME_17: $1 Symmetry
-EMP_NAME_18: Free $1
-EMP_NAME_19: $1 Hive
-EMP_NAME_20: Civic $1
-EMP_NAME_21: $1 Autonomy
-EMP_NAME_22: Federal $1
-EMP_NAME_23: $1 Dynasty
+EMP_NAME_9: $1 Fédération
+EMP_NAME_10: Fédération de $1
+EMP_NAME_11: Fédéré $1
+EMP_NAME_12: $1 Hégémonie
+EMP_NAME_13: $1 Royaume
+EMP_NAME_14: $1 Communauté
+EMP_NAME_15: $1 États
+EMP_NAME_16: $1 Direction
+EMP_NAME_17: $1 Symétrie
+EMP_NAME_18: Libre $1
+EMP_NAME_19: $1 Ruche
+EMP_NAME_20: Civique $1
+EMP_NAME_21: $1 Autonomie
+EMP_NAME_22: Fédéral $1
+EMP_NAME_23: $1 Dynastie
 
-TRAIT_TERRESTIAL: Terrestrial
+TRAIT_TERRESTIAL: Terrestre
 TRAIT_TERRESTIAL_DESC: <<
-	[vspace=3/][img=MenuIcons::3;20]No particular effects on regular gameplay.[/img]
+	[vspace=3/][img=MenuIcons::3;20]Aucun effets particuliers sur le gameplay du jeu.[/img]
 >>
 TRAIT_MECHANOID: Mechanoid
 TRAIT_MECHANOID_DESC: <<|
-	[vspace=3/] [img=ResourceIcon::6;22]Additional [b]population[/b] must be constructed with labor instead of growing. Each unit of population provides extra labor.[/img]
-	[vspace=3/][img=ActionBarIcons::1;22]Can instantaneouly transfer population between planets to colonize, costing [img=ResourceIcon::3;20/] FTL Energy.[/img]
-	[vspace=3/][img=ResourceIcons::5;22]Does [b]not[/b] require any food or water to level up planets.[/img]
-	[vspace=3/][img=GuiOrbitalIcons::5;22]Cannot use shipyards or dry docks.[/img]
+	[vspace=3/] [img=ResourceIcon::6;22][b]La population[/b] supplémentaire doit être construite avec la main-d'œuvre au lieu de la croissance. Chaque unité de population fournit la main-d'œuvre supplémentaire.[/img]
+	[vspace=3/][img=ActionBarIcons::1;22]Peut transférer instantanément la population des planètes coloniser, coûts en [img=ResourceIcon::3;20/]Energie FTL.[/img]
+	[vspace=3/][img=ResourceIcons::5;22]N'exige [b]pas[/b] de nourriture ou d'eau pour monter la planète de niveau.[/img]
+	[vspace=3/][img=GuiOrbitalIcons::5;22]Vous ne pouvez pas utiliser les chantiers navals ou les cales sèches.[/img]
 >>
 TRAIT_VERDANT: Verdant
 TRAIT_VERDANT_DESC: <<|
