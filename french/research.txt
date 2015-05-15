@@ -1,33 +1,33 @@
-RESEARCH_COST_OR: or
+RESEARCH_COST_OR: ou
 RESEARCH_COST_JOIN: ", "
-RESEARCH_STUDY: Study
-RESEARCH_COST: Research Cost
-RESEARCH_TIME: Research Time
-QUEUE_RESEARCH: Queue Research
-UNQUEUE_RESEARCH: Cancel Queued Research
-NOT_RESEARCHING: No Active Research...
+RESEARCH_STUDY: Etude
+RESEARCH_COST: Coût de recherche
+RESEARCH_TIME: Temps de recherche
+QUEUE_RESEARCH: File d'attente recherche
+UNQUEUE_RESEARCH: Annuler file d'attente recherche
+NOT_RESEARCHING: Pas de recherche active...
 
 R_SCIENCE: Science
-R_SCIENCE_DESC: [i]The root of all knowledge. Unlocked by default as a starting point.[/i]
+R_SCIENCE_DESC: [i]La racine de toutes les connaissances. Débloqué par défaut comme point de départ.[/i]
 
-R_DEV_ENERGY: Energy Science
+R_DEV_ENERGY: Science de l'énergie
 R_DEV_ENERGY_DESC: <<
-	[i][color=#aaa]Improvements to the collection and use of energy.[/color][/i]
+	[i][color=#aaa]Les améliorations apportées à la collecte et l'utilisation de l'énergie.[/color][/i]
 
-	Generates $1 bonus energy immediately when researched normally. Energy gained is decreased by energy storage penalty.
+	Génère $1 bonus d'énergie immédiatement quand recherché normalement. L'énergie gagnée est diminuée par la pénalité de stockage d'énergie.
 
-	[color=#42b4bd][b]Alternate Unlock:[/b] Spend $2 energy.[/color]
-	[offset=40][color=#f88][i]No bonus energy is gained from researching when using the alternate unlock.[/i][/color][/offset]
+	[color=#42b4bd][b]Déblocage alternatif:[/b] Dépenser $2 énergie.[/color]
+	[offset=40][color=#f88][i]Aucun bonus d'énergie n'est gangé à partir des recherches en utilisant le déblocage alternatif.[/i][/color][/offset]
 >>
 
-R_DEV_MONEY: Economics
-R_DEV_MONEY_BLURB: §$1 Special Funds
+R_DEV_MONEY: Economie
+R_DEV_MONEY_BLURB: §$1 Fonds spéciaux
 R_DEV_MONEY_DESC: <<
-	[i][color=#aaa]Further insight into the behaviour of large scale markets and economies.[/color][/i]
+	[i][color=#aaa]Un autre éclairage sur le comportement des marchés à grande échelle et de l'économie.[/color][/i]
 
-	When unlocked, immediately gives you §$1 extra special funds to spend.
+	Quand débloqué, vous donne immédiatement §$1 fonds spéciaux supplémentaires à dépenser.
 
-	[color=#0087c7][b]Alternate Unlock:[/b] Spend $2 influence points.[/color]
+	[color=#0087c7][b]Déblocage alternatif:[/b] Spend $2 influence points.[/color]
 >>
 
 R_DEV_BUDGET: Commerce
@@ -62,7 +62,7 @@ R_DEV_SURGE_DESC: <<
 
 	Gain a "Patriotic Surge" card immediately upon unlocking this technology.
 
-	[color=#d1cb6a][b]Alternate Unlock:[/b] Spend §500k.[/color]
+	[color=#d1cb6a][b]Déblocage alternatif:[/b] Spend §500k.[/color]
 >>
 
 R_DEV_NEGOTIATE: Political Science
@@ -72,7 +72,7 @@ R_DEV_NEGOTIATE_DESC: <<
 
 	Gain an increased-quality "Negotiate" card immediately upon unlocking this technology.
 
-	[color=#d1cb6a][b]Alternate Unlock:[/b] Spend §500k.[/color]
+	[color=#d1cb6a][b]Déblocage alternatif:[/b] Spend §500k.[/color]
 >>
 
 R_DEV_ENHANCE: Synergy
@@ -98,7 +98,7 @@ R_SYS_ANTIMATTER_DESC: <<
 	[color=#aaa][i]Unlocks the Antimatter Generator subsystem.[/i][/color]
 
 	[bbloc=#AMGEN_DESC/]
-	[color=#42b4bd][b]Alternate Unlock:[/b] Spend 1250 energy.[/color]
+	[color=#42b4bd][b]Déblocage alternatif:[/b] Spend 1250 energy.[/color]
 >>
 
 R_SYS_EMERGENCY_SUPPLIES: Emergency Supplies
@@ -107,7 +107,7 @@ R_SYS_EMERGENCY_SUPPLIES_DESC: <<
 
 	[bbloc=#S_EMERGENCY_SUPPLIES_DESC/]
 
-	[color=#42b4bd][b]Alternate Unlock:[/b] Spend 1000 energy.[/color]
+	[color=#42b4bd][b]Déblocage alternatif:[/b] Spend 1000 energy.[/color]
 >>
 
 R_SYS_CONSTRUCTION_BAY: Construction Bay
@@ -116,7 +116,7 @@ R_SYS_CONSTRUCTION_BAY_DESC: <<
 
 	[bbloc=#S_CONSTRUCTION_BAY_DESC/]
 
-	[color=#42b4bd][b]Alternate Unlock:[/b] Spend 1000 energy.[/color]
+	[color=#42b4bd][b]Déblocage alternatif:[/b] Spend 1000 energy.[/color]
 >>
 
 R_SYS_ORE_PROCESSOR: Ore Processor
@@ -132,7 +132,7 @@ R_SYS_GRAVITY_ENGINE_DESC: <<
 
 	[bbloc=#GRAVITYENGINE_DESC/]
 
-	[color=#d1cb6a][b]Alternate Unlock:[/b] Spend §1M.[/color]
+	[color=#d1cb6a][b]Déblocage alternatif:[/b] Spend §1M.[/color]
 >>
 
 R_SYS_HYPERLASER: Hyperdense Laser
@@ -141,7 +141,7 @@ R_SYS_HYPERLASER_DESC: <<
 
 	[bbloc=#S_HYPERLASER_DESC/]
 
-	[color=#d1cb6a][b]Alternate Unlock:[/b] Spend §2M.[/color]
+	[color=#d1cb6a][b]Déblocage alternatif:[/b] Spend §2M.[/color]
 >>
 
 R_SYS_NEUTRON_ARMOR: Neutronium Armor
@@ -150,7 +150,7 @@ R_SYS_NEUTRON_ARMOR_DESC: <<
 
 	[bbloc=#NEUTRONARMOR_DESC/]
 
-	[color=#d1cb6a][b]Alternate Unlock:[/b] Spend §2M.[/color]
+	[color=#d1cb6a][b]Déblocage alternatif:[/b] Spend §2M.[/color]
 >>
 
 R_SYS_LIQUID_ARMOR: Liquid Armor
@@ -159,7 +159,7 @@ R_SYS_LIQUID_ARMOR_DESC: <<
 
 	[bbloc=#S_LIQUIDARMOR_DESC/]
 
-	[color=#d1cb6a][b]Alternate Unlock:[/b] Spend §1M.[/color]
+	[color=#d1cb6a][b]Déblocage alternatif:[/b] Spend §1M.[/color]
 >>
 
 R_SYS_SELF_DESTRUCT: Self-Destruct Device
@@ -168,7 +168,7 @@ R_SYS_SELF_DESTRUCT_DESC: <<
 
 	[bbloc=#S_SELF_DESTRUCT_DESC/]
 
-	[color=#42b4bd][b]Alternate Unlock:[/b] Spend 1000 energy.[/color]
+	[color=#42b4bd][b]Déblocage alternatif:[/b] Spend 1000 energy.[/color]
 >>
 
 R_SYS_SHIP_COMPUTER: Control Computer
@@ -177,7 +177,7 @@ R_SYS_SHIP_COMPUTER_DESC: <<
 
 	[bbloc=#SHIPCOMPUTER_DESC/]
 
-	[color=#42b4bd][b]Alternate Unlock:[/b] Spend 1000 energy.[/color]
+	[color=#42b4bd][b]Déblocage alternatif:[/b] Spend 1000 energy.[/color]
 >>
 
 R_SYS_ION_CANNON: Ion Cannon
@@ -200,7 +200,7 @@ R_SYS_GRAVITON_CONDENSER_DESC: <<
 
 	[bbloc=#S_GRAVITON_CONDENSER_DESC/]
 
-	[color=#42b4bd][b]Alternate Unlock:[/b] Spend 1500 energy.[/color]
+	[color=#42b4bd][b]Déblocage alternatif:[/b] Spend 1500 energy.[/color]
 >>
 
 R_SYS_CLOAKPLATING: Cloaking Mesh
@@ -216,7 +216,7 @@ R_MOD_TARGET_SENSOR_DESC: <<
 
 	[bbloc=#TARGETINGSENSOR_DESC/]
 
-	[color=#d1cb6a][b]Alternate Unlock:[/b] Spend §1.5M.[/color]
+	[color=#d1cb6a][b]Déblocage alternatif:[/b] Spend §1.5M.[/color]
 >>
 
 R_MOD_BULKHEAD: Bulkhead
@@ -225,7 +225,7 @@ R_MOD_BULKHEAD_DESC: <<
 
 	[bbloc=#BULKHEAD_DESC/]
 
-	[color=#d1cb6a][b]Alternate Unlock:[/b] Spend §750k.[/color]
+	[color=#d1cb6a][b]Déblocage alternatif:[/b] Spend §750k.[/color]
 >>
 
 R_MOD_AUGMENT_RELOAD: Coolant System
@@ -234,7 +234,7 @@ R_MOD_AUGMENT_RELOAD_DESC: <<
 
 	[bbloc=#S_AUGMENT_RELOAD_DESC/]
 
-	[color=#d1cb6a][b]Alternate Unlock:[/b] Spend §500k.[/color]
+	[color=#d1cb6a][b]Déblocage alternatif:[/b] Spend §500k.[/color]
 >>
 
 R_MOD_AUGMENT_DAMAGE: Payload Amplifier
@@ -243,7 +243,7 @@ R_MOD_AUGMENT_DAMAGE_DESC: <<
 
 	[bbloc=#S_AUGMENT_DAMAGE_DESC/]
 
-	[color=#d1cb6a][b]Alternate Unlock:[/b] Spend §700k.[/color]
+	[color=#d1cb6a][b]Déblocage alternatif:[/b] Spend §700k.[/color]
 >>
 
 R_MOD_AUGMENT_SUPPLY: Smoothed Mechanism
@@ -252,7 +252,7 @@ R_MOD_AUGMENT_SUPPLY_DESC: <<
 
 	[bbloc=#S_AUGMENT_SUPPLY_DESC/]
 
-	[color=#d1cb6a][b]Alternate Unlock:[/b] Spend §700k.[/color]
+	[color=#d1cb6a][b]Déblocage alternatif:[/b] Spend §700k.[/color]
 >>
 
 R_MOD_QUANTUM_BATTERY: Quantum Battery
@@ -261,7 +261,7 @@ R_MOD_QUANTUM_BATTERY_DESC: <<
 
 	[bbloc=#S_QUANTUM_BATTERY_DESC/]
 
-	[color=#42b4bd][b]Alternate Unlock:[/b] Spend $1 energy.[/color]
+	[color=#42b4bd][b]Déblocage alternatif:[/b] Spend $1 energy.[/color]
 >>
 
 R_IMP_DAMAGE: Kinetics
@@ -337,7 +337,7 @@ R_IMP_ALL_RANGE_DESC: <<
 
 	Increases all weapon range by $1.
 
-	[color=#42b4bd][b]Alternate Unlock:[/b] Spend $2 energy.[/color]
+	[color=#42b4bd][b]Déblocage alternatif:[/b] Spend $2 energy.[/color]
 >>
 
 R_IMP_ARMOR_HEALTH: Armoring
@@ -348,7 +348,7 @@ R_IMP_ARMOR_HEALTH_DESC: <<
 
 	Increases all armor health by $1.
 
-	[color=#d1cb6a][b]Alternate Unlock:[/b] Spend §$2.[/color]
+	[color=#d1cb6a][b]Déblocage alternatif:[/b] Spend §$2.[/color]
 >>
 
 R_IMP_ARMOR_DR: Reinforcement
@@ -357,7 +357,7 @@ R_IMP_ARMOR_DR_BLURB: Armor DR +$1
 R_IMP_ARMOR_DR_DESC: <<
 	Increases all armor damage resistance by $1.
 
-	[color=#d1cb6a][b]Alternate Unlock:[/b] Spend §$2.[/color]
+	[color=#d1cb6a][b]Déblocage alternatif:[/b] Spend §$2.[/color]
 >>
 
 R_IMP_FACTORY_LABOR: Metallurgy
@@ -368,7 +368,7 @@ R_IMP_FACTORY_LABOR_DESC: <<
 
 	Increases the labor generated by Factory buildings by $1.
 
-	[color=#0087c7][b]Alternate Unlock:[/b] Spend $2 influence points.[/color]
+	[color=#0087c7][b]Déblocage alternatif:[/b] Spend $2 influence points.[/color]
 >>
 
 R_IMP_PLANET_SUPPORT: Orbital Command
@@ -413,7 +413,7 @@ R_IMP_THRUST_DESC: <<
 
 	If using Hyperdrive, increases hyperdrive speed by $1 as well.
 
-	[color=#d1cb6a][b]Alternate Unlock:[/b] Spend §$2.[/color]
+	[color=#d1cb6a][b]Déblocage alternatif:[/b] Spend §$2.[/color]
 >>
 
 R_IMP_CIV_CONSTRUCT: Infrastructure
@@ -443,7 +443,7 @@ R_IMP_TRACKING_BLURB: Turret Tracking +$1
 R_IMP_TRACKING_DESC: <<
 	Increases weapon turret tracking rate by $1.
 
-	[color=#d1cb6a][b]Alternate Unlock:[/b] Spend §$2.[/color]
+	[color=#d1cb6a][b]Déblocage alternatif:[/b] Spend §$2.[/color]
 >>
 
 R_IMP_FIRE_RATE: Cooling
@@ -490,7 +490,7 @@ R_SYS_SHIELDGEN_DESC: <<
 	[color=#aaa][i]Unlocks the Shield Generator subsystem.[/i][/color]
 
 	[bbloc=#SHIELDGEN_DESC/]
-	[color=#42b4bd][b]Alternate Unlock:[/b] Spend 750 energy.[/color]
+	[color=#42b4bd][b]Déblocage alternatif:[/b] Spend 750 energy.[/color]
 >>
 R_SYS_SHIELDGEN: Shield Generator
 R_SYS_SHIELD_HARDENER: Shield Hardener
@@ -498,7 +498,7 @@ R_SYS_SHIELD_HARDENER_DESC: <<
 	[color=#aaa][i]Unlocks the Shield Hardener subsystem.[/i][/color]
 
 	[bbloc=#S_SHIELD_HARDENER_DESC/]
-	[color=#42b4bd][b]Alternate Unlock:[/b] Spend 750 energy.[/color]
+	[color=#42b4bd][b]Déblocage alternatif:[/b] Spend 750 energy.[/color]
 >>
 
 R_SHRINE: Shrine
@@ -514,7 +514,7 @@ R_BLD_MEGACITY_DESC: <<
 
 	[bbloc=#BLD_MEGACITY_DESC/]
 
-	[color=#0087c7][b]Alternate Unlock:[/b] Spend $1 influence points.[/color]
+	[color=#0087c7][b]Déblocage alternatif:[/b] Spend $1 influence points.[/color]
 >>
 R_IMP_SHIELDCAP: Phase Containment
 R_IMP_SHIELDCAP_BLURB: Shield HP +$1
@@ -563,7 +563,7 @@ R_SYS_MUON_CANNON_DESC: <<
 
 	[bbloc=#MUONBATTERY_DESC/]
 
-	[color=#d1cb6a][b]Alternate Unlock:[/b] Spend §2M.[/color]
+	[color=#d1cb6a][b]Déblocage alternatif:[/b] Spend §2M.[/color]
 >>
 
 R_SYS_TITAN_HULL: Titan Hull
