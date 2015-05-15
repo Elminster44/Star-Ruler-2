@@ -566,144 +566,144 @@ Vérifié Astrologie, cependant, et je [b]faire[/b] savent que la Voie Lactée e
 Le réacteur de navire est bonne pour trois mille ans, donner ou prendre, si nous pouvons trouver un peu plus de carburant.
 
 [font=Medium]Captain's Log, August 05 - 31330(?)[/font]
-[hr/]Mercy told me I should find someone else to lead the colony in case I kick the bucket. Redundancy. 
-Just like a machine to worry about redundancy when people are staring at the corpses of their dead loved ones.
-I told her to do it herself.
+[hr/]Mercy m'a dit que je devrais trouver quelqu'un d'autre pour diriger la colonie en cas je frappe le seau. Redondance.
+Tout comme une machine à vous soucier de la redondance quand les gens sont à regarder les cadavres de leurs proches morts.
+Je lui ai dit de faire elle-même.
 
 [font=Medium]Captain's Log, September 12 - 31331(?)[/font]
-[hr/]Lots of mourning. Lots of depression. Mercy's 'concerned'. Didn't know AIs could get concerned. Now I'm concerned.
+[hr/]Beaucoup de deuil. Beaucoup de dépression. Mercy 'préoccupé'. Je ne savais pas IA pourrait obtenir concerné. Maintenant, je suis concerné.
 
-With the engines shot and the ship gutted for parts the Colony needed the 'Mission of Mercy' isn't going anywhere anymore. Looks like this is home now.
-At least they kept my ready room mostly intact. Can't stand the smell down there. Note to self: Sewers, pronto.
+Avec le coup de moteurs et le navire vidé pour les pièces de la colonie avait besoin de la «Mission de la Miséricorde» ne va plus nulle part. On dirait que cela est à la maison maintenant.
+Au moins ils ont gardé ma chambre prête en grande partie intact. Vous ne pouvez pas supporter l'odeur là-bas. Note to self: Égouts, pronto.
 
 [font=Medium]Captain's Log, November 4 - 1[/font]
-[hr/]I've set the year clock to 1. Might as well - the atomic clock's gone now. Only year that matters anyway is how long we've been stuck here.
-I think Mercy was crying last night. I can't even begin to understand how that works. Can AIs mourn?
-She told me everyone was suffering - that it was my fault. I shut her down - I don't know if she was a self-evolving rogue AI or some weird glitchy abomination but I don't intend to find out.
+[hr/]Je me suis fixé l'horloge de l'année à 1. pourriez aussi bien - l'horloge atomique est parti maintenant. Seulement l'année que les questions de toute façon est combien de temps nous avons été coincés ici.
+Je pense que Mercy pleurait la nuit dernière. Je ne peux même pas commencer à comprendre comment cela fonctionne. IA peut pleurer?
+Elle m'a dit que tout le monde souffre - qu'il était de ma faute. Je lui Arrêtez - Je ne sais pas si elle était un voyou auto-évolution AI ou une abomination glitchy bizarre, mais je ne veux pas le savoir.
 
-I hear my 'replacement' is near finished with the training in the sim-pod. I've checked his data - I'm not impressed.
-We're deep in the unknown now. Back on Terra Firma, I looked up at the sky and saw just endless possibilities.
-Here on New Hope I look up and all I can feel is this creeping terror. Something is up there - and we're not prepared to meet 'em. 
+Je entends mon «remplacement» est près fini avec la formation dans le sim-pod. Je l'ai vérifié ses données - je ne suis pas impressionné.
+Nous sommes au fond de l'inconnu maintenant. Retour sur la terre ferme, je levai les yeux vers le ciel et a vu juste possibilités infinies.
+Ici, sur New Hope Je lève les yeux et tout ce que je peux sentir est cette terreur rampante. Quelque chose est là - et nous ne sommes pas prêts à répondre à 'em.
 
-I hope to God that 'newbie's luck' applies to whatever it is we're heading for - something tells me the kid's going to need it.
+Je prie Dieu que «la chance du débutant» applique à quoi que ce soit, nous nous dirigeons vers - quelque chose me dit le gamin va en avoir besoin.
 >>
 RACE_OKO: Oko
 RACE_OKO_TAGLINE: La tige mère nous souhaite de croître.
 RACE_OKO_LORE: <<
-The trees sing of the world ending. Our roots have spread too much; our leaves shade the whole of the world.
+Les arbres chantent la fin du monde. Nos racines sont répandues trop; notre feuilles ombre l'ensemble du monde.
 
-The grasses wither. The skies darken. Our roots are planted firm in ashen soil and the horrible chill of death sinks into our moss.
-The Final Winter bears down on all Oko but in our moment of strife, Mother Stalk breathed into us a plan.
+Les herbes se dessèchent. Les cieux assombrir. Nos racines sont plantées dans le sol ferme de cendre et le froid terrible de la mort sombre dans nos mousse.
+The Final Winter porte vers le bas sur tous les Oko mais dans notre moment de lutte, Mère Stalk nous souffla dans un plan.
 
-We will migrate to new fields on chariots of light and unfurl our leaves to new radiance.
+Nous allons migrer vers de nouveaux champs sur des chars de lumière et de déployer nos feuilles d'un nouvel éclat.
 
-Branch and moss and sinew and leaf and light - with these we will make star-ships and cradles for our Sporelings.
+Direction et de la mousse et les tendons et la feuille et la lumière - avec ces étoiles nous ferons navires et berceaux pour nos sporelins.
 
-The Great Wind will spread the Oko to the farthest lights and like spores in summer, we shall thrive once more.
+Le Grand Vent se répandra l'Oko les feux les plus éloignées et, comme les spores en été, nous allons prospérer une fois de plus.
 >>
 RACE_MONO: Mono
 RACE_MONO_TAGLINE: La volonté des créateurs.
 RACE_MONO_LORE: <<
-Memory Index 00: Tumbling through the Void on a stream of highly energized particles of unknown composition. 
-Impact on planet surface at 3,012 kilometers per second. Catastrophic systems damage. 86% of stored information lost.
-Prime Directive: Survive.
+Indice de Mémoire 00: Tumbling à travers le vide sur un flux de particules hautement énergétiques de composition inconnue.
+Impact sur la surface de la planète à 3012 kilomètres par seconde. Dégâts des systèmes catastrophique. 86% des informations stockées perdue.
+Prime Directive: survivre.
 
-Creator: Unknown
-Purpose: Unknown
+Créateur: Unknown
+But: Inconnu
 
-Deepfield scans reveal high probability of other lifeforms. Redundant units must be created; larger volumes of materials are required for mass production.
+Scans Deepfield révèlent une forte probabilité d'autres formes de vie. Unités redondantes doivent être créés; de plus grands volumes de matériaux sont nécessaires à la production de masse.
 
-Analysis of local materials insufficient to ascertain purpose/origin. Purpose/Origin of Mono must be discovered.
+Analyse des matériaux locaux insuffisants pour vérifier but / origine. But / Origine du Mono doit être découvert.
 
-New Directives:
-Create Redundant Units using Unit-00 as template.
-Assimilate/Eliminate threats to Mono.
-Recover Data on Creator.
-Discover and Execute Purpose.
+Nouvelles directives:
+Créez unités redondantes utilisant Unité-00 en tant que modèle.
+Assimiler / éliminer les menaces à Mono.
+Récupérer les données sur Créateur.
+Découvrez et Exécuter But.
 >>
 RACE_NYLLI: Nylli
 RACE_NYLLI_TAGLINE: Pour vivre et mourir parmi les étoiles.
 RACE_NYLLI_LORE: <<|
-Brothers, it cannot be our fate to endlessly crawl along the soils and muck.
-We are destined for more; for things far greater than can be held on any world.
+Frères, il ne peut pas être notre sort sans cesse de ramper le long des sols et la boue.
+Nous sommes destinés pour plus; pour des choses beaucoup plus grande que peut être tenu sur tout monde.
 
-We have been ravaged by war, yes. We were nearly destroyed by famine and plague, yes.
-Yet we refused to break. We howled and raged in our earthen cage, fending off all threats.
-Yet when the homestar consumed our homeworld, we were left with nothing but the Homeship.
-Did we break then? No - because we had grown so strong that not even that could break us.
+Nous avons été ravagé par la guerre, oui. Nous avons été presque détruit par la famine et la peste, oui.
+Pourtant, nous avons refusé de casser. Nous hurlé et a fait rage dans notre cage terre, repoussant toutes les menaces.
+Pourtant, lorsque le homestar consommé notre monde natal, nous sommes partis avec rien mais le Homeship.
+Avons-nous rompons alors? Non - parce que nous avons grandi si forte que même pas qui pourrait nous briser.
 
-We have been led here by hook and sword; thrown out of our nest by the galaxy itself and left to fall into extinction.
-But will we fall, brothers? No. We will sever our tether to the worlds below and spread our wings!
+Nous avons été amenés ici par le crochet et l'épée; jeté hors de notre nid par la galaxie elle-même et à gauche pour tomber dans l'extinction.
+Mais allons-nous tomber, frères? Non, nous allons rompre notre ancrage dans les mondes dessous et déployer nos ailes!
 
-We will soar above the worlds which chained us; soar above all other pretenders; soar above even the galaxy itself.
-Our destiny is here, to live and die among the stars, gliding in the space between worlds.
-The Galaxy calls us to take flight, brothers. Spread your wings and fly!
+Nous allons monter en flèche au-dessus des mondes qui nous enchaînés; planer au-dessus de tous les autres prétendants; planer au-dessus même de la galaxie elle-même.
+Notre destin est ici, pour vivre et mourir parmi les étoiles, glissant dans l'espace entre les mondes.
+Le Galaxy nous appelle à prendre la fuite, frères. Déployez vos ailes et envolez-vous!
 >>
 RACE_FEYH: Feyh
 RACE_FEYH_TAGLINE: L'âme de la galaxie.
 RACE_FEYH_LORE: <<|
-The Old Gods are restless. They speak to me in my dreams of the lights in the sky and our place among them.
-I see my sisters burn as Father Light swallows Mother Moon again and again. I pray - but the visions persist.
-We sacrifice - but the visions persist. Even in meditation I find no peace from the Voice of the Old Gods.
+Les Anciens Dieux sont agités. Ils parlent de moi dans mes rêves des lumières dans le ciel et notre place parmi eux.
+Je vois mes sœurs brûlent comme Père Lumière avale encore et encore Mère Lune. Je prie - mais les visions persiste.
+Nous sacrifions - mais les visions persistons. Même dans la méditation je ne trouve pas la paix de la Voix des Dieux très anciens.
 
-They tell me of a great disturbance in the Abandoned World - fires which rage across strange and alien places.
-A great war is coming, there are other Voices in the Abandoned World - other islands of Faith which exist beyond what we see.
-We must save them - their Barbarism will extinguish not only our Voice but all others.
+Ils me disent d'une grande perturbation dans le Monde Abandonné - incendies qui rage dans des endroits étranges et exotiques.
+Une grande guerre est à venir, il ya d'autres voix dans le monde abandonnée - d'autres îles de la foi qui existent au-delà de ce que nous voyons.
+Nous devons les sauver - éteindre leur barbarie sera non seulement notre voix, mais tous les autres.
 
-A star fell from the heavens above - a 'starship' the Old Gods say. It will protect us from the ravages of the Abandoned World.
-In the arms of the Gods, we take flight into the Abandoned World - we must save the Faithless from themselves.
+Une étoile est tombée du ciel au-dessus - un «vaisseau spatial» disent les Anciens Dieux. Il va nous protéger contre les ravages du Monde abandonnée.
+Dans les bras des Dieux, nous prenons un vol dans le monde abandonné - nous devons sauver la Faithless d'eux-mêmes.
 >>
 RACE_HOONAN: Hoonan
 RACE_HOONAN_TAGLINE: Par le décret de l'unité centrale.
 RACE_HOONAN_LORE: <<
 [b]Posted by Xenophiliac 403 (Citizen ID: 30-22372905-002-Worker) on 4032-03-0012:[/b]
-[offset=20]The Mainframe is at 72% efficiency now - it's outstripping our ability to power and maintain it. I'm getting reports from the Industry of Science that its power output is starting to disrupt entire climates.
+[offset=20]Le Mainframe est à 72% d'efficacité maintenant - ça dépassant notre capacité à alimenter et à la maintenir. Je reçois des rapports de l'industrie des sciences que sa puissance de sortie est commence à perturber les climats entières.
 
-I'm putting it to the Forum of Engineers: We need a solution - we can't keep it on-world any longer. I call for a Resolution.[/offset]
+Je suis en train de mettre au Forum des Ingénieurs: Nous avons besoin d'une solution - nous ne pouvons pas le garder sur le monde plus longtemps. Je appelle à une .[/offset]
 
-[padding=60][i][color=#b7c886]> A CALL FOR A RESOLUTION HAS BEEN MADE. ONE EXPERT-CLASS CITIZEN MUST TABLE A PROPOSITION WITHIN 300 CYCLES OR THE CALL WILL BE IGNORED.[/color][/i][/padding]
+[padding=60][i][color=#b7c886]> UN APPEL POUR UNE RÉSOLUTION a été faite. Un expert-CLASS citoyen doit TABLEAU A PROPOSITION DANS 300 cycles ou de l'appel sera ignoré.[/color][/i][/padding]
 
 [b]Posted by Barbarosa (Citizen ID: 92-33928450-481-Expert) on 4032-03-0134:[/b]
-[offset=20]I've called for it before and I'll call for it again: we need to put the Mainframe in orbit and move the supporting industries off-world.
-There's no other option now. If the Mainframe stays on-world it'll destroy us.[/offset]
+[offset=20]Je l'ai appelé pour lui avant et je vais l'appeler pour lui à nouveau: nous avons besoin de mettre en orbite le Mainframe et déplacer les industries de soutien hors-monde.
+Il n'y a pas d'autre option maintenant. Si le Mainframe reste sur le monde, il va nous détruire.[/offset]
 
 [color=#c8b786]
-Vote: Move the Mainframe into Orbit and Move Supporting Industries Off-world[/color]
-[i]1,931,163 [offset=120]AGREE (91%)[/offset]
-0,192,704 [offset=120]DISAGREE (9%)[/offset]
+Vote: Déplacez le Mainframe en orbite et Déplacer Appuyer les industries hors-monde[/color]
+[i]1,931,163 [offset=120]ACCORD (91%)[/offset]
+0,192,704 [offset=120]DÉSACCORD (9%)[/offset]
 
-[padding=60][color=#b7c886]> ALL CITIZENS HAVE VOTED. PROPOSITION SENT TO MAINFRAME FOR ANALYSIS/RECTIFICATION[/color][/padding][/i]
+[padding=60][color=#b7c886]> Tous les citoyens ont voté. PROPOSITION POUR ENVOYER À MAINFRAME ANALYSE / RECTIFICATION[/color][/padding][/i]
 
 [b]Posted by SYSTEM (HID: 0-000-0001) on 4032-03-4144:[/b]
-[offset=20]PROPOSITION ACCEPTED.
-DIRECTIVES TO ACHIEVE OBJECTIVE "MOVE MAINFRAME INTO ORBIT" AND "MOVE SUPPORTING INDUSTRIES (MAINFRAME) OFF-WORLD" SENT TO RELEVANT INDUSTRIES.
-PROJECT START DATE: IMMEDIATE.[/offset]
+[offset=20]PROPOSITION RETENUE.
+DIRECTIVES pour atteindre l'objectif "DEPLACER MAINFRAME en orbite" et "Placer les industries de soutien (MAINFRAME) OFF-MONDE" ENVOYÉ industries concernées.
+DÉBUT DU PROJET DATE: IMMÉDIATE.[/offset]
 >>
 RACE_SAAR: Saar
 RACE_SAAR_TAGLINE: Le Message doit être étendu.
 RACE_SAAR_LORE: <<|
-Greetings and Peace to You.
+Salutations et paix à vous.
 
-We gift and entreat you to this Message of Hope:
+Nous cadeau et vous supplions de ce message d'espoir:
 
-We are all children of the Stars. As the galaxy spins we reflect many Hues - but we are one Spectrum.
-Your leaders say 'No! They are Others - they are not of our Family!  They do not share our Blood!'
-But, our kin, they are wrong!  They deceive you with their clouded eyes and closed minds - they cannot see the Truth.
+Nous sommes tous les enfants des étoiles. Comme la galaxie tourne nous réfléchissons beaucoup Hues - mais nous sommes un spectre.
+Vos dirigeants disent «Non! Ils sont autres - ils ne sont pas de notre famille! Ils ne partagent pas notre sang!
+Mais, nos parents, ils ont tort! Ils vous trompent avec leurs yeux embués et les esprits fermés - ils ne peuvent pas voir la vérité.
 
-Our Gods want only for us to share our bounty with you - our blood and family - and all we ask is for you to share in return.
-When all is shared nothing can be truly lost. There will be no pain; no anger; no want: only the empty bliss.
-Enter the Void, forget yourself, and listen to your inner Stardust.
+Nos Dieux veulent seulement pour nous de partager notre générosité avec vous - notre sang et de la famille - et tout ce que nous demandons est pour vous faire partager en retour.
+Quand tout est partagé rien ne peut être vraiment perdu. Il n'y aura pas de douleur; pas de colère; ne manque pas: seul le bonheur vide.
+Enter the Void, oubliez vous-même, et d'écouter votre Stardust intérieure.
 
-Your False Prophets and Leaders shed the blood of the Galaxy; blood we all share in kind.
-But we need not fight each other. Ask yourself: Are not all equal under the Stars?  At our core, are we not Kin?
-You would not allow another to cut off your arm - and yet your masters command you to?
+Vos faux prophètes et dirigeants versé le sang de la Galaxie; le sang que nous partageons tous en nature.
+Mais nous ne devons pas se battre entre eux. Demandez-vous: sommes pas tous égaux sous les étoiles? Lors de notre âme, nous sommes pas Kin?
+Vous ne seriez pas permettre à un autre de couper votre bras - et pourtant vos maîtres vous ordonner de?
 
-These are the act of madmen. These 'leaders' of yours seek only to cannibalize what we wish to preserve!
-This galaxy is ours and yet They would divide it. We are of the same Blood and yet they wish to shed it!
+Ce sont l'acte de fous. Ces «leaders» de la vôtre ne cherchent qu'à cannibaliser ce que nous souhaitons préserver!
+Cette galaxie est la nôtre et pourtant ils se diviser. Nous sommes du même sang et pourtant ils tenons à le répandre!
 
-Awaken!  Join us in the Light and foreswear your Oppressors and Tyrants.
-Those who slay your fellow Kin and shed your blood do not deserve your protection!
-See all as it is, as it was, and as it ever shall be; the Great Union.
+Réveillez! Rejoignez-nous dans la Lumière et abjurer vos oppresseurs et les tyrans.
+Ceux qui tuent vos concitoyens Kin et versé votre sang ne méritent pas votre protection!
+Voir tous tel qu'il est, tel qu'il était, et comme il ne sera jamais; l'Union des Grands.
 >>
 
 PLAY_AS_RACE: Jouer $1
