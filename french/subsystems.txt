@@ -1,12 +1,12 @@
-SC_Hulls: [hspace=4/][img=DesignationIcons::16;32x32/][hspace=6/]  [color=#cc6a3a]Hulls[/color]
-SC_Control: [vspace=-14][img=Bridge;42x42/][/vspace]  [color=#2fd6b3]Control[/color]
-SC_Weapons: [vspace=-18][hspace=-22/][img=Railgun::2;70x53/][/vspace][hspace=-10/]  [color=#f9464d]Weapons[/color]
+SC_Hulls: [hspace=4/][img=DesignationIcons::16;32x32/][hspace=6/]  [color=#cc6a3a]Coques[/color]
+SC_Control: [vspace=-14][img=Bridge;42x42/][/vspace]  [color=#2fd6b3]Contrôle[/color]
+SC_Weapons: [vspace=-18][hspace=-22/][img=Railgun::2;70x53/][/vspace][hspace=-10/]  [color=#f9464d]Armes[/color]
 SC_Propulsion: [hspace=-10/][vspace=-56][img=RocketEngine;84x84/][/vspace][hspace=-32/]  [color=#f9e146]Propulsion[/color]
-SC_Defense: [vspace=-14][img=PlateArmor;42x42/][/vspace]  [color=#a9a9a9]Defense[/color]
+SC_Defense: [vspace=-14][img=PlateArmor;42x42/][/vspace]  [color=#a9a9a9]Défense[/color]
 SC_FTL: [img=HexagonSubsystems::10;42x21;#f00/]  [color=#67a7ad]FTL[/color]
-SC_Modifiers: [img=HexagonSubsystems::0;42x21;#cf00ff/]  [color=#eda1ff]Modifiers[/color]
+SC_Modifiers: [img=HexagonSubsystems::0;42x21;#cf00ff/]  [color=#eda1ff]Modificateurs[/color]
 SC_Support: [vspace=-14][img=SupportCommand;42x42/][/vspace]  [color=#eda1ff]Support[/color]
-SC_Equipment: [vspace=-22][hspace=-29/][img=TractorGun::2;100x76/][/vspace][hspace=-29/]  [color=#8bb800]Equipment[/color]
+SC_Equipment: [vspace=-22][hspace=-29/][img=TractorGun::2;100x76/][/vspace][hspace=-29/]  [color=#8bb800]Equipement[/color]
 SC_Misc: Misc
 
 CREWCONTROL_NAME: Bridge and Crew
