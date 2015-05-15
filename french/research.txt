@@ -56,268 +56,268 @@ R_DEV_FTL_INCOME_DESC: <<
 >>
 
 R_DEV_SURGE: Utilisation Médiatique
-R_DEV_SURGE_BLURB: 1x Patriotic Surge
+R_DEV_SURGE_BLURB: 1x Vague patriotique
 R_DEV_SURGE_DESC: <<
-	[i][color=#aaa]Audience research into more effective ways of riling populations into action.[/color][/i]
+	[i][color=#aaa]Les études d'audience dans des moyens plus efficaces d'incitation de populations en action.[/color][/i]
 
-	Gain a "Patriotic Surge" card immediately upon unlocking this technology.
+	Acquérir une carte "Vague patriotique" immédiatement après le déverrouillage de cette technologie.
 
-	[color=#d1cb6a][b]Déblocage alternatif:[/b] Spend §500k.[/color]
+	[color=#d1cb6a][b]Déblocage alternatif:[/b] Dépenser §500k.[/color]
 >>
 
-R_DEV_NEGOTIATE: Political Science
-R_DEV_NEGOTIATE_BLURB: 1x Negotiate (*)
+R_DEV_NEGOTIATE: Science Politique
+R_DEV_NEGOTIATE_BLURB: 1x Négocier (*)
 R_DEV_NEGOTIATE_DESC: <<
-	[i][color=#aaa]Think tanks and studies on better use of capital for political gain.[/color][/i]
+	[i][color=#aaa]Groupes de réflexion et études sur de meilleure utilisation de capital pour un gain politique.[/color][/i]
 
-	Gain an increased-quality "Negotiate" card immediately upon unlocking this technology.
+	Obtenez une carte de qualité accrue "Négocier" immédiatement après déverrouillage cette technologie.
 
-	[color=#d1cb6a][b]Déblocage alternatif:[/b] Spend §500k.[/color]
+	[color=#d1cb6a][b]Déblocage alternatif:[/b] Dépenser §500k.[/color]
 >>
 
-R_DEV_ENHANCE: Synergy
-R_DEV_ENHANCE_BLURB: 1x Enhance
+R_DEV_ENHANCE: Synergie
+R_DEV_ENHANCE_BLURB: 1x Renforcer
 R_DEV_ENHANCE_DESC: <<
-	[i][color=#aaa]Develop better ways to utilize existing strategies.[/color][/i]
+	[i][color=#aaa]Développer de meilleures façons d'utiliser les stratégies existantes.[/color][/i]
 
-	Gain an "Enhance" card immediately upon unlocking this technology.
+	Gagner une carte "Renforcer" immédiatement après le déverrouillage de cette technologie.
 >>
 
-R_DEV_INFLUENCE: Diplomacy
+R_DEV_INFLUENCE: Diplomatie
 R_DEV_INFLUENCE_BLURB: 5 Influence
 R_DEV_INFLUENCE_DESC: <<
-	[i][color=#aaa]Focused studies and research on the behaviour of various factions.[/color][/i]
+	[i][color=#aaa]Axe d'études et de recherches sur le comportement des diverses factions.[/color][/i]
 
-	When unlocked, immediately gives you $1 influence points to spend.
+	Quand débloqué, vous donne immédiatement $1 points d'influence à dépenser.
 >>
 
-R_SYS_ANTIMATTER: Antimatter Generator
+R_SYS_ANTIMATTER: Générateur d'Antimatière
 
-R_SYS_ANTIMATTER: Antimatter Generator
+R_SYS_ANTIMATTER: Générateur d'Antimatière
 R_SYS_ANTIMATTER_DESC: <<
-	[color=#aaa][i]Unlocks the Antimatter Generator subsystem.[/i][/color]
+	[color=#aaa][i]Débloque le sous-système Générateur d'Antimatière.[/i][/color]
 
 	[bbloc=#AMGEN_DESC/]
-	[color=#42b4bd][b]Déblocage alternatif:[/b] Spend 1250 energy.[/color]
+	[color=#42b4bd][b]Déblocage alternatif:[/b] Dépenser 1250 énergie.[/color]
 >>
 
-R_SYS_EMERGENCY_SUPPLIES: Emergency Supplies
+R_SYS_EMERGENCY_SUPPLIES: Fournitures d'urgence
 R_SYS_EMERGENCY_SUPPLIES_DESC: <<
-	[color=#aaa][i]Unlocks the Emergency Supplies subsystem.[/i][/color]
+	[color=#aaa][i]Débloque le sous-système fournitures d'urgence.[/i][/color]
 
 	[bbloc=#S_EMERGENCY_SUPPLIES_DESC/]
 
-	[color=#42b4bd][b]Déblocage alternatif:[/b] Spend 1000 energy.[/color]
+	[color=#42b4bd][b]Déblocage alternatif:[/b] Dépenser 1000 énergie.[/color]
 >>
 
-R_SYS_CONSTRUCTION_BAY: Construction Bay
+R_SYS_CONSTRUCTION_BAY: Baie de Construction
 R_SYS_CONSTRUCTION_BAY_DESC: <<
-	[color=#aaa][i]Unlocks the Construction Bay subsystem.[/i][/color]
+	[color=#aaa][i]Débloque le sous-système Baie de Construction.[/i][/color]
 
 	[bbloc=#S_CONSTRUCTION_BAY_DESC/]
 
-	[color=#42b4bd][b]Déblocage alternatif:[/b] Spend 1000 energy.[/color]
+	[color=#42b4bd][b]Déblocage alternatif:[/b] Dépenser 1000 énergie.[/color]
 >>
 
-R_SYS_ORE_PROCESSOR: Ore Processor
+R_SYS_ORE_PROCESSOR: Processeur de Minerai
 R_SYS_ORE_PROCESSOR_DESC: <<
-	[color=#aaa][i]Unlocks the Ore Processor subsystem.[/i][/color]
+	[color=#aaa][i]Débloque le sous-système Processeur de Minerai.[/i][/color]
 
 	[bbloc=#S_ORE_PROCESSOR_DESC/]
 >>
 
-R_SYS_GRAVITY_ENGINE: Graviton Engine
+R_SYS_GRAVITY_ENGINE: Moteur de gravitation
 R_SYS_GRAVITY_ENGINE_DESC: <<
-	[color=#aaa][i]Unlocks the Graviton Engine subsystem.[/i][/color]
+	[color=#aaa][i]Débloque le sous-système Moteur de gravitation.[/i][/color]
 
 	[bbloc=#GRAVITYENGINE_DESC/]
 
-	[color=#d1cb6a][b]Déblocage alternatif:[/b] Spend §1M.[/color]
+	[color=#d1cb6a][b]Déblocage alternatif:[/b] Dépenser §1M.[/color]
 >>
 
-R_SYS_HYPERLASER: Hyperdense Laser
+R_SYS_HYPERLASER: Laser Hyperdense
 R_SYS_HYPERLASER_DESC: <<
-	[color=#aaa][i]Unlocks the Hyperdense Laser subsystem.[/i][/color]
+	[color=#aaa][i]Débloque le sous-système Laser Hyperdense.[/i][/color]
 
 	[bbloc=#S_HYPERLASER_DESC/]
 
-	[color=#d1cb6a][b]Déblocage alternatif:[/b] Spend §2M.[/color]
+	[color=#d1cb6a][b]Déblocage alternatif:[/b] Dépenser §2M.[/color]
 >>
 
-R_SYS_NEUTRON_ARMOR: Neutronium Armor
+R_SYS_NEUTRON_ARMOR: Armure Neutronium 
 R_SYS_NEUTRON_ARMOR_DESC: <<
-	[color=#aaa][i]Unlocks the Neutronium Armor subsystem.[/i][/color]
+	[color=#aaa][i]Débloque le sous-système Armure Neutronium.[/i][/color]
 
 	[bbloc=#NEUTRONARMOR_DESC/]
 
-	[color=#d1cb6a][b]Déblocage alternatif:[/b] Spend §2M.[/color]
+	[color=#d1cb6a][b]Déblocage alternatif:[/b] Dépenser §2M.[/color]
 >>
 
-R_SYS_LIQUID_ARMOR: Liquid Armor
+R_SYS_LIQUID_ARMOR: Armure liquide
 R_SYS_LIQUID_ARMOR_DESC: <<
-	[color=#aaa][i]Unlocks the Liquid Armor subsystem.[/i][/color]
+	[color=#aaa][i]Débloque le sous-système Armure liquide.[/i][/color]
 
 	[bbloc=#S_LIQUIDARMOR_DESC/]
 
-	[color=#d1cb6a][b]Déblocage alternatif:[/b] Spend §1M.[/color]
+	[color=#d1cb6a][b]Déblocage alternatif:[/b] Dépenser §1M.[/color]
 >>
 
-R_SYS_SELF_DESTRUCT: Self-Destruct Device
+R_SYS_SELF_DESTRUCT: Dispositif Auto-destruction
 R_SYS_SELF_DESTRUCT_DESC: <<
-	[color=#aaa][i]Unlocks the Self-Destruct Device subsystem.[/i][/color]
+	[color=#aaa][i]Débloque le sous-système Dispositif Auto-destruction.[/i][/color]
 
 	[bbloc=#S_SELF_DESTRUCT_DESC/]
 
-	[color=#42b4bd][b]Déblocage alternatif:[/b] Spend 1000 energy.[/color]
+	[color=#42b4bd][b]Déblocage alternatif:[/b] Dépenser 1000 énergie.[/color]
 >>
 
-R_SYS_SHIP_COMPUTER: Control Computer
+R_SYS_SHIP_COMPUTER: Ordinateur de Contrôle
 R_SYS_SHIP_COMPUTER_DESC: <<
-	[color=#aaa][i]Unlocks the Control Computer subsystem.[/i][/color]
+	[color=#aaa][i]Débloque le sous-système Ordinateur de Contrôle.[/i][/color]
 
 	[bbloc=#SHIPCOMPUTER_DESC/]
 
-	[color=#42b4bd][b]Déblocage alternatif:[/b] Spend 1000 energy.[/color]
+	[color=#42b4bd][b]Déblocage alternatif:[/b] Dépenser 1000 énergie.[/color]
 >>
 
-R_SYS_ION_CANNON: Ion Cannon
+R_SYS_ION_CANNON: Canon à Ion
 R_SYS_ION_CANNON_DESC: <<
-	[color=#aaa][i]Unlocks the Ion Cannon subsystem.[/i][/color]
+	[color=#aaa][i]Débloque le sous-système Canon à Ion.[/i][/color]
 
 	[bbloc=#S_ION_CANNON_DESC/]
 >>
 
-R_SYS_SKIP_DRIVE: Skip Drive
+R_SYS_SKIP_DRIVE: Énergie de Saut
 R_SYS_SKIP_DRIVE_DESC: <<
-	[color=#aaa][i]Unlocks the Skip Drive subsystem.[/i][/color]
+	[color=#aaa][i]Débloque le sous-système Énergie de Saut.[/i][/color]
 
 	[bbloc=#S_SKIP_DRIVE_DESC/]
 >>
 
-R_SYS_GRAVITON_CONDENSER: Graviton Condenser
+R_SYS_GRAVITON_CONDENSER: Condensateur de gravitation
 R_SYS_GRAVITON_CONDENSER_DESC: <<
-	[color=#aaa][i]Unlocks the Graviton Condenser subsystem.[/i][/color]
+	[color=#aaa][i]Débloque le sous-système Condensateur de gravitation.[/i][/color]
 
 	[bbloc=#S_GRAVITON_CONDENSER_DESC/]
 
-	[color=#42b4bd][b]Déblocage alternatif:[/b] Spend 1500 energy.[/color]
+	[color=#42b4bd][b]Déblocage alternatif:[/b] Dépenser 1500 énergie.[/color]
 >>
 
-R_SYS_CLOAKPLATING: Cloaking Mesh
+R_SYS_CLOAKPLATING: Dissimulation de Maille
 R_SYS_CLOAKPLATING_DESC: <<
-	[color=#aaa][i]Unlocks the Cloaking Mesh subsystem.[/i][/color]
+	[color=#aaa][i]Débloque le sous-système Dissimulation de Maille.[/i][/color]
 
 	[bbloc=#S_CLOAKPLATING_DESC/]
 >>
 
-R_MOD_TARGET_SENSOR: Targeting Sensor
+R_MOD_TARGET_SENSOR: Capteur de ciblage
 R_MOD_TARGET_SENSOR_DESC: <<
-	[color=#aaa][i]Unlocks the Targeting Sensor[/i][/color]
+	[color=#aaa][i]Débloque Capteur de ciblage[/i][/color]
 
 	[bbloc=#TARGETINGSENSOR_DESC/]
 
-	[color=#d1cb6a][b]Déblocage alternatif:[/b] Spend §1.5M.[/color]
+	[color=#d1cb6a][b]Déblocage alternatif:[/b] Dépenser §1.5M.[/color]
 >>
 
-R_MOD_BULKHEAD: Bulkhead
+R_MOD_BULKHEAD: Cloison
 R_MOD_BULKHEAD_DESC: <<
-	[color=#aaa][i]Unlocks the Bulkhead[/i][/color]
+	[color=#aaa][i]Débloque cloison[/i][/color]
 
 	[bbloc=#BULKHEAD_DESC/]
 
-	[color=#d1cb6a][b]Déblocage alternatif:[/b] Spend §750k.[/color]
+	[color=#d1cb6a][b]Déblocage alternatif:[/b] Dépenser §750k.[/color]
 >>
 
-R_MOD_AUGMENT_RELOAD: Coolant System
+R_MOD_AUGMENT_RELOAD: Système de refroidissement
 R_MOD_AUGMENT_RELOAD_DESC: <<
-	[color=#aaa][i]Unlocks the 'Coolant System' weapon modifier.[/i][/color]
+	[color=#aaa][i]Débloque modificateur arme "système de refroidissement".[/i][/color]
 
 	[bbloc=#S_AUGMENT_RELOAD_DESC/]
 
-	[color=#d1cb6a][b]Déblocage alternatif:[/b] Spend §500k.[/color]
+	[color=#d1cb6a][b]Déblocage alternatif:[/b] Dépenser §500k.[/color]
 >>
 
-R_MOD_AUGMENT_DAMAGE: Payload Amplifier
+R_MOD_AUGMENT_DAMAGE: Amplificateur de Charge utile
 R_MOD_AUGMENT_DAMAGE_DESC: <<
-	[color=#aaa][i]Unlocks the 'Payload Amplifier' weapon modifier.[/i][/color]
+	[color=#aaa][i]Débloque modificateur arme "Amplificateur de Charge utile".[/i][/color]
 
 	[bbloc=#S_AUGMENT_DAMAGE_DESC/]
 
-	[color=#d1cb6a][b]Déblocage alternatif:[/b] Spend §700k.[/color]
+	[color=#d1cb6a][b]Déblocage alternatif:[/b] Dépenser §700k.[/color]
 >>
 
-R_MOD_AUGMENT_SUPPLY: Smoothed Mechanism
+R_MOD_AUGMENT_SUPPLY: Mécanisme lissé
 R_MOD_AUGMENT_SUPPLY_DESC: <<
-	[color=#aaa][i]Unlocks the 'Smoothed Mechanism' weapon modifier.[/i][/color]
+	[color=#aaa][i]Débloque modificateur arme "Mécanisme lissé".[/i][/color]
 
 	[bbloc=#S_AUGMENT_SUPPLY_DESC/]
 
-	[color=#d1cb6a][b]Déblocage alternatif:[/b] Spend §700k.[/color]
+	[color=#d1cb6a][b]Déblocage alternatif:[/b] Dépenser §700k.[/color]
 >>
 
-R_MOD_QUANTUM_BATTERY: Quantum Battery
+R_MOD_QUANTUM_BATTERY: Batterie Quantique
 R_MOD_QUANTUM_BATTERY_DESC: <<
-	[color=#aaa][i]Unlocks the 'Quantum Battery' modifier.[/i][/color]
+	[color=#aaa][i]Débloque le modificateur "Batterie Quantique".[/i][/color]
 
 	[bbloc=#S_QUANTUM_BATTERY_DESC/]
 
-	[color=#42b4bd][b]Déblocage alternatif:[/b] Spend $1 energy.[/color]
+	[color=#42b4bd][b]Déblocage alternatif:[/b] Dépenser $1 énergie.[/color]
 >>
 
-R_IMP_DAMAGE: Kinetics
-R_IMP_DAMAGE2: Kinetics 2
+R_IMP_DAMAGE: Cinétique
+R_IMP_DAMAGE2: Cinétique 2
 R_IMP_DAMAGE_SMALL: Impact
-R_IMP_DAMAGE_BLURB: Weapon Damage +$1
+R_IMP_DAMAGE_BLURB: Dégâts d'Arme +$1
 R_IMP_DAMAGE_DESC: <<
-	[i][color=#aaa]Research on how to best damage, detonate and destroy enemy starships.[/color][/i]
+	[i][color=#aaa]La recherche sur la meilleure façon de faire des dommages, faire exploser et détruire les vaisseaux spatiaux ennemis.[/color][/i]
 
-	Increases all ship weapon damage by $1.
+	Augmente tous les dégâts d'arme du vaisseau de $1.
 >>
 
-R_IMP_PLANET_DAMAGE: Ballistics
-R_IMP_PLANET_DAMAGE2: Ballistics 2
-R_IMP_PLANET_DAMAGE_BLURB: Planetary Damage +$1
+R_IMP_PLANET_DAMAGE: Balistique
+R_IMP_PLANET_DAMAGE2: Balistique 2
+R_IMP_PLANET_DAMAGE_BLURB: Dommages planétaire +$1
 R_IMP_PLANET_DAMAGE_DESC: <<
-	Increases the DPS output of planetary and static defense weapons by $1.
+	Augmente le DPS des armes planétaires et défense statiques de $1.
 >>
 
-R_IMP_FLAG_DAMAGE: Weaponry
-R_IMP_FLAG_DAMAGE2: Weaponry 2
-R_IMP_FLAG_DAMAGE_BLURB: Flagship Damage +$1
+R_IMP_FLAG_DAMAGE: Armements
+R_IMP_FLAG_DAMAGE2: Armements 2
+R_IMP_FLAG_DAMAGE_BLURB: Dégâts vaisseaux amiraux +$1
 R_IMP_FLAG_DAMAGE_DESC: <<
-	Increases all flagship weapon damage by $1.
+	Augmente tous les dégâts d'arme des vaisseaux amiraux de $1.
 >>
 
 R_IMP_SUPPORT_DAMAGE: Destruction
 R_IMP_SUPPORT_DAMAGE2: Destruction 2
-R_IMP_SUPPORT_DAMAGE_BLURB: Support Damage +$1
+R_IMP_SUPPORT_DAMAGE_BLURB: Dégâts du soutien +$1
 R_IMP_SUPPORT_DAMAGE_DESC: <<
-	Increases all support ship weapon damage by $1.
+	Augmente tous les dégâts d'arme des vaisseaux de soutien de $1.
 >>
 
-R_IMP_ALL_HEALTH: Materials Science
-R_IMP_ALL_HEALTH2: Materials Science 2
-R_IMP_ALL_HEALTH_BLURB: Subsystem Health +$1
+R_IMP_ALL_HEALTH: Science des matériaux
+R_IMP_ALL_HEALTH2: Science des matériaux 2
+R_IMP_ALL_HEALTH_BLURB: Santé des Sous-système +$1
 R_IMP_ALL_HEALTH_DESC: <<
-	[i][color=#aaa]Research on how to improve the structural integrity of starship subsystems, letting them take more damage before ceasing to function.[/color][/i]
+	[i][color=#aaa]Les recherches sur la façon d'améliorer l'intégrité structurelle des sous-systèmes de vaisseaux, leur permettant de prendre plus de dégâts avant de cesser de fonctionner.[/color][/i]
 
-	Increases all ship subsystem health by $1.
+	Augmente la santé des sous-sytèmes des vaisseaux de $1.
 >>
 
-R_IMP_REPAIR: Repair
-R_IMP_REPAIR2: Repair 2
-R_IMP_REPAIR_BLURB: Repair +$1
+R_IMP_REPAIR: Réparation
+R_IMP_REPAIR2: Réparation 2
+R_IMP_REPAIR_BLURB: Réparation +$1
 R_IMP_REPAIR_DESC: <<
-	Increases ship repair rate by $1.
+	Augmente le taux de réparation des vaisseaux de $1.
 >>
 
-R_IMP_CIV_HEALTH: Mass Production
-R_IMP_CIV_HEALTH2: Civil Armoring
-R_IMP_CIV_HEALTH_BLURB: Civilian Health +$1
+R_IMP_CIV_HEALTH: Production en série
+R_IMP_CIV_HEALTH2: Blindage civil
+R_IMP_CIV_HEALTH_BLURB: Santé civil +$1
 R_IMP_CIV_HEALTH_DESC: <<
-	[i][color=#aaa]The design and development of affordable forms of military armors and systems, increasing the health of civilian units.[/color][/i]
+	[i][color=#aaa]La conception et le développement de formes abordables d'armures et des systèmes militaires, améliorer la santé des unités civiles.[/color][/i]
 
-	Increases all civilian health by $1.
+	Augmente la santé civil de $1.
 >>
 
 R_IMP_DECAY: Stockpiling
