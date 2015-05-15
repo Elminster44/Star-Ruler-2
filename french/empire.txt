@@ -211,27 +211,27 @@ TRAIT_SOCIAL_PARANOIA_DESC: <<|
 	Notre paranoïa sociale a tendance à travailler contre nous avec d'autres races. Les propositions que vous commencez débutent avec 3 soutien de moins.
 >>
 
-TRAIT_EUPHORIC: Euphoric
+TRAIT_EUPHORIC: Euphorique
 TRAIT_EUPHORIC_DESC: <<|
-	We ride on an endless wave of euphoria, together. All Level 2+ planets are Happy.
+	Nous allons sur une vague infinie d'euphorie, ensemble. Toutes planètes Niveau 2+ sont heureuse.
 >>
 
-TRAIT_GENEROUS: Generous
+TRAIT_GENEROUS: Généreux
 TRAIT_GENEROUS_DESC: <<|
-	Our generosity is a powerful ally for our cause. Empires you are allied with receive half the benefit of your Welfare option.
+	Notre générosité est un puissant allié pour notre cause. Les empires avec qui vous êtes allié reçoivent la moitié du bénéfice de l'option de bien-être.
 >>
 
-TRAIT_RED_TAPE: Red Tape
+TRAIT_RED_TAPE: Bureaucratie
 TRAIT_RED_TAPE_DESC: <<|
-	The jewels of our political influence often get buried under the weight of our administration's red tape. Each six minutes you hold a card reduces that card's quality by 1.
+	Les joyaux de notre influence politique sont souvent enterrés sous le poids de la paperasserie de notre administration. Toute les six minutes vous détenez une carte qui réduit la qualité de cette carte par 1.
 >>
 
-TRAIT_WAR_MINDED: War Minded
+TRAIT_WAR_MINDED: Disposition à la guerre
 TRAIT_WAR_MINDED_DESC: <<|
-	We have little interest in galactic politics. Support and Vote cards cost 1 extra Influence to play.
+	Nous avons peu d'intérêt pour la politique galactique. Cartes de soutien et de vote coûtent 1 Influence supplémentaire à jouer.
 >>
 
-TRAIT_PATENT_PENDING: Patent Pending
+TRAIT_PATENT_PENDING: En attente de brevet
 TRAIT_PATENT_PENDING_DESC: <<|
 	They shall come to fear the theft of our ideas. When you complete a research Project gain a Leverage card for each Empire which has also completed that research.
 >>
