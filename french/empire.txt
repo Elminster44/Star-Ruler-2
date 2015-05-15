@@ -233,22 +233,22 @@ TRAIT_WAR_MINDED_DESC: <<|
 
 TRAIT_PATENT_PENDING: En attente de brevet
 TRAIT_PATENT_PENDING_DESC: <<|
-	They shall come to fear the theft of our ideas. When you complete a research Project gain a Leverage card for each Empire which has also completed that research.
+	Ils en sont venus à craindre le vol de nos idées. Lorsque vous avez terminé un projet de recherche vous gagner une carte effet de levier pour chaque empire qui a également terminé cette recherche.
 >>
 
-TRAIT_SEQUESTERED_SOCIETY: Sequestered Society
+TRAIT_SEQUESTERED_SOCIETY: Société Isolée
 TRAIT_SEQUESTERED_SOCIETY_DESC: <<|
-	We have lived a quiet life so far but now is the time to reach for the stars. Your homeworld begins with all its tiles fully developed.
+	Nous avons vécu une vie tranquille jusqu'à présent, mais il est maintenant temps d'atteindre les étoiles. Votre monde natal commence avec toutes ses cases pleinement développés.
 >>
 
-TRAIT_DWARF_PLANET: Dwarf Planet
+TRAIT_DWARF_PLANET: Planète naine
 TRAIT_DWARF_PLANET_DESC: <<|
-	We may have outgrown our cradle but an infinite number of worlds await us in the heavens. Your homeworld is a Small (8x5) Planet.
+	Nous somme devenu trop grand pour notre berceau mais un nombre infini de mondes nous attend dans le ciel. Votre monde natal est une petite (8x5) Planète.
 >>
 
-TRAIT_ENORMOUS_PLANET: Enormous Planet
+TRAIT_ENORMOUS_PLANET: Planète énorme
 TRAIT_ENORMOUS_PLANET_DESC: <<|
-	Ours is a titan against which all other worlds are measured. Your homeworld is a Large (20x15) Planet.
+	Le nôtre est un titan contre qui tous les autres mondes sont mesurés. Votre monde natal est une grande (20x15) Planète.
 >>
 
 TRAIT_INNOVATIVE: Innovative
