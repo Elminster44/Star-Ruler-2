@@ -32,9 +32,9 @@ RACE_POINTS_AVAIL_NEG: $1 point(s) requis
 
 RACE_PROFILE: [img=TabWiki;30][vspace=6/]Profile[/img]
 TRAIT_CAT_Government: [img=$Influence;30][vspace=6/]Gouvernement[/img]
-TRAIT_CAT_Foundation: [img=$Labor;30][vspace=6/]Foundation[/img]
+TRAIT_CAT_Foundation: [img=$Labor;30][vspace=6/]Fondation[/img]
 TRAIT_CAT_FTL: [img=$FTL;30][vspace=6/]FTL[/img]
-TRAIT_CAT_Personality: [img=$Population;30][vspace=6/]Personality[/img]
+TRAIT_CAT_Personality: [img=$Population;30][vspace=6/]Personnalité[/img]
 TRAIT_CAT_Biology: Biologie
 TRAIT_CAT_Military: Militaire
 TRAIT_CAT_Tendency: Tendance
@@ -42,7 +42,7 @@ TRAIT_CAT_Lifestyle: [img=$Planet;30][vspace=6/]Vie[/img]
 
 TRAIT_POOR: Pauvre
 TRAIT_POOR_DESC: <<|
-	Your first budget cycle when you start the game has no money available.
+	Votre premier cycle budgétaire lorsque vous démarrez le jeu n'a pas d'argent disponible.
 >>
 
 TRAIT_INDUSTRIOUS: Industrieux
@@ -138,77 +138,77 @@ TRAIT_SLIPSTREAM_DESC: <<|
 	Générateur spécialisé de déchirure de temps et d'espace qui permet aux vaisseaux de se déplacer immédiatement entre eux.
 >>
 
-TRAIT_ANCIENT_VESSEL: Ancient Vessel
+TRAIT_ANCIENT_VESSEL: Navire Antique
 TRAIT_ANCIENT_VESSEL_DESC: <<|
-	This proud vessel has long flown over our planet. Now, we shall reclaim it.
-	Start with a Remnant Flagship.
+	Ce fier vaisseau a longtemps survolé notre planète. Maintenant, nous allons le récupérer.
+	Commencez avec un vaisseau Remnant.
 >>
 
-TRAIT_MANIFEST_DESTINY: Manifest Destiny
+TRAIT_MANIFEST_DESTINY: Destin de Manifeste
 TRAIT_MANIFEST_DESTINY_DESC: <<|
-	The worlds of the galaxy are ours to command.
-	Use 25% less supply when performing a siege on an enemy world.
+	Les mondes de la galaxie sont les nôtres pour commander.
+	Utiliser 25% en moins d'approvisionnement lors de l'exécution d'un siège sur un monde ennemi.
 >>
 
-TRAIT_MILITARY_INDUSTRIAL_COMPLEX: Military Industrial Complex
+TRAIT_MILITARY_INDUSTRIAL_COMPLEX: Complexe militaro-industriel
 TRAIT_MILITARY_INDUSTRIAL_COMPLEX_DESC: <<|
-	We have long held standing armies; this continues to be the case. Start with 50 Labor
-	in free support ships.
+	Nous avons longtemps tenu des armées permanentes; cela continue d'être le cas. Commencez avec 50 main dd'oeuvre
+	à bord des vaisseaux de soutien.
 >>
 
-TRAIT_FORTIFIED: Fortified
+TRAIT_FORTIFIED: Fortifié
 TRAIT_FORTIFIED_DESC: <<|
-	Your Homeworld starts with a native Pekelm.
+	Votre monde natal commence avec un Pekelm natif.
 >>
 
-TRAIT_PYROMANIA: Pyromania
+TRAIT_PYROMANIA: Pyromanie
 TRAIT_PYROMANIA_DESC: <<|
-	Missile-based weapons deal 25% more damage. Damage from fires aboard your ships is doubled.
+	Armes à base de missiles offre 25% de dégâts supplémentaire. Les dommages causés par les incendies à bord de vos vaisseaux sont doublé.
 >>
 
 TRAIT_VIRILE: Virile
 TRAIT_VIRILE_DESC: <<|
-	The population on your homeworld grows twice as fast.
+	La population de votre monde natal augmente deux fois plus vite.
 >>
 
-TRAIT_SEDENTARY: Sedentary
+TRAIT_SEDENTARY: Sédentaire
 TRAIT_SEDENTARY_DESC: <<|
-	Building construction is 30% slower. Applies to civilian as well as imperial infrastructure.
+	Le secteur du bâtiment est 30% plus lent. Applicable aux civils ainsi que les infrastructures impériale.
 >>
 
-TRAIT_SUBLIGHT: Sublight
+TRAIT_SUBLIGHT: Sous-lumière
 TRAIT_SUBLIGHT_DESC: <<|
-	We have not discovered any means to break the lightspeed barrier. No FTL drive, FTL generation, or FTL storage.
+	Nous avons pas découvert tous les moyens pour briser la barrière de la vitesse de la lumière. Pas d'impulsion FTL, de génération FTL, ou de stockage FTL.
 >>
 
-TRAIT_PIOUS: Tendency: Pious
+TRAIT_PIOUS: Tendance: Pieux
 TRAIT_PIOUS_DESC: <<|
-	Abilities: Incapacitate, Press the Attack, Warchest Contributions, Pilgrimage.
+	Capacités : Frapper d'incapacité, Appuyez sur l'Attaque, Contributions Warchest, Pèlerinage.
 >>
 
-TRAIT_SPACE_PROGRAM: Space Program
+TRAIT_SPACE_PROGRAM: Programme spatial
 TRAIT_SPACE_PROGRAM_DESC: <<|
-	We have examined our surroundings for decades. Nearby systems are pre-scouted at the start of the game.
+	Nous avons examiné notre environnement pendant des décennies. Les systèmes voisins sont pré-repéré au début du jeu.
 >>
 
-TRAIT_REVOLUTIONARIES: Revolutionaries
+TRAIT_REVOLUTIONARIES: Révolutionnaires
 TRAIT_REVOLUTIONARIES_DESC: <<|
-	They shall take our lives before they take our empire! Planets under siege generate support ships.
+	Ils prennent nos vies avant de prendre notre empire ! Les planètes assiégées génèrent des vaisseaux de soutien.
 >>
 
-TRAIT_EMPATHIC: Empathic
+TRAIT_EMPATHIC: Apathique
 TRAIT_EMPATHIC_DESC: <<|
-	We wield our ability to sense emotion as a warrior wields a sword. The support values of Leverage and Negotiate cards are doubled when you play them.
+	Nous exerçons notre capacité de sentir l'émotion comme un guerrier manie une épée. Les valeurs des cartes effet de levier et de négociation sont doublés lorsque vous les jouez.
 >>
 
-TRAIT_CHARISMATIC: Charismatic
+TRAIT_CHARISMATIC: Charismatique
 TRAIT_CHARISMATIC_DESC: <<|
-	Votes started by your empire begin with 3 Support instead of 1.
+	Les votes ouvert par votre empire commencent par 3 Soutien au lieu de 1.
 >>
 
-TRAIT_SOCIAL_PARANOIA: Social Paranoia
+TRAIT_SOCIAL_PARANOIA: Paranoia sociale
 TRAIT_SOCIAL_PARANOIA_DESC: <<|
-	Our social paranoia tends to work against us with other races. Propositions you start begin with 3 less Support.
+	Notre paranoïa sociale a tendance à travailler contre nous avec d'autres races. Les propositions que vous commencez débutent avec 3 soutien de moins.
 >>
 
 TRAIT_EUPHORIC: Euphoric
