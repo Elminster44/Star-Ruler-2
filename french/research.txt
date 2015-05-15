@@ -437,41 +437,41 @@ R_IMP_TILE_DEVELOPMENT_DESC: <<
 	Augmente la vitesse à laquelle le développement des cases civile se produit sur les planètes de $1.
 >>
 
-R_IMP_TRACKING: Hydraulics
-R_IMP_TRACKING2: Hydraulics 2
-R_IMP_TRACKING_BLURB: Turret Tracking +$1
+R_IMP_TRACKING: Hydraulique
+R_IMP_TRACKING2: Hydraulique 2
+R_IMP_TRACKING_BLURB: Suivi de Tourelle +$1
 R_IMP_TRACKING_DESC: <<
-	Increases weapon turret tracking rate by $1.
+	Augmente le taux de suivi des armes tourelle de $1.
 
-	[color=#d1cb6a][b]Déblocage alternatif:[/b] Spend §$2.[/color]
+	[color=#d1cb6a][b]Déblocage alternatif:[/b] Dépenser §$2.[/color]
 >>
 
-R_IMP_FIRE_RATE: Cooling
-R_IMP_FIRE_RATE2: Cooling 2
-R_IMP_FIRE_RATE_BLURB: Weapon Reload +$1
+R_IMP_FIRE_RATE: Refroidissement
+R_IMP_FIRE_RATE2: Refroidissement 2
+R_IMP_FIRE_RATE_BLURB: Rechargement arme +$1
 R_IMP_FIRE_RATE_DESC: <<
-	Increases the fire rate of all weapon systems by $1.
+	Augmente la cadence de tir de tous les systèmes d'armes de $1.
 >>
 
 R_IMP_PROJ_SPEED: Projectiles
 R_IMP_PROJ_SPEED2: Projectiles 2
-R_IMP_PROJ_SPEED_BLURB: Projectile Speed +$1
-R_IMP_PROJ_SPEED_DESC: Increases the speed of all weapon projectiles and missiles by $1.
+R_IMP_PROJ_SPEED_BLURB: Vitesse Projectile +$1
+R_IMP_PROJ_SPEED_DESC: Augmente la vitesse de tous les projectiles d'armes et de missiles de $1.
 
-R_IMP_SUPPLY_USE: Ordinance
-R_IMP_SUPPLY_USE2: Ordinance 2
-R_IMP_SUPPLY_USE_BLURB: Flagship Supply Use -$1
-R_IMP_SUPPLY_USE_DESC: Reduces the supply use of all flagship weapons by $1.
+R_IMP_SUPPLY_USE: Ordonnance
+R_IMP_SUPPLY_USE2: Ordonnance 2
+R_IMP_SUPPLY_USE_BLURB: Utilisation de Provision Vaisseau amiral -$1
+R_IMP_SUPPLY_USE_DESC: Réduit l'utilisation de provision de toutes les armes des vaisseaux amiraux de $1.
 
-R_IMP_SUPPLY_REGEN: Resupply
-R_IMP_SUPPLY_REGEN2: Resupply 2
-R_IMP_SUPPLY_REGEN_BLURB: Resupply Rate +$1
-R_IMP_SUPPLY_REGEN_DESC: Increases the rate at which flagships regain supply by $1.
+R_IMP_SUPPLY_REGEN: Réapprovisionnement
+R_IMP_SUPPLY_REGEN2: Réapprovisionnement 2
+R_IMP_SUPPLY_REGEN_BLURB: Taux réapprovisionnement +$1
+R_IMP_SUPPLY_REGEN_DESC: Augmente le taux auquel les vaisseaux amiraux regagnent des provisions de $1.
 
-R_IMP_SUPPORT_SUPPLY_USE: Efficiency
-R_IMP_SUPPORT_SUPPLY_USE2: Efficiency 2
-R_IMP_SUPPORT_SUPPLY_USE_BLURB: Support Supply Use -$1
-R_IMP_SUPPORT_SUPPLY_USE_DESC: Reduces the supply use of all support ship weapons by $1.
+R_IMP_SUPPORT_SUPPLY_USE: Efficacité
+R_IMP_SUPPORT_SUPPLY_USE2: Efficacité 2
+R_IMP_SUPPORT_SUPPLY_USE_BLURB: Utilisation de Provision du Soutien -$1
+R_IMP_SUPPORT_SUPPLY_USE_DESC: Réduit l'utilisation de provision de toutes les armes de vaisseaux de soutien de $1.
 
 R_IMP_ENERGY_STORAGE: Capacitance
 R_IMP_ENERGY_STORAGE2: Capacitance 2
