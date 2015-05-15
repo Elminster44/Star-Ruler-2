@@ -439,56 +439,56 @@ S_VERDANT_SINEW: Tendon
 S_VERDANT_SINEW_DESC: <<
 	Le tendon tient, alimente et fournit le contrôle pour toutes les parties mécaniques d'un vaisseau verdoyant.
 
-	[img=ActionBarIcons::0;22;#00ff80]Provides [b][color=#00ff80]Control[/color][/b] to operate other subsystems.[/img]
-	[img=ActionBarIcons::0;22]All interior and non-armor hexes in the ship must be adjacent to at least one Sinew hex.[/img]
-	[img=Minus]Ship is destroyed if more than 70% of all Sinew gets destroyed.[/img]
-	[img=Plantation;22][b][color=#5fb41c]Only available when the 'Verdant' race option is chosen.[/color][/b][/img]
+	[img=ActionBarIcons::0;22;#00ff80]Fournit le [b][color=#00ff80]Contrôle[/color][/b] pour faire fonctionner d'autres sous-systèmes.[/img]
+	[img=ActionBarIcons::0;22]Tous les hexagones intérieurs et non-blindés dans le vaisseau doivent être adjacent à au moins un hexagone tendon.[/img]
+	[img=Minus]Le vaisseau est détruit si plus de 70% de tous les tendons sont détruit.[/img]
+	[img=Plantation;22][b][color=#5fb41c]Uniquement disponible lorsque l'option de race "Verdoyant" est choisi.[/color][/b][/img]
 >>
-BLD_STALK: Stalk
+BLD_STALK: Tige
 BLD_STALK_DESC: <<
-	A giant verdant stalk needed for the planet to communicate with the rest of your population.
+	Une tige verdoyante géante nécessaire pour que la planète communique avec le reste de votre population.
 
-	Must be constructed in order for a planet to make use of pressure.
+	Doit être construit pour qu'une planète face usage de la pression.
 >>
-BLD_MOTHER_STALK: Mother Stalk
+BLD_MOTHER_STALK: TIge mère
 BLD_MOTHER_STALK_DESC: <<
-	The source of all verdant life. The mother stalk sustains us.
+	La source de toute vie verdoyant. La tige de la mère nous soutient.
 >>
 
-ABL_MECHANOID_COLONIZE: Transfer 1B Population
+ABL_MECHANOID_COLONIZE: Transfert 1M Population
 ABL_MECHANOID_COLONIZE_DESC: <<
-	Transfer 1B Population from this planet to another. Transfering population costs FTL energy, but can be done freely to colonize new planets or supply existing colonies with more population.
+	Transfert 1M population de cette planète à l'autre. Le transfert de population coûte de l'énergie FTL, Mais peut être fait librement pour coloniser de nouvelles planètes ou approvisioner des colonies existante avec plus de population.
 >>
-MECH_BUILD_POPULATION: Construct 1B Population
+MECH_BUILD_POPULATION: Construire 1M Population
 MECH_BUILD_POPULATION_DESC: <<
-	Construct 1B new mechanoid population on this planet.
+	Construire 1M de nouvelle population de mechanoid sur cette planète.
 
-	As you construct more population, the labor cost of constructing will increase.
+	Comme vous construisez plus de population, le coût de la main-d'œuvre de construction va augmenter.
 >>
 
-TRAIT_LINKED: Linked
+TRAIT_LINKED: Lié
 TRAIT_LINKED_DESC: <<|
-	[vspace=3/] [img=AttributeIcons::3;22][b]Mainframe[/b] orbitals must be constructed in order to maintain fleet effectiveness. Fleets near mainframes are stronger, fleets far away from mainframes are weaker.[/img]
-	[vspace=6/][img=AnomalyIcons::0;22]Mainframes can remotely scan anomalies within trade range.[/img]
-	[vspace=6/][img=ComputerCore;22][b]Control Computer[/b] subsystem is available from the start.[/img]
-	[vspace=6/][img=AntimatterReactor;22;#b8b800][b]Emergency Supplies[/b] subsystem is available from the start.[/img]
+	[vspace=3/] [img=AttributeIcons::3;22][b]L'unité centrale[/b] orbitale doit être construit afin de maintenir l'efficacité de la flotte. Les flottes près des unités centrales sont plus fortes, les flottes loin d'unités centrales sont plus faibles.[/img]
+	[vspace=6/][img=AnomalyIcons::0;22]Les unités centrales peuvent analyser à distance des anomalies dans le rayon commerciale.[/img]
+	[vspace=6/][img=ComputerCore;22][b]Ordinateur de contrôle[/b] Le sous-système est disponible à partir de l'étoile.[/img]
+	[vspace=6/][img=AntimatterReactor;22;#b8b800][b]Fournitures d'urgence[/b] Le sous-système est disponible à partir de l'étoile.[/img]
 >>
-ORB_MAINFRAME: Mainframe
-ORB_MAINFRAME_BLURB: Increases the strength of nearby fleets. Can be moved slowly.
+ORB_MAINFRAME: Unité centrale
+ORB_MAINFRAME_BLURB: Augmente la force de flottes à proximité. Peut être déplacé lentement.
 ORB_MAINFRAME_DESC: <<
-	Maintains the link of individual fleets to the collective network.
+	Maintient le lien des flottes individuels au réseau collectif.
 
-	Fleets near mainframes fight with increased strength.
+	Les flottes près de l'unité centrale se battent avec une force accrue.
 	
-	Fleets far away from mainframes fight with significantly weakened strength.
+	Les flottes loin de l'unité centrale se battent avec une force considérablement affaiblie.
 
-	The mainframe's weapons will only fire when it is currently in allied territory.
+	Les armes de l'unité centrale ne se déclenche que quand elle est en territoire allié.
 
-	Mainframes have small ion thrusters that allow it to move slowly.
+	L'unité centrale possède de petits propulseurs ioniques qui lui permette de se déplacer lentement.
 >>
-ABL_REMOTE_SCAN: Remote Scan Anomaly
+ABL_REMOTE_SCAN: Analyse anomalies à distance
 ABL_REMOTE_SCAN_DESC: <<
-	Remotely scan an anomaly within our territory.
+	Analyse à distance d'une anomalie au sein de notre territoire.
 >>
 
 TRAIT_DEVOUT: Devout
