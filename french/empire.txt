@@ -491,36 +491,36 @@ ABL_REMOTE_SCAN_DESC: <<
 	Analyse à distance d'une anomalie au sein de notre territoire.
 >>
 
-TRAIT_DEVOUT: Devout
+TRAIT_DEVOUT: Pieux
 TRAIT_DEVOUT_DESC: <<|
-	[vspace=3/] [img=ResourceIconsSmall::53;22]Sufficient [b]Altar[/b] buildings must be constructed for your empire's total population. Altars sacrifice planetary resources.[/img]
-	[vspace=6/][img=AntimatterReactor;22;#408fc1]Flagships must contain [b]Shrines[/b] for your crew to pray at. Prayer shields your ships from harm.[/img]
-	[vspace=6/][img=AttributeIcons::3;22]When insufficient Altars are built for your population, your planets and fleets become [b]Godless[/b], decreasing their strength and resource production.[/img]
-	[vspace=6/][img=ResourceIcon::8;22]Your planets have 1 increased [b]maximum population[/b] per planet level.[/img]
+	[vspace=3/] [img=ResourceIconsSmall::53;22]Le batiment [b]Autel[/b] doit être construit en nombre suffisant pour la population totale de votre empire. Ressources planétaires sacrifiées sur l'autel.[/img]
+	[vspace=6/][img=AntimatterReactor;22;#408fc1]Les vaisseaux amiraux doivent contenir [b]Sanctuaires[/b] pour que votre équipage puisse prier. Les prières protège vos navires des dommages.[/img]
+	[vspace=6/][img=AttributeIcons::3;22]Lorsque les Autels ne sont pas suffisaments construits pour votre population, vos planètes et flottes deviennent [b]impie[/b], diminuant leur production de force et ressources.[/img]
+	[vspace=6/][img=ResourceIcon::8;22]Vos planètes ont une augmentation de 1 [b]population maximale[/b] par niveau de la planète.[/img]
 >>
-BLD_ALTAR: Altar
+BLD_ALTAR: Autel
 BLD_ALTAR_DESC: <<
-	A great Altar used to sacrifice resources to the Gods. Altars replace the native resources of the planet when constructed.
+	Un grand autel utilisé au sacrifice des ressources pour les Dieux. Les Autels remplacent les ressources natives de la planète lorsqu'ils sont construits.
 
-	Enough altars must be constructed for all Devout population. Altars support more population the higher the level of the planet they are on.
+	Assez d'autels doivent être construits pour toute la population pieuse. Les autels soutiennent plus de population si le niveau de la planète est plus élevé et se trouve là où ils sont raccordés.
 
-	If not enough altars are available, all your fleets and planets without altars will become increasingly Godless, leading to decreased efficiency and production.
+	Si pas assez d'autels disponibles, tous vos flottes et planètes sans autels deviendront de plus en plus athée, conduisant à une diminution de l'efficacité et de la production.
 >>
-ALTAR: Altar
-ALTAR_DESC: This planet is sacrificing its resources on an Altar.
-ALTAR_SUPPORTS: Altar Supported:
-ALTAR_SUPPORTED_CURRENT: Total Supported:
+ALTAR: Autel
+ALTAR_DESC: Cette planète sacrifie ses ressources sur un autel.
+ALTAR_SUPPORTS: Autel Soutien:
+ALTAR_SUPPORTED_CURRENT: Total pris en charge:
 ALTAR_TOTAL_POPULATION: Empire Pop.:
-STATUS_GODLESS: Godless
+STATUS_GODLESS: Impie
 STATUS_GODLESS_FLEET: <<
-	This fleet is currently becoming increasingly Godless, leading to decreased combat strength.
+	Cette flotte est actuellement de plus en plus impie, conduisant à une diminution de la force de combat.
 
-	Build or level up more Altars on your planets to remove this effect.
+	Construire ou monter de niveau plus d'Autels sur vos planètes pour éliminer cet effet.
 >>
 STATUS_GODLESS_PLANET: <<
-	This planet is currently becoming increasingly Godless, leading to decreased resource production.
+	Cette planète est en train de devenir de plus en plus impie, conduisant à une diminution de la production de ressources.
 
-	Build or level up more Altars on your planets to remove this effect.
+	Construire ou monter de niveau plus d'Autels sur vos planètes pour éliminer cet effet.
 >>
 
 TRAIT_EVANGELICAL: Evangelical
@@ -706,5 +706,5 @@ Those who slay your fellow Kin and shed your blood do not deserve your protectio
 See all as it is, as it was, and as it ever shall be; the Great Union.
 >>
 
-PLAY_AS_RACE: Play $1
-CHOOSE_A_RACE: Select $1
+PLAY_AS_RACE: Jouer $1
+CHOOSE_A_RACE: Sélectionner $1
