@@ -371,18 +371,18 @@ SABOTAGE_NOTIFY: $1 ont saboté $2 "$5" effet.
 
 CARD_INVESTIGATE: Enquêter
 CARD_INVESTIGATE_DESC: <<|
-	After subtly spreading rumors of nefarious developments occuring in another
-	empire, we offer to petition for a galactic senate investigation into the
-	matter to clear these obvious misunderstandings. The investigation will
-	prove useful for gaining intelligence on the other empire's internal
-	affairs.
+	Après la diffusion de rumeurs subtile des développements néfastes se produisent dans une autre
+	empire, nous offrons une pétition pour une enquête du sénat galactique sur la
+	question pour effacer ces malentendus évidents. L'enquête
+	se révéle utile pour obtenir des renseignements sur les affaires interne de
+	l'autre empire.
 
-	[i]If the vote created by this action passes, all empires will gain vision
-	of the target empire for 10 minutes. Does not work on empires you are at
-	war with. Only you pay the effect's upkeep cost.[/i]
+	[i]Si le vote créé par cette action passe, tous les empires acquerront vision
+	de l'empire cible pendant 10 minutes. Ne fonctionne pas sur les empires avec qui vous êtes
+	en guerre. Seulement vous payez le coût d'entretien de l'effet.[/i]
 >>
-VOTE_INVESTIGATE: Investigate the $1
-EFFECT_INVESTIGATE: Investigation of the $1
+VOTE_INVESTIGATE: Enquêter sur $1
+EFFECT_INVESTIGATE: Enquête de $1
 
 CARD_RIDER: Attach Rider
 CARD_RIDER_DESC: <<|
