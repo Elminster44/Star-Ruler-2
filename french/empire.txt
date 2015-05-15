@@ -350,13 +350,13 @@ TRAIT_MECHANOID_DESC: <<|
 	[vspace=3/][img=ResourceIcons::5;22]N'exige [b]pas[/b] de nourriture ou d'eau pour monter la planète de niveau.[/img]
 	[vspace=3/][img=GuiOrbitalIcons::5;22]Vous ne pouvez pas utiliser les chantiers navals ou les cales sèches.[/img]
 >>
-TRAIT_VERDANT: Verdant
+TRAIT_VERDANT: Verdoyant
 TRAIT_VERDANT_DESC: <<|
 	[vspace=3/] [img=Sinew;22]Les vaisseaux doivent être maintenues ensemble par des [b]tendons[/b] organique, offrant un contrôle au lieu d'avoir un pont.[/img]
 	[vspace=6/][img=BuildingSprites::0;22]Ne [b]pas[/b] avoir aucune forme de villes.[/img]
 	[vspace=6/][img=AttributeIcons::0;22]Doit construire [b]Les tiges[/b] sur les planètes pour être en mesure d'utiliser la pression.[/img]
 >>
-TRAIT_STAR_CHILDREN: Star Children
+TRAIT_STAR_CHILDREN: Enfants d'Étoile
 TRAIT_STAR_CHILDREN_DESC: <<|
 	[vspace=3/] [img=ResourceIcon::8;22]Population ne grandit que sur des [b]Vaisseaux mère[/b] géants qui ont les capacités de construction.[/img]
 	[vspace=3/][img=ActionBarIcons::1;22]Les vaisseaux mère peuvent déplacer la population sur des [b]Habitats[/b] orbitale autour des planètes, pour les laisser utiliser les ressources de la planète.[/img]
@@ -378,66 +378,66 @@ TRAIT_RANDOM_FTL_DESC: <<
 
 	Vous recevrez un bonus [b][color=#806020]Montée Patriotique[/color][/b] en carte de diplomatie au début du jeu.
 >>
-TRAIT_RANDOM_LIFESTYLE: Aléatoire (Life)
+TRAIT_RANDOM_LIFESTYLE: Aléatoire (Vie)
 TRAIT_RANDOM_LIFESTYLE_DESC: <<
-	Automatically get assigned a random Life trait when the game starts.
+	Obtenir automatiquement un trait de vie aléatoire lorsque le jeu démarre.
 
-	You will receive a bonus of [b][color=#8c4ec9]+1 Research per second[/color][/b].
+	Vous recevrez un bonus de [b][color=#8c4ec9]+1 Recherche par seconde[/color][/b].
 >>
 
-STATUS_MOTHERSHIP_POPULATION: Mothership
+STATUS_MOTHERSHIP_POPULATION: Vaiseau mère
 STATUS_MOTHERSHIP_POPULATION_DESC: <<
-	This is a mothership, and is currently carrying population.
+	Ceci est un vaisseau-mère, et contient actuellement de la population. Et transporte actuellement la population.
 
-	Motherships can construct things with labor. When in orbit of a planet with labor, the mothership gains that labor.
+	Vaisseau mère peut construire des choses avec la main-d'œuvre. Lorsqu'en orbite autour d'une planète avec la main d'oeuvre, il gagne de la main d'oeuvre.
 
-	Planetary resources can be exploited by building habitats around planets to offload population into.
+	Les ressources planétaires peuvent être exploitées par la construction d'habitats autour des planètes pour décharger la population.
 
-	Every population currently living on this mothership increases your income by Â§15k.
+	Chaque population vivant actuellement sur ce vaisseau mère augmente vos revenus de Â§15k.
 
-	[b]Motherships cannot fire outside friendly territory.[/b]
+	[b]Le vaisseau mère ne peut pas tirer à l'extérieur du territoire amical.[/b]
 >>
-STATUS_STAR_HABITATS: Star Habitats
+STATUS_STAR_HABITATS: Habitats étoiles
 STATUS_STAR_HABITATS_DESC: <<
-	This planet is being exploited by population living in orbital habitats, rather than on the surface.
+	Cette planète est exploitée par la population vivant dans des habitats orbitaux, plutôt que sur la surface.
 >>
-S_MOTHERSHIP_HULL: Mothership Hull
+S_MOTHERSHIP_HULL:  Coque vaisseau mère
 S_MOTHERSHIP_HULL_DESC: <<
-	Motherships carry and grow population.
+	Les vaisseaux mère transporte et développe la population.
 
-	Motherships can construct things with labor. When in orbit of a planet with labor, the mothership gains that labor.
+	Vaisseau mère peut construire des choses avec la main-d'œuvre. Lorsqu'en orbite autour d'une planète avec la main d'oeuvre, il gagne de la main d'oeuvre.
 
-	Planetary resources can be exploited by building habitats around planets to offload population into.
+	Les ressources planétaires peuvent être exploitées par la construction d'habitats autour des planètes pour décharger la population.
 
-	[b]Motherships cannot fire outside friendly territory.[/b]
+	[b]Le vaisseau mère ne peut pas tirer à l'extérieur du territoire amical[/b]
 
-	[img=Plantation;22][b][color=#1c9bb4]Only available when the 'Star Children' race option is chosen.[/color][/b][/img]
+	[img=Plantation;22][b][color=#1c9bb4]Uniquement disponible lorsque l'option de race "Enfants d'étoile" est choisie.[/color][/b][/img]
 >>
 ORB_HABITAT: Habitat
-ORB_HABITAT_BLURB: Constructed for population to live in around the planet.
-ABL_MOTHERSHIP_COLONIZE: Build Habitats around Planet
+ORB_HABITAT_BLURB: Construit autour des planètes pour que la population puisse y vivre.
+ABL_MOTHERSHIP_COLONIZE: Construisez Habitats autour de Planète
 ABL_MOTHERSHIP_COLONIZE_DESC: <<
-	Construct a number of orbital habitats around the target planet for population to live in.
+	Construire un certain nombre d'habitats orbitaux autour de la planète cible pour que la population y vive.
 
-	Will automatically construct an amount of habitats to match the population needed by the planet for its native resource level. Can be manually triggered on owned planets of higher level to fill up to their maximum population.
+	Va construire automatiquement une quantité d'habitats pour correspondre à la population nécessaire à la planète pour son niveau de ressources natif. Peut être déclenché manuellement sur des planètes de niveau supérieur vous appartenant pour remplir leur population maximale.
 >>
-R_IMP_MOTHERSHIP_LABOR: Metallurgy
-R_IMP_MOTHERSHIP_LABOR2: Metallurgy 2
-R_IMP_MOTHERSHIP_LABOR_BLURB: Mothership Labor +$1
+R_IMP_MOTHERSHIP_LABOR: Métallurgie
+R_IMP_MOTHERSHIP_LABOR2: Métallurgie 2
+R_IMP_MOTHERSHIP_LABOR_BLURB: Main d'oeuvre vaisseau mère +$1
 R_IMP_MOTHERSHIP_LABOR_DESC: <<
-	Increases the labor available on motherships by $1.
+	Augmente la main-d'œuvre disponible sur les vaisseaux mère de $1.
 
-	[color=#0087c7][b]Alternate Unlock:[/b] Spend $2 influence points.[/color]
+	[color=#0087c7][b]Débloquage alternatif:[/b]Dépensez $2 points d'influence.[/color]
 >>
 R_IMP_HABITAT: Habitation
-R_IMP_HABITAT_BLURB: Habitat Strength +$1
+R_IMP_HABITAT_BLURB: Force d'habitat +$1
 R_IMP_HABITAT_DESC: <<
-	Increases the health and damage output of habitats by $1.
+	Augmente la santé et la production de dégâts d'habitats de $1.
 >>
 
-S_VERDANT_SINEW: Sinew
+S_VERDANT_SINEW: Tendon
 S_VERDANT_SINEW_DESC: <<
-	Sinew holds together, feeds and provides control for all mechanical parts of a verdant ship.
+	Le tendon tient, alimente et fournit le contrôle pour toutes les parties mécaniques d'un vaisseau verdoyant.
 
 	[img=ActionBarIcons::0;22;#00ff80]Provides [b][color=#00ff80]Control[/color][/b] to operate other subsystems.[/img]
 	[img=ActionBarIcons::0;22]All interior and non-armor hexes in the ship must be adjacent to at least one Sinew hex.[/img]
