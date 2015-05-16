@@ -156,37 +156,37 @@ LASER_DESC: <<
 	[img=Minus]Tourelle à angle de tir très limité.[/img]
 >>
 
-MISSILELAUNCHER_NAME: Missile Launcher
+MISSILELAUNCHER_NAME: Lance-missiles
 MISSILELAUNCHER_DESC: <<
-	Missiles loaded with explosives and sufficient propellant are lowered out of the ship and locked onto their primary target.
+	Missiles chargés d'explosifs et avec une quantité suffisante de propergol sont abaissées sur le vaisseau et verrouillés sur leur cible principale.
 	
-	[img=Plus]High [b][color=#ff8080]damage[/color][/b].[/img]
-	[img=Plus]No firing arc limitations.[/img]
-	[img=Plus]Very effective at piercing armor.[/img]
-	[img=Minus]Slow fire rate.[/img]
-	[img=Minus]Very high [b][color=#fefc61]supply cost[/color][/b].[/img]
+	[img=Plus]Haut [b][color=#ff8080]dégâts[/color][/b].[/img]
+	[img=Plus]Aucune limitation d'angle de tir.[/img]
+	[img=Plus]Très efficace pour percer l'armure.[/img]
+	[img=Minus]Cadence de tir lente.[/img]
+	[img=Minus]Très haut [b][color=#fefc61]coût d'approvisionnement[/color][/b].[/img]
 >>
 
-S_SELF_DESTRUCT: Self Destruct Device
+S_SELF_DESTRUCT: Dispositif Auto-destruction
 S_SELF_DESTRUCT_DESC: <<
-	A massive warhead designed to detonate when the host vessel becomes unstable.
+	Une ogive massive conçu pour exploser lorsque le vaisseau hôte devient instable.
 	
-	[img=Plus]Extreme damage in a large area.[/img]
-	[img=Minus]Dead.[/img]
+	[img=Plus]Dommages extrêmes dans une vaste zone.[/img]
+	[img=Minus]Mort.[/img]
 >>
-ABL_SELF_DESTRUCT: Active Self Destruct
+ABL_SELF_DESTRUCT: Activer Auto-destruction
 ABL_SELF_DESTRUCT_DESC: <<
-	Activate the self destruct device contained on this ship, detonating the ship in a fiery inferno.
+	Activer le dispositif d'autodestruction contenues sur ce vaisseau, le vaisseau explose dans un brasier ardent.
 >>
 
-PLATEARMOR_NAME: Plate Armor
+PLATEARMOR_NAME: Armure de Plaque
 PLATEARMOR_DESC: <<
-	Heavy, interlocked plates of metal that protect the ship from damage.
+	Lourds, plaques emboîtées de métal qui protègent le vaisseau des dommages.
 	
-	[img=Plus]High [b][color=#80ff80]health[/color][/b].[/img]
-	[img=Plus]Resists and reduces incoming damage.[/img]
-	[img=Plus]Armor on the outside of the ship does not use up interior space.[/img]
-	[img=Minus]Heavy.[/img]
+	[img=Plus]Haute [b][color=#80ff80]santé[/color][/b].[/img]
+	[img=Plus]Résiste et réduit les dégâts reçus.[/img]
+	[img=Plus]Armure à l'extérieur du vaisseau, n'utilise pas d'espace intérieur.[/img]
+	[img=Minus]Lourd.[/img]
 >>
 
 ABLATIVEARMOR_NAME: Ablative Armor
