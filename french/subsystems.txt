@@ -13,51 +13,51 @@ CREWCONTROL_NAME: Pont et Équipage
 CREWCONTROL_DESC: <<
 	Un pont, quartiers de l'équipage et d'autres installations pour qu'un équipage puisse commander ce vaisseau.
 
-	[img=ActionBarIcons::0;22;#00ff80]Fournit [b][color=#00ff80]Le contrôle[/color][/b] pour exploiter d'autres sous-systèmes.[/img]
+	[img=ActionBarIcons::0;22;#00ff80]Fournit [b][color=#00ff80]le contrôle[/color][/b] pour exploiter d'autres sous-systèmes.[/img]
 	[img=Plus]Répare lentement le vaisseau.[/img]
 	[img=Minus]Le vaisseau est détruit s'il ne reste aucun contrôle.[/img]
 >>
 
-CREWDECK_NAME: Crew Deck
+CREWDECK_NAME: Pont d'Équipage
 CREWDECK_DESC: <<
-	Provides a minimal deck and facilities for the crew to command the support ship.
+	Fournit un pont et des installations minime pour que l'équipage puisse commander des vaisseaux de soutien.
 
-	[img=ActionBarIcons::0;22;#00ff80]Provides [b][color=#00ff80]Control[/color][/b] to operate other subsystems.[/img]
-	[img=Plus]Slowly repairs the vessel.[/img]
-	[img=Minus]Ship is destroyed if no control remains.[/img]
+	[img=ActionBarIcons::0;22;#00ff80]Fournit [b][color=#00ff80]le contrôle[/color][/b] pour exploiter d'autres sous-systèmes.[/img]
+	[img=Plus]Répare lentement le vaisseau.[/img]
+	[img=Minus]Le vaisseau est détruit s'il ne reste aucun contrôle.[/img]
 >>
 
-SHIPCOMPUTER_NAME: Control Computer
+SHIPCOMPUTER_NAME: Ordinateur de contrôle
 SHIPCOMPUTER_DESC: <<
-	An autonomous computer capable of controlling numerous ship systems.
+	Un ordinateur autonome capable de contrôler de nombreux systèmes du vaisseau.
 	
-	[img=ActionBarIcons::0;22;#00ff80]Provides a lot of [b][color=#00ff80]Control[/color][/b] to operate other subsystems.[/img]
-	[img=QuickbarIcons::6;22]For the first 30 seconds of any combat, the strength of the entire fleet is boosted by a percentage dependent on the size of the Control Computer.[/img]
-	[img=Plus]Slowly repairs the vessel.[/img]
-	[img=Minus]Requires power to run.[/img]
-	[img=Minus]Ship is destroyed if no control remains.[/img]
+	[img=ActionBarIcons::0;22;#00ff80]Fournit un grand nombre de [b][color=#00ff80]contrôle[/color][/b] pour exploiter d'autres sous-systèmes.[/img]
+	[img=QuickbarIcons::6;22]Pour les 30 premières secondes de tout combat, la résistance de l'ensemble de la flotte est stimulée par un pourcentage dépendant de la taille de l'ordinateur de contrôle.[/img]
+	[img=Plus]Répare lentement le vaisseau.[/img]
+	[img=Minus]Nécessite une alimentation pour fonctionner.[/img]
+	[img=Minus]Le vaisseau est détruit s'il ne reste aucun contrôle.[/img]
 >>
 
-STATUS_COMPUTER_BOOST: Computer Boost
-STATUS_COMPUTER_BOOST_DESC: Heavy computation done by the flagship's control computer is increasing this fleet's efficiency and combat strength for the first 30 seconds of any combat.
+STATUS_COMPUTER_BOOST: Augmentation Informatique
+STATUS_COMPUTER_BOOST_DESC: De lourds calculs effectués par l'ordinateur de contrôle du vaisseau amiral augmente l'efficacité et la force de combat de la flotte pour les 30 premières secondes de tout combat.
 
-SUPPLYMODULE_NAME: Supply Storage
+SUPPLYMODULE_NAME: Stockage de Provision
 SUPPLYMODULE_DESC: <<
-	Stores supplies and ammunition for use in combat and sieging planets.
+	Stocke des provisions et des munitions pour son utilisation en combat et pendant le siège des planètes.
 
-	[img=AttributeIcons::4;22]Provides [b][color=#fefc61]Supply Capacity[/color][/b].[/img]
-	[img=Minus]Destroyed supply storage hexes leak supplies over time.[/img]
+	[img=AttributeIcons::4;22]Fournit [b][color=#fefc61]Capacité de Provision[/color][/b].[/img]
+	[img=Minus]Détruire un hexagone de stockage d'alimentation provoque une fuite de fournitures au fil du temps.[/img]
 >>
 
-SUPPORTCAPMODULE_NAME: Support Command
+SUPPORTCAPMODULE_NAME: Commandement du soutien
 SUPPORTCAPMODULE_DESC: <<
-	Technical infrastructure for commanding a fleet of support ships.
+	L'infrastructure technique pour commander une flotte de vaisseaux de soutien.
 
-	[img=ActionBarIcons::2;22]Provides [b][color=#00cffe]Support Command[/color][/b].[/img]
-	[img=Minus]May lose control over support ships when destroyed.[/img]
+	[img=ActionBarIcons::2;22]Fournit [b][color=#00cffe]Commandement du soutien[/color][/b].[/img]
+	[img=Minus]Peut perdre le contrôle sur les vaisseaux de soutien lorsque détruit.[/img]
 >>
 
-SHIELDGEN_NAME: Shield Generator
+SHIELDGEN_NAME: Générateur de bouclier
 SHIELDGEN_DESC: <<
 	Creates a shield around the vessel, blocking some incoming damage.
 
