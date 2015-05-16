@@ -9,13 +9,13 @@ SC_Support: [vspace=-14][img=SupportCommand;42x42/][/vspace]  [color=#eda1ff]Sup
 SC_Equipment: [vspace=-22][hspace=-29/][img=TractorGun::2;100x76/][/vspace][hspace=-29/]  [color=#8bb800]Equipement[/color]
 SC_Misc: Misc
 
-CREWCONTROL_NAME: Bridge and Crew
+CREWCONTROL_NAME: Pont et Équipage
 CREWCONTROL_DESC: <<
-	A bridge, crew quarters, and other facilities for a crew to command a vessel.
+	Un pont, quartiers de l'équipage et d'autres installations pour qu'un équipage puisse commander ce vaisseau.
 
-	[img=ActionBarIcons::0;22;#00ff80]Provides [b][color=#00ff80]Control[/color][/b] to operate other subsystems.[/img]
-	[img=Plus]Slowly repairs the vessel.[/img]
-	[img=Minus]Ship is destroyed if no control remains.[/img]
+	[img=ActionBarIcons::0;22;#00ff80]Fournit [b][color=#00ff80]Le contrôle[/color][/b] pour exploiter d'autres sous-systèmes.[/img]
+	[img=Plus]Répare lentement le vaisseau.[/img]
+	[img=Minus]Le vaisseau est détruit s'il ne reste aucun contrôle.[/img]
 >>
 
 CREWDECK_NAME: Crew Deck
