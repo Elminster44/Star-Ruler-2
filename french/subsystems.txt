@@ -189,17 +189,17 @@ PLATEARMOR_DESC: <<
 	[img=Minus]Lourd.[/img]
 >>
 
-ABLATIVEARMOR_NAME: Ablative Armor
+ABLATIVEARMOR_NAME: Armure ablative
 ABLATIVEARMOR_DESC: <<
-	A stiff metal foam designed to absorb damage by ablating away.
+	Une mousse métallique rigide conçu pour absorber les dégâtspar par l'ablation continuelle.
 	
-	[img=Plus]High [b][color=#c6c33a]damage resistance[/color][/b].[/img]
-	[img=Plus]Armor on the outside of the ship does not use up interior space.[/img]
-	[img=Plus]Increased resistance against damage from lasers.[/img]
-	[img=MenuIcons::3;20]Effective against many small hits.[/img]
+	[img=Plus]Haute [b][color=#c6c33a]résistance aux dégâts[/color][/b].[/img]
+	[img=Plus]Armure à l'extérieur du vaisseau, n'utilise pas d'espace intérieur.[/img]
+	[img=Plus]Résistance accrue contre les dommages des lasers.[/img]
+	[img=MenuIcons::3;20]Efficace contre de nombreux petits coups.[/img]
 >>
 
-REACTIVEARMOR_NAME: Reactive Armor
+REACTIVEARMOR_NAME: Blindage réactif
 REACTIVEARMOR_DESC: <<
 	A sheet of independent explosives that detonate nearly instantly in response to incoming weapon fire.
 
