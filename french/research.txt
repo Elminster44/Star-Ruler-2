@@ -3,7 +3,7 @@ RESEARCH_COST_JOIN: ", "
 RESEARCH_STUDY: Etude
 RESEARCH_COST: Coût de recherche
 RESEARCH_TIME: Temps de recherche
-QUEUE_RESEARCH: File d'attente recherche
+QUEUE_RESEARCH: File d'attente 
 UNQUEUE_RESEARCH: Annuler file d'attente recherche
 NOT_RESEARCHING: Pas de recherche active...
 
