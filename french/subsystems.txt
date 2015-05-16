@@ -264,19 +264,19 @@ TARGETINGSENSOR_DESC: <<
 
 	[img=Plus;22;#cf00ff]Peut être placé sur les sous-systèmes d'armes.[/img]
 	[img=Plus]Augmente la [b][color=#80ffea]portée[/color][/b] de l'arme.[/img]
-	[img=Minus]Increases the build cost of the weapon.[/img]
-	[img=Minus]Increases the [b][color=#fefc61]supply cost[/color][/b] of firing the weapon.[/img]
-	[i][color=#aaa]Placing more than one targeting sensor on a weapon will continue to increase its range, but will also skyrocket its costs.[/color][/i]
+	[img=Minus]Augmente le coût de construction de l'arme.[/img]
+	[img=Minus]Augmente le [b][color=#fefc61]coût d'approvisionnement[/color][/b] de tir de l'arme.[/img]
+	[i][color=#aaa]Le placement de plus d'un capteur de ciblage sur une arme continuera à augmenter sa portée, mais aussi de monter ses coûts en flèche.[/color][/i]
 >>
 
-SUPPORTSUPPLY_NAME: Supply Crate
+SUPPORTSUPPLY_NAME: Caisse de fournitures
 SUPPORTSUPPLY_DESC: <<
-	A secondary supply storage facility may be placed on particular support ships, increasing the amount of ammunition and general combat materials available to the fleet.
+	Une installation de stockage de fournitures secondaire peut être placé sur certains vaisseaux de soutien, l'augmentation de la quantité de munitions et de matériels de combat généraux est à la disposition de la flotte.
 
-	[img=AttributeIcons::4;22]Provides [b][color=#fefc61]Supply Capacity[/color][/b] to the fleet.[/img]
-	[img=Minus]Adds maintenance cost to the support ships.[/img]
-	[img=Minus]Destroyed supply storage hexes leak supplies over time.[/img]
-	[img=MenuIcons::3;20;#f00][i][color=#faa]Support ships with maintenance costs will not be created by Defense.[/color][/i][/img]
+	[img=AttributeIcons::4;22]Fournit [b][color=#fefc61]capacité de ravitaillement[/color][/b] à la flotte.[/img]
+	[img=Minus]Ajoute coût de maintenance aux vaisseaux de soutien.[/img]
+	[img=Minus]Détruits l'hexagone de stockage de fourniture créé une fuite de fournitures au fil du temps.[/img]
+	[img=MenuIcons::3;20;#f00][i][color=#faa]Les vaisseaux de soutien avec des coûts de maintenance ne seront pas créés par la Défense.[/color][/i][/img]
 >>
 
 S_EMERGENCY_SUPPLIES: Emergency Supplies
