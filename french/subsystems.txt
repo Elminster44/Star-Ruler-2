@@ -59,101 +59,101 @@ SUPPORTCAPMODULE_DESC: <<
 
 SHIELDGEN_NAME: Générateur de bouclier
 SHIELDGEN_DESC: <<
-	Creates a shield around the vessel, blocking some incoming damage.
+	Crée un bouclier autour du vaisseau, bloquant quelques dégâts entrants.
 
-	[img=Plus]Creates regenerating barrier against damage.[/img]
-	[img=Minus]Weakened shields allow some damage through.[/img]
+	[img=Plus]Crée une barrière se régénérant contre des dégâts.[/img]
+	[img=Minus]Boucliers affaibli permettent quelques dégâts au travers.[/img]
 >>
 
-S_SHIELD_HARDENER: Shield Hardener
+S_SHIELD_HARDENER: Durcisseur Bouclier
 S_SHIELD_HARDENER_DESC: <<
-	Supports and strengthens the ship's shield, allowing it to resist incoming damage without losing strength.
+	Soutient et renforce le bouclier du vaisseau, qui lui permet de résister aux dommages entrant sans perdre de force.
 
-	[img=Plus]While shields are up, grants a percentage chance to completely ignore any incoming hit of damage.[/img]
-	[img=Minus]When shields are at weakened strength, the block chance is lowered.[/img]
+	[img=Plus]Lorsque les boucliers ont une force élevé, accorde un pourcentage de chance d'ignorer complètement tous dégâts entrant.[/img]
+	[img=Minus]Lorsque les boucliers ont une force affaiblie, la chance de blocage des dégâts est abaissé.[/img]
 >>
 
-FISSIONGEN_NAME: Fission Generator
+FISSIONGEN_NAME: Générateur de Fission
 FISSIONGEN_DESC: <<
-	A power generator based on atomic fission.
+	Un générateur de puissance sur la base de la fission nucléaire.
 
-	[img=ResourceIcon::2;22]Provides [b][color=#42b4bd]Power[/color][/b] to operate other subsystems.[/img]
-	[img=AttributeIcons::4;22]Provides a [b][color=#0f0]high[/color] [color=#fefc61]Resupply Rate[/color][/b].[/img]
-	[img=Minus]Losing required power generation in combat reduces the ship's overall effectiveness.[/img]
+	[img=ResourceIcon::2;22]Fournit [b][color=#42b4bd]l'alimentation[/color][/b] pour faire fonctionner d'autres sous-systèmes.[/img]
+	[img=AttributeIcons::4;22]Fournit un [b][color=#0f0]haut[/color] [color=#fefc61]Taux de ravitaillement[/color][/b].[/img]
+	[img=Minus]Perdre la production d'électricité nécessaire au combat réduit l'efficacité globale du vaisseau.[/img]
 >>
 
-FUSIONGEN_NAME: Fusion Generator
+FUSIONGEN_NAME: Générateur de Fusion
 FUSIONGEN_DESC: <<
-	Generates power through nuclear fusion.
+	Génère de l'énergie grâce à la fusion nucléaire.
 
-	[img=ResourceIcon::2;22]Provides a [b][color=#0f0]large[/color][/b] amount of [b][color=#42b4bd]Power[/color][/b] to operate other subsystems.[/img]
-	[img=AttributeIcons::4;22]Provides a [b]moderate [color=#fefc61]Resupply Rate[/color][/b].[/img]
-	[img=Minus]Losing required power generation in combat reduces the ship's overall effectiveness.[/img]
+	[img=ResourceIcon::2;22]Fournit une [b][color=#0f0]grande[/color][/b] quantité d'[b][color=#42b4bd]alimentation[/color][/b] pour faire fonctionner d'autres sous-systèmes.[/img]
+	[img=AttributeIcons::4;22]Fournit un [b][color=#fefc61]Taux de ravitaillement[/color] modéré[/b].[/img]
+	[img=Minus]Perdre la production d'électricité nécessaire au combat réduit l'efficacité globale du vaisseau.[/img]
 >>
 
-AMGEN_NAME: Antimatter Generator
+AMGEN_NAME: Générateur d'Antimatière
 AMGEN_DESC: <<
-	A sustained matter-antimatter annihilation reaction provides continuous power for the ship.
+	Une réaction d'annihilation de matière-antimatière soutenue qui fournit une alimentation continue pour le vaisseau.
 
-	[img=ResourceIcon::2;22]Provides a [b][color=#0f0]very large[/color][/b] amount of [b][color=#42b4bd]Power[/color][/b] to operate other subsystems.[/img]
-	[img=AttributeIcons::4;22]Provides a [b][color=#0f0]very high[/color] [color=#fefc61]Resupply Rate[/color][/b].[/img]
-	[img=Plus]No maintenance cost.[/img]
-	[img=Minus]High construction cost.[/img]
-	[img=Minus]Losing required power generation in combat reduces the ship's overall effectiveness.[/img]
+	[img=ResourceIcon::2;22]Fournit une [b][color=#0f0]très grande[/color][/b] quantité d'[b][color=#42b4bd]alimentation[/color][/b] pour faire fonctionner d'autres sous-systèmes.[/img]
+	[img=AttributeIcons::4;22]Fournit un [b][color=#0f0]très haut[/color] [color=#fefc61]Taux de ravitaillement[/color][/b].[/img]
+	[img=Plus]Aucun coût d'entretien.[/img]
+	[img=Minus]Coût élevé de construction.[/img]
+	[img=Minus]Perdre la production d'électricité nécessaire au combat réduit l'efficacité globale du vaisseau.[/img]
 >>
 
-RAILBATTERY_NAME: Railgun Battery
+RAILBATTERY_NAME: Batterie Railgun 
 RAILBATTERY_DESC: <<
-	A battery of magnetic cannons that fire relatively small projectiles at immense velocities.
+	Une batterie de canons magnétiques qui tirent de petits projectiles à très haute vitesses.
 	
-	[img=Plus]Rapid fire rate.[/img]
-	[img=Minus]Inaccurate projectiles.[/img]
-	[img=Minus]Limited turret firing arc.[/img]
+	[img=Plus]Cadence de tir rapide.[/img]
+	[img=Minus]Projectiles imprécis.[/img]
+	[img=Minus]Tourelle à angle de tir limité.[/img]
 >>
 
-MUONBATTERY_NAME: Muon Cannon Battery
+MUONBATTERY_NAME: Canon batterie Muon
 MUONBATTERY_DESC: <<
-	Fires batches of newly created muons at relativistic speeds.
+	Quantité de feux de muons nouvellement créé à vitesse relative.
 	
-	Benefits from technologies that improve railgun batteries.
+	Avantage de technologies qui améliore les batteries Railgun.
 	
-	[img=Plus]Rapid fire rate.[/img]
-	[img=Plus]Pierces through armor and ignores damage resistance.[/img]
-	[img=Minus]Lower damage.[/img]
-	[img=Minus]Inaccurate projectiles.[/img]
-	[img=Minus]Limited turret firing arc.[/img]
+	[img=Plus]Cadence de tir rapide.[/img]
+	[img=Plus]Perce armure et ignore résistance aux dégâts.[/img]
+	[img=Minus]Faible dégâts.[/img]
+	[img=Minus]Projectiles imprécis.[/img]
+	[img=Minus]Tourelle à angle de tir limité.[/img]
 >>
 
 RAILGUN_NAME: Railgun
 RAILGUN_DESC: <<
-	A magnetic cannon that fires relatively small projectiles at immense velocities.
+	Un canon magnétique qui tirent de petits projectiles à très haute vitesses.
 	
-	[img=Plus]High damage per hit.[/img]
-	[img=Minus]Inaccurate projectiles.[/img]
-	[img=Minus]Limited turret firing arc.[/img]
+	[img=Plus]Haut dégâts par coup.[/img]
+	[img=Minus]Projectiles imprécis.[/img]
+	[img=Minus]Tourelle à angle de tir limité.[/img]
 >>
 
-MUON_CANNON_NAME: Muon Cannon
+MUON_CANNON_NAME: Canon Muon 
 MUON_CANNON_DESC: <<
-	Fires batches of newly created muons at relativistic speeds.
+	Quantité de feux de muons nouvellement créé à vitesse relative.
 	
-	Benefits from technologies that improve railguns.
+	Avantage de technologies qui améliore le Railgun.
 	
-	[img=Plus]Rapid fire rate.[/img]
-	[img=Plus]Pierces through armor and ignores damage resistance.[/img]
-	[img=Minus]Lower damage.[/img]
-	[img=Minus]Inaccurate projectiles.[/img]
-	[img=Minus]Limited turret firing arc.[/img]
+	[img=Plus]Cadence de tir rapide.[/img]
+	[img=Plus]Perce armure et ignore résistance aux dégâts.[/img]
+	[img=Minus]Faible dégâts.[/img]
+	[img=Minus]Projectiles imprécis.[/img]
+	[img=Minus]Tourelle à angle de tir limité.[/img]
 >>
 
 LASER_NAME: Laser
 LASER_DESC: <<
-	A highly focused beam of light inflicts damage by burning holes through ship subsections.
+	Un rayon de lumière fortement concentré qui inflige des dégâts en brûlant des trous par des subdivisions du vaisseau.
 	
-	[img=Plus]Accurate and instant beam lock-on.[/img]
-	[img=Plus]Low [b][color=#fefc61]supply cost[/color][/b].[/img]
-	[img=Minus]Ineffective against armor.[/img]
-	[img=Minus]Very limited turret firing arc.[/img]
+	[img=Plus]Faisceau verrouillé précis et instantané.[/img]
+	[img=Plus]Faible [b][color=#fefc61]coût d'approvisionnement[/color][/b].[/img]
+	[img=Minus]Inefficace contre armure.[/img]
+	[img=Minus]Tourelle à angle de tir très limité.[/img]
 >>
 
 MISSILELAUNCHER_NAME: Missile Launcher
