@@ -1,7 +1,7 @@
 # Star-Ruler-2
 Traduction FR
 
-Statut : *Phase 1 (estimation 65%)
+Statut : *Phase 1 (estimation 80%)
 
 *Phase 1 : traduction brut hors contexte /
 *Phase 2 : correction traduction en contexte, fix affichage interface /
