@@ -279,45 +279,45 @@ SUPPORTSUPPLY_DESC: <<
 	[img=MenuIcons::3;20;#f00][i][color=#faa]Les vaisseaux de soutien avec des coûts de maintenance ne seront pas créés par la Défense.[/color][/i][/img]
 >>
 
-S_EMERGENCY_SUPPLIES: Emergency Supplies
+S_EMERGENCY_SUPPLIES: Fournitures d'urgence
 S_EMERGENCY_SUPPLIES_DESC: <<
-	An output node for the Empire's energy. Allows supplies to be produced instantly anywhere in the galaxy, at great cost.
+	Un noeud de production pour l'énergie de l'Empire. Permet aux provisions d'être produit immédiatement n'importe où dans la galaxie, à grands frais.
 	
-	[img=AttributeIcons::4;22]Immediately generates supplies.[/img]
-	[img=Minus]Costs energy.[/img]
-	[img=Minus]30 Second Cooldown.[/img]
+	[img=AttributeIcons::4;22]Produit immédiatement des provisions.[/img]
+	[img=Minus]Coût en énergie.[/img]
+	[img=Minus]30 seconde de temps de rechargement.[/img]
 >>
-ABL_EMERGENCY_SUPPLIES: Create Supplies
-ABL_EMERGENCY_SUPPLIES_DESC: Refill the vessel's supplies.
+ABL_EMERGENCY_SUPPLIES: Créer Fournitures
+ABL_EMERGENCY_SUPPLIES_DESC: Remplissez à nouveau les provisions du vaisseau.
 
-S_HYPERLASER: Hyperdense Laser
+S_HYPERLASER: Laser Hyperdense 
 S_HYPERLASER_DESC: <<
-	A brief laser with energy densities nearly high enough to spontaneously generate matter.
+	Un laser bref avec une densité d'énergie assez haute pour pour produire spontanément de la matière.
 
-	[img=Plus]Accurate and instant beam lock-on.[/img]
-	[img=Plus]Deals damage quickly.[/img]
-	[img=Minus]Lower overall DPS.[/img]
-	[img=Minus]Very limited turret firing arc.[/img]
+	[img=Plus]Faisceau verrouillé précis et instantané.[/img]
+	[img=Plus]Inflige des dégâts rapidement.[/img]
+	[img=Minus]DPS global faible.[/img]
+	[img=Minus]Tourelle à angle de tir très limité.[/img]
 >>
 
-S_TRACTOR_BEAM: Tractor Beam
+S_TRACTOR_BEAM: Rayon Tracteur
 S_TRACTOR_BEAM_DESC: <<
-	Sophisticated graviton emitters combined with an inertial dampening field allow the ship to apply its thrust to other objects. The objects are kept suspended at the same relative position and velocity, letting the ship to move them.
+	Émetteurs de graviton sophistiquées combinées à un champ d'amortissement inertiel qui autorise le vaisseau à appliquer sa poussée à d'autres objets. Les objets sont gardés suspendus à la même position relative et à la même vitesse, laissant le vaisseau pour les déplacer.
 
-	[img=MenuIcons::3;20][color=#aaa]Can use tractor beam on artifacts, asteroids, orbitals and other ships.[/color][/img]
-	[img=MenuIcons::3;20][color=#aaa]Other ships will us their own thrust to attempt to break away from the tractor beam.[/color][/img]
-	[img=ResourceIcon::3;20;#f00][color=#aaa]Ships under the effect of a tractor beam cannot use their FTL drives.[/color][/img]
+	[img=MenuIcons::3;20][color=#aaa]Peut être utilisé sur des artefacts, astéroïdes, orbitales et d'autres vaisseaux.[/color][/img]
+	[img=MenuIcons::3;20][color=#aaa]D'autres vaisseaux peuvent utiliser leur poussée pour tenter de rompre le rayon tracteur.[/color][/img]
+	[img=ResourceIcon::3;20;#f00][color=#aaa]Vaisseaux sous l'effet d'un rayon tracteur ne peuvent pas utiliser leur FTL.[/color][/img]
 >>
-ABL_TRACTOR_BEAM: Toggle Tractor Beam
-ABL_TRACTOR_BEAM_DESC: Turn the ship's tractor beam on or off.
-ABL_TRACTOR_NO: Cannot Tractor
+ABL_TRACTOR_BEAM: Basculer rayon tracteur
+ABL_TRACTOR_BEAM_DESC: Tournez le rayon tracteur du vaisseau sur "on" ou "off".
+ABL_TRACTOR_NO: Vous ne pouvez pas tracter
 
-S_BUSTER_BEAM: Buster Beam
-S_BUSTER_BEAM_DESC: An immense beam weapon capable of destroying entire planets.
+S_BUSTER_BEAM: Rayon Buster
+S_BUSTER_BEAM_DESC: Une immense arme à faisceau capable de détruire des planètes entières.
 
-S_ION_CANNON: Ion Cannon
+S_ION_CANNON: Canon à Ion 
 S_ION_CANNON_DESC: <<
-	A highly charged energy beam temporarily overloads an enemy's drive systems.
+	Un rayon d'énergie fortement chargé surcharge temporairement les systèmes d'énergie d'un ennemi.
 	
 	[img=Plus]Disables enemy sublight engines and FTL capabilities.[/img]
 	[img=ResourceIcon::2;22]Costs [b][color=#42b4bd]Energy[/color][/b] to fire.[/img]
