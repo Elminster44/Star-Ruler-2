@@ -199,71 +199,71 @@ ABLATIVEARMOR_DESC: <<
 	[img=MenuIcons::3;20]Efficace contre de nombreux petits coups.[/img]
 >>
 
-REACTIVEARMOR_NAME: Blindage réactif
+REACTIVEARMOR_NAME:  Armure réactive
 REACTIVEARMOR_DESC: <<
-	A sheet of independent explosives that detonate nearly instantly in response to incoming weapon fire.
+	Une feuille d'explosifs indépendants qui explosent presque instantanément en réponse aux tirs d'armes entrant.
 
-	[img=Plus]Damage hits exceeding the [b][color=#c33ac6]damage threshold[/color][/b] are reduced significantly.[/img]
-	[img=Plus]Armor on the outside of the ship does not use up interior space.[/img]
-	[img=MenuIcons::3;20]Effective against massive single hits.[/img]
+	[img=Plus]Succès de dégâts excédant le [b][color=#c33ac6]seuil de dommage[/color][/b] sont réduits de façon significative.[/img]
+	[img=Plus]Armure à l'extérieur du vaisseau, n'utilise pas d'espace intérieur.[/img]
+	[img=MenuIcons::3;20]Efficace contre les coups simples massifs.[/img]
 >>
 
-NEUTRONARMOR_NAME: Neutronium Armor
+NEUTRONARMOR_NAME:  Armure Neutronium
 NEUTRONARMOR_DESC: <<
-	Microscopic pellets of neutronium-doped metal are mixed with standard plate armor.
+	Des granules microscopiques de métal au neutronium dopé sont mélangés avec l'armure de plaque standard.
 	
-	[img=Plus]Very high [b][color=#80ff80]health[/color][/b].[/img]
-	[img=Plus]Armor on the outside of the ship does not use up interior space.[/img]
-	[img=Minus]Extremely heavy.[/img]
-	[img=Minus]Expensive build cost.[/img]
+	[img=Plus]Très haute [b][color=#80ff80]santé[/color][/b].[/img]
+	[img=Plus]Armure à l'extérieur du vaisseau, n'utilise pas d'espace intérieur.[/img]
+	[img=Minus]Extrêmement lourde.[/img]
+	[img=Minus]Coût de construction élevé.[/img]
 >>
 
-ROCKETENGINE_NAME: Rocket Engine
+ROCKETENGINE_NAME: Moteur de Fusée
 ROCKETENGINE_DESC: <<
-	Expels large amounts of mass at high speeds to produce thrust.
+	Expulse de grandes quantités de masse à grande vitesse pour produire une poussée.
 
-	[img=Plus]Provides very high Thrust.[/img]
-	[img=Minus]High Maintenance cost.[/img]
-	[img=Minus]Low turn rate.[/img]
+	[img=Plus]Fournit très forte poussée.[/img]
+	[img=Minus]Coût élevé de maintenance.[/img]
+	[img=Minus]Faible taux de virage.[/img]
 >>
 
-IONENGINE_NAME: Ion Engine
+IONENGINE_NAME: Moteur à Ion
 IONENGINE_DESC: <<
-	Propels small amounts of fuel at extremely high speeds. Ion thruster exhausts are very small and can more easily be rotated slightly in order to provide angular thrust.
+	Propulse de petites quantités de carburant à des vitesses extrêmement élevées. Les échappements du propulseur sont très petits et peuvent plus facilement être tournés légèrement afin de fournir une poussée angulaire.
 
-	[img=Plus]Very high turn rate.[/img]
-	[img=Plus]Lower Maintenance cost.[/img]
-	[img=Minus]Provides lower Thrust.[/img]
-	[img=Minus]Requires Power to run.[/img]
+	[img=Plus]Taux de virage très élevé.[/img]
+	[img=Plus]Faibles coûts de maintenance.[/img]
+	[img=Minus]Fournit une faible poussée.[/img]
+	[img=Minus]Nécessite de la puissance pour fonctionner.[/img]
 >>
 
-GRAVITYENGINE_NAME: Graviton Engine
+GRAVITYENGINE_NAME: Moteur de gravitation
 GRAVITYENGINE_DESC: <<
-	A dense artificial gravity wave allows seemingly reactionless engines to propel spacecraft.
+	Une vague de gravité artificielle dense permet aux moteurs apparemment sans réaction de propulser un vaisseau spatial.
 
-	[img=Plus]Can be placed internally.[/img]
-	[img=Plus]If only graviton engines are present on the ship, the ship will not need to rotate at all to move.[/img]
-	[img=Minus]Provides lower Thrust.[/img]
-	[img=Minus]Expensive to build.[/img]
-	[img=Minus]Has high power needs.[/img]
+	[img=Plus]Peut être placé à l'intérieur.[/img]
+	[img=Plus]Si seuls les moteurs de gravitation sont présents sur le vaisseau, il ne devra pas tourner du tout pour se déplacer.[/img]
+	[img=Minus]Fournit une faible poussée.[/img]
+	[img=Minus]Coûteux à construire.[/img]
+	[img=Minus]A besoin de haute puissance.[/img]
 >>
 
-BULKHEAD_NAME: Bulkhead
+BULKHEAD_NAME: Cloison
 BULKHEAD_DESC: <<
-	Reinforced plating on the walls of a subsystem makes its internals significantly more resistant to incoming damage.
+	Le placage renforcé sur les murs d'un sous-système rend ses composants significativement plus résistants aux dégâts entrants.
 
-	[img=Plus;22;#cf00ff]Can be placed on non-armor subsystems that have cores or turrets. Cannot be placed on bridges or core-less subsystems.[/img]
-	[img=Plus]Increases the health of all hexes of the subsystem.[/img]
-	[img=Minus]Increases the build cost of the subsystem.[/img]
-	[i][color=#aaa]Placing more than one bulkhead on a subsystem will continue to increase the health of all its hexes, but will skyrocket its build cost.[/color][/i]
+	[img=Plus;22;#cf00ff]Peut être placé sur des sous-systèmes non-blindés qui ont des noyaux ou des tourelles. Ne peut pas être placé sur des ponts ou des sous-systèmes principaux.[/img]
+	[img=Plus]Augmente la santé de tous les hexagones du sous-système.[/img]
+	[img=Minus]Augmente le coût de construction du sous-système.[/img]
+	[i][color=#aaa]Plaçer plus d'une cloison sur un sous-système va continuer à augmenter la santé de tous ses hexagones, mais va monter en flèche le coût de construction.[/color][/i]
 >>
 
-TARGETINGSENSOR_NAME: Targeting Sensor
+TARGETINGSENSOR_NAME: Capteur de ciblage
 TARGETINGSENSOR_DESC: <<
-	Sophisticated targeting and tracking sensors allow a weapon to more accurately find its destination, increasing its effective range.
+	Capteurs sophistiqués de ciblage et de suivi permettent aux armes de trouver plus précisément sa destination, augmentant sa portée efficace.
 
-	[img=Plus;22;#cf00ff]Can be placed on weapon subsystems.[/img]
-	[img=Plus]Increases the [b][color=#80ffea]range[/color][/b] of the weapon.[/img]
+	[img=Plus;22;#cf00ff]Peut être placé sur les sous-systèmes d'armes.[/img]
+	[img=Plus]Augmente la [b][color=#80ffea]portée[/color][/b] de l'arme.[/img]
 	[img=Minus]Increases the build cost of the weapon.[/img]
 	[img=Minus]Increases the [b][color=#fefc61]supply cost[/color][/b] of firing the weapon.[/img]
 	[i][color=#aaa]Placing more than one targeting sensor on a weapon will continue to increase its range, but will also skyrocket its costs.[/color][/i]
