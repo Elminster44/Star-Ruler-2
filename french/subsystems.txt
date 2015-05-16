@@ -319,76 +319,76 @@ S_ION_CANNON: Canon à Ion
 S_ION_CANNON_DESC: <<
 	Un rayon d'énergie fortement chargé surcharge temporairement les systèmes d'énergie d'un ennemi.
 	
-	[img=Plus]Disables enemy sublight engines and FTL capabilities.[/img]
-	[img=ResourceIcon::2;22]Costs [b][color=#42b4bd]Energy[/color][/b] to fire.[/img]
-	[img=MenuIcons::3;20][color=#aaa]Can fire ion cannon on enemy ships.[/color][/img]
-	[img=MenuIcons::3;20][color=#aaa]Duration of incapacitating effect is dependent on size of the ion cannon.[/color][/img]
+	[img=Plus]Désactive les moteurs subluminiques ennemi et les capacités FTL.[/img]
+	[img=ResourceIcon::2;22]Coûts en [b][color=#42b4bd]Energie[/color][/b] pour tirer.[/img]
+	[img=MenuIcons::3;20][color=#aaa]Peut tirer avec des canons à ion sur les vaisseaux ennemis.[/color][/img]
+	[img=MenuIcons::3;20][color=#aaa]Durée de l'effet incapacitant dépend de la taille du canon à ion.[/color][/img]
 >>
 
-S_SKIP_DRIVE: Skip Drive
+S_SKIP_DRIVE: Énergie de Saut
 S_SKIP_DRIVE_DESC: <<
-	A drive system that can expend raw energy to punch through quantum dimensions and achieve instant teleportation.
+	Un système d'énergie qui peut utiliser de l'énergie brute pour percer au travers de dimensions quantique afin de réaliser la téléportation instantanée.
 	
-	[img=Plus]Instantly teleport to a nearby location.[/img]
-	[img=ResourceIcon::2;22]Costs [b][color=#42b4bd]Energy[/color][/b] to activate.[/img]
-	[img=MenuIcons::3;20][color=#aaa]The further away the ship teleports, the more energy is required.[/color][/img]
-	[img=MenuIcons::3;20][color=#aaa]The larger the skip drive is on the ship, the lower the energy cost.[/color][/img]
+	[img=Plus]Téléportation instantanément à proximité.[/img]
+	[img=ResourceIcon::2;22]Coûts en [b][color=#42b4bd]Energie[/color][/b] pour l'activer.[/img]
+	[img=MenuIcons::3;20][color=#aaa]Plus loin est téléporté le vaisseau, plus d'énergies est requis.[/color][/img]
+	[img=MenuIcons::3;20][color=#aaa]Plus l'énergie de saut est grande, plus le coût en énergie est faible.[/color][/img]
 >>
 
-S_GRAVITON_CONDENSER: Graviton Condenser
+S_GRAVITON_CONDENSER: Condensateur de gravitation
 S_GRAVITON_CONDENSER_DESC: <<
-	An immense beam generator that collapses a celestial object's own gravity into itself, leading it to compress and eventually detonate.
+	Un générateur de faisceau immense qui s'effondre sous la propre gravité d'un objet céleste, conduisant à se compresser et finalement exploser.
 
-	[img=Plus]Beam can be activated to deal damage over time to stars and planets.[/img]
+	[img=Plus]Le rayon peut être activé pour faire des dégâts au fil du temps aux étoiles et aux planètes.[/img]
 >>
-ABL_GRAVITON_CONDENSER: Fire Graviton Condenser
-ABL_GRAVITON_CONDENSER_DESC: Fire a beam that collapses a celestial object's own gravity into itself, leading it to compress and eventually detonate.
+ABL_GRAVITON_CONDENSER: Faire feu Condensateur de gravitation
+ABL_GRAVITON_CONDENSER_DESC: Tir un faisceau qui s'effondre sur la propre gravité d'un objet céleste, conduisant à se compresser et finalement exploser.
 
-S_CLOAKPLATING: Cloaking Mesh
+S_CLOAKPLATING: Dissimulation de Maille
 S_CLOAKPLATING_DESC: <<
-	Fully covering a ship in a mesh of hyperabsorbant material allows it to avoid detection by enemies outside immediate visual range.
+	Couvrant entièrement un vaisseau dans un maillage de matériel hyperabsorbant lui permet d'éviter la détection par les ennemis à l'extérieur de la portée visuelle immédiate.
 
-	[img=Plus]When activated, fleet cannot be seen from a distance.[/img]
-	[img=ResourceIcon::2;22]Cloak slowly drains [b][color=#42b4bd]Energy[/color][/b] when active.[/img]
-	[img=Minus]Cloak is broken when the fleet enters combat.[/img]
-	[img=MenuIcons::3;20][color=#aaa]The ship's exterior must be fully covered in cloaking mesh in order to successfully cloak.[/color][/img]
+	[img=Plus]Lorsqu'il est activé, la flotte ne peut pas être vu de loin.[/img]
+	[img=ResourceIcon::2;22]Maille draine lentement de l'[b][color=#42b4bd]Energie[/color][/b] lorsqu'il est activé.[/img]
+	[img=Minus]Maille est cassée lorsque la flotte entre en combat.[/img]
+	[img=MenuIcons::3;20][color=#aaa]Le vaisseau doit être entièrement couvert avec la dissimulation de maille pour être masqué avec succès.[/color][/img]
 >>
-ABL_CLOAK: Toggle Cloak
+ABL_CLOAK: Interrupteur de masquage
 ABL_CLOAK_DESC: <<
-	Toggle whether the ship is currently cloaked.
+	Basculer si le vaisseau est actuellement masqué.
 
-	Cloaking costs a small amount of energy per second to maintain and breaks as soon as the fleet enters combat.
+	Le maillage coûte une petite quantité d'énergie par seconde pour être maintenu et se brise dès que la flotte entre en combat.
 >>
-STATUS_CLOAKED: Cloaked
+STATUS_CLOAKED: Masquer
 STATUS_CLOAKED_DESC: <<
-	This fleet is currently cloaked.
+	Cette flotte est actuellement masquée.
 
-	Cloaking costs a small amount of energy per second to maintain and breaks as soon as the fleet enters combat.
+	Le maillage coûte une petite quantité d'énergie par seconde pour être maintenu et se brise dès que la flotte entre en combat.
 >>
 
-S_TITAN_HULL: Titan Hull
+S_TITAN_HULL: Coque de Titan 
 S_TITAN_HULL_DESC: <<
-	A colossal, extremely heavy hull frame that allows larger ships to be constructed more efficiently.
+	Un cadre de coque colossal, extrêmement lourd qui permet à de plus grands vaisseaux d'être construit plus efficacement.
 
-	[img=Plus]Much more internal space available.[/img]
-	[img=Plus]Reduces build costs by up to 50% as the ship size gets bigger.[/img]
-	[img=Plus]Rigorous construction increases turret potential firing arcs.[/img]
-	[img=Minus]Extreme mass increase.[/img]
-	[img=Minus]Much slower hyperdrive speed.[/img]
-	[img=Minus]Can only be used for ships of size 500 or greater.[/img]
+	[img=Plus]Beaucoup plus d'espace interne disponible.[/img]
+	[img=Plus]Réduit les coûts de construction jusqu'à 50% en fonction que la taille du vaisseau prend de l'ampleur.[/img]
+	[img=Plus]La construction rigoureuse augmente le potentiel d'angle de tir des tourelles.[/img]
+	[img=Minus]Augmentation extrême de la masse.[/img]
+	[img=Minus]Vitesse hyperdrive beaucoup plus lente.[/img]
+	[img=Minus]Peut seulement être utilisé pour les vaisseaux de taille 500 ou plus grand.[/img]
 >>
 
-S_AMMOSTORAGE: Ammo Store
+S_AMMOSTORAGE: Dépôt de Munitions
 S_AMMOSTORAGE_DESC: <<
-	Small ammo storage modules that can take and temporarily store supplies from the fleet while the support ship detaches from the fleet to do independent raids against the enemy.
+	Petits modules de stockage de munitions qui peuvent prendre et stocker temporairement les fournitures de la flotte alors que le vaisseau de soutien se détache de la flotte pour faire des raids indépendants contre l'ennemi.
 
-	[img=Plus]Allows support ships to leave the fleet for raids.[/img]
-	[img=Minus]Detached support ships without remaining stored supply cannot fire until they return to the fleet and resupply.[/img]
+	[img=Plus]Permet aux vaisseaux de soutien de quitter la flotte pour les raids.[/img]
+	[img=Minus]Les vaisseaux de soutien détachés sans maintien de provision ne peuvent pas tirer avant qu'ils ne retournent à la flotte et au réapprovisionnement.[/img]
 >>
 
-S_GATE_MODULE: Gate
+S_GATE_MODULE: Portail
 S_GATE_MODULE_DESC: <<
-	An FTL gate module that can be added to a station.
+	Un module FTL qui peut être ajoutée à une station.
 
 	[img=Plus]Allows ships to move from any gate to any other gate.[/img]
 	[img=Plus]Can be packed up and moved, then unpacked at a new location.[/img]
