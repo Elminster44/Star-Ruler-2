@@ -390,7 +390,7 @@ S_GATE_MODULE: Portail
 S_GATE_MODULE_DESC: <<
 	Un module FTL qui peut être ajoutée à une station.
 
-	[img=Plus]Allows ships to move from any gate to any other gate.[/img]
+	[img=Plus]Permet aux vaisseaux de se déplacer portail à portail.[/img]
 	[img=Plus]Can be packed up and moved, then unpacked at a new location.[/img]
 	[img=Minus]Must cover at least a third of the entire station.[/img]
 	[img=$FTL]Costs 0.15 FTL/s upkeep. Gates get disabled when you run out of FTL.[/img]
