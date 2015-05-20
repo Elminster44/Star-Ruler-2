@@ -419,54 +419,54 @@ S_CARGO_STORAGE_DESC: <<
 	Caisses et conteneurs spécialisés pour stocker les matières extraites des astéroïdes jusqu'à ce qu'elles puissent être déposés ou utilisés.
 >>
 
-ABL_AUTO_MINE: Mine Astéroïde (Automatique)
+ABL_AUTO_MINE: Miner Astéroïde (Automatique)
 ABL_AUTO_MINE_DESC: <<
-	Start mining from this asteroid and automatically return to mining it after depositing stored materials at the set drop off point.
+	Lance l'exploitation minière sur cet astéroïde et retourne automatiquement à l'exploitation minière après dépôt de matériaux stockés dans l'ensemble des points de chute.
 >>
 
-ABL_DROPOFF_POINT: Set Drop-off Point
+ABL_DROPOFF_POINT: Définir Point de dépôt
 ABL_DROPOFF_POINT_DESC: <<
-	Toggle where this ship's drop-off point for mined materials is set. When the cargo storage is full from mining, automatically drop off all cargo at the indicated object.
+	Interrupteur où le point de dépôt des matières extraites est défini pour le vaisseau. Lorsque le Cargo stockage est plein, dépose automatiquement toutes les marchandises à l'endroit indiqué.
 >>
 
-ABL_MINE_ASTEROID: Mine Asteroid (Once)
+ABL_MINE_ASTEROID: Miner Astéroïde (Une fois)
 ABL_MINE_ASTEROID_DESC: <<
-	Mine this asteroid for one full load of cargo, but do not return to it after dropping it off.
+	Miner cet astéroïde pour un chargement complet de cargaison, mais n'y retourne pas après le déchargement de cargaison.
 >>
 
-ABL_TRANSFER_CARGO: Transfer Cargo
+ABL_TRANSFER_CARGO: Cargo Transfert
 ABL_TRANSFER_CARGO_DESC: <<
-	Order the ship to transfer all cargo in its stores.
+	Ordonnez au vaisseau de transférer toute la cargaison dans ses dépôts.
 >>
 
-ABL_PICKUP_CARGO: Pickup Cargo
+ABL_PICKUP_CARGO: Cargo Ramassage
 ABL_PICKUP_CARGO_DESC: <<
-	Order the ship to pick up as much cargo from the target as possible.
+	Ordonnez au vaisseau de ramasser autant de marchandises ciblées que possible.
 >>
 
-S_CONSTRUCTION_BAY: Construction Bay
+S_CONSTRUCTION_BAY: Baie de Construction
 S_CONSTRUCTION_BAY_DESC: <<
-	Equipment and space for construction of new ships in the field.
+	Équipement et espace de construction de nouveaux vaisseaux.
 
-	[img=$Labor;22]Provides labor to construct new ships with.[/img]
+	[img=$Labor;22]Fournit la main-d'œuvre pour construire de nouveaux vaisseaux.[/img]
 >>
 
-S_ORE_PROCESSOR: Ore Processor
+S_ORE_PROCESSOR: Processeur de Minerai
 S_ORE_PROCESSOR_DESC: <<
-	Facilities to refine and smelt ore mined from asteroids into usable materials.
+	Installations de raffinage qui transforme le minerai extrait d'astéroïdes dans des matières utilisables.
 	
-	[img=$Labor;22]Automatically turns Ore in cargo storage or being mined into stored labor.[/img]
-	[img=ComputerCore;22;#fca404]Requires Construction Bay to be present to feed labor into.[/img]
+	[img=$Labor;22]Transforme automatiquement le minerai dans le stockage de marchandises ou extrait dans la main-d'œuvre stocké.[/img]
+	[img=ComputerCore;22;#fca404]Exige une Baie de Construction pour alimenter la main-d'œuvre.[/img]
 >>
 
-S_LIQUIDARMOR: Liquid Armor
+S_LIQUIDARMOR: Armure liquide
 S_LIQUIDARMOR_DESC: <<
-	A basin of liquid hydro-metal suspended on the hull of the ship absorbs impacts and spreads them evenly, filling any gaps that are created.
+	Un bassin de liquide hydro-métallique suspendue sur la coque du vaisseau pour absorber les chocs et les étaler uniformément, remplis n'importe quels trous qui sont créés.
 
-	[img=Plus]High [b][color=#80ff80]health[/color][/b].[/img]
-	[img=Plus]Health flows from high health hexes to connected low health hexes to equalize density.[/img]
-	[img=Plus]Armor on the outside of the ship does not use up interior space.[/img]
-	[img=Minus]Does not provide any Damage Resistance.[/img]
+	[img=Plus]Haute [b][color=#80ff80]santé[/color][/b].[/img]
+	[img=Plus]Le flux de santé des hexagones à haute santé sont relié aux hexagones de faible santé afin d'égaliser la densité.[/img]
+	[img=Plus]Armure à l'extérieur du vaisseau, n'utilise pas d'espace intérieur.[/img]
+	[img=Minus]Ne fournit pas de résistance aux dégâts.[/img]
 >>
 
 S_AUGMENT_RELOAD: Coolant System
