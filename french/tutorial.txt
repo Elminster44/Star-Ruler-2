@@ -57,34 +57,34 @@ TUT_CAM_ACT3_TEXT: Tenez le [color=#0f0]bouton droit de la souris[/color] et [co
 
 TUT_TIME_TITLE: Maîtriser le temps
 TUT_TIME_TEXT: <<|
-	In the top left corner of the screen while viewing the galaxy, there are time controls.
+	Dans le coin supérieur gauche de l'écran lors de la visualisation de la galaxie, il y a Les contrôles dU temps.
 	
-	You may slow or speed up the game from 1/10 to 10x normal speed.
+	Vous pouvez ralentir ou accélérer le jeu de 1/10 à 10x la vitesse normale.
 	
-	You may also pause and resume at any time.
+	Vous pouvez également mettre en pause et reprendre à tout moment.
 >>
 
-TUT_SCAN_TITLE: Driving them Out
+TUT_SCAN_TITLE: Action de chasse
 TUT_SCAN_TEXT: <<|
-	The flagship's long-range sensors have picked up a Xu'sio FTL gate being
-	flown into the system, protected by a two small defense fleets.
+	Les capteurs à longue portée du vaisseau amiral ont détectés un portail FTL Xu'sio en
+	vol dans le système, protégé par deux petites flottes de défense.
 
-	Destroy the gate and prevent it from deploying more enemy assault fleets!
+	Détruisez le portail et empêcher les de déployer plus de flottes d'assaut ennemies !
 >>
-TUT_SCAN_ACT1_TITLE: Select your Fleet
-TUT_SCAN_ACT1_TEXT: [color=#0f0]Left click[/color] the flagship to select the fleet.
-TUT_SCAN_ACT2_TITLE: Destroy the Enemy Fleet
-TUT_SCAN_ACT2_TEXT: [color=#0f0]Right click[/color] an enemy fleet and select [color=#0f0#]Attack[/color].
-TUT_SCAN_ACT3_TITLE: Destroy the Enemy Gate
-TUT_SCAN_ACT3_TEXT: [color=#0f0]Attack[/color] and destroy all enemy fleets and the enemy FTL Gate.
+TUT_SCAN_ACT1_TITLE: Sélectionnez votre flotte
+TUT_SCAN_ACT1_TEXT: [color=#0f0]Clic gauche[/color] sur le vaisseau amiral pour choisir la flotte.
+TUT_SCAN_ACT2_TITLE: Détruire la flotte ennemie 
+TUT_SCAN_ACT2_TEXT: [color=#0f0]Clic droite[/color] sur la flotte ennemie et sélectionner [color=#0f0#]Attaque[/color].
+TUT_SCAN_ACT3_TITLE: Détruire le portail ennemi
+TUT_SCAN_ACT3_TEXT: [color=#0f0]Attaquer[/color] et détruire toutes les flottes et le portail FTL ennemies.
 
-TUT_FTL_TITLE: Returning to Base
+TUT_FTL_TITLE: Retour à la base
 TUT_FTL_TEXT: <<|
-	The colony we're protecting is situated in a neighbouring system, [b]Lihls[/b].
-	It's about time we get over there and boss them around a little.
+	La colonie que nous protégeons est placée dans un système voisin, [b]Lihls[/b].
+	Il est grand temps que nous arrivions là-bas.
 	
-	We should use our flagship's hyperdrives to FTL there, rather than spending
-	an eternity crossing the void in sublight.
+	Nous devrions utiliser l'hyperpropulsion FTL de notre vaisseau amiral, plutôt que de dépenser
+	une éternité en traversant le vide à vitesse subluminique.
 >>
 TUT_FTL2_TITLE: Returning to Base
 TUT_FTL2_TEXT: <<|
