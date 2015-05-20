@@ -86,18 +86,17 @@ TUT_FTL_TEXT: <<|
 	Nous devrions utiliser l'hyperpropulsion FTL de notre vaisseau amiral, plutôt que de dépenser
 	une éternité en traversant le vide à vitesse subluminique.
 >>
-TUT_FTL2_TITLE: Returning to Base
+TUT_FTL2_TITLE: Retour à la base
 TUT_FTL2_TEXT: <<|
-	Use of all methods of FTL travel is limited by the availability of
-	[color=#00c0ff][img=ResourceIcon::3;20/] FTL Energy[/color]. This energy is
-	harvested through use of special tuning crystals, found on only a few
-	planets in the galaxy, and then superluminally transmitted to the ships
-	authorized to use it.
+	L'utilisation de toutes les méthodes de voyage FTL sont limitée par la disponibilité de
+	[color=#00c0ff][img=ResourceIcon::3;20/]Energie FTL[/color]. Cette énergie est 	 
+	récoltée par l'utilisation de cristaux aux réglages d'accord spéciaux, trouvé sur quelques
+	planètes de la galaxie, et ensuite transmis superluminalement aux vaisseaux autorisés à l'utiliser.
 
-	The further away you try to jump, the more energy it costs. Try ordering
-	your fleet to use their hyperdrives, draining your stored ftl energy.
+	Plus loin vous essayez de sauter, plus d'énergie est demandé. Essayez de commander
+	votre flotte à utiliser leur hyperpropulsion, drainagant votre énergie FTL stockée.
 >>
-TUT_FTL2_ACT1_TITLE: FTL to Lihls
+TUT_FTL2_ACT1_TITLE: FTL vers Lihls
 TUT_FTL2_ACT1_TEXT: <<|
 	With your fleet selected, press the '$1' key or click the hyperdrive button
 	in the bottom left to order an ftl jump.
