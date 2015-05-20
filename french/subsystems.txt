@@ -391,27 +391,27 @@ S_GATE_MODULE_DESC: <<
 	Un module FTL qui peut être ajoutée à une station.
 
 	[img=Plus]Permet aux vaisseaux de se déplacer portail à portail.[/img]
-	[img=Plus]Can be packed up and moved, then unpacked at a new location.[/img]
-	[img=Minus]Must cover at least a third of the entire station.[/img]
-	[img=$FTL]Costs 0.15 FTL/s upkeep. Gates get disabled when you run out of FTL.[/img]
+	[img=Plus]Peut être embarqué et déplacé, puis débarqué à un nouvel emplacement.[/img]
+	[img=Minus]Doit couvrir au moins un tiers de l'ensemble de la station.[/img]
+	[img=$FTL]Coûts d'entretien de 0,15 FTL/s. Portail désactivé si vous manquez de FTL.[/img]
 >>
 
-ABL_GATE_PACK: Pack Up Gate
+ABL_GATE_PACK: Embarquer portail
 ABL_GATE_PACK_DESC: <<
-	Deactivate and pack up the gate. Packed gates are not active, but can be moved slowly by using their maneuvering thrusters.
+	Désactiver et embarquer portail. Les portails embarqué ne sont pas actif, mais peut être déplacé lentement en utilisant leurs propulseurs de manœuvre.
 >>
 
-ABL_GATE_UNPACK: Unpack Gate
+ABL_GATE_UNPACK: Débarquer portail
 ABL_GATE_UNPACK_DESC: <<
-	Unpack the gate at the targeted location. The gate will move there using its maneuvering thrusters, then unpack and reactivate itself. Activating a gate has a single-time FTL cost.
+	Débarquer la porte à l'emplacement ciblé. La porte sera s'y installer en utilisant ses propulseurs de manœuvre, puis se réactiver. Activer un portail a un coût en FTL unique.
 >>
 
-S_MINING_LASER: Mining Laser
+S_MINING_LASER: Laser minier
 S_MINING_LASER_DESC: <<
-	A precise cutting and drilling tool used to extract materials from asteroids.
+	Outil de forage avec une découpe précise utilisé pour extraire des matériaux des astéroïdes.
 
-	[img=Plus]Mines special minerals from asteroids.[/img]
-	[img=MenuIcons::3;20]Only particular asteroids will have special minerals such as [b]Ore[/b]. Many asteroids have resources that cannot be mined by mining laser, but require a planet to construct a mining base on the asteroid instead.[/img]
+	[img=Plus]Mines les minéraux spéciaux des astéroïdes.[/img]
+	[img=MenuIcons::3;20]Seul des astéroïdes particuliers auront des minéraux spéciaux comme du [b]Minerai[/b]. De nombreux astéroïdes ont des ressources qui ne peuvent pas être exploitées par le laser minier, mais nécessitent une planète pour construire une base d'exploitation minière sur l'astéroïde.[/img]
 >>
 
 S_CARGO_STORAGE: Cargo Storage
