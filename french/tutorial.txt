@@ -14,12 +14,12 @@ TUT_INTRO_TEXT: <<|
 
 	Ou alors les actualités diront..."
 >>
-TUT_INTRO2_TITLE: 3876 CE: The Terran Empire
+TUT_INTRO2_TITLE: 3876 CE: Terran Empire
 TUT_INTRO2_TEXT: <<|
-	[i][/i]"In truth, the frontier is a cesspool of outlaws, petty criminals, and
-	lawyers, and the empire is frequently forced to send fleets to maintain
-	order - Fleets sent under the guise of protecting settlements in unclaimed
-	space from the Xu'sio alien menace.
+	[i][/i]"En vérité, la frontière est un cloaque de hors la loi, de petits criminels, et
+	d'avocats, l'empire est souvent forcés d'envoyer des flottes pour maintenir
+	l'ordre - Les flottes envoyées sous l'apparence de protection de l'implantations dans l'espace 
+	non réclamé le sont pour la menace alien Xu'sio.
 
 	Of course, this enforced lawfulness only lasts as long as the duration of
 	the fleet's deployment, the colonies quickly reverting to their brutish
