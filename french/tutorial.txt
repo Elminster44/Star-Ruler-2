@@ -43,19 +43,19 @@ TUT_INTRO3_TEXT: <<|
 
 TUT_CAM_TITLE: Contrôle de la caméra
 TUT_CAM_TEXT: <<|
-	Familiarize yourself with the command console's viewscreen. Commanding your
-	forces might prove difficult if you cannot see them.
+	Familiarisez vous avec la vue d'écran de la console de commande. Commander vos
+	forces pourrait être difficile si vous ne pouvez pas les voir.
 	
-	[i]If the tutorial is in the way at any time, you may drag it around by its top bar.[/i]
+	[i]Si le didacticiel vous gêne, à tout moment, vous pouvez le faire glisser par sa barre supérieure.[/i]
 >>
-TUT_CAM_ACT1_TITLE: Look Around
-TUT_CAM_ACT1_TEXT: Move the cursor to the [color=#0f0]edge of the screen[/color] or use [color=#0f0]WASD[/color].
-TUT_CAM_ACT2_TITLE: Zoom In and Out
-TUT_CAM_ACT2_TEXT: Scroll with the [color=#0f0]mouse wheel[/color] or hold [b]both mouse buttons[/b] and [b]drag[/b].
-TUT_CAM_ACT3_TITLE: Rotate the View
-TUT_CAM_ACT3_TEXT: Hold the [color=#0f0]right mouse button[/color] and [color=#0f0]drag[/color].
+TUT_CAM_ACT1_TITLE: Regarder autour de soi
+TUT_CAM_ACT1_TEXT: Déplacez le curseur sur le [color=#0f0]bord de l'écran[/color] ou utiliser [color=#0f0]WASD[/color].
+TUT_CAM_ACT2_TITLE: Zoom avant et arrière
+TUT_CAM_ACT2_TEXT: Faites défiler avec la [color=#0f0]molette de souris[/color] ou appuie sur [b]les deux boutons de la souris[/b] et [b]faite glisser[/b].
+TUT_CAM_ACT3_TITLE: Faire pivoter la vue
+TUT_CAM_ACT3_TEXT: Tenez le [color=#0f0]bouton droit de la souris[/color] et [color=#0f0]faite glisser[/color].
 
-TUT_TIME_TITLE: Controlling Time
+TUT_TIME_TITLE: Maîtriser le temps
 TUT_TIME_TEXT: <<|
 	In the top left corner of the screen while viewing the galaxy, there are time controls.
 	
