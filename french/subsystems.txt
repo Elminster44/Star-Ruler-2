@@ -485,29 +485,29 @@ S_AUGMENT_DAMAGE_DESC: <<
 	[img=Minus]Diminue [b][color=#c680ff]la portée[/color][/b] de 50%.[/img]
 >>
 
-S_AUGMENT_SUPPLY: Smoothed Mechanism
+S_AUGMENT_SUPPLY: Mécanisme Lissé
 S_AUGMENT_SUPPLY_DESC: <<
-	Augmenting the weapon's delivery and focusing systems decreases the supply cost of firing it at the cost of flexibilty and speed.
+	L'augmentation de la distribution de l'arme et de la concentration des systèmes diminue le coût des munitions aux dépens de la flexibilité et de la vitesse.
 
-	[img=Plus]Diminue[b][color=#fefc61]supply cost[/color][/b] to fire by 30%.[/img]
-	[img=Minus]Diminue [b]turret firing arc[/b] by 50%, where appropriate.[/img]
-	[img=Minus]Diminue [b]projectile speed[/b] by 50%, where appropriate.[/img]
+	[img=Plus]Diminue[b][color=#fefc61]les munitions[/color][/b] utilisées de 30%.[/img]
+	[img=Minus]Diminue [b]l'angle de tir[/b] de 50%, le cas échéant.[/img]
+	[img=Minus]Diminue [b]la vitesse des projectiles[/b] de 50%, le cas échéant.[/img]
 >>
 
 S_SHRINE: Tombeau
 S_SHRINE_DESC: <<
-	A shrine to honor the Old Gods, constructed in accordance with the blueprints they bestowed upon us. Praying to the shrine protects the ship from harm.
+	Un sanctuaire pour honorer les Anciens Dieux, construit conformément aux plans qu'ils nous ont accordé. Prier au sanctuaire protège le vaisseau contre le mal.
 
-	[img=Plus]Adds a Shield to the ship.[/img]
-	[img=Minus]At least as much Prayer must be generated as the ship has Control.[/img]
-	[img=ResourceIconsSmall::53;22][b][color=#408fc1]Only available when the 'Devout' race option is chosen.[/color][/b][/img]
+	[img=Plus]Ajoute un bouclier pour le vaisseau.[/img]
+	[img=Minus]Assez de prière doit être généré pour que le vaisseau dispose d'un contrôle.[/img]
+	[img=ResourceIconsSmall::53;22][b][color=#408fc1]Seulement disponible quand l'option de race 'Pieux' est choisie.[/color][/b][/img]
 >>
 
-S_QUANTUM_BATTERY: Quantum Battery
+S_QUANTUM_BATTERY: Pile Quantique
 S_QUANTUM_BATTERY_DESC: <<
-	Quantum batteries can store parts of the vast amount of energy collected by an empire in the zero-point energy of a tiny region of folded subspace. This energy is then slowly let out to supplement the power requirements of the subsystem.
+	Les Piles Quantique peuvent stocker des morceaux de la vaste quantité d'énergie captée par un empire dans l'énergie du point zéro d'une petite région du sous-espace plié. Cette énergie est ensuite lentement utilisé afin de compléter les exigences de puissance du sous-système.
 
-	[img=Plus]Halves the power requirements of the subsystem it is placed in.[/img]
-	[img=Minus]If a Quantum Battery is destroyed in combat, the subsystem is nonfunctional until it is repaired.[/img]
-	[img=$Energy;20]Costs [b]Energy[/b] from your empire's global stores to construct.[/img]
+	[img=Plus]Divise par deux la puissance requise par le sous-système placé à l'intérieur.[/img]
+	[img=Minus]Si une pile quantique est détruite au combat, le sous-système est non fonctionnel jusqu'à ce qu'il soit réparé.[/img]
+	[img=$Energy;20]Coûts en [b]Energie[/b] des dépôts globaux de votre empire pour être construit.[/img]
 >>
