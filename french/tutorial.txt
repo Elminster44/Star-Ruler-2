@@ -4,15 +4,15 @@ TUT_ENEMY_EMP: Xu'sio
 TUT_FLAGSHIP_NAME: Superion
 
 
-TUT_INTRO_TITLE: 3876 CE: The Terran Empire
+TUT_INTRO_TITLE: 3876 CE: Terran Empire
 TUT_INTRO_TEXT: <<|
-	[i][/i]"A glorious age dawns in the empire's fourth millennium!
+	[i][/i]"Aubes d'âge glorieuses dans le quatrième millénaire de l'empire!
 	
-	The discovery and colonization of the New Galaxy is well underway and
-	proceeding smoothly, attracting people from all over the empire to settle
-	on rich frontier worlds and try to improve their lot.
+	La découverte et la colonisation d'une nouvelle galaxie est bien en cours et
+	nous procédont en douceur, attirez des gens de partout dans l'empire 
+	sur de riches mondes frontaliers et essayer d'améliorer leur sort.
 
-	Or so the newslinks say..."
+	Ou alors les actualités diront..."
 >>
 TUT_INTRO2_TITLE: 3876 CE: The Terran Empire
 TUT_INTRO2_TEXT: <<|
