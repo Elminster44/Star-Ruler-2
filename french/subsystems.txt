@@ -414,12 +414,12 @@ S_MINING_LASER_DESC: <<
 	[img=MenuIcons::3;20]Seul des astéroïdes particuliers auront des minéraux spéciaux comme du [b]Minerai[/b]. De nombreux astéroïdes ont des ressources qui ne peuvent pas être exploitées par le laser minier, mais nécessitent une planète pour construire une base d'exploitation minière sur l'astéroïde.[/img]
 >>
 
-S_CARGO_STORAGE: Cargo Storage
+S_CARGO_STORAGE: Cargo stockage
 S_CARGO_STORAGE_DESC: <<
-	Specialized container crates and facilities to store materials mined from asteroids until they can be deposited or used.
+	Caisses et conteneurs spécialisés pour stocker les matières extraites des astéroïdes jusqu'à ce qu'elles puissent être déposés ou utilisés.
 >>
 
-ABL_AUTO_MINE: Mine Asteroid (Automatic)
+ABL_AUTO_MINE: Mine Astéroïde (Automatique)
 ABL_AUTO_MINE_DESC: <<
 	Start mining from this asteroid and automatically return to mining it after depositing stored materials at the set drop off point.
 >>
