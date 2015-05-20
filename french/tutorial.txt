@@ -98,89 +98,89 @@ TUT_FTL2_TEXT: <<|
 >>
 TUT_FTL2_ACT1_TITLE: FTL vers Lihls
 TUT_FTL2_ACT1_TEXT: <<|
-	With your fleet selected, press the '$1' key or click the hyperdrive button
-	in the bottom left to order an ftl jump.
+	Avec votre flotte sélectionnée, appuyez sur la touche '$1' ou cliquez sur le bouton hyperdrive
+	en bas à gauche de la commande de saut FTL.
 >>
 
-TUT_ARRIVE_TITLE: Captain's Log
+TUT_ARRIVE_TITLE: Journal du capitaine
 TUT_ARRIVE_TEXT: <<|
-	"Arriving at the colony, we held a brief funeral ceremony for our commodore
-	- now posthumously promoted to Rear Admiral. The local undertaker had done
-	a good job covering the charred laser wound on his forehead.
+	"En arrivant dans la colonie, nous avons tenu une brève cérémonie funèbre pour notre commodore
+	- maintenant promu contre-amiral à titre posthume. L'entrepreneur de pompes funèbres locale avait fait
+	un bon travail en couvrant l'impact de laser sur son front.
 
-	It was decided that the fleet would continue to support the settlement and
-	its expansion into the local area of space until the Terran Empire
-	officially claimed the region."
+	Il a été décidé que la flotte continuerait de faire respecter l'ordre et
+	son expansion dans cette région de l'espace jusqu'à ce que l'Empire Terrien
+	revendique officiellement la région."
 >>
 
-TUT_RES_TITLE: Resources
+TUT_RES_TITLE: Ressources
 TUT_RES_TEXT: <<|
-	Most planets in the galaxy contain the natural resources to produce
-	a single particular type of resource in quantities large enough for
-	a sustained export industry.
+	La plupart des planètes dans la galaxie contiennent les ressources naturelles pour produire
+	un simple type particulier de ressource dans des quantités assez grandes pour
+	une industrie d'exportation soutenue .
 
-	Resources range from food and water, to supercarbons and uranium, to FTL
-	crystals. Not every resource can be produced right away, and some resources
-	require a higher [b]level[/b] planet in order to produce.
+	Les ressources s'étendent de la nourriture et l'eau, au supercarbone et uranium, et aux
+	cristaux FTL. Toutes les ressources ne peuvent pas être produite tout de suite, et certaines ressources
+	exigent un meilleure [b]niveau[/b] de planète pour être produite.
 >>
 
-TUT_LEVEL_TITLE: Expanding and Developing
+TUT_LEVEL_TITLE: Expansion et développement
 TUT_LEVEL_TEXT: <<|
-	Every settled planet has a [b]level[/b], ranging from level 0 to level 5.
-	Planet levels indicate the amount of infrastructure, population and
-	development a planet possesses, and higher level planets are better in many
-	ways.
+	Chaque planète colonisée a un [b]niveau[/b], allant du niveau 0 au niveau 5.
+	Le niveau des planètes indiquent la quantité d'infrastructures, la population et
+	le développement d'une planète possèdée, et les planètes de niveau plus élevé sont meilleures dans beaucoup
+	de domaines.
 
-	In order to level up a planet, it requires access to more and more
-	resources, imported from different planets. For example, level 1 planets require [b][img=ResourceClassIcons::3;22/] Food and [img=ResourceClassIcons::4;22/] Water[/b].
+	Afin de monter une planète de niveau, il faut avoir accès à de plus en plus
+	de ressources, importées de différentes planètes. Par exemple, le niveau 1 requière [b][img=ResourceClassIcons::3;22/] Nourriture et [img=ResourceClassIcons::4;22/] Eau[/b].
 >>
-TUT_LEVEL2_TITLE: Expanding and Developing
+TUT_LEVEL2_TITLE: Expansion et développement
 TUT_LEVEL2_TEXT: <<|
-	When you export a resource, the original planet no longer has access to
-	that resource for its own use.
+	Lorsque vous exportez une ressource, la planète d'origine n'a plus accès à
+	cette ressource pour son propre usage.
 
-	Because planets require resources from other planets to level up, not every
-	planet can be a high-level powerhouse. It is important to carefully choose
-	which planets to send resources to, and which higher level resources to
-	start producing.
+	Parce que les planètes ont besoin de ressources provenant d'autres planètes pour monter de niveau, toute
+	les planète ne peuvent pas être une centrale électrique de haut niveau. Il est important de soigneusement choisir 
+	vers quelle planète vous envoyez des ressources, et quelles ressources de niveau supérieur vous
+	allez commencer à produire.
 
-	In our case, we want to level up Spacewood to level 2 to gain extra income
-	and population.
+	Dans notre cas, nous voulons monter Spacewood au niveau 2 afin de gagner un revenu supplémentaire
+	et de la population.
 >>
 
-TUT_EXPAND_TITLE: Colonizing and Exporting
+TUT_EXPAND_TITLE: Coloniser et exporter
 TUT_EXPAND_TEXT: <<|
-	To reach [b]Level 2[/b], Spacewood requires a [b][img=ResourceClassIcons::0;22/] Tier 1 resource[/b]
-	(such as [template=resource_ref;NativeGold/]) and another [b]Food[/b] (such as [template=resource_ref;Grain/]).
+	Pour atteindre le [b]Niveau 2[/b], Spacewood exige [b][img=ResourceClassIcons::0;22/] une ressources de Niveau 1[/b]
+	(comme [template=resource_ref;NativeGold/]) et une autre [b]Nourriture[/b] (comme [template=resource_ref;Grain/]).
 	
-	[b]Select[/b] Spacewood and [b]right-click[/b] a planet you wish to colonize, and choose 'Colonize with Spacewood.'
-	You may also [b]right-click[/b] the planet on its own and choose 'Colonize This,' which will automatically choose a planet to colonize with.
+	[b]Sélectionner[/b] Spacewood et [b]clic droit[/b] sur une planète que vous souhaitez coloniser, et choisissez 'Coloniser avec Spacewood.'
+	Vous pouvez aussi [b]clic droit[/b] sur la planète à coloniser et choisir 'Colonisez,' qui choisira automatiquement une autre planète pour la coloniser.
 >>
-TUT_EXPAND_ACT1_TITLE: Colonize a Food Resource
+TUT_EXPAND_ACT1_TITLE: Coloniser une ressource de nourriture
 TUT_EXPAND_ACT1_TEXT: <<
-	Colonize a nearby [b][img=ResourceClassIcons::3;22/] Food[/b] planet.
+	Coloniser à proximité une planète avec de la [b][img=ResourceClassIcons::3;22/]Nourriture[/b].
 >>
-TUT_EXPAND_ACT2_TITLE: Export the Food to Spacewood
+TUT_EXPAND_ACT2_TITLE: Exportez la Nourriture vers Spacewood
 TUT_EXPAND_ACT2_TEXT: <<
-	Export the [b][img=ResourceClassIcons::3;22/] Food[/b] resource to spacewood by left clicking and dragging from the Food planet to spacewood.
+	Exportez la [b][img=ResourceClassIcons::3;22/]Nourriture[/b] vers spacewood avec un clic gauche et en faisant glisser la Nourriture vers la planète Spacewood.
 >>
-TUT_EXPAND_ACT3_TITLE: Colonize a Tier 1 Resource
+TUT_EXPAND_ACT3_TITLE: Colonisez une ressource de niveau 1
 TUT_EXPAND_ACT3_TEXT: <<
-	Colonize a nearby [b][img=ResourceClassIcons::0;22/] Tier 1 Resource[/b] planet.
+	Coloniser une proximité une planète avec une [b][img=ResourceClassIcons::0;22/]Ressource de niveau 1[/b] planet.
 >>
-TUT_EXPAND_ACT4_TITLE: Export the Tier 1 Resource to Spacewood
+TUT_EXPAND_ACT4_TITLE: Exportez la Ressource de niveau 1 vers Spacewood
 TUT_EXPAND_ACT4_TEXT: <<
-	Queue the export of the [b][img=ResourceClassIcons::0;22/] Tier 1 Resource[/b] resource to spacewood by left clicking and dragging from the source planet to spacewood.
+	Exportez la [b][img=ResourceClassIcons::0;22/]Ressource de niveau 1[/b] vers spacewood avec un clic gauche et en faisant glisser la ressource vers la planète Spacewood.
 >>
 
-TUT_LEVELREQS_TITLE: Planet Level Requirements
+TUT_LEVELREQS_TITLE: Exigences Niveau de planète
 TUT_LEVELREQS_TEXT: <<|
-	Next, we'll need to upgrade two planets. Each planet level has a growing need for more resoures of different tiers. Every planet requires a source of [b][img=ResourceClassIcons::4;22/] Water[/b], and each level requires an additional [b][img=ResourceClassIcons::3;22/] Food[/b]. On top of these, higher levels have need of a number of [b][img=ResourceClassIcons::0;22/] Tier 1[/b] and [b][img=ResourceClassIcons::1;22/] Tier 2[/b] resources.
+	Ensuite, nous aurons besoin de mettre à jour deux planètes. Chaque niveau de la planète a un besoin croissant de ressouces de différents niveaux. Chaque planète nécessite une source d'[b][img=ResourceClassIcons::4;22/]Eau[/b], et chaque niveau nécessite un supplément de [b][img=ResourceClassIcons::3;22/]Nourriture[/b]. En plus de ceux-ci, les niveaux plus élevés ont besoin d'un certain nombre de ressources[b][img=ResourceClassIcons::0;22/] Niveau 1[/b] et [b][img=ResourceClassIcons::1;22/] Niveau 2[/b].
 	
-	At any time, you can check what types of resources a planet will need to upgrade by [b]selecting[/b] the planet and looking in the bottom left, or by [b]double-clicking[/b] a planet and check the bottom left panel.
+	À tout moment, vous pouvez vérifier quels types de ressources une planète aura besoin de mettre à niveau par une [b]sélection[/b] de la planète et son cadre en bas à gauche, ou par un [b]double clic[/b] sur une planète et vérifier le panneau en bas à gauche.
 >>
 
-TUT_IMPORT1_TITLE: Upgrading Planets
+TUT_IMPORT1_TITLE: Mise à niveau des Planètes
 TUT_IMPORT1_TEXT: <<|
 	Your new planet must reach [b]Level 1[/b] to produce and export its [b][img=ResourceClassIcons::0;22/] Tier 1 Resource[/b]. To reach level 1 and use its resource, we must import a [b][img=ResourceClassIcons::3;22/] Food[/b] and a [b][img=ResourceClassIcons::4;22/] Water[/b] resource from other planets.
 	
