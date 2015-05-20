@@ -21,27 +21,27 @@ TUT_INTRO2_TEXT: <<|
 	l'ordre - Les flottes envoyées sous l'apparence de protection de l'implantations dans l'espace 
 	non réclamé le sont pour la menace alien Xu'sio.
 
-	Of course, this enforced lawfulness only lasts as long as the duration of
-	the fleet's deployment, the colonies quickly reverting to their brutish
-	ways of robbery, murder and class action lawsuits.
+	Bien sûr, cette légalité forcée dure seulement le temps de la durée du
+	déploiement de la flotte, les colonies retournant rapidement à leur brutal
+	façons de vol, meurtre et de procès en action collective.
 	
-	Most EarthFleet commanders had given up on the prospect of reforming the
-	frontier entirely..."
+	La plupart des commandants Terrien avaient perdu l'espoir en perspective de reformer 
+	la frontière entièrement..."
 >>
-TUT_INTRO3_TITLE: 3876 CE: The Terran Empire
+TUT_INTRO3_TITLE: 3876 CE: Terran Empire
 TUT_INTRO3_TEXT: <<|
-	[i][/i]"But not Commodore Hople of the proud 119th fleet.
+	[i][/i]"Mais pas le fier Commodore Hople de la 119ème flotte.
 
-	No, our commander had wanted change and stability on the frontier, and was
-	prepared to take a radical approach. The Commodore had flown a shuttle down
-	to the planet's largest city to discuss plans and terms with the settlers.
+	Non, notre commandant avait voulu le changement et la stabilité sur la frontière, et a été
+	prêt à prendre une approche radicale. Le Commodore avait volé une navette pour descendre
+	vers la plus grande ville de la planète pour discuter des plans et des termes avec les colons.
 
-	Commodore Hople had promptly died of dysentery.
+	Le commodore Hople était promptement mort de dysenterie.
 
-	Unfortunately, this left me in charge of the fleet's mission."
+	Malheureusement, cela m'a laissé en charge la mission de la flotte."
 >>
 
-TUT_CAM_TITLE: Controlling the Camera
+TUT_CAM_TITLE: Contrôle de la caméra
 TUT_CAM_TEXT: <<|
 	Familiarize yourself with the command console's viewscreen. Commanding your
 	forces might prove difficult if you cannot see them.
