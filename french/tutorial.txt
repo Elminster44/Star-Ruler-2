@@ -291,36 +291,36 @@ TUT_SCOUT_ACT1_TEXT: <<|
 	si vous voulez.
 >>
 
-TUT_CONQ_TITLE: Conquering Xaste
+TUT_CONQ_TITLE: Conquête de Xaste
 TUT_CONQ_TEXT: <<|
-	Our scout has detected an enemy colony in the Xaste system, occupying
-	a Phasite planet. Phasite is a level 0 resource that gives Research.
+	Notre éclaireur a détecté une colonie ennemi dans le système Xaste, avec
+	une ressource de Phasite. Phasite est une ressource du niveau 0 d'après votre recherche.
 	
-	Since there don't seem to be any major defense fleets around, we should
-	send in our fleet to take the planet by force: Kill the planet's own
-	defense ships, then lay siege to it with your fleet to reduce its loyalty.
-	When its loyalty is completely drained, the planet will be yours!
+	Depuis, il ne semble pas y avoir de flottes de défense majeure autour, nous devrions
+	envoyer notre flotte pour prendre la planète par la force: Nettoyez la planète de ses
+	vaisseaux de défense, puis l'assiéger avec votre flotte pour réduire sa loyauté.
+	Lorsque sa loyauté est complètement déchargée, la planète sera vôtre !
 >>
-TUT_CONQ_ACT1_TITLE: Jump Battleship into Xaste
-TUT_CONQ_ACT1_TEXT: Jump your Battleship fleet into the Xaste system using its hyperdrives.
-TUT_CONQ_ACT2_TITLE: Eliminate Defenses
-TUT_CONQ_ACT2_TEXT: Move your fleet to Xaste IV and eliminate the defense ships in orbit.
-TUT_CONQ_ACT3_TITLE: Capture Planet
-TUT_CONQ_ACT3_TEXT: Select your fleet, then [b]right-click[/b] Xaste IV and select the "Capture" option. Wait for your fleet to finish capturing the planet.
+TUT_CONQ_ACT1_TITLE: SAut de votre vaisseau de guerre vers Xaste
+TUT_CONQ_ACT1_TEXT: Aller avec votre flotte dans le système Xaste en utilisant son hyperpropulsion.
+TUT_CONQ_ACT2_TITLE: Eliminer ses défenses
+TUT_CONQ_ACT2_TEXT: Déplacez votre flotte vers Xaste IV et éliminer les vaisseaux de défense en orbite.
+TUT_CONQ_ACT3_TITLE: Capturez la planète
+TUT_CONQ_ACT3_TEXT: Sélectionnez votre flotte, puis [b]clic droit[/b] sur Xaste IV et sélectionnez l'option «Capture». Attendez que votre flotte termine la capture de la planète.
 
-TUT_CAPT_TITLE: Victory!
+TUT_CAPT_TITLE: Victoire !
 TUT_CAPT_TEXT: <<|
-	The enemy planet has succumbed to your fleet's siege! The colony is now yours to command.
+	La planète ennemie a succombé au siège de votre flotte ! La colonie est maintenant sous vos ordres.
 
-	In order to use the Phasite it is producing and start generating research, export it to Spacewood.
+	Pour utiliser le Phasite il est produit et commence à générer des recherches, exporter le vers Spacewood.
 >>
-TUT_CAPT_ACT1_TITLE: Export Phasite
-TUT_CAPT_ACT1_TEXT: Export Xaste IV's Phasite to Spacewood.
+TUT_CAPT_ACT1_TITLE: Exporter Phasite
+TUT_CAPT_ACT1_TEXT: Exporter le Phasite de Xaste IV vers Spacewood.
 
-TUT_PRES_TITLE: Resources and Pressures
+TUT_PRES_TITLE: Ressources et pressions
 TUT_PRES_TEXT: <<|
-	In addition to planets requiring particular types of resources to level up,
-	resources can provide their consuming planet with [b]Pressure[/b].
+	En plus de planètes nécessitant des types particuliers de ressources pour monter de niveau,
+	des ressources peuvent fournir des planètes consommant de la [b]Pression[/b].
 	
 	Civilian population on the planet will automatically develop [b]Civilian
 	Buildings[/b] on the planet's surface to produce the type of pressure being
