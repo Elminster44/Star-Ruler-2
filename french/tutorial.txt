@@ -182,7 +182,7 @@ TUT_LEVELREQS_TEXT: <<|
 
 TUT_IMPORT1_TITLE: Mise à niveau des Planètes
 TUT_IMPORT1_TEXT: <<|
-	Your new planet must reach [b]Level 1[/b] to produce and export its [b][img=ResourceClassIcons::0;22/] Tier 1 Resource[/b]. To reach level 1 and use its resource, we must import a [b][img=ResourceClassIcons::3;22/] Food[/b] and a [b][img=ResourceClassIcons::4;22/] Water[/b] resource from other planets.
+	Votre nouvelle planète doit atteindre le [b]Niveau 1[/b] pour produire et exporter sa [b][img=ResourceClassIcons::0;22/]Ressource Niveau 1[/b]. Pour atteindre le niveau 1 et utiliser ses ressources, vous devez importer de la [b][img=ResourceClassIcons::3;22/]Nourriture[/b] et de l'[b][img=ResourceClassIcons::4;22/]Eau[/b] d'autres planètes.
 	
 	Resources can be exported anywhere within your [b][color=#8888ff]Empire[/color][/b] border. Your [b][color=#999999]Trade[/color][/b] border shows systems that will become tradeable once colonized. [b][img=ResourceClassIcons::4;22/]Water[/b] is available nearby in [b]Odatak[/b].
 >>
