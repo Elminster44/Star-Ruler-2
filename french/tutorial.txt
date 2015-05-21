@@ -175,7 +175,7 @@ TUT_EXPAND_ACT4_TEXT: <<
 
 TUT_LEVELREQS_TITLE: Exigences Niveau de planète
 TUT_LEVELREQS_TEXT: <<|
-	Ensuite, nous aurons besoin de mettre à jour deux planètes. Chaque niveau de la planète a un besoin croissant de ressouces de différents niveaux. Chaque planète nécessite une source d'[b][img=ResourceClassIcons::4;22/]Eau[/b], et chaque niveau nécessite un supplément de [b][img=ResourceClassIcons::3;22/]Nourriture[/b]. En plus de ceux-ci, les niveaux plus élevés ont besoin d'un certain nombre de ressources[b][img=ResourceClassIcons::0;22/] Niveau 1[/b] et [b][img=ResourceClassIcons::1;22/] Niveau 2[/b].
+	Ensuite, nous aurons besoin de mettre à jour deux planètes. Chaque niveau de la planète a un besoin croissant de ressouces de différents niveaux. Chaque planète nécessite une source d'[b][img=ResourceClassIcons::4;22/]Eau[/b], et chaque niveau nécessite un supplément de [b][img=ResourceClassIcons::3;22/]Nourriture[/b]. En plus de ceux-ci, les niveaux plus élevés ont besoin d'un certain nombre de ressources[b][img=ResourceClassIcons::0;22/] Niveau 1[/b] et [b][img=ResourceClassIcons::1;22/]Niveau 2[/b].
 	
 	À tout moment, vous pouvez vérifier quels types de ressources une planète aura besoin de mettre à niveau par une [b]sélection[/b] de la planète et son cadre en bas à gauche, ou par un [b]double clic[/b] sur une planète et vérifier le panneau en bas à gauche.
 >>
@@ -184,111 +184,111 @@ TUT_IMPORT1_TITLE: Mise à niveau des Planètes
 TUT_IMPORT1_TEXT: <<|
 	Votre nouvelle planète doit atteindre le [b]Niveau 1[/b] pour produire et exporter sa [b][img=ResourceClassIcons::0;22/]Ressource Niveau 1[/b]. Pour atteindre le niveau 1 et utiliser ses ressources, vous devez importer de la [b][img=ResourceClassIcons::3;22/]Nourriture[/b] et de l'[b][img=ResourceClassIcons::4;22/]Eau[/b] d'autres planètes.
 	
-	Resources can be exported anywhere within your [b][color=#8888ff]Empire[/color][/b] border. Your [b][color=#999999]Trade[/color][/b] border shows systems that will become tradeable once colonized. [b][img=ResourceClassIcons::4;22/]Water[/b] is available nearby in [b]Odatak[/b].
+	Les ressources peuvent être exportés partout au sein de la frontière de votre [b][color=#8888ff]Empire[/color][/b]. Votre frontière [b][color=#999999]commercialle[/color][/b] montre les systèmes qui pourront échanger une fois colonisé. [b][img=ResourceClassIcons::4;22/]L'Eau[/b] est disponible à proximité de [b]Odatak[/b].
 >>
-TUT_IMPORT1_ACT1_TITLE: Level up the Tier 1 resource planet
+TUT_IMPORT1_ACT1_TITLE: Montez de niveau la planète avec ressource niveau 1
 TUT_IMPORT1_ACT1_TEXT: <<|
-	Colonize a source of [b][img=ResourceClassIcons::3;22/] Food[/b] and [b][img=ResourceClassIcons::4;22/] Water[/b],
-	and export them to the tier 1 resource planet.
+	Coloniser une source de[b][img=ResourceClassIcons::3;22/] Nourriture[/b] et d'[b][img=ResourceClassIcons::4;22/]Eau[/b],
+	et les exporter vers la planète avec ressource niveau 1.
 >>
 
-TUT_IMPORT2_TITLE: Colonizing and Exporting
+TUT_IMPORT2_TITLE: Coloniser et exportater
 TUT_IMPORT2_TEXT: <<|
-	Now that you've provided the resources for your planet to start becoming [b]Level 1[/b], its population will start growing. When the population level reaches the amount required for the level up, it will start producing its resource and export it to Spacewood per your earlier queued order.
+	Maintenant que vous avez fourni des ressources pour votre planète pour commencer à devenir [b]Niveau 1[/b], sa population va croître. Lorsque le niveau de la population atteint le montant requis pour la montée de niveau, elle va commencer à produire sa ressource et l'exporter vers Spacewood par votre commande plus tôt en file d'attente.
 
-	To reach Level 1, your planet needs to grow to [b][img=$Population;22/] 2 population[/b].
+	Pour atteindre le niveau 1, Votre planète a besoin de croître de[b][img=$Population;22/] 2 population[/b].
 >>
-TUT_IMPORT2_ACT1_TITLE: Level Spacewood to level 2
+TUT_IMPORT2_ACT1_TITLE: Montez Spacewood au niveau 2
 TUT_IMPORT2_ACT1_TEXT: <<|
-	Finish leveling up Spacewood to [b]Level 2[/b] by waiting for the population on your Tier 1 resource planet to grow.
+	Terminer la monté de Spacewood au [b]Niveau 2[/b] en attendant que la population sur votre planète avec ressource Niveau 1 augmente.
 >>
 
-TUT_EXPAND_SUCC_TITLE: Success!
+TUT_EXPAND_SUCC_TITLE: Succès !
 TUT_EXPAND_SUCC_TEXT: <<|
-	Congratulations! You provided Spacewood with the resources needed for it to
-	become a Level 2 world.
+	Félicitations ! Vous avez fourni à Spacewood les ressources nécessaires pour lui permettre de
+	monter Niveau 2.
 
-	When you select a planet, you can see its current level and the required
-	imports to level it up on the information panel in the bottom left.
+	Lorsque vous sélectionnez une planète, vous pouvez voir son niveau actuel et les importations 
+	nécessaire pour monter de niveau dans le panneau d'information en bas à gauche.
 
-	Many resources have particular [b]special effects[/b], separate to their contribution to planet levels. Be sure to read their short descriptions in the bottom left information panel, or hover over it to show a more detailed description.
+	Beaucoup de ressources ont notamment des [b]effets spéciaux[/b], différent de leur contribution au monté de niveau des planètes. Assurez-vous de lire leurs courtes descriptions dans le panneau d'information en bas à gauche, ou passer la souris au-dessus pour afficher une description plus détaillée.
 	
-	Decide carefully which planets and resources to invest in leveling up to gain their benefits!
+	Décidez soigneusement des planètes et ressources à utiliser pour la mise à niveau pour gagner leurs avantages !
 >>
 
-TUT_BUDGET_TITLE: Budget Cycles
+TUT_BUDGET_TITLE: Cycles Budgétaires
 TUT_BUDGET_TEXT: <<|
-	Building, purchasing and maintaining things costs
-	[b][color=#d1cb6a][img=ResourceIcon::0;20/] Money[/color][/b].
+	Construction, achat et maintien des coûts 
+	[b][color=#d1cb6a][img=ResourceIcon::0;20/] Argent[/color][/b].
 
-	Money, like most resources, is produced by your civilian population and
-	infrastructure. The higher a planet's population, the more money it makes.
+	L'argent, comme la plupart des ressources, est produite par votre population civile et
+	 vos infrastructures. Plus la population d'une planète est élevé, plus vous gagnez d'argent.
 >>
-TUT_BUDGET2_TITLE: Budget Cycles
+TUT_BUDGET2_TITLE: Cycles Budgétaires
 TUT_BUDGET2_TEXT: <<|
-	Your income is budgeted along 3-minute [b]Budget Cycles[/b]. Every cycle,
-	your budget is re-calculated and you will gain use of any money you netted,
-	to spend over the next 3 minutes.
+	Votre revenu est budgétisé pendant 3 minutes [b]Cycles Budgétaires[/b]. Chaque cycle,
+	votre budget est re-calculé et vous gagnerez l'utilisation de n'importe quel argent que vous avez empoché,
+	à dépenser au cours des 3 prochaines minutes.
 
-	Any money not spent at the end of a budget cycle will instead be spent on
-	one of the welfare options you can choose in the resource bar.
+	Tout argent non dépensé à la fin d'un cycle budgétaire sera plutôt consacré à
+	l'une des options de bien-être que vous pouvez choisir dans la barre des ressources.
 	
-	It is not possible to save money from one budget cycle to the next, but
-	borrowing money as an advance from an upcoming cycle is possible, at
-	a hefty markup.
+	Il est impossible de faire des économies d'un cycle budgétaire à un autre cycle, mais
+	emprunter de l'argent à titre d'avance d'un prochain cycle est possible, au
+	majoration significative.
 >>
 
-TUT_BUILD_TITLE: Building a Scout
+TUT_BUILD_TITLE: Construire un éclaireur (Scout)
 TUT_BUILD_TEXT: <<|
-	We should build a scout to check out what's going on in Xaste, another
-	system neighbouring Spacewood. The enemy may be trying to sneak in another
-	FTL gate.
+	Nous devrions construire un éclaireur pour vérifier ce qui se passe dans Xaste, un autre
+	système voisin de Spacewood. L'ennemi essaie peut-être de se faufiler avec un autre
+	portail FTL.
 >>
-TUT_BUILD_ACT1_TITLE: Manage the Planet
+TUT_BUILD_ACT1_TITLE: Gérer la planète
 TUT_BUILD_ACT1_TEXT: <<|
-	Open the planet management screen on Spacewood by [b]double-clicking[/b]
-	it, or clicking the 'Manage Planet' button in the bottom left.
+	Ouvrez l'écran de gestion de la planète de Spacewood par un [b]double clic[/b]
+	dessus, ou en cliquant sur le bouton «Gérer Planète » en bas à gauche.
 >>
-TUT_BUILD_ACT2_TITLE: Construct a Scout
+TUT_BUILD_ACT2_TITLE: Construire un éclaireur (Scout)
 TUT_BUILD_ACT2_TEXT: <<|
-	Click the "Scout (16)" ship design from the ship construction list on the
-	right to start construction.
+	Cliquez sur "Eclaireur (16)" dans conception des vaisseaux de la liste de construction sur la
+	droite afin de commencer la construction.
 >>
 
-TUT_BUILD2_TITLE: Reinforcing a Fleet
+TUT_BUILD2_TITLE: Renforcer une flotte
 TUT_BUILD2_TEXT: <<|
-	Note how the Scout design indicated it would cost [img=ResourceIcon::0;20/]
-	§39k / §36k. The first number indicates its [b]Build Cost[/b] is §39k,
-	which you will need to spend immediately from your available budget. The
-	second number is its [b]Maintenance Cost[/b], the §36k will be subtracted
-	as a maintenance cost from each subsequent budget.
+	Notez comment la conception de l'éclaireur vous a indiqué qu'il coûterait [img=ResourceIcon::0;20/]
+	§39k / §36k. Le premier chiffre indique son [b]Coût de construction[/b] de §39k,
+	que vous aurez besoin de dépenser immédiatement de votre budget disponible. le
+	deuxième chiffre est son [b]Coût de maintenance[/b], §36k sera soustrait
+	comme un coût d'entretien de chaque budget ultérieur.
 
-	While we wait for our Scout to finish constructing, lets order some
-	additional [b]Support Ships[/b] for our original Battleship's fleet.
+	Alors que nous attendons que la construction de notre éclaireur se termine, vous pouvez rajouter des
+	[b]Vaisseaux de soutien[/b] dans la flotte de notre vaisseau de guerre.
 >>
-TUT_BUILD2_ACT1_TITLE: Exit Planet Management
-TUT_BUILD2_ACT1_TEXT: Close the planet management screen by [b]right-clicking[/b].
-TUT_BUILD2_ACT2_TITLE: Manage your Battleship Fleet
-TUT_BUILD2_ACT2_TEXT: Open the fleet management panel on your Battleship by [b]double-clicking[/b] it.
-TUT_BUILD2_ACT3_TITLE: Order Beamships
-TUT_BUILD2_ACT3_TEXT: Click [b]'Add Support Group'[/b] and order 10 Additional [b]Beamships[/b] to be added to the Battleship's fleet.
-TUT_BUILD2_ACT4_TITLE: Finish Scout Construction
-TUT_BUILD2_ACT4_TEXT: Wait for Spacewood to finish constructing a Scout. Support ships can be constructed at the same time as larger projects.
+TUT_BUILD2_ACT1_TITLE: Sortie de Gestion de Planète
+TUT_BUILD2_ACT1_TEXT: Fermez l'écran de gestion de la planète par un [b]clic droit[/b].
+TUT_BUILD2_ACT2_TITLE: Gérer votre flotte de vaisseaux de guerre
+TUT_BUILD2_ACT2_TEXT: Ouvrez le panneau de gestion de flotte par un [b]double clic[/b] dessus.
+TUT_BUILD2_ACT3_TITLE: Commande vaisseau faisceau (Beamships)
+TUT_BUILD2_ACT3_TEXT: Clic sur [b]'Ajouter un groupe de soutien'[/b] et ajouter 10 [b]vaisseaux faisceau (Beamships)[/b] supplémentaires dans votre flotte de vaisseaux de guerre.
+TUT_BUILD2_ACT4_TITLE: Construction de l'éclaireur (Scout) terminé
+TUT_BUILD2_ACT4_TEXT: Attendez que Spacewood termine la construction d'un éclaireur (scout). Les vaisseaux de soutien peuvent être construits en même temps que les grands projets.
 
-TUT_SCOUT_TITLE: Scouting Xaste
+TUT_SCOUT_TITLE: Reconnaissance de Xaste
 TUT_SCOUT_TEXT: <<|
-	Great! The fleet will automatically order its queued support groups from
-	any nearby planets with labor generation. Different flagships can support
-	differing amounts of supports, as indicated by the [b]"Support Capacity"[/b]
-	indicator above the supports list.
+	Génial ! La flotte va commander automatiquement ses groupes de soutien en file d'attente à partir 
+	des planètes proches avec la génération de main d'oeuvre. Différents vaisseaux amiraux peuvent soutenir
+	différentes quantités de soutien, comme indiqué par la [b]"Capacité de soutien"[/b]
+	indicateur au-dessus de la liste des soutiens.
 
-	While our fleet is being reinforced, we'll want to send our scout to take
-	a peek at the enemy.
+	Alors que notre flotte est renforcée, nous voulons envoyer notre éclaireur jeter
+	un coup d'oeil de l'ennemi.
 >>
-TUT_SCOUT_ACT1_TITLE: Scout Xaste
+TUT_SCOUT_ACT1_TITLE: Explorer Xaste
 TUT_SCOUT_ACT1_TEXT: <<|
-	Send your newly constructed scout to the Xaste system. Use its hyperdrive
-	if you want to.
+	Envoyez votre éclaireur nouvellement construit vers le système Xaste. Utilisez son hyperdrive
+	si vous voulez.
 >>
 
 TUT_CONQ_TITLE: Conquering Xaste
