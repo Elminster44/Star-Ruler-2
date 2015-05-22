@@ -448,14 +448,14 @@ CARD_BRIBE_LOG_N: * $1 offre une [b]Corruption[/b] à [color=#d1cb6a]$5[/color] 
 
 CARD_CALLOUT: Faire Appel à ($1)
 CARD_CALLOUT_DESC: <<|
-	Calling out another empire by name, we pressure them to weigh in on the
-	vote publicly or face the blowback of seeming afraid. Giving them this
-	opportunity, however, increases the impact of their next action, regardless
-	of whether they support our cause.
+	Appel d'un autre empire par son nom, nous faisons pression sur eux publiquement pour peser
+	sur le vote ou faire face à la peur d'un retour de flemme. En leur donnant cette opportunité
+	cependant, cela augmente l'impact de leur prochaine action, indépendamment
+	du fait qu'ils soutiennent notre cause.
 
-	[i]When the vote ends, if the target empire has not added weight to the vote
-	after this card was played, you gain leverage on them. Can only be used on
-	an empire once per vote. The weight of this action is added to the target
+	[i]Lorsque le vote se termine, si l'empire cible n'a pas ajouté du poids au vote
+	après que cette carte est été joué, vous gagnez un effet de levier sur eux. Ne peut être utilisé sur
+	un empire qu'une fois par vote. The weight of this action is added to the target
 	empire's next support action. Extends the vote to ensure at least 60
 	seconds are remaining to vote.[/i]
 >>
