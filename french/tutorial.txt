@@ -381,22 +381,22 @@ TUT_DSG2_TEXT: <<|
 
 	Si un noyau d'hexagone est détruit au combat, l'ensemble du sous-système est éteint jusqu'à ce qu'il soit réparé.
 >>
-TUT_DSG3_TITLE: Adding Armor
+TUT_DSG3_TITLE: Ajout d'Armure
 TUT_DSG3_TEXT: <<|
-	Let's make the Heavy Carrier a bit more heavily armored by adding some
-	plate armor hexes to protect its core hexes.
+	Améliorons le transporteur lourd afin qu'il soit un peu plus lourdement blindé en ajoutant un peu
+	d'hexagones d'armure de plaque pour protéger ses hexagones de base.
 
-	Select [b]Plate Armor[/b] from the subsystem list on the left by first clicking the "Defense" category, and then clicking the "Plate Armor" subsystem.
+	Sélectionez [b]Armure de Plaque[/b] dans la liste de sous-système sur la gauche en cliquant d'abord sur la catégorie «défense», puis en cliquant sur le sous-système "armures de plaques".
 >>
-TUT_DSG3_ACT1_TITLE: Add Plate Armor
-TUT_DSG3_ACT1_TEXT: Place at least [b]3 additional[/b] plate armor hexes by [b]left clicking[/b] on the design. You can remove any unwanted hexes by [b]right clicking[/b] them.
-TUT_DSG4_TITLE: Modifiers
+TUT_DSG3_ACT1_TITLE: Ajoutez Armure de Plaque
+TUT_DSG3_ACT1_TEXT: Placez au moins [b]3[/ b] hexagones supplémentaires d'armure de plaque par un [b]clic gauche[/b] sur la conception. Vous pouvez supprimer tous les hexagones indésirables par un [b]clic droit[/b].
+TUT_DSG4_TITLE: Modificateurs
 TUT_DSG4_TEXT: <<|
-	In addition to adding subsytems, it is also possible to add [b]Subsystem Modifiers[/b] inside particular subsystems. These are things like bulkheads and targeting sensors, and can improve or alter the statistics of a subsystem.
+	En plus de l'ajout de sous-système, il est également possible d'ajouter des [b]Modificateurs de Sous-système[/b] à l'intérieur d'un sous-système particulier. Ce sont des choses comme des cloisons et des capteurs de ciblage, et peut améliorer ou modifier les statistiques d'un sous-système.
 
-	Be wary though, adding multiple modifiers to a subsystem can make it extremely expensive to build.
+	Méfiez-vous si, l'ajout de plusieurs modificateurs à un sous-système peut le rendre extrêmement coûteux à construire.
 >>
-TUT_DSG4_ACT1_TITLE: Add a Bulkhead
+TUT_DSG4_ACT1_TITLE: Ajoutez une Cloison
 TUT_DSG4_ACT1_TEXT: Add a bulkhead to at least one of the guns to increase its health.
 TUT_DSG4_ACT2_TITLE: Save the Design
 TUT_DSG4_ACT2_TEXT: Click the [b]Save[/b] button in the top right to save your changes to the "Heavy Carrier" design.
