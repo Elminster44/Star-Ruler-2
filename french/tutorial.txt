@@ -512,75 +512,73 @@ TUT_VOTE2_TEXT: <<|
 >>
 TUT_VOTE3_TITLE: Soutenir un vote
 TUT_VOTE3_TEXT: <<|
-	The Xu'sio have used one of their "Rhetoric" actions to gather opposition
-	to your annex vote in the Senate. Quick, use one of your own actions to get
-	the [b]Support Level[/b] back in the green before the vote's red failure
-	bar fills up and the vote is rejected.
+	Les Xu'sio ont utilisé une de leurs actions de «rhétorique» pour rassembler l'opposition
+	contre votre vote annexer au Sénat. Rapidement, utilisez une de vos propres actions pour obtenir le
+	[b]Niveau de Soutien[/b] suffisant pour retourner dans le vert avant que la barre rouge se remplisse 
+	et que le vote soit rejeté.
 >>
-TUT_VOTE3_ACT1_TITLE: Use "Negotiate"
-TUT_VOTE3_ACT1_TEXT: Click one of your [b]Negotiate[/b] cards and press the [b]Play in Support[/b] button to influence the vote.
-TUT_VOTE3_ACT2_TITLE: Win the Vote
-TUT_VOTE3_ACT2_TEXT: Respond to enemy support cards by playing your own negotiates and win the vote by filling up the support bar.
+TUT_VOTE3_ACT1_TITLE: Utilisez "Négocier"
+TUT_VOTE3_ACT1_TEXT: Clic sur une de vos cartes [b]Négocier[/b] et appuyez sur le bouton [b]Vote de soutien[/b] pour influencer le vote.
+TUT_VOTE3_ACT2_TITLE: Gagner le vote
+TUT_VOTE3_ACT2_TEXT: Répondez aux cartes de soutien de l'ennemi en jouant avec vos propres négociation et gagner le vote en remplissant la barre de soutien.
 
-TUT_ANNEX2_TITLE: Annexation Complete!
+TUT_ANNEX2_TITLE: Annexion complète !
 TUT_ANNEX2_TEXT: <<|
-	By convincing the Galactic Senate that the Yingmow system belongs to you,
-	you've successfully [b]Annexed[/b] it. The colonized planets in the system
-	are now yours!
+	Vous avez convaincu le Sénat Galactique que le système Yingmow vous appartient,
+	vous l'avez [b]Annexé[/b] avec succès. Les planètes colonisées dans le système
+	sont maintenant les vôtres !
 
-	Unfortunately, sources within the Terran Empire have informed us of a large
-	Xu'sio military movement towards the Yingmow system, so we should prepare
-	our defenses to repel them.
+	Malheureusement, des sources au sein de l'Empire Terrien nous ont informés d'un grand
+	mouvement militaire Xu'sio vers le système Yingmow, donc nous devons préparer nos
+	défenses pour les repousser.
 >>
 
-TUT_DEFCORE_TITLE: Build Defense Station
+TUT_DEFCORE_TITLE: Construire une Station de la Défense
 TUT_DEFCORE_TEXT: <<|
-	We should construct a defense orbital in the Yingmow system as our first line of defense.
+	Nous devons construire une défense orbitale dans le système Yingmow comme première ligne de défense.
 >>
-TUT_DEFCORE_ACT1_TITLE: Manage Spacewood
-TUT_DEFCORE_ACT1_TEXT: [b]Double-click[/b] Spacewood in order to open its planet management screen.
-TUT_DEFCORE_ACT2_TITLE: Open Orbitals List
-TUT_DEFCORE_ACT2_TEXT: Open the orbitals list by clicking the [b]Orbitals[/b] button on the right.
-TUT_DEFCORE_ACT3_TITLE: Construct a Defense Platform
-TUT_DEFCORE_ACT3_TEXT: Click "Defense Platform" in the orbitals list.
-TUT_DEFCORE_ACT4_TITLE: Place Orbital
-TUT_DEFCORE_ACT4_TEXT: Place the orbital by clicking on any location in the Yingmow system.
+TUT_DEFCORE_ACT1_TITLE: Gérez Spacewood
+TUT_DEFCORE_ACT1_TEXT: [b]Double-clic[/b] sur Spacewood afin d'ouvrir son écran de gestion de la planète.
+TUT_DEFCORE_ACT2_TITLE: Ouvrir la liste Orbitales
+TUT_DEFCORE_ACT2_TEXT: Ouvrez la liste des orbitales en cliquant sur le bouton [b]Orbitales[/b] à droite.
+TUT_DEFCORE_ACT3_TITLE: Construire une plate-forme de Défense
+TUT_DEFCORE_ACT3_TEXT: Clic sur "Plate-forme de défense" dans la liste des orbitales.
+TUT_DEFCORE_ACT4_TITLE: Positionez orbitales
+TUT_DEFCORE_ACT4_TEXT: Placez l'orbitale en cliquant sur un emplacement dans le système Yingmow.
 
-TUT_DEFPROJ_TITLE: Defense Generation
+TUT_DEFPROJ_TITLE: Génération de défense
 TUT_DEFPROJ_TEXT: <<|
-	The Spacewood locals have informed us that they've set up a means of
-	creating defense ships to protect themselves.
+	Les habitants de Spacewood nous ont informés qu'ils ont mis en place un moyen de
+	créer des vaisseaux de défense pour se protéger.
 
-	[b][color=#af7926][img=ResourceIcon::5;20/] Defense[/color][/b] can be used to produce free support ships over time, all around your empire.
+	[b][color=#af7926][img=ResourceIcon::5;20/] Défense[/color][/b] peut être utilisé pour produire des vaisseaux de soutien gratuitement au fil du temps, tout autour de votre empire.
 
-	To determine which systems or planets receive defense ships, you need to mark them to use defense.
+	Pour déterminer quels systèmes ou planètes reçoivent des vaisseaux de défense, vous avez besoin de les marquer pour qu'ils utilisent la défense.
 >>
-TUT_DEFPROJ_ACT1_TITLE: Build Defense for Yingmow
-TUT_DEFPROJ_ACT1_TEXT: [b]Right-click[/b] the Yingmow Star, then select "Start using defense for Yingmow".
-TUT_DEFPROJ_ACT2_TITLE: Move Heavy Carrier
-TUT_DEFPROJ_ACT2_TEXT: While we wait for our defense orbital and ships to finish construction, move your Heavy Carrier fleet to Yingmow.
+TUT_DEFPROJ_ACT1_TITLE: Construire la Défense pour Yingmow
+TUT_DEFPROJ_ACT1_TEXT: [b]Clic droit[/b] sur l'étoile de Yingmow, puis sélectionnez "Commencer à utiliser la défense pour Yingmow".
+TUT_DEFPROJ_ACT2_TITLE: Déplacez votre transporteur lourd
+TUT_DEFPROJ_ACT2_TEXT: Alors que nous attendons la construction de notre défense orbitale et des vaisseaux, déplacer votre flotte transporteur lourd vers Yingmow.
 
-TUT_DEF_TITLE: Hold the Line!
+TUT_DEF_TITLE: Rester en ligne !
 TUT_DEF_TEXT: <<|
-	When you're ready to defend against the invading Xu'sio savages, press the "FIGHT!" button.
+	Lorsque vous êtes prêt à vous défendre contre les sauvages envahisseurs Xu'sio, appuyez sur le bouton "Combat !".
 >>
-ENTER_COMBAT: FIGHT!
-TUT_DEF2_TITLE: War!
-TUT_DEF2_TEXT: The enemy fleets have invaded our newly conquered system. We must repel them at all cost!
-TUT_DEF2_ACT1_TITLE: Defend the Yingmow System
-TUT_DEF2_ACT1_TEXT: Defeat all invading fleets.
+ENTER_COMBAT: BATS TOI !
+TUT_DEF2_TITLE: Guerre !
+TUT_DEF2_TEXT: Les flottes ennemies ont envahi notre système nouvellement conquis. Nous devons les repousser à tout prix !
+TUT_DEF2_ACT1_TITLE: Défendre le système Yingmow
+TUT_DEF2_ACT1_TEXT: Vaincre toutes les flottes d'invasion.
 
-TUT_FINAL_TITLE: Congratulations!
+TUT_FINAL_TITLE: Félicitations !
 TUT_FINAL_TEXT: <<|
-	You've managed to drive the enemy out of this sector of space, and expanded
-	your own foothold into it at the same time, well done!
+	Vous avez réussi à repousser l'ennemi hors de ce secteur de l'espace, et étendu
+	votre propre point d'appui en même temps, bravo !
 
-	[i]This is the end of the tutorial, feel free to continue experimenting
-	with your empire before starting a real game against AI or Human
-	Opponents.[/i]
+	[i]Ceci est la fin du tutoriel, vous êtes libre de continuer à expérimenter
+	votre empire avant de commencer un vrai jeu contre l'IA ou un humain.[/i]
 
-	You can check the in-game [b]Wiki[/b] for more information on the game and
-	its mechanics, or feel free to join the in-game official Star Ruler [b]IRC
-	Channel[/b] to talk to fellow players or bug one of the resident SR Developers!
->>
+	Vous pouvez consulter le [b]Wiki[/b] dans le jeu pour plus d'informations sur le jeu et ses mécanismes, 
+	ou vous sentir libre d'adhérer au [b]Canal IRC[/b] officiel dans le jeu pour parler à d'autres joueurs
+	ou bug avec un des développeurs SR résidents
 
