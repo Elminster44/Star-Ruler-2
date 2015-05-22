@@ -434,54 +434,54 @@ TUT_ENG_ACT2_TEXT: Clic sur votre flotte nouvellement construite à dépenser 50
 
 TUT_INF_TITLE: Actions diplomatiques
 TUT_INF_TEXT: <<|
-	You can conduct diplomacy by spending [b]Influence[/b] points, generated on
-	your planets by particular resources found throughout the galaxy. These
-	points are used to purchase and activate [b]Diplomatic Actions[/b].
+	Vous pouvez conduire des actions diplomatique en dépensant des points d'[b]Influence[/b], généré sur
+	vos planètes par des ressources particulières trouvé au travers de la galaxie. ces
+	points sont utilisés pour acheter et activer des [b]Actions diplomatiques[/b].
 >>
-TUT_INF2_TITLE: The Influence Stack
+TUT_INF2_TITLE: L'Intérêt d'Influence
 TUT_INF2_TEXT: <<|
-	All empires purchase their [b]Diplomatic Actions[/b] from a shared list on
-	the diplomacy tab, called the [b]"Influence Stack"[/b]. At regular
-	intervals, new cards are added to the right side of the stack, and cards
-	will drop off and disappear from the left side.
+	Tous les empires achètent leur [b]Actions diplomatiques[/b] à partir d'une liste publique sur
+	l'onglet de la diplomatie, appelé [b]L'Intérêt d'Influence[/b]. A interval 
+	régulié, de nouvelles cartes sont ajoutés à la droite de l'empilement, et les cartes
+	tomberont et disparaîtront du côté gauche.
 
-	Diplomatic actions become cheaper to purchase the longer they spend in the
-	influence stack, but be careful of waiting too long to buy attractive cards
-	- other empires may snatch them up first!
+	Les actions diplomatiques deviennent moins cher en défilant dans 
+	l'intérêt d'influence, mais soyez prudent de ne pas attendre trop longtemps pour acheter des cartes attrayantes
+	- d'autres empires peuvent les ravire en premier !
 >>
-TUT_INF3_TITLE: Purchasing an Action
+TUT_INF3_TITLE: L'achat d'une action
 TUT_INF3_TEXT: <<|
-	We want to see what our enemy, the Xu'sio is up to in this region.
-	Fortunately, there is a [b]Spy[/b] card on the influence stack right now,
-	which we can use to gain vision over their activities.
+	Nous voulons voir ce que fait notre ennemi, Xu'sio est dans cette région.
+	Heureusement, il y a une carte [b]Espion[/b] dans l'intérêt d'influence dès maintenant,
+	que nous pouvons utiliser pour acquérir une vision sur leurs activités.
 >>
-TUT_INF3_ACT1_TITLE: Purchase Spy
-TUT_INF3_ACT1_TEXT: From the diplomacy tab, click the "Spy (Xu'sio)" action in the influence stack, then click the [b]Purchase[/b] button.
-TUT_INF3_ACT2_TITLE: Activate Spy
-TUT_INF3_ACT2_TEXT: Click the "Spy (Xu'sio)" action in your list of available actions, then click the [b]Activate[/b] button.
-TUT_INF4_TITLE: Spying
+TUT_INF3_ACT1_TITLE: Achat Espion
+TUT_INF3_ACT1_TEXT: Dans l'onglet de la diplomatie, clic sur l'action "Espion (Xu'sio)", puis clic sur le bouton [b]Acheter[/b].
+TUT_INF3_ACT2_TITLE: Activer Espion
+TUT_INF3_ACT2_TEXT: Clic sur l'action "Espion (Xu'sio)" dans votre liste d'actions disponibles, puis clic sur le bouton [b]Activer[/b].
+TUT_INF4_TITLE: Espionnage
 TUT_INF4_TEXT: <<|
-	Notice how the "Spy" effect was added to the list of currently active
-	influence effects. Long-term diplomatic effects usually require an
-	[b]Influence Upkeep[/b].
+	Remarquez comment l'effet "Espion" a été ajouté à la liste des effets 
+	d'influence actif. Les effets diplomatiques à long terme exigent habituellement une
+	[b]Entretien d'influence[/b].
 
-	In this case, your "Spy" effect is reducing your influence point generation
-	by 20% until it expires or is dismissed.
+	Dans notre cas, votre effet "Espion" réduit votre génération de points d'influence
+	de 20% jusqu'à ce qu'il expire ou soit rejeté.
 >>
 
-TUT_SPY_TITLE: Enemy System Spotted!
+TUT_SPY_TITLE: Système Ennemi observé !
 TUT_SPY_TEXT: <<|
-	Our spying has spotted an enemy system nearby, we should take a look at it
-	on our galaxy screen.
+	Notre espion a repéré un système ennemi proche, nous devrions jeter un coup d'oeil
+	sur notre écran de galaxie.
 >>
-TUT_SPY_ACT1_TITLE: View Yingmow
-TUT_SPY_ACT1_TEXT: Find the system our Spy action revealed on the map.
+TUT_SPY_ACT1_TITLE: Vue de Yingmow
+TUT_SPY_ACT1_TEXT: Trouver le système que notre Espion a révélé sur la carte.
 
-TUT_ANNEX_TITLE: Annex Yingmow
+TUT_ANNEX_TITLE: Annexer Yingmow
 TUT_ANNEX_TEXT: <<|
-	The Terran Empire is a great empire, and has tremendous influence in the
-	galactic senate. This is good for us, as we can expend this influence to
-	[b]Annex[/b] the Yingmow system diplomatically.
+	L'Empire Terrien est un grand empire, et a une influence énorme au
+	sénat Galactique. Ce qui est bon pour nous, nous pouvons consacrer cette influence
+	pour [b]annexer[/b] le système diplomatique de Yingmowy.
 >>
 TUT_ANNEX_ACT1_TITLE: Activate Annex System
 TUT_ANNEX_ACT1_TEXT: Activate the [b]Annex System[/b] card you have, then select the Yingmow system by clicking its star.
