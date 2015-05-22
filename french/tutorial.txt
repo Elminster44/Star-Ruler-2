@@ -362,24 +362,24 @@ TUT_RSC_ACT2_TEXT: Recherchez la technologie «Blindage» accessible à partir d
 TUT_RSC_ACT3_TITLE: REcherchez Cloison
 TUT_RSC_ACT3_TEXT: Recherchez la technologie «Cloison» qui est maintenant accessible.
 
-TUT_DSG_TITLE: Ship Designs
+TUT_DSG_TITLE: Conceptions de vaisseau
 TUT_DSG_TEXT: <<|
-	Every ship you build, flagship or support ship, is based on a design. In
-	order to build ships equipped with our recently unlocked Bulkhead,
-	we need to change one of our designs to use it.
+	Vous construisez tout les vaisseaux, vaisseau amiral ou vaisseau de soutien, basé sur une conception. 
+	Afin de construire des vaisseaux équipés avec notre cloison récemment débloqué,
+	nous devons changer l'une de nos conceptions pour l'utiliser.
 >>
-TUT_DSG_ACT1_TITLE: Open Heavy Carrier
-TUT_DSG_ACT1_TEXT: From the designs tab, [b]click[/b] the Heavy Carrier design in order to edit it.
-TUT_DSG2_TITLE: Subsystems
+TUT_DSG_ACT1_TITLE: Ouvrir transporteur lourd (Heavy Carrier)
+TUT_DSG_ACT1_TEXT: Dans l'onglet conception, [b]clic[/b] sur la conception du Transporteur lourd pour la modifier.
+TUT_DSG2_TITLE: Sous-systèmes
 TUT_DSG2_TEXT: <<|
-	Every ship design consists of [b]subsystems[/b]. Subsystems can consist of
-	any number of hexes, and can be painted in any shape on the design. The
-	larger the size of a subsystem, the better it is relative to the other
-	subsystems on the design.
+	Chaque conception de vaisseaux se compose de [b]Sous-systèmes[/b]. Les sous-systèmes sont constitués
+	d'un certain nombre d'hexagones, et peut être peint dans une forme quelconque sur la conception. Plus 
+	la taille d'un sous-système est grande, mieux il est par rapport à d'autres 
+	sous-systèmes sur la conception.
 
-	Some subsystems have 'core' hexes: gun turrets, engine exhausts, etc.
+	Quelques sous-systèmes ont des «noyaux» d'hexagones: tourelles, échappements de moteur, etc.
 
-	If a core hex is destroyed in combat, the entire subsystem shuts off until it is repaired.
+	Si un noyau d'hexagone est détruit au combat, l'ensemble du sous-système est éteint jusqu'à ce qu'il soit réparé.
 >>
 TUT_DSG3_TITLE: Adding Armor
 TUT_DSG3_TEXT: <<|
