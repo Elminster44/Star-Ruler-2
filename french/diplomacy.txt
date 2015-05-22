@@ -522,28 +522,28 @@ CARD_UPRISING_DESC: <<|
 	Que leurs faut-il pour prendre les armes pour leur propre bien ?!
 	Il est maintenant temps d'agir !
 
-	[i]Inspire the population of a target planet to rise up their own
-	militia for their defense. Restores 5 Loyalty and creates 25 Labor worth
-	of defense ships. Each additional quality increases the amount of defense
-	ships created by 25 Labor.[/i]
+	[i]Inspirez la population d'une planète cible à monter leur propre
+	milices pour leur défense. Rétablit 5 Fidélité et crée 25 valeurs de main d'oeuvre
+	pour les vaisseaux de défense. Chaque qualité supplémentaire augmente la quantité de vaisseaux de
+	défense créés par 25 Main d'oeuvre.[/i]
 >>
-CARD_CULTIVATION: Cultivation
+CARD_CULTIVATION: Culture
 CARD_CULTIVATION_DESC: <<|
-	A concerted effort from local governance and civilian enterprise has
-	allowed for the introduction and cultivation of an entirely new species of
-	fruit, perfected to grow in the conditions specific to this planet.
+	Un effort concerté de la gouvernance locale et de l'entreprise civile à
+	tenir compte de l'introduction et de la culture des espèces entièrement nouvelles de
+	fruit, perfectionné à croître dans les conditions spécifiques de cette planète.
 
-	[i]Target owned planet gains a native Fruit.[/i]
+	[i]La planète cilbe vous appartenant gagne un fruit natif.[/i]
 >>
-CARD_ENHANCE: Enhance
+CARD_ENHANCE: Améliorer
 CARD_ENHANCE_DESC: <<|
-	Renewed efforts to gain a diplomatic advantage have benefited our position,
-	letting us put more strength behind certain diplomatic maneuvers.
+	Les efforts renouvelés pour gagner un avantage diplomatique ont profité à notre position,
+	laisser nous mettre plus de force derrière certaines manœuvres diplomatiques.
 
-	[i]Upgrades one use of a card to its maximum quality.
-	Where appropriate, adds one additional extra quality.[/i]
+	[i]Mise à niveau de l'utilisation d'une carte à sa qualité maximale.
+	Le cas échéant, ajoute une qualité supplémentaire.[/i]
 >>
-CARD_RHETORIC: Rhetoric
+CARD_RHETORIC: Rhétorique
 CARD_RHETORIC_DESC: <<|
 	Incessantly repeated and emphasized talking points sway public opinion to
 	our side of the debate, drowning out any dissenting voices. Other empires
@@ -831,8 +831,8 @@ CLAUSE_SUBJUGATE_DESC: <<|
 	ne peuvent pas signer de traités, et sont en guerre avec les empires ennemi de leur
 	empire parent.
 
-	An empire, once it has become a Vassal, cannot ever win the game, but can
-	only achieve [b]Lesser Victory[/b] by helping their parent achieve victory.
+	Un empire, une fois qu'il est devenu un Vassal, ne peut jamais gagner le jeu, mais peut
+	seulement atteindre [b]Petite victoire[/b] en aidant leurs parents à atteindre la victoire.
 >>
 CLAUSE_MUTUAL_DEFENSE: Défense mutuelle
 CLAUSE_MUTUAL_DEFENSE_DESC: <<|
