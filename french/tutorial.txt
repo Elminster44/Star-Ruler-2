@@ -397,42 +397,42 @@ TUT_DSG4_TEXT: <<|
 	Méfiez-vous si, l'ajout de plusieurs modificateurs à un sous-système peut le rendre extrêmement coûteux à construire.
 >>
 TUT_DSG4_ACT1_TITLE: Ajoutez une Cloison
-TUT_DSG4_ACT1_TEXT: Add a bulkhead to at least one of the guns to increase its health.
-TUT_DSG4_ACT2_TITLE: Save the Design
-TUT_DSG4_ACT2_TEXT: Click the [b]Save[/b] button in the top right to save your changes to the "Heavy Carrier" design.
+TUT_DSG4_ACT1_TEXT: Ajouter une cloison sur au moins un des canons pour accroître sa santé.
+TUT_DSG4_ACT2_TITLE: Enregistrez la conception
+TUT_DSG4_ACT2_TEXT: Clic sur le bouton [b]Sauvegarder[/b] en haut à droite pour enregistrer vos modifications sur la conception "Transporteur lourd".
 
-TUT_FLT_TITLE: Constructing a New Fleet
+TUT_FLT_TITLE: Construire une nouvelle flotte
 TUT_FLT_TEXT: <<|
-	We can deploy our newly modified flagship design by constructing a fleet
-	from Spacewood. We'll want to give it some support ships to increase the
-	fleet's firepower.
+	Nous pouvons déployer notre conception de vaisseau amiral que nous venons de modifié par la construction d'une flotte
+	sur Spacewood. Nous voulons lui donner quelques vaisseaux de soutien pour accroître la
+	puissance de feu de la flotte.
 >>
-TUT_FLT_ACT1_TITLE: Manage Spacewood
-TUT_FLT_ACT1_TEXT: Return to the Galaxy Tab and [b]double-click[/b] Spacewood in order to open its planet management screen.
-TUT_FLT_ACT2_TITLE: Build Heavy Carrier
-TUT_FLT_ACT2_TEXT: Click "Heavy Carrier" from the ships list on the right.
-TUT_FLT_ACT3_TITLE: Build Beamships
-TUT_FLT_ACT3_TEXT: Click the Heavy Carrier in the construction queue to highlight it, then click the [b]Beamship[/b] design to add 10 Beamships to the fleet.
-TUT_FLT_ACT4_TITLE: Build more Supports
-TUT_FLT_ACT4_TEXT: Add some more different types of support ships to the fleet under construction.
-TUT_FLT_ACT5_TITLE: Finish Construction
-TUT_FLT_ACT5_TEXT: Notice that support ships are constructed in parallel to the flagship while the fleet finishes constructing.
+TUT_FLT_ACT1_TITLE: Gérez Spacewood
+TUT_FLT_ACT1_TEXT: Retournez sur l'onglet Galaxie et [b]double-clic[/b] sur Spacewood afin d'ouvrir son écran de gestion de planète.
+TUT_FLT_ACT2_TITLE: Construire Transporteur lourd (Heavy Carrier)
+TUT_FLT_ACT2_TEXT: Clic sur "Transporteur lourd" dans la liste des vaisseaux sur la droite.
+TUT_FLT_ACT3_TITLE: Construire Vaisseau faisceau (Beamships)
+TUT_FLT_ACT3_TEXT: Clic sur le transporteur lourd dans la file d'attente de la construction pour le mettre en surbrillance, puis cliquez sur la conception [b]Vaisseau faisceau (Beamship)[/b] pour en ajouter 10 à la flotte.
+TUT_FLT_ACT4_TITLE: Construire plusieurs soutien
+TUT_FLT_ACT4_TEXT: Ajouter différents types de vaisseaux de soutien à la flotte en construction.
+TUT_FLT_ACT5_TITLE: Terminer la construction
+TUT_FLT_ACT5_TEXT: Notez que les vaisseaux de soutien sont construits en parallèle au vaisseaux amiraux tandis que la construction de la flotte se termine.
 
-TUT_ENG_TITLE: Energy and Artifacts
+TUT_ENG_TITLE: Énergie et Artefacts
 TUT_ENG_TEXT: <<|
-	Particular resources in your empire will produce [b]Energy[/b]. This
-	represents massive quantities of stored energy that you can transmit and
-	use to activate ancient remnant devices, scattered across the galaxy.
+	Les ressources particulières dans votre empire produise de l'[b]énergie[/b]. Cela
+	représente des quantités massives d'énergie stockée que vous pouvez transmettre et
+	utiliser pour activer des dispositifs de vestiges antiques, dispersés au travers de la galaxie.
 
-	We detected a [b]Power Cell[/b] in the Xaste system, which we can equip to
-	upgrade our new fleet by spending energy.
+	Nous avons détecté une [b]Cellule énergétique[/b] dans le système Xaste, que nous pouvons équiper pour
+	mettre à niveau notre nouvelle flotte en dépensant de l'énergie.
 >>
-TUT_ENG_ACT1_TITLE: Activate Artifact
-TUT_ENG_ACT1_TEXT: Select the Power Cell and click the equip button on the bottom left, or select the artifact from the quickbar in the top right.
-TUT_ENG_ACT2_TITLE: Equip to Fleet
-TUT_ENG_ACT2_TEXT: Click your newly constructed fleet to spend 500 Energy and equip the Power Cell. This increases its combat strength.
+TUT_ENG_ACT1_TITLE: Activez Artefact
+TUT_ENG_ACT1_TEXT: Sélectionnez la Cellule énergétique et cliquez sur le bouton équipez en bas à gauche, ou sélectionnez l'artefact dans la barre de raccourcis en haut à droite.
+TUT_ENG_ACT2_TITLE: Équipez la flotte
+TUT_ENG_ACT2_TEXT: Clic sur votre flotte nouvellement construite à dépenser 500 Energies pour l'équiper de la cellule énergétique. Cela augmente sa force de combat.
 
-TUT_INF_TITLE: Diplomatic Actions
+TUT_INF_TITLE: Actions diplomatiques
 TUT_INF_TEXT: <<|
 	You can conduct diplomacy by spending [b]Influence[/b] points, generated on
 	your planets by particular resources found throughout the galaxy. These
