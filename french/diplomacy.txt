@@ -214,7 +214,7 @@ INFLUENCE_TT_UPKEEP: <<|
 	L'effet créé par cette action fera baisser votre totale
 	de génération d'influence par $1 alors qu'il est actif, que l'entretien.
 >>
-INFLUENCE_DURATION: Duration
+INFLUENCE_DURATION: Durée
 INFLUENCE_TT_DURATION: <<|
 	L'effet créé par cette action va durer $1.
 >>
