@@ -384,69 +384,69 @@ CARD_INVESTIGATE_DESC: <<|
 VOTE_INVESTIGATE: Enquêter sur $1
 EFFECT_INVESTIGATE: Enquête de $1
 
-CARD_RIDER: Attach Rider
+CARD_RIDER: Joindre Avenant
 CARD_RIDER_DESC: <<|
-	By attaching a seemingly frivolous ammendment to the galactic senate
-	proposition, we secure ourselves a way to take advantage of its passing for
-	political capital.
+	En attachant un amendement en apparence frivole aux propositions du sénat galactique,
+	nous nous garantissons une façon de profiter de son admission pour
+	le capital politique.
 
-	[i]If the vote this is attached to passes, you will gain leverage for use
-	against the empire that started it. Can only be used once per vote. Extends
-	the vote to ensure at least 60 seconds are remaining to vote.[/i]
+	[i]Si le vote auquel ceci est attaché passe, vous gagnerez une force de levier à utiliser
+	contre l'empire qui l'a commencé. Ne peut être utilisé qu'une fois par vote. Prolonge
+	le vote pour assurer qu'au moins 60 secondes restent pour voter.[/i]
 >>
-CARD_RIDER_LOG: * The $1 has attached a [b]Rider[/b] to the proposition.
+CARD_RIDER_LOG: * $1 a joint un [b]Avenant[/b] à la proposition.
 
-CARD_LEVERAGE: Leverage ($1)
-CARD_LEVERAGE_LOG_Y: * The $1 uses their [b]Leverage[/b] against the $3 to add [color=#0f0]$2 support[/color].
-CARD_LEVERAGE_LOG_N: * The $1 uses their [b]Leverage[/b] against the $3 to add [color=#f00]$2 opposition[/color].
+CARD_LEVERAGE: Force de levier ($1)
+CARD_LEVERAGE_LOG_Y: * $1 utilise leur [b]Force de levier[/b] contre $3 pour ajouter [color=#0f0]$2 soutien[/color].
+CARD_LEVERAGE_LOG_N: * $1 utilise leur [b]Force de levier[/b] contre $3 pour ajouter [color=#f00]$2 opposition[/color].
 CARD_LEVERAGE_DESC: <<|
-	Use leverage previously built up against the $1 to further your cause.
+	Utiliser l'effet de levier précédemment construit contre $1 pour faire avancer votre cause.
 
-	[i]Can only be played if the $1 has voted on the opposite side of the proposition.[/i]
+	[i]Peut seulement être joué si $1 a voté de l'autre côté de la proposition.[/i]
 >>
-CARD_BLACKMAIL: Blackmail: $1
-CARD_BLACKMAIL_LOG_Y: * The $1 [b]Blackmails[/b] the $2 to [color=#0f0]support the proposition[/color].
-CARD_BLACKMAIL_LOG_N: * The $1 [b]Blackmails[/b] the $2 to [color=#f00]oppose the proposition[/color].
+CARD_BLACKMAIL: Chantage: $1
+CARD_BLACKMAIL_LOG_Y: * $1 fait [b]Chantager[/b] $2 pour [color=#0f0]soutenir la proposition[/color].
+CARD_BLACKMAIL_LOG_N: * $1 fait [b]Chantager[/b] $2 pour [color=#f00]s'opposer à la proposition[/color].
 CARD_BLACKMAIL_DESC: <<|
-	Blackmail an empire based on previously collected information to stop
-	supporting or opposing the proposition.
+	Faites chanter un empire basé sur des informations précédemment rassemblées pour arrêter
+	le soutien ou l'opposition à la proposition.
 
-	If the proposition ends in a different way to what this card specified, and
-	the target empire is still present in the negotiations, the target empire
-	loses a random proportion of their total influence.
+	Si la proposition se finit en façon différente à ce que cette carte a spécifiée, et
+	que l'empire cible est toujours présent aux négociations, l'empire cible
+	perd un pourcentage aléatoire de son influence totale.
 >>
-CARD_SUBDUE: Subdue: $1
-CARD_SUBDUE_LOG: * The $1 [b]Subdues[/b] the $2 to [color=#f0f]remove them from the negotiations[/color].
+CARD_SUBDUE: Soumettre: $1
+CARD_SUBDUE_LOG: * $1 [b]Soumet[/b] $2 de [color=#f0f]se retirer des négociations[/color].
 CARD_SUBDUE_DESC: <<|
-	Forcibly remove the target empire from the negotiations altogether.
+	Enlevez de force l'empire cible de toute négociations.
 
-	Can only be played if the empire has attempted to influence the proposition
-	before.
+	Peut seulement être joué si l'empire a essayé d'influencer la proposition
+	auparavant.
 >>
-CARD_FAVORS: Favors
+CARD_FAVORS: Faveurs
 CARD_FAVORS_DESC: <<|
-	By doing certain favors for powerful diplomatic figures, we have gained
-	some political capital to use. Granting these favors did not come cheap,
-	however.
+	En faisant certaines faveurs aux puissantes figures diplomatiques, nous avons acquis
+	du capital politique à utiliser. L'octroi de ces faveurs n'est pas devenu bon marché,
+	cependant.
 
-	[i]After purchasing this you immediately gain one completely random action.
-	This action does not cost influence to purchase, but takes money from your
+	[i]Après l'achat de ceci vous gagnez immédiatement une action complètement aléatoire.
+	Cette action ne coûte pas d'influence à l'achat, mais prend de l'argent dans de votre
 	budget.[/i]
 >>
-CARD_BRIBE: Bribe
+CARD_BRIBE: Soudoyer
 CARD_BRIBE_DESC: <<|
-	Offer a juicy bribe to the next empire to support our side of the
-	negotiations. Through our cooperative efforts, we can also add more weight
-	to their action.
+	Offrir un pot de vin juteux à l'autre empire pour soutenir notre côté de la
+	négociation. Grâce à nos efforts de coopération, nous pouvons aussi ajouter plus de poids
+	à leur action.
 
-	[i]The next other empire to play a support action on the side this bribe
-	was played in gains the money spent on it. The weight of this action is
-	also added to it.[/i]
+	[i]Le prochain empire qui joue une action de soutien sur le côté de cette corruption
+	qui a été joué gagne l'argent dépensé sur elle. Le poids de cette action est
+	également ajouté.[/i]
 >>
-CARD_BRIBE_LOG_Y: * The $1 offers a [b]Bribe[/b] of [color=#d1cb6a]$5[/color] to the next empire to [color=#0f0]support the proposition[/color].
-CARD_BRIBE_LOG_N: * The $1 offers a [b]Bribe[/b] of [color=#d1cb6a]$5[/color] to the next empire to [color=#f00]oppose the proposition[/color].
+CARD_BRIBE_LOG_Y: * $1 offre une [b]Corruption[/b] à [color=#d1cb6a]$5[/color] à l'empire suivant de [color=#0f0]soutenir la proposition[/color].
+CARD_BRIBE_LOG_N: * $1 offre une [b]Corruption[/b] à [color=#d1cb6a]$5[/color] à l'empire suivant de [color=#f00]s'opposer à la proposition[/color].
 
-CARD_CALLOUT: Call Out ($1)
+CARD_CALLOUT: Faire Appel à ($1)
 CARD_CALLOUT_DESC: <<|
 	Calling out another empire by name, we pressure them to weigh in on the
 	vote publicly or face the blowback of seeming afraid. Giving them this
