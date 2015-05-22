@@ -481,36 +481,36 @@ TUT_ANNEX_TITLE: Annexer Yingmow
 TUT_ANNEX_TEXT: <<|
 	L'Empire Terrien est un grand empire, et a une influence énorme au
 	sénat Galactique. Ce qui est bon pour nous, nous pouvons consacrer cette influence
-	pour [b]annexer[/b] le système diplomatique de Yingmowy.
+	pour [b]Annexer[/b] diplomatiquement le système Yingmowy .
 >>
-TUT_ANNEX_ACT1_TITLE: Activate Annex System
-TUT_ANNEX_ACT1_TEXT: Activate the [b]Annex System[/b] card you have, then select the Yingmow system by clicking its star.
+TUT_ANNEX_ACT1_TITLE: Activer Annexer Système
+TUT_ANNEX_ACT1_TEXT: Activez la carte [b]Annexer Système[/b] que vous avez, puis sélectionnez le système Yingmow en cliquant sur son étoile.
 
-TUT_VOTE_TITLE: Influence Votes
+TUT_VOTE_TITLE: Votes d'influence
 TUT_VOTE_TEXT: <<|
-	Certain diplomatic actions require you to pass [b]Votes[/b] in the galactic
-	senate in order for them to take effect. Annexing a system is one of these votes.
+	Certaines actions diplomatiques vous obligent à passer par des [b]Votes[/b] dans le Sénat 
+ 	galactique pour qu'elles prennent effet. Annexer un système est l'un de ces votes.
 
-	All votes have a current [b]Support Level[/b], indicating the sum of all
-	their support reduced by their opposition. Most of the time, a vote will
-	start at +1 support.
+	Tous les votes ont un [b]Niveau de soutien[/b], indiquant la somme de tout
+	leur soutien réduit par leur opposition. La plupart du temps, un vote 
+	commencera avec +1 de soutien.
 
-	Empires can pay influence to play [b]Support Cards[/b] into a vote,
-	increasing or reducing the support level or adding various special effects.
+	Les empires peuvent payer avec de l'influence pour jouer des [b]Cartes de soutien[/b] dans un vote,
+	pour augmenter ou réduire le niveau de soutien ou en ajoutant divers effets spéciaux.
 >>
-TUT_VOTE2_TITLE: Passing a Vote
+TUT_VOTE2_TITLE: Le passage d'un vote
 TUT_VOTE2_TEXT: <<|
-	While an influence vote, or "Proposition", has a positive support level,
-	its green bar will fill up and a remaining time to [b]Pass[/b] the proposition is shown.
+	Lors d'un vote d'influence, ou d'une "Proposition", a un niveau de soutien positif,
+	la barre verte se remplira et un temps restant pour [b]passer[/b] la proposition est représenté.
 
-	When the support level is negative, any progress on the green bar is first
-	removed, then the red bar fills up. When the remaining time to fail hits
-	0 seconds, the vote will be [b]Rejected[/b].
+	Lorsque le niveau de soutien est négatif, tout progrès sur la barre verte est le premier
+	enlevé, ensuite la barre rouge se remplit. Lorsque la durée restante arrive à 0 secondes
+	c'est l'échec, le vote sera [b]rejeté[/b].
 
-	Influence votes are a diplomatic tug-of-war that any empire in the galactic
-	senate can influence the result of.
+	Les votes d'influence sont une lutte diplomatique de tir à la corde où n'importe quel empire dans le sénat
+	galactique peut influencer le résultat.
 >>
-TUT_VOTE3_TITLE: Supporting a Vote
+TUT_VOTE3_TITLE: Soutenir un vote
 TUT_VOTE3_TEXT: <<|
 	The Xu'sio have used one of their "Rhetoric" actions to gather opposition
 	to your annex vote in the Senate. Quick, use one of your own actions to get
