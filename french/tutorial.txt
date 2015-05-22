@@ -301,7 +301,7 @@ TUT_CONQ_TEXT: <<|
 	vaisseaux de défense, puis l'assiéger avec votre flotte pour réduire sa loyauté.
 	Lorsque sa loyauté est complètement déchargée, la planète sera vôtre !
 >>
-TUT_CONQ_ACT1_TITLE: SAut de votre vaisseau de guerre vers Xaste
+TUT_CONQ_ACT1_TITLE: Saut de votre vaisseau de guerre vers Xaste
 TUT_CONQ_ACT1_TEXT: Aller avec votre flotte dans le système Xaste en utilisant son hyperpropulsion.
 TUT_CONQ_ACT2_TITLE: Eliminer ses défenses
 TUT_CONQ_ACT2_TEXT: Déplacez votre flotte vers Xaste IV et éliminer les vaisseaux de défense en orbite.
@@ -322,45 +322,45 @@ TUT_PRES_TEXT: <<|
 	En plus de planètes nécessitant des types particuliers de ressources pour monter de niveau,
 	des ressources peuvent fournir des planètes consommant de la [b]Pression[/b].
 	
-	Civilian population on the planet will automatically develop [b]Civilian
-	Buildings[/b] on the planet's surface to produce the type of pressure being
-	imported (one of Money, Influence, Energy, Research, Defense, or Labor).
+	La population civile de la planète développera automatiquement des [b]bâtiments
+	civil[/b] sur la surface de la planète pour produire le type de pression qui est
+	importé (une question d'argent, Influence, d'énergie, de recherche, de défense ou de main d'oeuvre).
 
-	Planets can only support a limited amount of pressure, dependent on their
-	total population. Importing more pressure than a planets capacity will
-	result in lost production efficiency.
+	Les planètes ne peuvent soutenir qu'un nombre limité de pression, dépend de la
+	population totale. Importer plus de pression que la capacité de la planète
+	mènera à une perte d'efficacité de production.
 >>
 
-TUT_BLD_TITLE: Imperial Buildings
+TUT_BLD_TITLE: Bâtiments impériaux
 TUT_BLD_TEXT: <<|
-	Although most of your production will be from civilian infrastructure, it
-	is possible to spend parts of your budget on constructing [b]Imperial
-	Buildings[/b] on planet surfaces.
+	Bien que la plupart de votre production sera de l'infrastructure civile, il
+	est possible d'utiliser une partie de votre budget dans la construction de [b]Bâtiments impériaux[/b]
+	sur la surface de la planète.
 
-	These buildings generally cost a lot of money to build and maintain, but
-	can give benefits that you would not otherwise be able to get.
+	Ces bâtiments coûtent généralement beaucoup d'argent pour les construire et entretenir, mais
+	peut donner des avantages que vous ne pourriez autrement pas être en mesure d'obtenir.
 >>
-TUT_BLD_ACT1_TITLE: Manage Spacewood
-TUT_BLD_ACT1_TEXT: [b]Double-click[/b] Spacewood in order to open its planet management screen.
-TUT_BLD_ACT2_TITLE: Open Buildings List
-TUT_BLD_ACT2_TEXT: Open the imperial buildings list by clicking the [b]Buildings[/b] button on the right.
-TUT_BLD_ACT3_TITLE: Construct a Research Complex
-TUT_BLD_ACT3_TEXT: Speed up your research by selecting [b]Research Complex[/b] and placing it on the surface on the left.
+TUT_BLD_ACT1_TITLE: Gérez Spacewood
+TUT_BLD_ACT1_TEXT: [b]Double clic[/b] sur Spacewood afin d'ouvrir son écran de gestion de planète.
+TUT_BLD_ACT2_TITLE: Ouvrir liste des bâtiments
+TUT_BLD_ACT2_TEXT: Ouvrez la liste des bâtiments impériaux en cliquant sur [b]Bâtiments[/b], le bouton à droite.
+TUT_BLD_ACT3_TITLE: Construire un complexe de recherche
+TUT_BLD_ACT3_TEXT: Accélérez votre recherche en sélectionnant[b]Complexe de recherche[/b] et en le plaçant sur la surface vers la gauche.
 
-TUT_RSC_TITLE: Researching Fields
+TUT_RSC_TITLE: Les champs des recherches
 TUT_RSC_TEXT: <<|
-	Resources that give [color=#8c4ec9][img=ResourceIcon::4;20/][b] Research Pressure[/b][/color] will produce research points over time.
+	Les ressources qui donnent de la[color=#8c4ec9][img=ResourceIcon::4;20/][b] Pression de recherche[/b][/color] vont produire des points de recherche au fil du temps.
 
-	Research points are used to unlock technologies on the research grid, which have various effects and improvements.
+	Les points de recherche sont utilisés pour déverrouiller les technologies sur la grille de recherche, qui ont divers effets et améliorations.
 	
-	You can only research technologies adjacent to ones you already have. Technologies available for researching are indicated with a bright border.
+	Vous ne pouvez rechercher que des technologies adjacentes à celles que vous avez déjà. Les technologies disponibles pour la recherche sont indiqués par une bordure lumineuse.
 >>
-TUT_RSC_ACT1_TITLE: View Research
-TUT_RSC_ACT1_TEXT: Switch to the [b]Research Tab[/b] in the tab bar.
-TUT_RSC_ACT2_TITLE: Research Armoring
-TUT_RSC_ACT2_TEXT: Research the 'Armoring' technology accessible from your Science starting point.
-TUT_RSC_ACT3_TITLE: Research Bulkheads
-TUT_RSC_ACT3_TEXT: Research the 'Bulkhead' technology that is now accessible.
+TUT_RSC_ACT1_TITLE: Vue de Recherche
+TUT_RSC_ACT1_TEXT: Basculer vers l'[b]onglet de recherche[/b] dans la barre d'onglet.
+TUT_RSC_ACT2_TITLE: Recherche Blindage
+TUT_RSC_ACT2_TEXT: Recherchez la technologie «Blindage» accessible à partir de votre point de départ de science.
+TUT_RSC_ACT3_TITLE: REcherchez Cloison
+TUT_RSC_ACT3_TEXT: Recherchez la technologie «Cloison» qui est maintenant accessible.
 
 TUT_DSG_TITLE: Ship Designs
 TUT_DSG_TEXT: <<|
