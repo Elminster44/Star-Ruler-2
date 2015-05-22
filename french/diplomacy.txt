@@ -455,73 +455,72 @@ CARD_CALLOUT_DESC: <<|
 
 	[i]Lorsque le vote se termine, si l'empire cible n'a pas ajouté du poids au vote
 	après que cette carte est été joué, vous gagnez un effet de levier sur eux. Ne peut être utilisé sur
-	un empire qu'une fois par vote. The weight of this action is added to the target
-	empire's next support action. Extends the vote to ensure at least 60
-	seconds are remaining to vote.[/i]
+	un empire qu'une fois par vote. Le poids de cette action est ajouté à la cible
+	pour la prochaine action de soutien de l'empire. Prolonge le vote pour assurer 
+	qu'au moins 60 secondes restent pour voter.[/i]
 >>
-CARD_CALLOUT_LOG: * The $1 [b]Calls Out[/b] the $3 to weigh in on the vote.
-CARD_CALLOUT_NOTIFICATION: The $1 have [b][color=#f00]called you out[/color][/b] to vote.
+CARD_CALLOUT_LOG: * $1 [b]Fait Appel à[/b] $3 pour peser sur le vote.
+CARD_CALLOUT_NOTIFICATION: $1 [b][color=#f00]vous a appelé[/color][/b] à voter.
 
-CARD_NAMEPLANET: Name Planet
+CARD_NAMEPLANET: Nom planète
 CARD_NAMEPLANET_DESC: <<|
-	Magnificent planets deserve magnificent names. By influencing the civilian
-	sector and organizing a grand naming festival we make sure the new name of
-	this planet will go down into the ages. The recognition is sure to bring
-	it fame and prosperity.
+	Les planètes magnifiques méritent des noms magnifiques. En influençant le secteur
+	civil et en organisant un grand festival de nommage nous nous assurons un nouveau nom pour
+	cette planète qui va rester dans les âges. Sa reconnaissance est sûr d'apporter
+	renommée et prospérité.
 
-	[i]Renames an owned planet. The planet permanently receives +2 Maximum
-	Population and +1 Labor Generation. Planets can only be named once. Each
-	additional quality increases the added maximum population by 1.[/i]
+	[i]Renomme une planète vous appartenant. La planète reçoit en permanence 2 Population
+	Maximum et une génération de main d'oeuvre de +1 . Les planètes ne peuvent être renommés qu'une fois. Chaque
+	qualité supplémentaire augmente la population maximale ajoutée de 1.[/i]
 >>
-NAMEPLANET_NOTIFY: The $1 have gloriously named [b]$3[/b].
+NAMEPLANET_NOTIFY: $1 ont glorieusement renommé [b]$3[/b].
 
-CARD_NAMESYSTEM: Name System
+CARD_NAMESYSTEM: Nom Système
 CARD_NAMESYSTEM_DESC: <<|
-	To truly mark this territory as our own, we have to give it a suitable
-	name. A name that inspires courage into the hearts of the warriors we task
-	to defend it.
+	Pour marquer véritablement ce territoire comme le nôtre, nous devons lui donner un nom 
+	convenable. Un nom qui inspire le courage dans les coeurs des guerriers dont leur rôle est de nous défendre.
 
-	[i]Renames a system you control fully. Your fleets gain a +20% efficiency
-	/ combat strength boost when fighting in a system you named.[/i]
+	[i]Renomme un système que vous contrôlez entièrement. Vos flottes acquièrent une efficacité + 20%
+	/ coup de pouce de la force de combat lors de combats dans un système que vous avez nommé.[/i]
 >>
-NAMESYSTEM_NOTIFY: The $1 have triumphantly named the [b]$3[/b] System.
-STATUS_SYSTEM_MORALE: Morale Boost
+NAMESYSTEM_NOTIFY: $1 ont triomphalement nommé le système [b]$3[/b].
+STATUS_SYSTEM_MORALE: Augmentation de moral
 STATUS_SYSTEM_MORALE_DESC: <<|
-	This fleet is receiving a morale boost from the system it is in. While in
-	this system, it will fight at +20% efficiency and combat strength.
+	Cette flotte reçoit une augmentation morale dans le système où elle se trouve. Dans
+	ce système, elle se battra avec + 20% en efficacité et en force de combat.
 >>
 
-CARD_NAMEFLAGSHIP: Name Flagship
+CARD_NAMEFLAGSHIP: Nom Vaisseau Amiral
 CARD_NAMEFLAGSHIP_DESC: <<|
-	Flagships are the backbone of the war effort, inspiring the hearts and
-	minds of many of our empire's loyal subjects. Bestowing an imposing name
-	on our flagships heightens the morale back home, as well as that of the
-	sailors, eager to return with stories of their battle alongside the behemoth.
+	Les Vaisseaux Amiraux sont l'épine dorsale de l'effort de guerre, inspirant les cœurs et
+	esprit de beaucoup de loyaux sujets de notre empire. En accordant un nom imposant sur
+	nos vaisseaux amiraux cela intensifie le moral à la maison, ainsi que celle des
+	matelots, impatient de revenir avec des histoires de combat aux côtés du géant.
 
-	[i]Renames an owned flagship. The flagship permanently gains 10% extra
-	effectiveness for it and its supporting fleet. Flagships can only be named
-	once. Each additional quality increases the added effectiveness by 3%.[/i]
+	[i]Renomme un vaisseau amiral vous appartenant. Le vaisseau amiral gagne de façon permanente 10% supplémentaire
+	en efficacité pour lui et sa flotte de soutien. Les vaisseaux amiraux ne peuvent être nommés
+	qu'une fois. Chaque qualité supplémentaire augmente l'efficacité ajoutée de 3%.[/i]
 >>
-NAMEFLAGSHIP_NOTIFY: The $1 have christened their mighty flagship $3.
+NAMEFLAGSHIP_NOTIFY: $1 ont baptisé leur puissant vaisseau amiral $3.
 
-CARD_PROTECT_SYSTEM: Protect System
+CARD_PROTECT_SYSTEM: Protection du système
 CARD_PROTECT_SYSTEM_DESC: <<|
-	Citing critical humanitarian reasons, we convince the galactic senate to
-	declare the planets in our system to be protected and to prevent any empire
-	from attempting to conquer them by force.
+	Citant des raisons humanitaires critiques, nous avont convaincu le Sénat Galactique
+	de déclarer les planètes de notre système sous protection et de prévenir tout empire
+	de tenter de les vaincre par la force.
 
-	[i]Prevents owned planets in the target system from losing loyalty. Lasts
-	5 minutes by default. Each additional quality increases the duration by
-	another 5 minutes.[/i]
+	[i]Empêche les planètes vous appartenant dans le système cible de perdre de la loyauté. Dure
+	5 minutes par défaut. Chaque qualité supplémentaire augmente la durée de
+	5 minutes.[/i]
 >>
-PROTECT_SYSTEM_EFFECT: Protect System $1
-PROTECT_SYSTEM_NOTIFY: The $1 have declared $3 a protected system.
+PROTECT_SYSTEM_EFFECT: Protection du système $1
+PROTECT_SYSTEM_NOTIFY: $1 ont déclaré $3 comme système protégé.
 
-CARD_UPRISING: Patriotic Surge
+CARD_UPRISING: Montée Patriotique
 CARD_UPRISING_DESC: <<|
-	The people have sat idle for too long. Pirates, invaders, threatening asteroids.
-	What more will it take for them to take up arms for their own sake?!
-	Now is the time to act!
+	Les gens sont resté inactif pendant trop longtemps. Pirates, envahisseurs, des astéroïdes menaçants.
+	Que leurs faut-il pour prendre les armes pour leur propre bien ?!
+	Il est maintenant temps d'agir !
 
 	[i]Inspire the population of a target planet to rise up their own
 	militia for their defense. Restores 5 Loyalty and creates 25 Labor worth
