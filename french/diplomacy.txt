@@ -605,39 +605,39 @@ CARD_ASSURANCES_DESC: <<|
 >>
 CARD_CLAIM_ARTIFACT: Revendication Artefact
 CARD_CLAIM_ARTIFACT_DESC: <<|
-	We are the only empire qualified to use this artifact! If the galactic
-	senate will allow it, we shall send a civilian-backed retrieval expedition
-	to obtain and safeguard it from abuse.
+	Nous sommes le seul empire qualifié pour utiliser cet artefact ! Si le sénat
+	galactique le permet, nous enverrons une expédition de récupération soutenue par des civils
+	pour l'obtenir et le sauvegarder des abus.
 
-	[i]If the vote succeeds, the target artifact is moved to a system in your
-	empire and only you will be able to use it from now on.[/i]
+	[i]Si le vote réussit, l'artefact ciblé est déplacé vers un système dans votre
+	empire et vous serez mainenant capable de l'utiliser.[/i]
 >>
-VOTE_CLAIM_ARTIFACT: Claim Artifact: $1
+VOTE_CLAIM_ARTIFACT: Revendication Artefact: $1
 
-CARD_SENATE_BUILDING: Host Senate Building
+CARD_SENATE_BUILDING: Construction du Sénat Hôte
 CARD_SENATE_BUILDING_DESC: <<|
-	Hosting the galactic senate on one of our worlds gives us great power and
-	esteem, the privilege is therefore sought after highly by all empires.
+	L'hébergement du sénat galactique sur un de nos mondes nous donne une grande puissance et
+	de l'estime, le privilège est donc très recherché par tous les empires.
 
-	[i]If the vote started by this action passes, the targeted planet will
-	become the host for the galactic senate building. This adds bonus influence
-	generation to the planet based on its level, and causes all votes you start
-	to gain 2 increased support. Every time a different site is selected, the
-	cost of this card and its influence generation benefit increases.[/i]
+	[i]Si le vote commencé par cette action passe, la planète ciblée
+	devient l'hôte pour la construction du sénat galactique. Cela ajoute un bonus de génération
+	d'influence sur la planète en fonction de son niveau, et les causes sont que tous les votes
+	que vous commencez gagne 2 soutien accru. Chaque fois qu'un site différent est sélectionné, le
+	coût de cette carte et de ses prestations augmente la génération d'influence.[/i]
 >>
-VAR_INFLUENCE_INCOME: Influence Gen.
-VOTE_SENATE_BUILDING: Host Galactic Senate on $1
-STATUS_SENATE_BUILDING: Hosting Galactic Senate Building
+VAR_INFLUENCE_INCOME: Influence Gén.
+VOTE_SENATE_BUILDING: Construction du Sénat Hôte sur $1
+STATUS_SENATE_BUILDING: Construction du Sénat Hôte
 STATUS_SENATE_BUILDING_DESC: <<|
-	This planet is hosting the senate building.
+	Cette planète est l'hôte du bâtiment du Sénat.
 	
-	The planet is gaining bonus influence generation per level and increases
-	the support level of votes you start by 2.
+	La planète gagne un bonus de génération d'influence par niveau et augmente
+	Le niveau de soutien des votes que vous commencez par 2.
 >>
-CARD_UNITED_RESEARCH: United Research Center
+CARD_UNITED_RESEARCH: Centre de recherche unifié
 CARD_UNITED_RESEARCH_DESC: <<|
-	By hosting the senate's united research center on one of our worlds we can
-	reap the benefits of shared information.
+	En accueillant le centre de recherche unie du Sénat sur l'un de nos mondes nous permet
+	de récolter les avantages du partage de l'information.
 
 	[i]If the vote started by this action passes, the targeted planet will
 	become the host for the united research center. This adds bonus research
@@ -645,7 +645,7 @@ CARD_UNITED_RESEARCH_DESC: <<|
 	which you gain random insights. Every time a different site is selected,
 	the cost of this card and its research generation benefit increases.[/i]
 >>
-VAR_RESEARCH_INCOME: Research Gen.
+VAR_RESEARCH_INCOME: Recherche Gén.
 VOTE_UNITED_RESEARCH: Host United Research Center on $1
 STATUS_UNITED_RESEARCH: Hosting United Research Center
 STATUS_UNITED_RESEARCH_DESC: <<|
