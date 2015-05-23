@@ -639,25 +639,25 @@ CARD_UNITED_RESEARCH_DESC: <<|
 	En accueillant le centre de recherche unie du Sénat sur l'un de nos mondes nous permet
 	de récolter les avantages du partage de l'information.
 
-	[i]If the vote started by this action passes, the targeted planet will
-	become the host for the united research center. This adds bonus research
-	generation to the planet based on its level, and increases the rate at
-	which you gain random insights. Every time a different site is selected,
-	the cost of this card and its research generation benefit increases.[/i]
+	[i]Si le vote commencé par cette action passe, la planète ciblé
+	devient l'hôte pour le centre de recherche unifié. Cela ajoute un bonus à la génération
+	de recherche en fonction de son niveau, et augmente la vitesse à laquelle vous
+	gagnez des connaissances aléatoires. Chaque fois qu'un site différent est sélectionné,
+	le coût de cette carte et de ses prestations augmente la génération de la recherche.[/i]
 >>
 VAR_RESEARCH_INCOME: Recherche Gén.
-VOTE_UNITED_RESEARCH: Host United Research Center on $1
-STATUS_UNITED_RESEARCH: Hosting United Research Center
+VOTE_UNITED_RESEARCH: Hôte Centre de recherche unifié sur $1
+STATUS_UNITED_RESEARCH: Hébergement Centre de recherche unifié
 STATUS_UNITED_RESEARCH_DESC: <<|
-	This planet is hosting the galactic united research center.
+	Cette planète est l'hôte du centre de recherche unifié galactique.
 	
-	The planet is gaining bonus research generation per level and increases the
-	rate at which you gain random insights.
+	La planète gagne un bonus de génération de recherche par niveau et augmente la vitesse
+	à laquelle vous	gagnez des connaissances aléatoires.
 >>
-CARD_GALAXY_MALL: Mall of the Galaxy
+CARD_GALAXY_MALL: Centre commercial de la Galaxie
 CARD_GALAXY_MALL_DESC: <<|
-	Constructing the greatest mall in the galaxy drives the trade of materials
-	to our planet, increasing the efficiency of our imperial construction.
+	Construire le plus grand centre commercial de la galaxie entraîne le commerce des matières
+	vers notre planète, accroît l'efficacité de notre construction impériale.
 
 	[i]The targeted planet will become home to the Mall of the Galaxy. All
 	construction on the planet will have a reduced build cost. Every time
