@@ -396,9 +396,9 @@ CARD_RIDER_DESC: <<|
 >>
 CARD_RIDER_LOG: * $1 a joint un [b]Avenant[/b] à la proposition.
 
-CARD_LEVERAGE: Force de levier ($1)
-CARD_LEVERAGE_LOG_Y: * $1 utilise leur [b]Force de levier[/b] contre $3 pour ajouter [color=#0f0]$2 soutien[/color].
-CARD_LEVERAGE_LOG_N: * $1 utilise leur [b]Force de levier[/b] contre $3 pour ajouter [color=#f00]$2 opposition[/color].
+CARD_LEVERAGE: Effet de levier ($1)
+CARD_LEVERAGE_LOG_Y: * $1 utilise leur [b]Effet de levier[/b] contre $3 pour ajouter [color=#0f0]$2 soutien[/color].
+CARD_LEVERAGE_LOG_N: * $1 utilise leur [b]Effet de levier[/b] contre $3 pour ajouter [color=#f00]$2 opposition[/color].
 CARD_LEVERAGE_DESC: <<|
 	Utiliser l'effet de levier précédemment construit contre $1 pour faire avancer votre cause.
 
@@ -545,66 +545,65 @@ CARD_ENHANCE_DESC: <<|
 >>
 CARD_RHETORIC: Rhétorique
 CARD_RHETORIC_DESC: <<|
-	Incessantly repeated and emphasized talking points sway public opinion to
-	our side of the debate, drowning out any dissenting voices. Other empires
-	would be fools not to partake in the benefits of a unified rhetoric.
+	Sans cesse répétée et souligné des points de discussion pour influencer l'opinion publique
+	de notre côté du débat, noyer les voix dissidentes. Les autres empires
+	seraient fous de ne pas participer aux avantages d'une rhétorique unifiée.
 
-	[i]If the vote succeeds on the side this card is played in, three randomly
-	generated cards are distributed to other empires that voted on that side,
-	proportional to their contributions. Multiple rhetorics played on the same
-	side cost more to play and gain increased weight.[/i]
+	[i]Si le vote réussit sur ce côté cette carte est jouée, trois cartes générées
+	au hasard sont distribuées à d'autres empires qui ont voté sur ce côté,
+	proportionnelle à leurs contributions. Des Rhétoriques multiples joués sur le même
+	côté coûte plus à jouer et le gain de poids augmente.[/i]
 >>
-CARD_RHETORIC_LOG_Y: * The $1 crafts [color=#ff8044][b]Rhetoric[/b][/color] to add [color=#0f0]$2 support[/color].
-CARD_RHETORIC_LOG_N: * The $1 crafts [color=#ff8044][b]Rhetoric[/b][/color] to add [color=#f00]$2 opposition[/color].
+CARD_RHETORIC_LOG_Y: * $1 fabrique [color=#ff8044][b]Rhétorique[/b][/color] pour ajouter [color=#0f0]$2 soutien[/color].
+CARD_RHETORIC_LOG_N: * $1 fabrique [color=#ff8044][b]Rhétorique[/b][/color] pour ajouter [color=#f00]$2 opposition[/color].
 
-CARD_CONTROL: Take Control
+CARD_CONTROL: Prendre Le Contrôle
 CARD_CONTROL_DESC: <<|
-	Vie for control of a diplomatic station in our territory, attempting to
-	guide its decisions using our presence.
+	Rivalisez pour le contrôle d'une station diplomatique sur notre territoire, tenter de
+	guider ses décisions en utilisant notre présence.
 
-	[i]If the vote succeeds, gain ownership of target Embassy Core orbital
-	within your trade region.[/i]
+	[i]Si le vote réussit, obtenez la propriété d'une base orbitale Ambassade 
+	au sein de votre région commerciale.[/i]
 >>
-VOTE_TAKE_CONTROL: Take control of $1
+VOTE_TAKE_CONTROL: Prendre le contrôle de $1
 
-CARD_INTELLIGENCE: Intelligence ($1)
-CARD_INTELLIGENCE_LOG_Y: * [b]Intelligence[/b] about the $3 was revealed to add [color=#0f0]$2 support[/color].
-CARD_INTELLIGENCE_LOG_N: * [b]Intelligence[/b] about the $3 was revealed to add [color=#f00]$2 opposition[/color].
+CARD_INTELLIGENCE: Renseignement ($1)
+CARD_INTELLIGENCE_LOG_Y: * Un [b]Renseignement[/b] à propos de $3 a été révélé pour ajouter [color=#0f0]$2 soutien[/color].
+CARD_INTELLIGENCE_LOG_N: * Un [b]Renseignement[/b] à propos de $3 a été révélé pour ajouter [color=#f00]$2 opposition[/color].
 CARD_INTELLIGENCE_DESC: <<|
-	Anonymously releasing intelligence obtained against one of the other empires lets us create opposition for their position without revealing our identity.
+	En libérant anonymement des renseignements obtenus contre l'un des autres empires nous permet de créer l'opposition pour leur position sans révéler notre identité.
 
-	[b]The support added by this card is anonymous and cannot be traced back to you.[/b]
+	[b]Le soutien ajouté par cette carte est anonyme et on ne peut pas remonter jusqu'à vous.[/b]
 
-	[i]Can only be played if the $1 has voted on the opposite side of the proposition.
-	Each subsequent intelligence against the same empire played in the same vote loses 2 weight.
+	[i]Ne peut être joué si $1 a voté sur le côté opposé de la proposition.
+	Chaque renseignement ultérieures contre le même empire joué dans le même vote perd 2 poids.
 	
-	You can only have 3 Intelligence about one empire at any time. If no
-	intelligence is being actively generated, your existing intelligence
-	will expire over time.[/i]
+	Vous pouvez seulement avoir 3 Renseignements environ sur un empire à tout moment. Sinon
+	les renseignements sont généré activement, vos renseignements existants
+	expireront au fil du temps.[/i]
 >>
-CARD_PROMISES: Promises
-CARD_PROMISES_LOG_Y: * The $1 makes [b][color=#fa00ff]Promises[/color][/b] to add [color=#0f0]$2 support[/color].
-CARD_PROMISES_LOG_N: * The $1 makes [b][color=#fa00ff]Promises[/color][/b] to add [color=#f00]$2 opposition[/color].
+CARD_PROMISES: Promesses
+CARD_PROMISES_LOG_Y: * $1 créer [b][color=#fa00ff]Promesses[/color][/b] pour ajouter [color=#0f0]$2 soutien[/color].
+CARD_PROMISES_LOG_N: * $1 créer [b][color=#fa00ff]Promesses[/color][/b] pour ajouter [color=#f00]$2 opposition[/color].
 CARD_PROMISES_DESC: <<|
-	The promises we make to gather support now will require using some of
-	our political pull in the future, but this seems a small price to pay for
-	their overwhelming endorsements.
+	Les promesses que nous faisons pour rassembler du soutien exigeront maintenant l'utilisation d'un peu de
+	notre traction politique dans l'avenir, mais ceci semble un petit prix à payer pour
+	leurs approbations écrasantes.
 
-	[i]Adds weight in support or opposition of a vote. For the next 5 minutes,
-	all support cards you play into votes cost 1 additional influence to play.[/i]
+	[i]Ajoute du poids à l'appui ou l'opposition d'un vote. Pour les 5 prochaines minutes,
+	toutes les cartes de soutien que vous jouez en vote coûtent 1 influence supplémentaire.[/i]
 >>
 CARD_ASSURANCES: Assurances
-CARD_ASSURANCES_LOG_Y: * The $1 makes [b][color=#00faff]Assurances[/color][/b] to add [color=#0f0]$2 support[/color].
-CARD_ASSURANCES_LOG_N: * The $1 makes [b][color=#00faff]Assurances[/color][/b] to add [color=#f00]$2 opposition[/color].
+CARD_ASSURANCES_LOG_Y: * $1 créer [b][color=#00faff]Assurances[/color][/b] pour ajouter [color=#0f0]$2 soutien[/color].
+CARD_ASSURANCES_LOG_N: * $1 créer [b][color=#00faff]Assurances[/color][/b] pour ajouter [color=#f00]$2 opposition[/color].
 CARD_ASSURANCES_DESC: <<|
-	Making assurances of future goodwill, we can pull more important figures to
-	our cause. We will need to make good on these assurances in future
-	endeavors. however.
+	Fabrication d'assurances de bonne volonté future, nous pouvons attirer des figures plus importantes vers
+	notre cause. Cependant nous devrons faire des efforts sur ces assurances dans l'avenir.
 
-	[i]Adds weight in support or opposition of a vote. For the next 10 minutes,
-	all cards you buy from Influence Peddling cost 1 extra influence to buy.[/i]
+	[i]Ajoute du poids à l'appui ou l'opposition d'un vote. Pour les 10 prochaines minutes,
+	toutes les cartes de trafic d'influence que vous achetez coûtent 1 influence supplémentaire.[/i]
 >>
-CARD_CLAIM_ARTIFACT: Claim Artifact
+CARD_CLAIM_ARTIFACT: Revendication Artefact
 CARD_CLAIM_ARTIFACT_DESC: <<|
 	We are the only empire qualified to use this artifact! If the galactic
 	senate will allow it, we shall send a civilian-backed retrieval expedition
