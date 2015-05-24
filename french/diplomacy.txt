@@ -659,68 +659,68 @@ CARD_GALAXY_MALL_DESC: <<|
 	Construire le plus grand centre commercial de la galaxie entraîne le commerce des matières
 	vers notre planète, accroît l'efficacité de notre construction impériale.
 
-	[i]The targeted planet will become home to the Mall of the Galaxy. All
-	construction on the planet will have a reduced build cost. Every time
-	a different site is selected, the cost of this card and its benefit
-	increase. [/i]
+	[i]La planète ciblée va devenir la maison du centre commercial de la Galaxie. Toute
+	les constructions sur la planète auront un coût de construction réduit. Chaque fois
+	qu'un site différent est sélectionné, le coût de cette carte et de ses avantages
+	augmente.[/i]
 >>
-VAR_BUILD_COST_DECREASE: Cost Decrease
-NOTIFY_GALAXY_MALL: The $1 have constructed the greatest Mall of the Galaxy on $3.
-STATUS_GALAXY_MALL: Mall of the Galaxy
+VAR_BUILD_COST_DECREASE: Diminution des coûts
+NOTIFY_GALAXY_MALL: $1 ont construit le plus grand centre commercial de la Galaxie sur $3.
+STATUS_GALAXY_MALL: Centre commercial de la Galaxie
 STATUS_GALAXY_MALL_DESC: <<|
-	This planet is home to the largest Mall of the Galaxy.
+	Cette planète est la maison du plus grand centre commercial de la Galaxie.
 	
-	Construction projects on this planet have reduced build cost.
+	Les projets de construction sur cette planète ont un coût de construction réduit.
 >>
-CARD_DENOUNCE: Denounce ($1)
+CARD_DENOUNCE: Dénoncer ($1)
 CARD_DENOUNCE_DESC: <<|
-	No longer will we suffer the injustices of another. We fully denounce our
-	opponent, and commit our resources towards suporting any who would oppose
-	them.
+	Pour combien de temps encore allons nous subir les injustices d'un autre. Nous dénonçons pleinement notre
+	adversaire, et engager nos ressources pour supporter tous ceux qui voudraient s'opposer
+	contre eux.
 	
-	[i]The next cards to enter the influence card stack will all be leverage
-	against the targeted empire. Instantly rotates the influence card stack
-	when played.[/i]
+	[i]Les cartes suivantes qui entreront dans l'intérêt d'influence auront toute un effet de levier
+	contre l'empire ciblé. Tourne instantanément l'intérêt influence des cartes
+	quand elle est joué.[/i]
 >>
-DENOUNCE_NOTIFY: The $1 have denounced the $3!
+DENOUNCE_NOTIFY: $1 ont dénoncé $3 !
 
-CARD_ANCIENT_KNOWLEDGE: Ancient Knowledge
+CARD_ANCIENT_KNOWLEDGE: Savoir Ancien
 CARD_ANCIENT_KNOWLEDGE_DESC: <<|
-	Gain the upper hand in the public mind by revealing benevolent Ancient
-	Knowledge, carefully kept secret until now. Other parties may start to use
-	this knowledge as well afterwards, however.
+	Prenez le dessus dans l'esprit public en révélant avec bienveillance un savoir
+	ancien, gardé soigneusement secret jusqu'à maintenant. Cependant, d'autres partis peuvent aussi commencer à utiliser
+	cette connaissance.
 
-	[i]Adds support or opposition to a vote based on the amount of empires
-	present. All other empires present receive a 0 cost, 1 weight, "Ancient
-	Intuition" card.[/i]
+	[i]Ajoute soutien ou opposition à un vote basé sur la quantité d'empires
+	présent. Tout autre empire présent reçoit pour un coût de 0, 1 poids, une carte
+	"Intuition Antique".[/i]
 >>
-CARD_ANCIENT_KNOWLEDGE_LOG_Y: * The $1 reveals [color=#f88][b]Ancient Knowledge[/b][/color] to add [color=#0f0]$2 support[/color].
-CARD_ANCIENT_KNOWLEDGE_LOG_N: * The $1 reveals [color=#f88][b]Ancient Knowledge[/b][/color] to add [color=#f00]$2 opposition[/color].
+CARD_ANCIENT_KNOWLEDGE_LOG_Y: * $1 révèle un [color=#f88][b]Savoir Ancien[/b][/color] pour ajouter [color=#0f0]$2 soutien[/color].
+CARD_ANCIENT_KNOWLEDGE_LOG_N: * $1 révèle un [color=#f88][b]Savoir Ancien[/b][/color] pour ajouter [color=#f00]$2 opposition[/color].
 
-CARD_ANCIENT_INTUITION: Ancient Intuition
+CARD_ANCIENT_INTUITION: Intuition Antique
 CARD_ANCIENT_INTUITION_DESC: <<|
-	Further insight into previously revealed Ancient Knowledge can sway public
-	opinion towards our cause.
+	Un autre éclairage sur le Savoir Ancien précédemment révélé peut influencer l'opinion publique
+ 	envers notre cause.
 
-	[i]Adds 1 weight to either side of the vote.[/i]
+	[i]Ajoute 1 poids à l'un ou l'autre côté du vote.[/i]
 >>
-CARD_ANCIENT_INTUITION_LOG_Y: * The $1 ponders [color=#e780ff][b]Ancient Intuition[/b][/color] to add [color=#0f0]$2 support[/color].
-CARD_ANCIENT_INTUITION_LOG_N: * The $1 ponders [color=#e780ff][b]Ancient Intuition[/b][/color] to add [color=#f00]$2 opposition[/color].
+CARD_ANCIENT_INTUITION_LOG_Y: * $1 médite sur une [color=#e780ff][b]Intuition Antique[/b][/color] pour ajouter [color=#0f0]$2 soutien[/color].
+CARD_ANCIENT_INTUITION_LOG_N: * $1 médite sur une [color=#e780ff][b]Intuition Antique[/b][/color] pour ajouter [color=#f00]$2 opposition[/color].
 
-CARD_ENERGY_CLASH: Energy Clash
-CARD_ENERGY_CLASH_LOG_Y: * The $1 instigates an [color=#42b4bd][b]Energy Clash[/b][/color] to add [color=#0f0]$2 support[/color].
-CARD_ENERGY_CLASH_LOG_N: * The $1 instigates an [color=#42b4bd][b]Energy Clash[/b][/color] to add [color=#f00]$2 opposition[/color].
+CARD_ENERGY_CLASH: Choc énergétique
+CARD_ENERGY_CLASH_LOG_Y: * $1 incite un [color=#42b4bd][b]choc énergétique[/b][/color] pour ajouter [color=#0f0]$2 soutien[/color].
+CARD_ENERGY_CLASH_LOG_N: * $1 incite un [color=#42b4bd][b]choc énergétique[/b][/color] pour ajouter [color=#f00]$2 opposition[/color].
 CARD_ENERGY_CLASH_DESC: <<|
-	If there's one thing the general population can always use more of, it's
-	Energy. Energy runs households, businesses and cities, and releasing
-	a significant part of our empire's strategic Energy reserve can easily sway
-	some opinions in our favour.
+	S'il y a une chose que la population générale peut utiliser de plus en plus, c'est
+	l'énergie. L'énergie dirige les familles, le commerce et les villes, et la libération
+	d'une partie importante de l'énergie stratégique en réserve de notre empire peut facilement influencer
+	certaines opinions en notre faveur.
 
-	[i]Adds weight to either side of the vote. Costs stored energy to play.
-	Each time an Energy Clash is played into a vote, each subsequent play costs
-	more Energy and holds more weight.[/i]
+	[i]Ajoute du poids à l'un ou l'autre côté du vote. Coûts en énergie stockée pour la jouer.
+	Chaque fois qu'un choc énergétique est joué dans un vote, il coûte plus en énergie
+	et détient plus de poids.[/i]
 >>
-CARD_RUSH: Rush
+CARD_RUSH: Ruée
 CARD_RUSH_DESC: <<|
 	Using our influence to convince the appropriate parties of the necessity of
 	this proposition, we can decrease the time needed to get it passed.
