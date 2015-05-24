@@ -722,16 +722,16 @@ CARD_ENERGY_CLASH_DESC: <<|
 >>
 CARD_RUSH: Ruée
 CARD_RUSH_DESC: <<|
-	Using our influence to convince the appropriate parties of the necessity of
-	this proposition, we can decrease the time needed to get it passed.
+	En utilisant notre influence pour convaincre les parties concernées de la nécessité de
+	cette proposition, nous pouvons diminuer le temps nécessaire pour faire adopter les propositions.
 
-	[i]The vote will only take half as long to pass, but all support cards cost 1 extra influence to play. You can only play this card if you are currently supporting the proposition. Only one rush may be played into a proposition.[/i]
+	[i]Le vote prendra seulement la moitié du temps pour passer, mais toutes les cartes de soutien coûtent 1 influence supplémentaire à jouer. Vous pouvez seulement jouer cette carte si vous soutenez actuellement la proposition. Seulement une ruée peut être jouée dans une proposition.[/i]
 >>
-CARD_RUSH_LOG: * The $1 [color=#fa00ff][b]Rushes[/b][/color] the vote's approval through committee.
+CARD_RUSH_LOG: * $1 [color=#fa00ff][b]Ruée[/b][/color] sur l'approbation du vote par le comité.
 
-CARD_INFILTRATE: Infiltrate
+CARD_INFILTRATE: Infiltrer
 CARD_INFILTRATE_DESC: <<|
-	Send a highly trained operative to infiltrate the command structure of an enemy fleet, getting ready to subtly sabotage it in combat, and spreading dissent amongst key officers in the fleet.
+	Envoyer un dispositif hautement qualifié pour infiltrer la structure de commandement d'une flotte ennemie, se préparant pour subtilement le saboter pendant le combat, et étendant de la dissidence parmi les officiers clés de la flotte.
 
 	[i]The targeted enemy fleet grants you vision in the system it is in. Over the next 60 seconds, the enemy fleet's efficiency and strength is slowly reduced by 10% permanently. Effect lasts for 30 minutes.[/i]
 >>
