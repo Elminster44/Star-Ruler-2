@@ -36,7 +36,7 @@ STOP_IMPORT_RESOURCE: Stop importation de $1 depuis $2
 STOP_IMPORT_RES_QUEUE: Annuler file d'attente d'importation de $1 depuis $2
 RESOURCE_POP_REQUIRED: Nécessite au moins [b]$1 Milliard[/b] de population pour produire.
 RESOURCE_LEVEL_REQUIRED: Niveau de planète requis $1 pour produire.
-RESOURCE_TIER_DESC: [b]Rang $1[/b] [img=$2;18/] ressource: niveau de planète requis $1 pour produire.
+RESOURCE_TIER_DESC: Ressource [b]Rang $1[/b] [img=$2;18/] : niveau de planète requis $1 pour produire.
 RESOURCE_EXPORTED_TO: Exportation de $1...
 RESOURCE_IMPORTED_FROM: Importation depuis $1...
 ONLY_WITH_RESOURCES: Peut cibler uniquement planètes ou astéroïdes.
@@ -44,12 +44,12 @@ INCOME: Revenu
 REQ_FOR_LEVEL: Exigée pour le niveau $1:
 POP_REQ: [img=ResourceIcon::8;20/] [color=#ff9000][b]$1[/b]+ population[/color]
 REQ_STOP_DECAY: Ressources manquantes ! Déterioration retour au niveau $1 à $2 sauf si les besoins sont satisfaits:
-REQ_TYPE: [font=Subtitle]Toute [b]$1[/b] [img=$2;26/] Ressource[/font]
+REQ_TYPE: [font=Subtitle]Toute Ressource [b]$1[/b] [img=$2;26/][/font]
 REQ_TYPE_UNIQUE: Tout type unique de $1:
-REQ_LEVEL: [font=Subtitle]Toute [b]Rang $1[/b] [img=$2;26/] Ressource[/font]
+REQ_LEVEL: [font=Subtitle]Toute Ressource [b]Rang $1[/b] [img=$2;26/][/font]
 REQ_LEVEL_UNIQUE: N'importe quel type unique de ressource de Niveau $1 :
 WAIT_CONSTRUCT: La construction ne sera pas commencé jusqu'à leur résolution.
-CONSTRUCTION_REQUIRES_LEVEL: Niveau requis de planète $1 pour produire.
+CONSTRUCTION_REQUIRES_LEVEL: Niveau $1 de planète requis pour produire.
 ABANDON: Abandon Planète
 ABANDON_ACCEPT: Abandon
 PROMPT_ABANDON: Abandon $1 ? La population entière périra.
@@ -186,7 +186,7 @@ PLANET_INCOME_TIP: <<
 PLANET_INFLUENCE_TIP: <<
 	[b]Intérêt d'Influence[/b]
 	
-	Chaque intérêt d'influence sur une planète augmente votre pourcentage de la production d'influence galactique.
+	Chaque intérêt d'influence sur une planète augmente votre pourcentage de production d'influence galactique.
 
 	L'influence est utilisé pour affecter d'autres empires diplomatiquement.
 
