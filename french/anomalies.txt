@@ -11,10 +11,10 @@ ANOMALY_NAR_DEBRIS: <<|
 ANOMALY_NAR_DERELICT_BROKEN: <<|
 	Localiser la source du signal, vous trouverez l'épave d'un ancien navire de guerre.
 
-	Le navire semble être fortement endommagé, mais peut-être pourons-nous trouver quelque chose d'utile à bord.
+	Le navire semble être fortement endommagé, mais peut-être pourrons-nous trouver quelque chose d'utile à bord.
 >>
 ANOMALY_DERELICT_SCRAP: <<|
-	Ferrailler le navire de guerre pour les pièces et vendrent les technologies sur le marché noir.
+	Ferrailler le navire de guerre pour les pièces et vendre les technologies sur le marché noir.
 
 	[b][color=#d1cb6a][right]Gain §$1k[/right][/color][/b]
 >>
@@ -38,12 +38,12 @@ ANOMALY_DERELICT_CAMP: <<|
 	Après quelques réparations sur le système de moteur de base, le navire de guerre s'active et
 	reprend vie.
 
-	Malheureusement, la programmation de IA avancée rejette vos ingénieurs,
-	elle les larguer dans l'espace et reprend ses tâches de défense automatisés.
+	Malheureusement, la programmation de l'IA avancée rejette vos ingénieurs,
+	elle les largue dans l'espace et reprend ses tâches de défense automatisés.
 >>
 ANOMALY_DERELICT_DRYDOCK: <<|
 	Les parties internes du navire de guerre semblent avoir été endommagé plus que nous l'avions
-	prévu et cela nécessitera un ré-aménagement intensif.
+	prévu et cela nécessitera un réaménagement intensif.
 
 	Heureusement, nous avons été en mesure de décoder la programmation du navire pendant ce temps.
 	Nous serons en mesure d'exploiter pleinement le navire, après ça complète reconstruction.
@@ -56,7 +56,7 @@ ANOMALY_DERELICT_SUPPORTS: <<|
 
 	Nos ingénieurs parviennent à évacuer à temps pour éviter l'explosion du navire,
 	mais pas après l'obtention des codes de contrôle pour l'automatisation des
-	navires de soutien.
+	vaisseaux de soutien.
 >>
 ANOMALY_NAR_ANCIENT_GATE: <<|
 	Une anomalie gravitationnelle mineure a conduit à la découverte d'un anneau massif, très usé
@@ -64,7 +64,7 @@ ANOMALY_NAR_ANCIENT_GATE: <<|
 	résultat présumé de rayonnement stellaire et de micro-impacts.
 	
 	L'intérieur de l'anneau est composé de divers matériaux inconnus, bien que le reste
-	du champs détectable rappelle des distorsions de haute luminosité.
+	du champ détectable rappelle des distorsions de haute luminosité.
 >>
 ANOMALY_GATE_ACTIVATE: <<|
 	Une partie assez importante de l'anneau est intacte pour que le dispositif soit réactivé.
@@ -73,12 +73,12 @@ ANOMALY_GATE_ACTIVATE: <<|
 >>
 ANOMALY_GATE_HARVEST: <<|
 	L'application de quantités relativement faibles d'énergie active l'anneau à émettre
-	des particules d'hyperfield utilisables.
+	des particules d' hyperchamp utilisables.
 
 	[b][color=#d1cb6a][right]Ajoute $1 FTL généré par seconde.[/right][/color][/b]
 >>
 ANOMALY_GATE_REPURPOSE: <<|
-	Le noyau de la porte pourrait être démonté et utilisé pour stocker des particules hyperfield
+	Le noyau de la porte pourrait être démonté et utilisé pour stocker des particules hyperchamp
 	pour une utilisation future.
 
 	[b][color=#d1cb6a][right]Ajoute $1 FTL de stockage.[/right][/color][/b]
@@ -116,7 +116,7 @@ ANOMALY_MINING_OUTPOST_MINE: <<|
 	[b][color=#72cbe0][right]Mine [template=resource_ref;Iron/], [template=resource_ref;AsteroidLabor/], ou [template=resource_ref;Water/].[/right][/color][/b]
 >>
 ANOMALY_MINING_OUTPOST_CONVERT: <<|
-	Préparez-vous à convertir une partie de l'équipement minier pour obtenir et filtrer les matériaux les plus précieux présent.
+	Préparez-vous à convertir une partie de l'équipement minier pour obtenir et filtrer les matériaux les plus précieux présents.
 
 	[b][color=#e072c9][right]Mine [template=resource_ref;RareMetals/] ou [template=resource_ref;NativeGold/].[/right][/color][/b]
 >>
@@ -127,10 +127,10 @@ ANOMALY_MINING_OUTPOST_EXPLODE: <<|
 >>
 ANOMALY_NAR_RIFT: <<|
 	Vous rencontrez une station étrange émettant périodiquement des impulsions de tachyons vers
-	une anomalie spatiale à proximité. Le système d'alimentation de la station apparaît fonctionnelle,
+	une anomalie spatiale à proximité. Le système d'alimentation de la station apparaît fonctionnel,
 	mais le mécanisme de focalisation de l'émetteur est endommagé.
 
-	Si nous réparons l'émetteur, nous pourrions être en mesure d'élargir suffisament l'anomalie spatiale
+	Si nous réparons l'émetteur, nous pourrions être en mesure d'élargir suffisamment l'anomalie spatiale
 	pour y passer au travers.
 >>
 ANOMALY_RIFT_PULSE: <<|
@@ -145,7 +145,7 @@ ANOMALY_NAR_PLANT: <<|
 	Dans les débris vous détecter rapidement une station à la conception intrigante.
 
 	Contrôlant des dizaines de drones, la station tranche systématiquement et
-	recueille une parties des débris, en utilisant des procédés qui nous sont inconnues pour affiner les
+	recueille une partie des débris, en utilisant des procédés qui nous sont inconnues pour affiner les
 	matériaux en produits chimiques analogues à un gel.
 
 	
@@ -165,9 +165,9 @@ ANOMALY_PLANT_SIPHON_SUCCESS: <<|
 	Les premiers tests indiquent son utilisation comme engrais extrêmement puissant, capable d'
 	augmenter considérablement la production alimentaire de l'une de vos planètes.
 
-	[color=#96d16a]Vous avez gagné une carte d'influence [b]Cultivation[/b].[/color]
+	[color=#96d16a]Vous avez gagné une carte d'influence [b]Cultiver[/b].[/color]
 
-	Malheureusement, les tentatives ultérieures de siphonnage de plus de produits chimiques ont été détectés
+	Malheureusement, les tentatives ultérieures de siphonage de plus de produits chimiques ont été détectées
 	et la station a activé ses mécanismes d'autodestruction en réponse à votre
 	interférence.
 >>
@@ -199,7 +199,7 @@ ANOMALY_PLANT_BOARD: <<|
 	[b][color=#ff0000][right]Résultats inconnus.[/right][/color][/b]
 >>
 ANOMALY_PLANT_BOARD_FAIL: <<|
-	La présence de notre équipe d'arraisonnement a été détectée par les capteurs interne
+	La présence de notre équipe d'arraisonnement a été détectée par les capteurs internes
 	 de la station. Après avoir réglé son atmosphère alien elle à fait feu et purgé nos
 	scientifiques, les quais de la station lance tous ses drones et active ses armes.
 >>
@@ -209,7 +209,7 @@ ANOMALY_PLANT_BOARDED: <<|
 	La station semble contenir un type d'atmosphère alien, constitué
 	d'une grande quantité d'éléments réactifs.
 
-	En explorerant les entrailles de la station, vos scientifiques découvrent une grande quantité de
+	En explorant les entrailles de la station, vos scientifiques découvrent une grande quantité de
 	magasins chimiques distinctes, mais la lecture sur la majorité d'entre eux ne suggèrent pas
 	d'utilisation viable pour notre espèce.
 >>
@@ -266,7 +266,7 @@ ANOMALY_PROTO_WARES_SCRAP: <<|
 >>
 ANOMALY_OBELISK: Obélisque
 ANOMALY_MORPH_NAR: <<|
-	Un immense obélisque flotte en orbite autour l'étoile du système, dégageant une faible
+	Un immense obélisque qui flotte en orbite autour de l'étoile du système, dégageant une faible
 	mesure d'énergie dans toutes les directions.
 >>
 ANOMALY_MORPH_BLUE_NAR: <<|
@@ -313,14 +313,14 @@ ANOMALY_MORPH_HARVEST: <<|
 ANOMALY_MORPH_RESPONSE: <<|
 	En réponse à son activation, l'obélisque émet une onde de particules immense
 	à chacune des planètes et astéroïdes dans le système, excitant leur morphologie
-	matériele et modifiant rapidement la totalité de leurs écologies.
+	matérielle et modifiant rapidement la totalité de leurs écologies.
 >>
 ANOMALY_NAR_DATACENTER: <<|
 	Un astéroïde creux sert de maison à un centre de données.
 	Des centaines de milliers de nœuds de stockage reposent au ralenti, avec une poignée toujours fonctionnel.
 >>
 ANOMALY_DATACENTER_READ: <<|
-	Copiez et analyser les données qui sont encore dans les banques de mémoire activaté.
+	Copiez et analyser les données qui sont encore dans les banques de mémoire en activité.
 
 	[b][color=#96d16a][right]Obtenir des renseignements sur des planètes dans des systèmes aléatoires.[/right][/color][/b]
 >>
@@ -375,7 +375,7 @@ ANOMALY_BEAUTY_FAIL: <<
 
 	[b][color=#ff2121]Un nouveau vaisseau pirate va attaquer votre espace.[/color][/b]
 >>
-ANOMALY_NAR_NEUTRONPLATE: Tous les morceaux de métal et de roche dans la région sont fortement irradiées. Un en particulier, la roche déformée est facilement localisée comme la source. Une étude attentive avec une sonde à distance révèle qu'une roche est un fragment de détonation d'une ancienne étoile. Dans son noyau, une petite quantité de neutronium est découvert.
+ANOMALY_NAR_NEUTRONPLATE: Tous les morceaux de métal et de roche dans la région sont fortement irradiés. Un en particulier, la roche déformée est facilement localisée comme la source. Une étude attentive avec une sonde à distance révèle qu'une roche est un fragment de détonation d'une ancienne étoile. Dans son noyau, une petite quantité de neutronium est découvert.
 ANOMALY_NEUTRONPLATE_INFUSE: <<
 	La fourniture de neutronium va beaucoup améliorer toutes les armures utilisées par nos flottes.
 
@@ -386,7 +386,7 @@ ANOMALY_NEUTRONPLATE_STUDY: <<
 	[right][b][color=#80ff80]Débloque[/color] [template=subsys_ref;NeutronArmor/][/b][/right]
 >>
 ANOMALY_NAR_HIDDEN_OUTPOSTS: <<
-	Vous trouvez une petit petit avant-poste, recouvert d'une maille furtive et presque indétectable par vos capteurs. Heureusement, les protocoles d'abandon de l'avant-poste ont été activés, et depuis il diffuse un signal de détresse.
+	Vous trouvez un petit avant-poste, recouvert d'une maille furtive et presque indétectable par vos capteurs. Heureusement, les protocoles d'abandon de l'avant-poste ont été activés, et depuis il diffuse un signal de détresse.
 
 	Le téléchargement des données initiales de la banque de mémoire de l'avant-poste, vous découvrez que c'était un poste de contrôle pour un grand groupe de stations noires illégales de recherche, mis en place par un gouvernement étranger.
 
@@ -421,5 +421,5 @@ ANOMALY_HIDDEN_3_TAKE: <<
 ANOMALY_HIDDEN_4_TAKE: <<
 	Télécharger les données de recherche de l'avant-poste.
 
-	[b][color=#96d196][right]Augmenter la main d'oeuvre générés des usines par 3.[/right][/color][/b]
+	[b][color=#96d196][right]Augmenter la main d'œuvres générés des usines par 3.[/right][/color][/b]
 >>
