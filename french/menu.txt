@@ -109,7 +109,7 @@ TEAM: Équipe
 TEAM_TEXT: Équipe $1
 NO_TEAM: Pas d'équipe
 
-NG_GAME_OPTIONS: Options de la partie
+NG_GAME_OPTIONS: Options de partie
 
 NG_UNIVERSE_GENERATION: Génération de l'Univers 
 NG_ANOMALY_OCCURANCE: Fréquence des Anomalies
