@@ -77,7 +77,7 @@ TRAIT_INEFFICIENT_DESC: <<|
 
 TRAIT_NIMBLE: Nimble
 TRAIT_NIMBLE_DESC: <<
-	Engine thrust and hyperdrive speed (when applicable) are increased by 30%.
+	Le moteur de poussé et la vitesse d'hyperdrive (quand applicable) sont augmentés de 30 %.
 >>
 
 TRAIT_EMPIRE: Gouvernement: Empire
