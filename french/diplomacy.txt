@@ -733,75 +733,75 @@ CARD_INFILTRATE: Infiltrer
 CARD_INFILTRATE_DESC: <<|
 	Envoyer un dispositif hautement qualifié pour infiltrer la structure de commandement d'une flotte ennemie, se préparant pour subtilement le saboter pendant le combat, et étendant de la dissidence parmi les officiers clés de la flotte.
 
-	[i]The targeted enemy fleet grants you vision in the system it is in. Over the next 60 seconds, the enemy fleet's efficiency and strength is slowly reduced by 10% permanently. Effect lasts for 30 minutes.[/i]
+	[i]La flotte ennemie ciblée vous accorde la vision dans le système dans lequel elle est. Au cours des 60 prochaines secondes, l'efficacité et la force de la flotte ennemie sont lentement réduit de 10% en permanence. L'effet dure pendant 30 minutes.[/i]
 >>
-STATUS_INFILTRATED: Infiltrated
+STATUS_INFILTRATED: Infiltré
 STATUS_INFILTRATED_DESC: <<
-	You have an operative infiltrated in this enemy fleet. It grants you vision and causes the fleet to have slightly reduced combat effectiveness.
+	Vous avez un opérateur infiltré dans cette flotte ennemie. Il vous accorde la vision et provoque que la flotte a une efficacité au combat légèrement réduite.
 >>
-CARD_HEDGE: Hedge
+CARD_HEDGE: Couverture
 CARD_HEDGE_DESC: <<|
-	Set up fallback measures and positions in order to be able to try a similar proposal to this one in the future, if it fails.
+	La configuration de mesures de repli et de positions pour pouvoir essayer une proposition semblable à celle-ci dans l'avenir, en cas d'échec.
 
-	[i]If the vote fails, you gain the card used to start it. Can only be played into a vote once. Extends the vote to ensure at least 60 seconds are remaining to vote.[/i]
+	[i]Si le vote échoue, vous gagnez la carte utilisée pour démarrer. Peut seulement être joué une fois dans un vote. Prolonge le vote pour s'assurer qu'au moins 60 secondes restent pour voter.[/i]
 >>
-CARD_HEDGE_LOG: * The $1 [color=#fff700][b]Hedges[/b][/color] the vote in case it fails.
+CARD_HEDGE_LOG: * $1 [color=#fff700][b]Couvre[/b][/color] le vote en cas d'échec.
 
-ZEITGEIST_ENERGY: Zeitgeist: Power
+ZEITGEIST_ENERGY: Air du temps: Puissance
 ZEITGEIST_ENERGY_DESC: <<
-	[b]Zeitgeist effet[/b]
+	[b]Air du temps effet[/b]
 
-	If the vote passes, the energy generation rate of all empires will be increased by 25%, and all empires will be able to construct Solar Engine orbitals to generate more energy.
+	Si le vote passe, le taux de production d'énergie de tous les empires sera augmenté de 25%, et tous les empires seront en mesure de construire des moteurs solaires orbitales pour générer plus d'énergie.
 
-	[img=QuickbarIcons::6;32]If the vote passes, the most supportive empire will receive a bonus [b]+2 energy per second[/b] base generation rate while this zeitgeist is active.[/img]
-	[img=QuickbarIcons::3;32]If the vote fails, the most opposing empire will receive an instant bonus of [b]Â§800k special funds[/b].[/img]
-	[i]Only one zeitgeist effect can be active at the same time. Passing a new zeitgeist will remove any previously active ones.[/i]
+	[img=QuickbarIcons::6;32]Si le vote passe, l'empire le plus favorable recevra un bonus de [b]+2 energie par seconde[/b] du taux de génération de base tant que cette Air du temps est active.[/img]
+	[img=QuickbarIcons::3;32]Si le vote échoue, l'empire le plus adverse recevra un bonus instantané de [b]Â§800k fonds spéciaux[/b].[/img]
+	[i]Un seul effet Air du temps peut être actif en même temps. L'adoption d'une nouvelle Air du temps permettra d'éliminer tout celles précédemment active.[/i]
 >>
-ZEITGEIST_COOPERATION: Zeitgeist: Cooperation
+ZEITGEIST_COOPERATION: Air du temps: Coopération
 ZEITGEIST_COOPERATION_DESC: <<
-	[b]Zeitgeist effet[/b]
+	[b]Air du temps effet[/b]
 
-	If the vote passes, all empires will gain vision over any empires they are not currently at war with, even if they are not allied.
+	Si le vote passe, tous les empires gagneront la vision sur n'importe quels empires avec lesquels ils ne sont pas actuellement en guerre, même s'ils ne sont pas alliés.
 
-	While this zeitgeist is active, all empires will get reduced influence generation dependent on the total size of their military. The bigger their military strength, the greater the reduction in influence generation.
+	Temps que cette Air du temps est active, tous les empires obtiendront une génération d'influence réduite dépendant de la taille totale de leur armée. Plus leur force militaire est grande, plus la réduction de génération d'influence est importante.
 
-	[i]Only one zeitgeist effect can be active at the same time. Passing a new zeitgeist will remove any previously active ones.[/i]
+	[i]Un seul effet Air du temps peut être actif en même temps. L'adoption d'une nouvelle Air du temps permettra d'éliminer tout celles précédemment active.[/i]
 >>
-ZEITGEIST_PROGRESS: Zeitgeist: Progrès
+ZEITGEIST_PROGRESS: Air du temps: Progrès
 ZEITGEIST_PROGRESS_DESC: <<
-	[b]Zeitgeist effet[/b]
+	[b]Air du temps effet[/b]
 
-	If the vote passes, 50% of all energy generation on planets and by civilian structures is converted to research generation instead.
+	Si le vote passe, 50 % de toute la génération d'énergie sur des planètes et des structures civiles sont convertis pour faire de la génération de recherche.
 
-	[img=QuickbarIcons::6;32]If the vote passes, the most supportive empire will receive a bonus [b]+3 research per second[/b] base generation rate while this zeitgeist is active.[/img]
-	[img=QuickbarIcons::3;32]If the vote fails, the most opposing empire will receive an instant bonus of [b]800 energy[/b].[/img]
-	[i]Only one zeitgeist effect can be active at the same time. Passing a new zeitgeist will remove any previously active ones.[/i]
+	[img=QuickbarIcons::6;32]Si le vote passe, l'empire le plus favorable recevra un bonus de [b]+3 en recherche par seconde[/b] du taux de génération de base tant que cette Air du temps est active.[/img]
+	[img=QuickbarIcons::3;32]Si le vote échoue, l'empire le plus adverse recevra un bonus instantané de [b]800 énergie[/b].[/img]
+	[i]Un seul effet Air du temps peut être actif en même temps. L'adoption d'une nouvelle Air du temps permettra d'éliminer tout celles précédemment active.[/i]
 >>
-STATUS_PROGRESS_GEIST: Zeitgeist: Progrès
-STATUS_PROGRESS_GEIST_DESC: All energy generation on the surface of this planet is converted to research generation instead.
+STATUS_PROGRESS_GEIST: Air du temps: Progrès
+STATUS_PROGRESS_GEIST_DESC: Toutes production d'énergie sur la surface de cette planète est converti en génération de recherche.
 
-ZEITGEIST_ZEALOT: Zeitgeist: Zealotry
+ZEITGEIST_ZEALOT: Air du temps: Fanatisme
 ZEITGEIST_ZEALOT_DESC: <<
-	[b]Zeitgeist effet[/b]
+	[b]Air du temps effet[/b]
 
-	If the vote passes, all owned planets will defend themselves from enemy fleets with missile launchers. The amount of launchers on a planet is dependent on its planet level. Planetary missile launchers always deactivate when all orbital support ships are destroyed and an enemy fleet starts sieging to capture the world.
+	Si le vote passe, toutes les planètes vous appartenant vont se défendre contre les flottes ennemies avec des lanceurs de missiles. Le nombre de lanceurs sur une planète dépend de son niveau. Les lance-missiles planétaires se désactivent toujours quand tous les bâtiments de soutien orbitaux sont détruits et qu'une flotte ennemie commence un siège pour capturer le monde.
 
-	[img=QuickbarIcons::6;32]If the vote passes, the most supportive empire will receive a bonus [b]+5 defense per minute[/b] while this zeitgeist is active.[/img]
-	[img=QuickbarIcons::3;32]If the vote fails, the most opposing empire will receive an instant bonus of [b]4 random influence cards[/b].[/img]
-	[i]Only one zeitgeist effect can be active at the same time. Passing a new zeitgeist will remove any previously active ones.[/i]
+	[img=QuickbarIcons::6;32]Si le vote passe, l'empire le plus favorable recevra un bonus de [b]+5 défense par minute[/b] tant que cette Air du temps est active.[/img]
+	[img=QuickbarIcons::3;32]Si le vote échoue, l'empire le plus adverse recevra un bonus instantané de [b]4 Cartes d'influence aléatoires[/b].[/img]
+	[i]Un seul effet Air du temps peut être actif en même temps. L'adoption d'une nouvelle Air du temps permettra d'éliminer tout celles précédemment active.[/i]
 >>
-STATUS_ZEALOT_GEIST: Zeitgeist: Zealotry
+STATUS_ZEALOT_GEIST: Air du temps: Fanatisme
 STATUS_ZEALOT_GEIST_DESC: This planet defends itself with missile silos while not actively under siege.
 
-ZEITGEIST_ART: Zeitgeist: Art
+ZEITGEIST_ART: Air du temps: Art
 ZEITGEIST_ART_DESC: <<
-	[b]Zeitgeist effet[/b]
+	[b]Air du temps effet[/b]
 
 	While this zeitgeist is active, all empires will be able to construct Museums on their planets. Museums cost labor to construct, but give an instant bonus of 10 influence when constructed.
 
 	[img=QuickbarIcons::6;32]If the vote passes, the most supportive empire will receive [b]+20% influence generation[/b] while this zeitgeist is active.[/img]
 	[img=QuickbarIcons::3;32]If the vote fails, the most opposing empire will receive an instant bonus of [b]800 research[/b].[/img]
-	[i]Only one zeitgeist effect can be active at the same time. Passing a new zeitgeist will remove any previously active ones.[/i]
+	[i]Un seul effet Air du temps peut être actif en même temps. L'adoption d'une nouvelle Air du temps permettra d'éliminer tout celles précédemment active.[/i]
 >>
 CLAUSE_VISION: Partager Vision
 CLAUSE_VISION_DESC: <<|
