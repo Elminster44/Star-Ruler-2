@@ -91,21 +91,21 @@ TRAIT_COMMUNISM: Gouvernement: Communisme
 TRAIT_COMMUNISM_DESC: <<
 	[vspace=6/][b][color=#0f0]Bonus:[/color][/b] [offset=140][color=#42b4bd]500 Energies[/color][/offset].
 	[vspace=6/][b][color=#f00]Départ Flotte:[/color][/b] [offset=140]2x Cuirassé d'escadre.[/offset]
-	[vspace=6/][b][color=#0087c7]Départ Carte:[/color][/b] [offset=140]1x Négocier, 1x Enquêter, 1x Cultivation, 1x Center de recherche unifié, 1x Sabotage.[/offset]
+	[vspace=6/][b][color=#0087c7]Départ Carte:[/color][/b] [offset=140]1x Négocier, 1x Enquêter, 1x Culture, 1x Centre de recherche unifié, 1x Sabotage.[/offset]
 >>
 
 TRAIT_THEOCRACY: Gouvernement: Théocratie
 TRAIT_THEOCRACY_DESC: <<
 	[vspace=6/][b][color=#0f0]Bonus:[/color][/b] [offset=140][color=#00c0ff]250 FTL[/color][/offset].
 	[vspace=6/][b][color=#f00]Départ Flotte:[/color][/b] [offset=140]2x Eclaireur, 1x Cuirassé d'escadre, Défense planétaire.[/offset]
-	[vspace=6/][b][color=#0087c7]Départ Carte:[/color][/b] [offset=140]2x Faire Appel À, 1x Savoir Ancien, 2x Protection du système, 1x Hôte Sénat Galactique.[/offset]
+	[vspace=6/][b][color=#0087c7]Départ Carte:[/color][/b] [offset=140]2x Faire Appel, 1x Savoir Ancien, 2x Protection du système, 1x Construction du Sénat Hôte.[/offset]
 >>
 
 TRAIT_CAPITALISM: Gouvernement: Capitalisme
 TRAIT_CAPITALISM_DESC: <<
 	[vspace=6/][b][color=#0f0]Bonus:[/color][/b] [offset=140][color=#d1cb6a]§400k Fonds spéciaux[/color][/offset].
 	[vspace=6/][b][color=#f00]Départ Flotte:[/color][/b] [offset=140]Transporteur lourd.[/offset]
-	[vspace=6/][b][color=#0087c7]Départ Carte:[/color][/b] [offset=140]1-4x influence, 2x Attach Rider, 2x Don.[/offset]
+	[vspace=6/][b][color=#0087c7]Départ Carte:[/color][/b] [offset=140]1-4x influence, 2x Joindre Avenant, 2x Don.[/offset]
 >>
 
 TRAIT_MERITOCRACY: Gouvernement: Méritocratie
