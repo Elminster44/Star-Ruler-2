@@ -791,16 +791,16 @@ ZEITGEIST_ZEALOT_DESC: <<
 	[i]Un seul effet Air du temps peut être actif en même temps. L'adoption d'une nouvelle Air du temps permettra d'éliminer tout celles précédemment active.[/i]
 >>
 STATUS_ZEALOT_GEIST: Air du temps: Fanatisme
-STATUS_ZEALOT_GEIST_DESC: This planet defends itself with missile silos while not actively under siege.
+STATUS_ZEALOT_GEIST_DESC: Cette planète se défend avec des silos de missile bien que n'étant pas activement sous un siège.
 
 ZEITGEIST_ART: Air du temps: Art
 ZEITGEIST_ART_DESC: <<
 	[b]Air du temps effet[/b]
 
-	While this zeitgeist is active, all empires will be able to construct Museums on their planets. Museums cost labor to construct, but give an instant bonus of 10 influence when constructed.
+	Temps que cette Air du temps est active, tous les empires seront en mesure de construire des musées sur leurs planètes. Les Musées ont un coût de main d'oeuvre, mais donnent un bonus instantané de 10 influence quand ils sont construits.
 
-	[img=QuickbarIcons::6;32]If the vote passes, the most supportive empire will receive [b]+20% influence generation[/b] while this zeitgeist is active.[/img]
-	[img=QuickbarIcons::3;32]If the vote fails, the most opposing empire will receive an instant bonus of [b]800 research[/b].[/img]
+	[img=QuickbarIcons::6;32]Si le vote passe, l'empire le plus favorable recevra [b]+20% Génération d'influence[/b] tant que cette Air du temps est active.[/img]
+	[img=QuickbarIcons::3;32]Si le vote échoue, l'empire le plus adverse recevra un bonus instantané de [b]800 recherche[/b].[/img]
 	[i]Un seul effet Air du temps peut être actif en même temps. L'adoption d'une nouvelle Air du temps permettra d'éliminer tout celles précédemment active.[/i]
 >>
 CLAUSE_VISION: Partager Vision
