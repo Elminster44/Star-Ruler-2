@@ -10,13 +10,13 @@ DOWNLOAD_TO_PROFILE: Télécharger sur Profil
 TT_DOWNLOAD_TO_PROFILE: <<|
 	Télécharger la conception affichée dans votre profil où vous serez en mesure d'importer dans ce ou tout autre jeu futurs.
 >>
-SUCCESS_DOWNLOAD_TO_PROFILE: Conception téléchargé au profil avec succès .
+SUCCESS_DOWNLOAD_TO_PROFILE: Conception téléchargé au profil avec succès.
 DOWNLOAD_TO_EMPIRE: Télécharger vers votre jeu
 TT_DOWNLOAD_TO_EMPIRE: <<|
 	Télécharger la conception affichée dans votre partie en cours uniquement, pour une utilisation immédiate dans votre empire.
 >>
 TT_DOWNLOAD_ERRORS: <<|
-	Cette conception ne peut pas être téléchargé dans votre empire actuel, car il comporte des erreurs:
+	Cette conception ne peut pas être téléchargée dans votre empire actuel, car il comporte des erreurs:
 >>
 SUCCESS_DOWNLOAD_TO_EMPIRE: Conception téléchargé avec succès dans la partie en cours.
 DOWNLOAD_EDIT: Charger dans l'Éditeur
