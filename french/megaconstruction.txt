@@ -2,7 +2,7 @@ ARTIFICIAL_PLANETOID: Planétoïde artificiel
 ARTIFICIAL_PLANETOID_DESC: <<
 	Un planétoïde entièrement construit artificiellement, avec sa propre atmosphère et son champ gravitationnel.
 
-	Les planetoids artificiels produisent leur propre nourriture et ne doivent pas l'importer, et peut construire de grandes usines de traitement pour satisfaire leurs autres exigences de monté de niveau. Le planétoïde peut aussi être amélioré pour ajouter plus d'espace de superfie.
+	Les planétoïdes artificiels produisent leur propre nourriture et ne doivent pas l'importer, et peut construire de grandes usines de traitement pour satisfaire leurs autres exigences de monté de niveau. Le planétoïde peut aussi être amélioré pour ajouter plus d'espace de superficie.
 
 	[img=ResourceIconsSmall::11;22;#91692c][b][color=#91692c]La construction d'un planétoïde artificiel ou n'importe laquelle de ses améliorations exige de grandes quantités de minerai extrait d'astéroïdes.[/color][/b][/img]
 >>
@@ -14,25 +14,25 @@ CONS_PLANETOID_UPGRADE_DESC: <<
 >>
 BLD_PLANETOID_LV1: Niveau 1 Usine de traitement
 BLD_PLANETOID_LV1_DESC: <<
-	Une usine de traitement spécialisée qui peut remplacer un niveau du planetoid artificiel en exigences de ressource.
+	Une usine de traitement spécialisée qui peut remplacer un niveau du planétoïde artificiel en exigences de ressource.
 
 	[img=ResourceIconsSmall::11;22;#91692c][b][color=#91692c]Exige de grandes quantités de minerai extrait d'astéroïdes.[/color][/b][/img]
 >>
 BLD_PLANETOID_LV2: Niveau 2 Usine de traitement
 BLD_PLANETOID_LV2_DESC: <<
-	Une usine de traitement spécialisée qui peut remplacer un niveau du planetoid artificiel en exigences de ressource.
+	Une usine de traitement spécialisée qui peut remplacer un niveau du planétoïde artificiel en exigences de ressource.
 
 	[img=ResourceIconsSmall::11;22;#91692c][b][color=#91692c]Exige de grandes quantités de minerai extrait d'astéroïdes.[/color][/b][/img]
 >>
 
 STARFORGE: Forge stellaire
-STARFORGE_BLURB: Déchire en morceaux et absorbe les parties de l'étoile du système pour produire la main d'oeuvre.
+STARFORGE_BLURB: Déchire en morceaux et absorbe les parties de l'étoile du système pour produire la main d'œuvre.
 STARFORGE_DESC: <<
 	Une construction avancée qui déchire la puissance et la matière tout droit des couches extérieures de l'étoile.
 
-	Produit 25 main-d'œuvre par minute aux dépens du lent endommagement de l'étoile dans le système où elle se situe. Des améliorationsde la forge peuvent être construites sur l'étoile pour augmenter sa génération de main d'oeuvre mais égelement le taux d'endommagement de l'étoile.
+	Produit 25 main-d'œuvre par minute aux dépens du lent endommagement de l'étoile dans le système où elle se situe. Des améliorations de la forge peuvent être construites sur l'étoile pour augmenter sa génération de main d'œuvre mais également le taux d'endommagement de l'étoile.
 
-	Toute les constructions dans une forge stellaire ont une réduction de 50 % du coût normal.
+	Toutes les constructions dans une forge stellaire ont une réduction de 50 % du coût normal.
 
 	[img=ResourceIconsSmall::11;22;#91692c][b][color=#91692c]La construction et l'amélioration de la forge stellaire exige de grandes quantités de minerai extrait d'astéroïdes.[/color][/b][/img]
 >>
@@ -46,7 +46,7 @@ CONS_CANNIBALIZE_PLANET: Cannibalisez Planète
 CONS_CANNIBALIZE_PLANET_DESC: <<
 	Utilisez le rayon d'acquisition de matière de la forge stellaire pour déchirer complètement en morceaux une planète non en possession ou abandonnée dans ce système, gain de main-d'œuvre et de minerai qui seront stocké dans le processus.
 
-	La planète non colonisée  est détruite, le gain est de 5000 Minerai et 250 main d'oeuvre.
+	La planète non colonisée  est détruite, le gain est de 5000 Minerai et 250 mains d'œuvre.
 >>
 
 VACUUM_TELESCOPE: Télescope de l'espace vide
