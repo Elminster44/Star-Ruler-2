@@ -22,5 +22,5 @@ EXPANSE_MAP_DESC: <<|
 	Capturez le monde natal des Anciens ou développer vous dans le vide sans fin.
 >>
 EXPANSE_MAP_TEXT: <<
-	[i][color=#aaa]Les Empires entourent le monde natal des anciens. Les flottes des anciens peuvent être vaincues afin de permettre la colonisation des planètes intérieures. Les flottes de reliques protègent les systèmes près du bord de la galaxie, battre ces flottes permet l'expansion et de la découverte de plus de systèmes non détectés.[/color][/i]
+	[i][color=#aaa]Les Empires entourent le monde natal des anciens. Les flottes des anciens peuvent être vaincues afin de permettre la colonisation des planètes intérieures. Les flottes des anciens protègent les systèmes près du bord de la galaxie, battre ces flottes permet l'expansion et la découverte de plus de systèmes non détectés.[/color][/i]
 >>
