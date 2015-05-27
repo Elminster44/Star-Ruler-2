@@ -26,7 +26,7 @@ ERROR_MUST_BE_EXTERIOR: Tous les $1 hexagones doivent être en extérieur.
 ERROR_MUST_COVER: $1 doit couvrir le vaisseau dans toutes les directions.
 ERROR_ONE_APPLIED: Un seul $1 peut être appliqués.
 ERROR_CANNOT_APPLY: Vous ne pouvez pas appliquer $1 sous-système.
-ERROR_MUST_ADJACENT: Tous les hexagones doivent être adjacente à au moins un $1.
+ERROR_MUST_ADJACENT: Tous les hexagones doivent être adjacents à au moins un $1.
 ERROR_MUST_ADJACENT_INTERIOR: Hexagones intérieurs doivent être adjacent à au moins un $1.
 ERROR_CONTIGUOUS: $1 doit être un ensemble relié.
 ERROR_MUST_BE_FILLED: L'espace intérieur doit être rempli.
@@ -35,7 +35,7 @@ ERROR_ONLY_ONE: Un seul $1 est autorisée.
 ERROR_NEED_PRAYER: LE vaisseau nécessite un lieu de culte pour générer la prière.
 ERROR_EQUAL_PRAYER: Doit avoir au moins autant de prière comme contrôle.
 ERROR_NEED_SHIELD: $1 can only be used if the ship has Shields.
-REQUIRE_CONSTRUCTION_BAY: $1 exige une baie de construction pour nourrir la main d'oeuvre.
+REQUIRE_CONSTRUCTION_BAY: $1 exige une baie de construction pour nourrir la main d'œuvre.
 APPLIED_HULL: Coque
 DESIGNS: Modèles
 DSG_INSERT_NAME: Entrer un Nom pour le modèle...
@@ -45,7 +45,7 @@ DESIGN_HEX_LIMIT: Espace intérieur: $1 / $2
 TT_DESIGN_HEX_LIMIT: <<
 	Les conceptions ne peuvent contenir qu'une quantité limitée d'hexagones intérieurs.
 
-	Certains sous-systèmes comme l'hexagones d'armure placés à l'extérieur du vaisseau ne comptent pas pour le nombre intérieur d'hexagones d'un vaisseau.
+	Certains sous-systèmes comme l'hexagone d'armure placés à l'extérieur du vaisseau ne comptent pas pour le nombre intérieur d'hexagones d'un vaisseau.
 >>
 
 TIP_ROTATE: Vous pouvez faire pivoter l'orientation d'une tourelle en utilisant la molette de défilement.
@@ -66,7 +66,7 @@ EXPORT_DESIGN: Exporter
 DUPLICATE_DESIGN: Dupliquer
 
 SANDBOX_WAR: Combattre !
-SANDBOX_PEACE: Cesser le feu..
+SANDBOX_PEACE: Cesser le feu.
 SPAWN_ALLIED: Apparaître allier
 SPAWN_ENEMY: Apparaître ennemi
 SANDBOX_CLEAR: Nettoyer Sandbox
@@ -75,13 +75,13 @@ SANDBOX_DESC: Bienvenue dans le sandbox des conceptions !\nLes conceptions sont 
 SANDBOX_SAVE_EXPORT: Sauver + Exporter
 
 TT_EDIT_DESIGN: Modifier ce modèle.
-TT_OBSOLETE_DESIGN: Marquer ce modèle comme obsolète. Il n'apparaîtra plus dans la liste. Les conceptions obsolète ne seront plus construit automatiquement par la défense.
+TT_OBSOLETE_DESIGN: Marquer ce modèle comme obsolète. Il n'apparaîtra plus dans la liste. Les conceptions obsolètes ne seront plus construites automatiquement par la défense.
 TT_UNOBSOLETE_DESIGN: Marquer ce modèle comme actif, retire le statut obsolète.
 SHOW_OBSOLETE: Afficher obsolète
-TT_SHOW_OBSOLETE: Basculer pour afficher les modèles marquer comme obsolètes.
+TT_SHOW_OBSOLETE: Basculer pour afficher les modèles marqués comme obsolètes.
 TT_SUPPORT_DESIGN: Ce modèle utilise une coque de vaisseau de support. Les vaisseaux de support ne peuvent se déplacer de façon indépendante et ne peuvent agir que dans le cadre d'une flotte autour d'un vaisseau mère ou d'une planète.
-TT_FLAGSHIP_DESIGN: Ce modèle utilise une coque de vaisseau amiral. Les vaisseaux amiral peuvent se déplacer et agir de façon indépendante, et peuvent être en mesure d'assurer le commandement d'une flotte de support. La quantité de vaisseaux dans sa flotte dépend du nombe de "Centre de commandement" qu'il dispose dans sa conception. // J'ai rien trouver de mieux pour "Support Command" besoin d'avis/d'aide
-TT_STATION_DESIGN: Ce modèle utilise une coque de station. Les stations ne peuvent pas se déplacer, mais elle peuvent être construite à distance en orbite.
+TT_FLAGSHIP_DESIGN: Ce modèle utilise une coque de vaisseau amiral. Les vaisseaux amiral peuvent se déplacer et agir de façon indépendante, et peuvent être en mesure d'assurer le commandement d'une flotte de support. La quantité de vaisseaux dans sa flotte dépend du nombre de "Centre de commandement" qu'il dispose dans sa conception. // J'ai rien trouvé de mieux pour "Support Command" besoin d'avis/d'aide
+TT_STATION_DESIGN: Ce modèle utilise une coque de station. Les stations ne peuvent pas se déplacer, mais elles peuvent être construites à distance en orbite.
 
 S_HP: Santé total
 S_HexHP: Santé
@@ -103,7 +103,7 @@ S_SUPPLYCAP: Capacité ravitaillement
 STT_SUPPLYCAP: Le total de provision que ce vaisseau amiral peut stocker.
 
 S_SUPPLYCAP_SUPPORT: Magasins de munitions
-STT_SUPPLYCAP_SUPPORT: Le montant de munitions que ce vaisseau peut prendre avec lui pour un raid d'attaque détaché de sa flotte. Lorsque les magasins de fournitures locales sont épuisées, le vaisseau de soutien a besoin de retourner à la flotte pour ravitailler avant le prochain raid.
+STT_SUPPLYCAP_SUPPORT: Le montant de munitions que ce vaisseau peut prendre avec lui pour un raid d'attaque détaché de sa flotte. Lorsque les magasins de fournitures locales sont épuisés, le vaisseau de soutien a besoin de retourner à la flotte pour ravitailler avant le prochain raid.
 
 S_SUPPORTCAP: Commandement
 STT_SUPPORTCAP: La somme de vaisseau de soutien que vous pouvez commander.
@@ -144,14 +144,14 @@ STT_CargoStorage: Utilisé pour stocker les multiples types de matières, princi
 S_MiningRate: Taux d'extraction
 STT_MiningRate: Le taux auquel le laser minier de ce vaisseau peut miner les astéroïdes et mettre le minerai dans la cargaison.
 
-S_LaborIncome: Génération main d'oeuvre
+S_LaborIncome: Génération main d'œuvre
 STT_LaborIncome: La quantité de main-d'œuvre produite par minute par les baies de construction de ce vaisseau.
 
 S_OreProcessRate: Traitement du minerai
 STT_OreProcessRate: Le minerai a stocké et extrait par ce vaisseau est traité par la main-d'œuvre à ce taux.
 
-S_LaborProcessRate: Traitement du rendement de main d'oeuvre
-STT_LaborProcessRate: La quantité de main d'oeuvre accumulé généré lorsque suffisamment de minerai est disponible pour fournir le taux de traitement complet du minerai.
+S_LaborProcessRate: Traitement du rendement de main d'œuvre
+STT_LaborProcessRate: La quantité de main d'œuvre accumulé généré lorsque suffisamment de minerai est disponible pour fournir le taux de traitement complet du minerai.
 
 S_OreCost: Coût de minerai
 STT_OreCost: Lors de la construction de ce vaisseau, le minerai extrait des astéroïdes doit être dépensé du stockage local.
@@ -175,7 +175,7 @@ S_DR: Résistance aux dégâts
 S_DamageThreshold: Seuil de dégâts
 S_SUPPLYCOST: Approvisionnement
 S_BUILDCOST: Coût
-S_LABORCOST: Coût main d'oeuvre
+S_LABORCOST: Coût main d'œuvre
 S_RESUPPLY: Réapprovisionnement
 S_ENERGYCOST: Coût en énergie
 S_COST_FACTOR: Facteur de coût
