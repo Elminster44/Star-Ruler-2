@@ -6,9 +6,9 @@ BCAT_Infrastructure: Infrastructure
 
 CANNOT_BUILD_CONFLICT: Vous ne pouvez pas construire, $1 présent.
 
-BLD_TT_AFFINITY_BUILD: [img=$4;22]Coût de construction réduit sur [color=$2]$3[/color] biomes.[/img]
-BLD_TT_AFFINITY_MAINT: [img=$4;22]Réduction de la maintenance sur [color=$2]$3[/color] biomes.[/img]
-BLD_TT_AFFINITY_BUILD_NEG: [img=$4;22][color=#f00]Coût de construction accrue sur [b]sous-développé[/b] [color=$2]$3[/color] biomes.[/color][/img]
+BLD_TT_AFFINITY_BUILD: [img=$4;22]Coût de construction réduit sur écosystèmes [color=$2]$3[/color] .[/img]
+BLD_TT_AFFINITY_MAINT: [img=$4;22]Réduction de la maintenance sur écosystèmes [color=$2]$3[/color].[/img]
+BLD_TT_AFFINITY_BUILD_NEG: [img=$4;22][color=#f00]Coût de construction accrue sur écosystèmes [b]sous-développé[/b] [color=$2]$3[/color].[/color][/img]
 BLD_TT_AFFINITY_MAINT_NEG: [img=$4;22][color=#f00]Maintenance accrue des écosystèmes [b]sous-développé[/b] [color=$2]$3[/color].[/color][/img]
 BLD_TT_DEV: [i][color=#aaa]Les bâtiments ont réduit le coût de construction et d'entretien  des cases [b]développées[/b] .[/color][/i]
 BLD_TT_SIZE: [b]Taille:[/b] [offset=120]$1x$2[/offset]
