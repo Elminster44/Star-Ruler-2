@@ -31,7 +31,7 @@ ABL_OVERCHARGE_FLEET: Équipe la cellule énergétique
 ABL_OVERCHARGE_FLEET_DESC: <<|
 	Accroît l'efficacité de la flotte ciblée de 50%.
 	
-	Une seule cellule peut être équipé par la flotte.
+	Une seule cellule peut être équipée par la flotte.
 	La cellule énergétique à une grande chance d'être laissé intacte lorsque le vaisseau amiral est détruit
 >>
 STATUS_POWER_CELL: Cellule énergétique
@@ -43,7 +43,7 @@ STATUS_POWER_CELL_DESC: <<|
 >>
 
 ART_NATURE_DEVICE: Arcologie
-ART_ARCOLOGY_DESC: Un habitat orbitale abandonné qui peut être déplacé vers une planète pour augmenter la population maximale.
+ART_ARCOLOGY_DESC: Un habitat orbital abandonné qui peut être déplacé vers une planète pour augmenter la population maximale.
 ABL_DEVELOP_PLANET: Déplacer l'Arcologie
 ABL_DEVELOP_PLANET_DESC: <<|
 	Augmente la population maximale sur la planète ciblée de 10.
@@ -80,7 +80,7 @@ ABL_SPAWN_SPY_PROBE_DESC: <<
 	Réactiver la sonde d'espionnage en sommeil.
 >>
 STATUS_SPY_PROBE: Sonde d'espionnage
-STATUS_SPY_PROBE_DESC: Ce navire est une ancienne sonde d'espionnage rénové, et elle a collecté des renseignements pour un empire. Il est impossible de dire quelle empire a envoyé la sonde.
+STATUS_SPY_PROBE_DESC: Ce navire est une ancienne sonde d'espionnage rénové, et elle a collecté des renseignements pour un empire. Il est impossible de dire quel empire a envoyé la sonde.
 ABL_GAIN_LEVERAGE: Gain d'influence
 ABL_GAIN_LEVERAGE_DESC: <<|
 	Donne des cartes d'influence contre tous les empires qui contrôlent les planètes 
@@ -94,7 +94,7 @@ ABL_ANCIENT_EMBASSY_DESC: <<|
 >>
 
 ART_GENESIS_DEVICE: Périphérique de genèse
-ART_GENESIS_DEVICE_DESC: Un dispositif de terraformation qui peut changer les ressources natives d'une planète en une ressources aléatoire de niveau 2.
+ART_GENESIS_DEVICE_DESC: Un dispositif de terraformation qui peut changer les ressources natives d'une planète en une ressource aléatoire de niveau 2.
 ABL_GENESIS_DEVICE: Terraformation de la planète
 ABL_GENESIS_DEVICE_DESC: <<|
 	Terraforme instantanément la planète ciblée en une ressource aléatoire de niveau 2.
@@ -210,7 +210,7 @@ STATUS_ION_CANNON: Canon à Ion
 STATUS_ION_CANNON_DESC: Ce vaisseau amiral est équipé du Canon à Ion. Utiliser un canon à ion empêche temporairement le vaisseau ciblé de se déplacer ou d'utiliser le FTL.
 ABL_ION_CANNON: Tirer avec le canon à ion
 ABL_ION_CANNON_DESC: <<
-	Tirer avec le canon à ion équipé sur un vaisseau amiral ennemie ciblé. Il sera incapable de bouger ou d'utiliser son FTL pour un temps après avoir été touché.
+	Tirer avec le canon à ion équipé sur un vaisseau amiral ennemi ciblé. Il sera incapable de bouger ou d'utiliser son FTL pour un temps après avoir été touché.
 	
 	Le Canon à Ion coûte plus d'énergie pour se déclencher si le vaisseau ennemi est plus grand que le vaisseau équipé du canon.
 >>
@@ -256,7 +256,7 @@ ABL_SUPPORT_BEAM_DESC: <<
 STATUS_CONSTRUCTING: Construire...
 STATUS_SUPPORTED: Soutenu
 STATUS_SUPPORTED_DESC: <<
-	Cette flotte est soutenu par un rayon de soutien.
+	Cette flotte est soutenue par un rayon de soutien.
 
 	Le rayon de soutien répare le vaisseau amiral de la flotte ciblé de 1% de son HP par seconde, réapprovisionne le vaisseau amiral de 1% de sa capacité totale d'approvisionnement par seconde, même au combat, et améliore la force de la flotte de 20%, pendant qu'il est actif.
 >>
@@ -271,7 +271,7 @@ ABL_ADD_FLOATING_CONTINENT: Revendication Continent flottant
 ABL_ADD_FLOATING_CONTINENT_DESC: <<
 	Revendiquer un continent flottant et l'attacher à l'une de vos planètes en construction.
 
-	Le coût en l'énergies dépend de la distance, le continent flottant et tous les bâtiments qui s'y trouvent peuvent être déplacés vers une autre de vos planètes.
+	Le coût en énergie dépend de la distance, le continent flottant et tous les bâtiments qui s'y trouvent peuvent être déplacés vers une autre de vos planètes.
 >>
 ABL_TRANSFER_FLOATING_CONTINENT: Déplacez Continent flottant
 ABL_TRANSFER_FLOATING_CONTINENT_DESC: <<
@@ -279,5 +279,5 @@ ABL_TRANSFER_FLOATING_CONTINENT_DESC: <<
 
 	Le coût en énergies pour déplacer le continent flottant dépend de la distance entre les deux planètes.
 
-	Cette capacité ne peut être activé si la planète où se situe le continent flottant est actuellement en état de siège.
+	Cette capacité ne peut être activée si la planète où se situe le continent flottant est actuellement en état de siège.
 >>
