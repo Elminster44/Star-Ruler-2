@@ -1,7 +1,7 @@
 # Star-Ruler-2
 Traduction FR
 
-Statut : *Phase 2 (quelques lignes restent en anglais car codé en dur dans le jeu et non dans les fichiers de localisation)
+Statut : *Phase 2 et 3 (quelques lignes restent en anglais car codé en dur dans le jeu et non dans les fichiers de localisation)
   - sous-sytèmes
     - Armes : Carpet Bomb, Rocket Pod, Torpedo Launcher
     - Propulsion : Hyperdrive
