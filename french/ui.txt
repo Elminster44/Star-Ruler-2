@@ -39,7 +39,7 @@ BUILT_NOTIFICATION: $1 a été construit.
 BUILT_AT_NOTIFICATION: $1 été construit a $2.
 BUILT_ON_NOTIFICATION: $1 été construit sur $2.
 
-QUEUE_SIZE: $1 ajouter dans la file
+QUEUE_SIZE: $1 ajouté dans la file
 BUILDING_THING: Construction $1 ($2%)
 BUILDING_NOTHING: Rien en construction
 
@@ -127,7 +127,7 @@ FREE_RESOURCES: Ressources inutilisés
 DISABLED_RESOURCES: Ressources Hors service
 NO_POP_RESOURCES: Population insuffisante pour produire
 DECAYING_PLANETS: Planètes déclinante
-LABOR_PLANETS: Planètes/orbitales avec main d'oeuvre
+LABOR_PLANETS: Planètes/orbitales avec main d'œuvre
 COLONIZING_PLANETS: Partiellement colonisée
 INFLUENCE_STACK: Trafic d'influence
 WONDER_PLANETS: Merveilles en possession
@@ -146,7 +146,7 @@ TT_AUTO_IMPORTS: Planètes attendent actuellement [img=$3;20/] [b]$1 $2 ressourc
 OVERPRESSURE_PLANETS: Planètes plus de capacité de pression
 
 ASTEROID_UNOWNED: <<
-	Sélectionnez une planète avec de la main d'oeuvre et cliquez droit sur cet astéroïde pour construire une [b][color=#8c4ec9]Mine d'extraction[/color][/b] pour accéder à l'une des ressources.
+	Sélectionnez une planète avec de la main d'œuvre et cliquez droit sur cet astéroïde pour construire une [b][color=#8c4ec9]Mine d'extraction[/color][/b] pour accéder à l'une des ressources.
 >>
 ASTEROID_OWNED: <<
 	Cet astéroïde a une base d'exploitation minière. Si l'empire l'exploite il perd l'accès commercial, la base d'exploitation minière est retirée.
