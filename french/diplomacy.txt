@@ -2,7 +2,7 @@ DIPLOMACY: Diplomatie
 POLITICAL: Politique
 POLITICAL_STRENGTH: Force politique:
 MILITARY_STRENGTH: Force militaire:
-TERRITORY_STRENGTH: Térritoire:
+TERRITORY_STRENGTH: Territoire:
 MILITARY: Militaire
 STR_WEAK: Faible
 STR_AVERAGE: Moyen
@@ -28,9 +28,9 @@ INVITED_TO: Invitations à signer
 SURRENDER_NAME: [b][color=#f00]Assujettissement[/color][/b] de $1
 SURRENDER_OFFER: [b][color=#f00]Offre de l'assujetti[/color][/b] de $1
 SURRENDER_DEMAND: [b][color=#f00]Demande de l'assujetti[/color][/b] de $1
-SURRENDER_OPTION: Offrer votre rédition sans conditions
+SURRENDER_OPTION: Offrez votre reddition sans conditions
 PEACE_OFFER: [b][color=#0f0]Offre de paix[/color][/b] de $1
-DEMAND_SURRENDER_OPTION: Exiger leur rédition
+DEMAND_SURRENDER_OPTION: Exiger leur reddition
 OFFER_SUBJUGATE_OPTION: Offrez votre soumission
 DEMAND_SUBJUGATE_OPTION: Exiger leur soumission
 SURRENDER_PROMPT: <<|
@@ -132,8 +132,8 @@ DONATE_CARD: Donner carte
 DONATE_FLEET: Donner vaisseau
 DONATE_PLANET: Donner planète
 DONATE_ARTIFACT: Donner artefact
-OFFER_REQ_SUPPORT: Votes de soutien demandé
-OFFER_REQ_OPPOSE: Votes d'opposition demandé
+OFFER_REQ_SUPPORT: Vote de soutien demandé
+OFFER_REQ_OPPOSE: Vote d'opposition demandé
 OFFER_FOR_BTN: [center]Revendication ([b][color=#0f0]$3 / $2 soutien[/color][/b])[/center]
 OFFER_AGAINST_BTN: [center]Revendication ([b][color=#f00]$3 / $2 opposition[/color][/b])[/center]
 OFFER_TT: Une offre de $1.
@@ -180,11 +180,11 @@ INFLUENCE_TT_EFFECT: <<|
 	votre génération totale d'influence en pourcentage pendant qu'il est actif.
 >>
 INFLUENCE_TT_EVENT: <<|
-	Il s'agit d'un [b]événement d'influence[/b]. Divers effets seront actif
-	cette action est dans l'influence stack.
+	Il s'agit d'un [b]événement d'influence[/b]. Divers effets seront actifs
+	cette action est dans l'intérêt d'influence.
 >>
 INFLUENCE_TT_SUPPORT: <<|
-	C'est une [b]action de soutien[/b]. Cette action ne peut être utilisé qu'a l'intérieur
+	C'est une [b]action de soutien[/b]. Cette action ne peut être utilisée qu'à l'intérieur
 	d'un vote du Sénat galactique, et peut influencer le vote d'une façon particulière,
 	en fonction de son poids.
 >>
@@ -222,7 +222,7 @@ INFLUENCE_TT_FAIL: <<|
 	Lorsque la minuterie de vote expire et que la bar [color=#f00][b]rouge[/b][/color] est complètement remplit, la proposition est [b]rejetée[/b] et aucun de ses effets appliqués.
 >>
 INFLUENCE_TT_PASS: <<|
-	Lorsque la minuterie de vote expire et que la bar [color=#0f0][b]verte[/b][/color] est complètement remplit, la proposition est [b]passée[/b] et ses effets sont déclenchés.
+	Lorsque la minuterie de vote expire et que la barre [color=#0f0][b]verte[/b][/color] est complètement remplit, la proposition est [b]passée[/b] et ses effets sont déclenchés.
 >>
 INFLUENCE_TT_BOUGHTBY: Acheté par $1.
 
@@ -251,7 +251,7 @@ VOTES_NAY: $1 Opposition
 
 NO_VOTES: Pas de propositions actuellement actives...
 NO_EFFECTS: Aucun effet actuellement actifs...
-NO_TREATIES: Aucun traités actuels...
+NO_TREATIES: Aucun traité actuel...
 
 VOTE_LEAVE: Abandonner Negotiations
 PROMPT_LEAVE: <<|
@@ -330,7 +330,7 @@ CARD_ANNEX_SYSTEM: Annexion système
 CARD_ANNEX_SYSTEM_DESC: <<|
 	Faire pression sur le sénat galactique pour qu'il agisse, nous prétendons que les gens
 	du système seront mieux lotis sous notre règne bienveillant. Les empires qui les contrôlent
-	actuellementne ne sont pas bon pour le peuple.
+	actuellement ne sont pas bon pour le peuple.
 	
 	[i]Le coût d'influence pour jouer cette action dépend de la loyauté de la
 	planète du système cible. Si le vote créé par cette action passe,
@@ -342,7 +342,7 @@ VOTE_ANNEX_SYSTEM: Annexion système $1
 CARD_PROFITEERING: Profiteurs
 CARD_MONEY_GAIN: Argent gagné
 CARD_PROFITEERING_DESC: <<|
-	Les accords anonymes avec certaines figures civiles puissantes vous ont fait gagné
+	Les accords anonymes avec certaines figures civiles puissantes vous ont fait gagner
 	un moyen significatif de dépenser de l'argent.
 
 	[i]Vous recevrez immédiatement de l'argent suite à l'achat de cette action.[/i]
@@ -374,7 +374,7 @@ CARD_INVESTIGATE_DESC: <<|
 	Après la diffusion de rumeurs subtile des développements néfastes se produisent dans une autre
 	empire, nous offrons une pétition pour une enquête du sénat galactique sur la
 	question pour effacer ces malentendus évidents. L'enquête
-	se révéle utile pour obtenir des renseignements sur les affaires interne de
+	se révèle utile pour obtenir des renseignements sur les affaires interne de
 	l'autre empire.
 
 	[i]Si le vote créé par cette action passe, tous les empires acquerront vision
@@ -405,8 +405,8 @@ CARD_LEVERAGE_DESC: <<|
 	[i]Peut seulement être joué si $1 a voté de l'autre côté de la proposition.[/i]
 >>
 CARD_BLACKMAIL: Chantage: $1
-CARD_BLACKMAIL_LOG_Y: * $1 fait [b]Chantager[/b] $2 pour [color=#0f0]soutenir la proposition[/color].
-CARD_BLACKMAIL_LOG_N: * $1 fait [b]Chantager[/b] $2 pour [color=#f00]s'opposer à la proposition[/color].
+CARD_BLACKMAIL_LOG_Y: * $1 fait du [b]Chantage[/b] $2 pour [color=#0f0]soutenir la proposition[/color].
+CARD_BLACKMAIL_LOG_N: * $1 fait du [b]Chantage[/b] $2 pour [color=#f00]s'opposer à la proposition[/color].
 CARD_BLACKMAIL_DESC: <<|
 	Faites chanter un empire basé sur des informations précédemment rassemblées pour arrêter
 	le soutien ou l'opposition à la proposition.
@@ -454,7 +454,7 @@ CARD_CALLOUT_DESC: <<|
 	du fait qu'ils soutiennent notre cause.
 
 	[i]Lorsque le vote se termine, si l'empire cible n'a pas ajouté du poids au vote
-	après que cette carte est été joué, vous gagnez un effet de levier sur eux. Ne peut être utilisé sur
+	après que cette carte est été jouée, vous gagnez un effet de levier sur eux. Ne peut être utilisé sur
 	un empire qu'une fois par vote. Le poids de cette action est ajouté à la cible
 	pour la prochaine action de soutien de l'empire. Prolonge le vote pour assurer 
 	qu'au moins 60 secondes restent pour voter.[/i]
@@ -466,11 +466,11 @@ CARD_NAMEPLANET: Nom planète
 CARD_NAMEPLANET_DESC: <<|
 	Les planètes magnifiques méritent des noms magnifiques. En influençant le secteur
 	civil et en organisant un grand festival de nommage nous nous assurons un nouveau nom pour
-	cette planète qui va rester dans les âges. Sa reconnaissance est sûr d'apporter
+	cette planète qui va rester dans les âges. Sa reconnaissance est sûre d'apporter
 	renommée et prospérité.
 
 	[i]Renomme une planète vous appartenant. La planète reçoit en permanence 2 Population
-	Maximum et une génération de main d'oeuvre de +1 . Les planètes ne peuvent être renommés qu'une fois. Chaque
+	Maximum et une génération de main d'œuvre de +1. Les planètes ne peuvent être renommées qu'une fois. Chaque
 	qualité supplémentaire augmente la population maximale ajoutée de 1.[/i]
 >>
 NAMEPLANET_NOTIFY: $1 ont glorieusement renommé [b]$3[/b].
@@ -505,7 +505,7 @@ NAMEFLAGSHIP_NOTIFY: $1 ont baptisé leur puissant vaisseau amiral $3.
 
 CARD_PROTECT_SYSTEM: Protection du système
 CARD_PROTECT_SYSTEM_DESC: <<|
-	Citant des raisons humanitaires critiques, nous avont convaincu le Sénat Galactique
+	Citant des raisons humanitaires critiques, nous avons convaincu le Sénat Galactique
 	de déclarer les planètes de notre système sous protection et de prévenir tout empire
 	de tenter de les vaincre par la force.
 
@@ -518,14 +518,14 @@ PROTECT_SYSTEM_NOTIFY: $1 ont déclaré $3 comme système protégé.
 
 CARD_UPRISING: Montée Patriotique
 CARD_UPRISING_DESC: <<|
-	Les gens sont resté inactif pendant trop longtemps. Pirates, envahisseurs, des astéroïdes menaçants.
+	Les gens sont restés inactif pendant trop longtemps. Pirates, envahisseurs, des astéroïdes menaçants.
 	Que leurs faut-il pour prendre les armes pour leur propre bien ?!
 	Il est maintenant temps d'agir !
 
 	[i]Inspirez la population d'une planète cible à monter leur propre
-	milices pour leur défense. Rétablit 5 Fidélité et crée 25 valeurs de main d'oeuvre
+	milices pour leur défense. Rétablit 5 Fidélité et crée 25 valeurs de main d'œuvre
 	pour les vaisseaux de défense. Chaque qualité supplémentaire augmente la quantité de vaisseaux de
-	défense créés par 25 Main d'oeuvre.[/i]
+	défense créés par 25 Main d'œuvre.[/i]
 >>
 CARD_CULTIVATION: Culture
 CARD_CULTIVATION_DESC: <<|
@@ -533,7 +533,7 @@ CARD_CULTIVATION_DESC: <<|
 	tenir compte de l'introduction et de la culture des espèces entièrement nouvelles de
 	fruit, perfectionné à croître dans les conditions spécifiques de cette planète.
 
-	[i]La planète cilbe vous appartenant gagne un fruit natif.[/i]
+	[i]La planète cible vous appartenant gagne un fruit natif.[/i]
 >>
 CARD_ENHANCE: Améliorer
 CARD_ENHANCE_DESC: <<|
@@ -576,10 +576,10 @@ CARD_INTELLIGENCE_DESC: <<|
 	[b]Le soutien ajouté par cette carte est anonyme et on ne peut pas remonter jusqu'à vous.[/b]
 
 	[i]Ne peut être joué si $1 a voté sur le côté opposé de la proposition.
-	Chaque renseignement ultérieures contre le même empire joué dans le même vote perd 2 poids.
+	Chaque renseignement ultérieur contre le même empire joué dans le même vote perd 2 poids.
 	
 	Vous pouvez seulement avoir 3 Renseignements environ sur un empire à tout moment. Sinon
-	les renseignements sont généré activement, vos renseignements existants
+	les renseignements sont générés activement, vos renseignements existants
 	expireront au fil du temps.[/i]
 >>
 CARD_PROMISES: Promesses
@@ -610,7 +610,7 @@ CARD_CLAIM_ARTIFACT_DESC: <<|
 	pour l'obtenir et le sauvegarder des abus.
 
 	[i]Si le vote réussit, l'artefact ciblé est déplacé vers un système dans votre
-	empire et vous serez mainenant capable de l'utiliser.[/i]
+	empire et vous serez maintenant capable de l'utiliser.[/i]
 >>
 VOTE_CLAIM_ARTIFACT: Revendication Artefact: $1
 
@@ -751,9 +751,9 @@ ZEITGEIST_ENERGY: Air du temps: Puissance
 ZEITGEIST_ENERGY_DESC: <<
 	[b]Air du temps effet[/b]
 
-	Si le vote passe, le taux de production d'énergie de tous les empires sera augmenté de 25%, et tous les empires seront en mesure de construire des moteurs solaires orbitales pour générer plus d'énergie.
+	Si le vote passe, le taux de production d'énergie de tous les empires sera augmenté de 25%, et tous les empires seront en mesure de construire des moteurs solaires orbitaux pour générer plus d'énergie.
 
-	[img=QuickbarIcons::6;32]Si le vote passe, l'empire le plus favorable recevra un bonus de [b]+2 energie par seconde[/b] du taux de génération de base tant que cette Air du temps est active.[/img]
+	[img=QuickbarIcons::6;32]Si le vote passe, l'empire le plus favorable recevra un bonus de [b]+2 énergie par seconde[/b] du taux de génération de base tant que cette Air du temps est active.[/img]
 	[img=QuickbarIcons::3;32]Si le vote échoue, l'empire le plus adverse recevra un bonus instantané de [b]Â§800k fonds spéciaux[/b].[/img]
 	[i]Un seul effet Air du temps peut être actif en même temps. L'adoption d'une nouvelle Air du temps permettra d'éliminer tout celles précédemment active.[/i]
 >>
@@ -797,7 +797,7 @@ ZEITGEIST_ART: Air du temps: Art
 ZEITGEIST_ART_DESC: <<
 	[b]Air du temps effet[/b]
 
-	Temps que cette Air du temps est active, tous les empires seront en mesure de construire des musées sur leurs planètes. Les Musées ont un coût de main d'oeuvre, mais donnent un bonus instantané de 10 influence quand ils sont construits.
+	Temps que cette Air du temps est active, tous les empires seront en mesure de construire des musées sur leurs planètes. Les Musées ont un coût de main d'œuvre, mais donnent un bonus instantané de 10 influences quand ils sont construits.
 
 	[img=QuickbarIcons::6;32]Si le vote passe, l'empire le plus favorable recevra [b]+20% Génération d'influence[/b] tant que cette Air du temps est active.[/img]
 	[img=QuickbarIcons::3;32]Si le vote échoue, l'empire le plus adverse recevra un bonus instantané de [b]800 recherche[/b].[/img]
@@ -810,7 +810,7 @@ CLAUSE_VISION_DESC: <<|
 >>
 CLAUSE_TRADE: Accord commercial
 CLAUSE_TRADE_DESC: <<|
-	Les empires qui ont signé ce traité permettent les échanges civile dans les voisins
+	Les empires qui ont signé ce traité permettent les échanges civils dans les voisins
 	les uns des autres, autorisant l'exportation des ressources avec d'autres
 	territoires des signataires.
 >>
@@ -826,7 +826,7 @@ CLAUSE_CONST_DESC: <<|
 >>
 CLAUSE_SUBJUGATE: Assujettissement
 CLAUSE_SUBJUGATE_DESC: <<|
-	Les empires assujetti deviennent vassaux de leurs empires parents. Les empires vassaux
+	Les empires assujettis deviennent vassaux de leurs empires parents. Les empires vassaux
 	ne peuvent pas signer de traités, et sont en guerre avec les empires ennemi de leur
 	empire parent.
 
