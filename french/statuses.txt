@@ -8,7 +8,7 @@ STATUS_STARTING_PROTECTION: Établissement de protection
 STATUS_STARTING_PROTECTION_DESC: La protection complète de fidélité pour les planètes dans ce système est encore en cours de création. Il lui faudra du temps pour devenir actif.
 
 STATUS_BLOCKED_COLONIZATION: Colonisation bloquée
-STATUS_BLOCKED_COLONIZATION_DESC: Cette planète ne peut pas être colonisé en raison de vestiges invaincus dans le système.
+STATUS_BLOCKED_COLONIZATION_DESC: Cette planète ne peut pas être colonisée en raison de vestiges invaincus dans le système.
 
 STATUS_LIMITED_SIGHT: Vision limitée
 STATUS_LIMITED_SIGHT_DESC: La nébuleuse dans ce système limite le champ de vision.
