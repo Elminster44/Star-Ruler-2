@@ -9,8 +9,8 @@ CANNOT_BUILD_CONFLICT: Vous ne pouvez pas construire, $1 présent.
 BLD_TT_AFFINITY_BUILD: [img=$4;22]Coût de construction réduit sur [color=$2]$3[/color] biomes.[/img]
 BLD_TT_AFFINITY_MAINT: [img=$4;22]Réduction de la maintenance sur [color=$2]$3[/color] biomes.[/img]
 BLD_TT_AFFINITY_BUILD_NEG: [img=$4;22][color=#f00]Coût de construction accrue sur [b]sous-développé[/b] [color=$2]$3[/color] biomes.[/color][/img]
-BLD_TT_AFFINITY_MAINT_NEG: [img=$4;22][color=#f00]Maintenance accrue sur [b]sous-développé[/b] [color=$2]$3[/color] biomes.[/color][/img]
-BLD_TT_DEV: [i][color=#aaa]Les bâtiments ont réduit le coût de construction et d'entretien [b]développé[/b] tiles.[/color][/i]
+BLD_TT_AFFINITY_MAINT_NEG: [img=$4;22][color=#f00]Maintenance accrue des écosystèmes [b]sous-développé[/b] [color=$2]$3[/color].[/color][/img]
+BLD_TT_DEV: [i][color=#aaa]Les bâtiments ont réduit le coût de construction et d'entretien  des cases [b]développées[/b] .[/color][/i]
 BLD_TT_SIZE: [b]Taille:[/b] [offset=120]$1x$2[/offset]
 BLD_TT_COST: [b]Coût de base:[/b] [offset=120]$1[/offset]
 
@@ -26,7 +26,7 @@ BLD_BASE_DESC: <<
 BLD_BAZAAR: Bazaar
 BLD_BAZAAR_DESC: <<
 	Mises à jour du marché.
-	Fabrique §110k par cycle budgétaire. Utilise 2 pression d'argent.
+	Fabrique §110k par cycle budgétaire. Utilise 2 pressions d'argent.
 
 	[img=$Money;22/] [bbloc=#PRESSURE_Money/]
 
@@ -36,7 +36,7 @@ BLD_BAZAAR_DESC: <<
 BLD_BROADCAST: Centre de diffusion
 BLD_BROADCAST_DESC: <<
 	Mises à jour du Centre Médiatique.
-	Subventionne 1.5 enjeu d'influence. Utilise 2 pression d'influence.
+	Subventionne 1.5 enjeu d'influence. Utilise 2 pressions d'influence.
 
 	[img=$Influence;22/] [bbloc=#PRESSURE_Influence/]
 
@@ -51,7 +51,7 @@ BLD_CITY_DESC: <<
 BLD_ENTERPRISE: Enterprise
 BLD_ENTERPRISE_DESC: <<
 	Mises à niveau de l'industrie.
-	Produit 3 main-d'œuvre par minute. Utilise 4 pression de main d'oeuvre.
+	Produit 3 main-d'œuvre par minute. Utilise 4 pressions de main d'œuvre.
 
 	[img=$Labor;22/] [bbloc=#PRESSURE_Labor/]
 
@@ -60,7 +60,7 @@ BLD_ENTERPRISE_DESC: <<
 
 BLD_FACTORY: Usine
 BLD_FACTORY_DESC: <<
-	Ajoute la génération de main d'oeuvre à la planète.
+	Ajoute la génération de main d'œuvre à la planète.
 >>
 
 BLD_FTLSTORE: Stockage FTL 
@@ -80,7 +80,7 @@ BLD_FARM_DESC: <<
 	Produit une ressource alimentaire de base non exportable.
 >>
 
-BLD_HYDROGENATOR: Hydrogenator
+BLD_HYDROGENATOR: Générateur d'hydrogène
 BLD_HYDROGENATOR_DESC: <<
 	Produit une ressource en eau de base non exportable.
 >>
@@ -96,7 +96,7 @@ BLD_GENERATOR_DESC: <<
 
 BLD_INDUSTRY: Industrie
 BLD_INDUSTRY_DESC: <<
-	Produit 2 main-d'œuvre par minute. Utilise 2 pression de main d'oeuvre.
+	Produit 2 main-d'œuvre par minute. Utilise 2 pressions de main d'œuvre.
 
 	[img=$Labor;22/] [bbloc=#PRESSURE_Labor/]
 
@@ -106,7 +106,7 @@ BLD_INDUSTRY_DESC: <<
 BLD_LAUNCHPAD: Rampe de lancement
 BLD_LAUNCHPAD_DESC: <<
 	Améliorations des Bases.
-	Produit 1.5 défense/minute. Utilise 2 pression de défense.
+	Produit 1.5 défense/minute. Utilise 2 pressions de défense.
 
 	[img=$Defense;22/] [bbloc=#PRESSURE_Defense/]
 
@@ -134,7 +134,7 @@ BLD_MEDIACENTER_DESC: <<
 BLD_POWERPLANT: Centrale électrique
 BLD_POWERPLANT_DESC: <<
 	Améliorations de Générateur.
-	Produit un revenu d'énergie dépendant de votre taux de pénalité de stockage de l'énergie. Utilise 2 pression d'énergie.
+	Produit un revenu d'énergie dépendant de votre taux de pénalité de stockage de l'énergie. Utilise 2 pressions d'énergie.
 
 	[img=$Energy;22/] [bbloc=#PRESSURE_Energy/]
 
@@ -152,7 +152,7 @@ BLD_RESEARCHCOMPLEX_DESC: <<
 BLD_TECHCENTER: Centre Technologique
 BLD_TECHCENTER_DESC: <<
 	Améliorations d'Université.
-	Donne une génération de recherche. Utilise 2 pression de recherche.
+	Donne une génération de recherche. Utilise 2 pressions de recherche.
 
 	[img=$Research;22/] [bbloc=#PRESSURE_Research/]
 
@@ -171,7 +171,7 @@ BLD_UNIVERSITY_DESC: <<
 
 BLD_FORGE: Forge
 BLD_FORGE_DESC: <<|
-	Augmente la génération de main d'oeuvre de 25%.
+	Augmente la génération de main d'œuvre de 25%.
 
 	Plus vous construisez de Forge, plus elles deviennent grande et plus cher.
 >>
@@ -182,7 +182,7 @@ BLD_DEFENSE_GRID: Réseau de Défense Planétaire
 BLD_DEFENSE_GRID_DESC: <<|
 	Un champ massif de silos de missile situés sur la surface de la planète, capable de tirer sur des flottes ennemies voisines.
 	
-	Le réseau est composée de 10 lance-missiles totalisant 250 DPS avec 450 de portée.
+	Le réseau est composé de 10 lance-missiles totalisant 250 DPS avec 450 de portée.
 
 	[i]S'il y a des flottes ennemies en orbite et que vous n'avez pas de vaisseaux de soutien restants pour protéger le système de guidage satellite, les silos de missile sont mis hors de service.[/i]
 >>
@@ -197,9 +197,9 @@ BLD_PLANET_CANNON_DESC: <<|
 
 BLD_WAREHOUSE: Entrepôt
 BLD_WAREHOUSE_DESC: <<|
-	Ajoute 100 Stockage de main d'oeuvre.
+	Ajoute 100 Stockage de main d'œuvre.
 
-	Le stockage de main d'oeuvre se remplit si vous ne construisez rien , et se vide lors de lancement de construction.
+	Le stockage de main d'œuvre se remplit si vous ne construisez rien, et se vide lors de lancement de construction.
 >>
 
 BLD_METROPOLIS: Métropole
@@ -258,7 +258,7 @@ BLD_FTLBREEDER_DESC: <<
 
 BLD_SPACE_ELEVATOR: Ascenseur spatial
 BLD_SPACE_ELEVATOR_DESC: <<
-	Une attache de ruban verticale dans l'espace peut être utilisé pour augmenter de manière significative l'efficacité du transport des matériaux dans l'espace.
+	Une attache de ruban verticale dans l'espace peut être utilisée pour augmenter de manière significative l'efficacité du transport des matériaux dans l'espace.
 
 	Augmente la vitesse de construction des vaisseaux de soutien sur cette planète de 40%.
 
