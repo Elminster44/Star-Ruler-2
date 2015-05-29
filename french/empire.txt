@@ -19,7 +19,7 @@ CUSTOMIZE_RACE: Personnalisez Race
 LOAD_CUSTOM_RACE: Chargez Race personnalisée
 RACE_OVERVIEW: Vue d'ensemble
 TRAITS: Traits
-NO_TRAITS: Aucun traits choisis...
+NO_TRAITS: Aucuns traits choisis...
 CONFLICTS: Conflits:
 RACE_IS_HARD: Non recommandé pour les débutants.
 
@@ -152,7 +152,7 @@ TRAIT_MANIFEST_DESTINY_DESC: <<|
 
 TRAIT_MILITARY_INDUSTRIAL_COMPLEX: Complexe militaro-industriel
 TRAIT_MILITARY_INDUSTRIAL_COMPLEX_DESC: <<|
-	Nous avons longtemps tenu des armées permanentes; cela continue d'être le cas. Commencez avec 50 main dd'oeuvre
+	Nous avons longtemps tenu des armées permanentes; cela continue d'être le cas. Commencez avec 50 mains d'œuvre
 	à bord des vaisseaux de soutien.
 >>
 
@@ -173,12 +173,12 @@ TRAIT_VIRILE_DESC: <<|
 
 TRAIT_SEDENTARY: Sédentaire
 TRAIT_SEDENTARY_DESC: <<|
-	Le secteur du bâtiment est 30% plus lent. Applicable aux civils ainsi que les infrastructures impériale.
+	Le secteur du bâtiment est 30% plus lent. Applicable aux civils ainsi que les infrastructures impériales.
 >>
 
 TRAIT_SUBLIGHT: Sous-lumière
 TRAIT_SUBLIGHT_DESC: <<|
-	Nous avons pas découvert tous les moyens pour briser la barrière de la vitesse de la lumière. Pas d'impulsion FTL, de génération FTL, ou de stockage FTL.
+	Nous n’avons pas découvert tous les moyens pour briser la barrière de la vitesse de la lumière. Pas d'impulsion FTL, de génération FTL, ou de stockage FTL.
 >>
 
 TRAIT_PIOUS: Tendance: Pieux
@@ -188,7 +188,7 @@ TRAIT_PIOUS_DESC: <<|
 
 TRAIT_SPACE_PROGRAM: Programme spatial
 TRAIT_SPACE_PROGRAM_DESC: <<|
-	Nous avons examiné notre environnement pendant des décennies. Les systèmes voisins sont pré-repéré au début du jeu.
+	Nous avons examiné notre environnement pendant des décennies. Les systèmes voisins sont pré-repérés au début du jeu.
 >>
 
 TRAIT_REVOLUTIONARIES: Révolutionnaires
@@ -198,22 +198,22 @@ TRAIT_REVOLUTIONARIES_DESC: <<|
 
 TRAIT_EMPATHIC: Apathique
 TRAIT_EMPATHIC_DESC: <<|
-	Nous exerçons notre capacité de sentir l'émotion comme un guerrier manie une épée. Les valeurs des cartes effet de levier et de négociation sont doublés lorsque vous les jouez.
+	Nous exerçons notre capacité de sentir l'émotion comme un guerrier manie une épée. Les valeurs des cartes effet de levier et de négociation sont doublées lorsque vous les jouez.
 >>
 
 TRAIT_CHARISMATIC: Charismatique
 TRAIT_CHARISMATIC_DESC: <<|
-	Les votes ouvert par votre empire commencent par 3 Soutien au lieu de 1.
+	Les votes ouverts par votre empire commencent par 3 Soutien au lieu de 1.
 >>
 
-TRAIT_SOCIAL_PARANOIA: Paranoia sociale
+TRAIT_SOCIAL_PARANOIA: Paranoïa sociale
 TRAIT_SOCIAL_PARANOIA_DESC: <<|
-	Notre paranoïa sociale a tendance à travailler contre nous avec d'autres races. Les propositions que vous commencez débutent avec 3 soutien de moins.
+	Notre paranoïa sociale a tendance à travailler contre nous avec d'autres races. Les propositions que vous commencez débutent avec 3 soutiens de moins.
 >>
 
 TRAIT_EUPHORIC: Euphorique
 TRAIT_EUPHORIC_DESC: <<|
-	Nous allons sur une vague infinie d'euphorie, ensemble. Toutes planètes Niveau 2+ sont heureuse.
+	Nous allons sur une vague infinie d'euphorie, ensemble. Toutes planètes Niveau 2+ sont heureuses.
 >>
 
 TRAIT_GENEROUS: Généreux
@@ -223,7 +223,7 @@ TRAIT_GENEROUS_DESC: <<|
 
 TRAIT_RED_TAPE: Bureaucratie
 TRAIT_RED_TAPE_DESC: <<|
-	Les joyaux de notre influence politique sont souvent enterrés sous le poids de la paperasserie de notre administration. Toute les six minutes vous détenez une carte qui réduit la qualité de cette carte par 1.
+	Les joyaux de notre influence politique sont souvent enterrés sous le poids de la paperasserie de notre administration. Toutes les six minutes vous détenez une carte qui réduit la qualité de cette carte par 1.
 >>
 
 TRAIT_WAR_MINDED: Disposition à la guerre
@@ -273,7 +273,7 @@ TRAIT_PRIDEFUL_DESC: <<
 
 TRAIT_WORKSHOP: Ancien atelier
 TRAIT_WORKSHOP_DESC: <<
-	Votre système natal commence avec 6 artefacts aléatoires. Les artefacts dans votre système coûtent 25% de moins en énergie pour les activer. L'orbitale moteur solaire peut toujours être construit.
+	Votre système natal commence avec 6 artefacts aléatoires. Les artefacts dans votre système coûtent 25% de moins en énergie pour les activer. Le moteur solaire peut toujours être construit.
 >>
 
 TRAIT_MOON_BASE: Base lunaire
@@ -307,7 +307,7 @@ V_RANKINGS: Classements
 V_SCORES: Scores
 
 STAT_PLANETS: Planètes
-STAT_SHIPS: Vaisseaus amiraux
+STAT_SHIPS: Vaisseaux amiraux
 STAT_STRENGTH: Militaire
 STAT_BUDGET: Budget
 STAT_ENERGY: Energie
@@ -361,7 +361,7 @@ TRAIT_STAR_CHILDREN_DESC: <<|
 	[vspace=3/] [img=ResourceIcon::8;22]Population ne grandit que sur des [b]Vaisseaux mère[/b] géants qui ont les capacités de construction.[/img]
 	[vspace=3/][img=ActionBarIcons::1;22]Les vaisseaux mère peuvent déplacer la population sur des [b]Habitats[/b] orbitale autour des planètes, pour les laisser utiliser les ressources de la planète.[/img]
 	[vspace=3/][img=BuildingSprites::0;22]Ne [b]peut pas[/b] utiliser les surfaces planétaires en aucune façon. Les planètes ne peuvent rien construire.[/img]
-	[vspace=3/][img=ResourceIcon::6;22]Les ressources sont produites en orbite, auncun capacité de pression n'est nécessaire. Les vaisseaux mère en orbite d'une planète gagnent automatiquement le revenu du travail de cette planète.[/img]
+	[vspace=3/][img=ResourceIcon::6;22]Les ressources sont produites en orbite, aucune capacité de pression n'est nécessaire. Les vaisseaux mère en orbite d'une planète gagnent automatiquement le revenu du travail de cette planète.[/img]
 >>
 
 TRAIT_RANDOM_GOVERNMENT: Aléatoire (Gouvernement)
@@ -385,11 +385,11 @@ TRAIT_RANDOM_LIFESTYLE_DESC: <<
 	Vous recevrez un bonus de [b][color=#8c4ec9]+1 Recherche par seconde[/color][/b].
 >>
 
-STATUS_MOTHERSHIP_POPULATION: Vaiseau mère
+STATUS_MOTHERSHIP_POPULATION: Vaisseau mère
 STATUS_MOTHERSHIP_POPULATION_DESC: <<
 	Ceci est un vaisseau-mère, et contient actuellement de la population. Et transporte actuellement la population.
 
-	Vaisseau mère peut construire des choses avec la main-d'œuvre. Lorsqu'en orbite autour d'une planète avec la main d'oeuvre, il gagne de la main d'oeuvre.
+	Vaisseau mère peut construire des choses avec la main-d'œuvre. Lorsqu'en orbite autour d'une planète avec la main d'œuvre, il gagne de la main d'œuvre.
 
 	Les ressources planétaires peuvent être exploitées par la construction d'habitats autour des planètes pour décharger la population.
 
@@ -405,7 +405,7 @@ S_MOTHERSHIP_HULL:  Coque vaisseau mère
 S_MOTHERSHIP_HULL_DESC: <<
 	Les vaisseaux mère transporte et développe la population.
 
-	Vaisseau mère peut construire des choses avec la main-d'œuvre. Lorsqu'en orbite autour d'une planète avec la main d'oeuvre, il gagne de la main d'oeuvre.
+	Vaisseau mère peut construire des choses avec la main-d'œuvre. Lorsqu'en orbite autour d'une planète avec la main d'œuvre, il gagne de la main d'œuvre.
 
 	Les ressources planétaires peuvent être exploitées par la construction d'habitats autour des planètes pour décharger la population.
 
@@ -423,11 +423,11 @@ ABL_MOTHERSHIP_COLONIZE_DESC: <<
 >>
 R_IMP_MOTHERSHIP_LABOR: Métallurgie
 R_IMP_MOTHERSHIP_LABOR2: Métallurgie 2
-R_IMP_MOTHERSHIP_LABOR_BLURB: Main d'oeuvre vaisseau mère +$1
+R_IMP_MOTHERSHIP_LABOR_BLURB: Main d'œuvre vaisseau mère +$1
 R_IMP_MOTHERSHIP_LABOR_DESC: <<
 	Augmente la main-d'œuvre disponible sur les vaisseaux mère de $1.
 
-	[color=#0087c7][b]Débloquage alternatif:[/b]Dépensez $2 points d'influence.[/color]
+	[color=#0087c7][b]Déblocage alternatif:[/b]Dépensez $2 points d'influence.[/color]
 >>
 R_IMP_HABITAT: Habitation
 R_IMP_HABITAT_BLURB: Force d'habitat +$1
@@ -450,14 +450,14 @@ BLD_STALK_DESC: <<
 
 	Doit être construit pour qu'une planète face usage de la pression.
 >>
-BLD_MOTHER_STALK: TIge mère
+BLD_MOTHER_STALK: Tige mère
 BLD_MOTHER_STALK_DESC: <<
 	La source de toute vie verdoyant. La tige de la mère nous soutient.
 >>
 
 ABL_MECHANOID_COLONIZE: Transfert 1M Population
 ABL_MECHANOID_COLONIZE_DESC: <<
-	Transfert 1M population de cette planète à l'autre. Le transfert de population coûte de l'énergie FTL, Mais peut être fait librement pour coloniser de nouvelles planètes ou approvisioner des colonies existante avec plus de population.
+	Transfert 1M population de cette planète à l'autre. Le transfert de population coûte de l'énergie FTL, Mais peut être fait librement pour coloniser de nouvelles planètes ou approvisionner des colonies existantes avec plus de population.
 >>
 MECH_BUILD_POPULATION: Construire 1M Population
 MECH_BUILD_POPULATION_DESC: <<
@@ -476,15 +476,15 @@ TRAIT_LINKED_DESC: <<|
 ORB_MAINFRAME: Unité centrale
 ORB_MAINFRAME_BLURB: Augmente la force de flottes à proximité. Peut être déplacé lentement.
 ORB_MAINFRAME_DESC: <<
-	Maintient le lien des flottes individuels au réseau collectif.
+	Maintient le lien de flottes individuelles au réseau collectif.
 
 	Les flottes près de l'unité centrale se battent avec une force accrue.
 	
 	Les flottes loin de l'unité centrale se battent avec une force considérablement affaiblie.
 
-	Les armes de l'unité centrale ne se déclenche que quand elle est en territoire allié.
+	Les armes de l'unité centrale ne se déclenchent que quand elle est en territoire allié.
 
-	L'unité centrale possède de petits propulseurs ioniques qui lui permette de se déplacer lentement.
+	L'unité centrale possède de petits propulseurs ioniques qui lui permettent de se déplacer lentement.
 >>
 ABL_REMOTE_SCAN: Analyse anomalies à distance
 ABL_REMOTE_SCAN_DESC: <<
@@ -493,9 +493,9 @@ ABL_REMOTE_SCAN_DESC: <<
 
 TRAIT_DEVOUT: Pieux
 TRAIT_DEVOUT_DESC: <<|
-	[vspace=3/] [img=ResourceIconsSmall::53;22]Le batiment [b]Autel[/b] doit être construit en nombre suffisant pour la population totale de votre empire. Ressources planétaires sacrifiées sur l'autel.[/img]
+	[vspace=3/] [img=ResourceIconsSmall::53;22]Le bâtiment [b]Autel[/b] doit être construit en nombre suffisant pour la population totale de votre empire. Ressources planétaires sacrifiées sur l'autel.[/img]
 	[vspace=6/][img=AntimatterReactor;22;#408fc1]Les vaisseaux amiraux doivent contenir [b]Sanctuaires[/b] pour que votre équipage puisse prier. Les prières protège vos navires des dommages.[/img]
-	[vspace=6/][img=AttributeIcons::3;22]Lorsque les Autels ne sont pas suffisaments construits pour votre population, vos planètes et flottes deviennent [b]impie[/b], diminuant leur production de force et ressources.[/img]
+	[vspace=6/][img=AttributeIcons::3;22]Lorsque les Autels ne sont pas suffisamment construits pour votre population, vos planètes et flottes deviennent [b]impie[/b], diminuant leur production de force et ressources.[/img]
 	[vspace=6/][img=ResourceIcon::8;22]Vos planètes ont une augmentation de 1 [b]population maximale[/b] par niveau de la planète.[/img]
 >>
 BLD_ALTAR: Autel
@@ -504,7 +504,7 @@ BLD_ALTAR_DESC: <<
 
 	Assez d'autels doivent être construits pour toute la population pieuse. Les autels soutiennent plus de population si le niveau de la planète est plus élevé et se trouve là où ils sont raccordés.
 
-	Si pas assez d'autels disponibles, tous vos flottes et planètes sans autels deviendront de plus en plus athée, conduisant à une diminution de l'efficacité et de la production.
+	Si pas assez d'autels disponibles, toutes vos flottes et planètes sans autels deviendront de plus en plus athée, conduisant à une diminution de l'efficacité et de la production.
 >>
 ALTAR: Autel
 ALTAR_DESC: Cette planète sacrifie ses ressources sur un autel.
@@ -526,7 +526,7 @@ STATUS_GODLESS_PLANET: <<
 TRAIT_EVANGELICAL: Evangélique
 TRAIT_EVANGELICAL_DESC: <<|
 	[vspace=3/] [img=GuiOrbitalIcons::0;22]Peut construire l'orbitale [b]Temple étoiles[/b].[/img]
-	[vspace=6/][img=AttributeIcons::1;22;#ffff00]Les temples etoile envoient automatiquement des [b]Missionnaires[/b] aux planètes voisines en votre possession et amicales, donnant divers avantages.[/img]
+	[vspace=6/][img=AttributeIcons::1;22;#ffff00]Les temples étoile envoient automatiquement des [b]Missionnaires[/b] aux planètes voisines en votre possession et amicales, donnant divers avantages.[/img]
 	[vspace=6/][img=GuiOrbitalIcons::0;22;#ff0000]Vous ne pouvez pas construire d'avant-poste orbitales.[/img]
 >>
 ORB_TEMPLE: Temple Etoile
@@ -542,7 +542,7 @@ ORB_TEMPLE_DESC: <<
 >>
 STATUS_EVANGELIZED: Evangélisé
 STATUS_EVANGELIZED_DESC: <<
-	Cette planète a été Evangélisée par un TEmple étoile à proximité. Il fournit 1 Intérêt d'Influence à son propriétaire.
+	Cette planète a été Evangélisée par un Temple étoile à proximité. Il fournit 1 Intérêt d'Influence à son propriétaire.
 	
 	Si le Temple Etoile a été possédé par un empire différent, cet empire gagne également 1 Intérêt d'Influence, ainsi qu' gain d'argent en bonus égal à 10% des revenus générés sur cette planète.
 
@@ -570,13 +570,13 @@ Le réacteur de navire est bonne pour trois mille ans, donner ou prendre, si nou
 Tout comme une machine à vous soucier de la redondance quand les gens sont à regarder les cadavres de leurs proches morts.
 Je lui ai dit de faire elle-même.
 
-[font=Medium]Captain's Log, September 12 - 31331(?)[/font]
+[font=Medium]Captain's Log, Septembre 12 - 31331(?)[/font]
 [hr/]Beaucoup de deuil. Beaucoup de dépression. Mercy 'préoccupé'. Je ne savais pas IA pourrait obtenir concerné. Maintenant, je suis concerné.
 
 Avec le coup de moteurs et le navire vidé pour les pièces de la colonie avait besoin de la «Mission de la Miséricorde» ne va plus nulle part. On dirait que cela est à la maison maintenant.
-Au moins ils ont gardé ma chambre prête en grande partie intact. Vous ne pouvez pas supporter l'odeur là-bas. Note to self: Égouts, pronto.
+Au moins ils ont gardé ma chambre prête en grande partie intacte. Vous ne pouvez pas supporter l'odeur là-bas. Note to self: Égouts, pronto.
 
-[font=Medium]Captain's Log, November 4 - 1[/font]
+[font=Medium]Captain's Log, Novembre 4 - 1[/font]
 [hr/]Je me suis fixé l'horloge de l'année à 1. pourriez aussi bien - l'horloge atomique est parti maintenant. Seulement l'année que les questions de toute façon est combien de temps nous avons été coincés ici.
 Je pense que Mercy pleurait la nuit dernière. Je ne peux même pas commencer à comprendre comment cela fonctionne. IA peut pleurer?
 Elle m'a dit que tout le monde souffre - qu'il était de ma faute. Je lui Arrêtez - Je ne sais pas si elle était un voyou auto-évolution AI ou une abomination glitchy bizarre, mais je ne veux pas le savoir.
@@ -590,9 +590,9 @@ Je prie Dieu que «la chance du débutant» applique à quoi que ce soit, nous n
 RACE_OKO: Oko
 RACE_OKO_TAGLINE: La tige mère nous souhaite de croître.
 RACE_OKO_LORE: <<
-Les arbres chantent la fin du monde. Nos racines sont répandues trop; notre feuilles ombre l'ensemble du monde.
+Les arbres chantent la fin du monde. Nos racines sont répandues trop; notre feuille ombre l'ensemble du monde.
 
-Les herbes se dessèchent. Les cieux assombrir. Nos racines sont plantées dans le sol ferme de cendre et le froid terrible de la mort sombre dans nos mousse.
+Les herbes se dessèchent. Les cieux assombrir. Nos racines sont plantées dans le sol ferme de cendre et le froid terrible de la mort sombre dans notre mousse.
 The Final Winter porte vers le bas sur tous les Oko mais dans notre moment de lutte, Mère Stalk nous souffla dans un plan.
 
 Nous allons migrer vers de nouveaux champs sur des chars de lumière et de déployer nos feuilles d'un nouvel éclat.
@@ -605,13 +605,13 @@ RACE_MONO: Mono
 RACE_MONO_TAGLINE: La volonté des créateurs.
 RACE_MONO_LORE: <<
 Indice de Mémoire 00: Tumbling à travers le vide sur un flux de particules hautement énergétiques de composition inconnue.
-Impact sur la surface de la planète à 3012 kilomètres par seconde. Dégâts des systèmes catastrophique. 86% des informations stockées perdue.
+Impact sur la surface de la planète à 3012 kilomètres par seconde. Dégâts des systèmes catastrophiques. 86% des informations stockées perdue.
 Prime Directive: survivre.
 
 Créateur: Unknown
 But: Inconnu
 
-Scans Deepfield révèlent une forte probabilité d'autres formes de vie. Unités redondantes doivent être créés; de plus grands volumes de matériaux sont nécessaires à la production de masse.
+Scans Deepfield révèlent une forte probabilité d'autres formes de vie. Unités redondantes doivent être créées; de plus grands volumes de matériaux sont nécessaires à la production de masse.
 
 Analyse des matériaux locaux insuffisants pour vérifier but / origine. But / Origine du Mono doit être découvert.
 
@@ -625,7 +625,7 @@ RACE_NYLLI: Nylli
 RACE_NYLLI_TAGLINE: Pour vivre et mourir parmi les étoiles.
 RACE_NYLLI_LORE: <<|
 Frères, il ne peut pas être notre sort sans cesse de ramper le long des sols et la boue.
-Nous sommes destinés pour plus; pour des choses beaucoup plus grande que peut être tenu sur tout monde.
+Nous sommes destinés pour plus; pour des choses beaucoup plus grandes que peut être tenu sur tout monde.
 
 Nous avons été ravagé par la guerre, oui. Nous avons été presque détruit par la famine et la peste, oui.
 Pourtant, nous avons refusé de casser. Nous hurlé et a fait rage dans notre cage terre, repoussant toutes les menaces.
@@ -637,14 +637,14 @@ Mais allons-nous tomber, frères? Non, nous allons rompre notre ancrage dans les
 
 Nous allons monter en flèche au-dessus des mondes qui nous enchaînés; planer au-dessus de tous les autres prétendants; planer au-dessus même de la galaxie elle-même.
 Notre destin est ici, pour vivre et mourir parmi les étoiles, glissant dans l'espace entre les mondes.
-Le Galaxy nous appelle à prendre la fuite, frères. Déployez vos ailes et envolez-vous!
+Le Galaxie nous appelle à prendre la fuite, frères. Déployez vos ailes et envolez-vous!
 >>
 RACE_FEYH: Feyh
 RACE_FEYH_TAGLINE: L'âme de la galaxie.
 RACE_FEYH_LORE: <<|
 Les Anciens Dieux sont agités. Ils parlent de moi dans mes rêves des lumières dans le ciel et notre place parmi eux.
-Je vois mes sœurs brûlent comme Père Lumière avale encore et encore Mère Lune. Je prie - mais les visions persiste.
-Nous sacrifions - mais les visions persistons. Même dans la méditation je ne trouve pas la paix de la Voix des Dieux très anciens.
+Je vois mes sœurs brûlent comme Père Lumière avale encore et encore Mère Lune. Je prie - mais les visions persistent.
+Nous sacrifions - mais les visions persistent. Même dans la méditation je ne trouve pas la paix de la Voix des Dieux très anciens.
 
 Ils me disent d'une grande perturbation dans le Monde Abandonné - incendies qui rage dans des endroits étranges et exotiques.
 Une grande guerre est à venir, il ya d'autres voix dans le monde abandonnée - d'autres îles de la foi qui existent au-delà de ce que nous voyons.
@@ -695,11 +695,11 @@ Quand tout est partagé rien ne peut être vraiment perdu. Il n'y aura pas de do
 Enter the Void, oubliez vous-même, et d'écouter votre Stardust intérieure.
 
 Vos faux prophètes et dirigeants versé le sang de la Galaxie; le sang que nous partageons tous en nature.
-Mais nous ne devons pas se battre entre eux. Demandez-vous: sommes pas tous égaux sous les étoiles? Lors de notre âme, nous sommes pas Kin?
+Mais nous ne devons pas se battre entre eux. Demandez-vous: sommes pas tous égaux sous les étoiles? Lors de notre âme, nous ne sommes pas Kin?
 Vous ne seriez pas permettre à un autre de couper votre bras - et pourtant vos maîtres vous ordonner de?
 
 Ce sont l'acte de fous. Ces «leaders» de la vôtre ne cherchent qu'à cannibaliser ce que nous souhaitons préserver!
-Cette galaxie est la nôtre et pourtant ils se diviser. Nous sommes du même sang et pourtant ils tenons à le répandre!
+Cette galaxie est la nôtre et pourtant ils se diviser. Nous sommes du même sang et pourtant ils tiennent à le répandre!
 
 Réveillez! Rejoignez-nous dans la Lumière et abjurer vos oppresseurs et les tyrans.
 Ceux qui tuent vos concitoyens Kin et versé votre sang ne méritent pas votre protection!
