@@ -1,9 +1,9 @@
 ORBITAL_REPACK: Lâcher Orbital
 PROMPT_SCUTTLE: Détruire $1?
-ORB_TT_COST: Coût: $1, $2 Main d'oeuvre
+ORB_TT_COST: Coût: $1, $2 Main d'œuvre
 ORBITAL_MODULES: Modules
 TRADE: Commerce
-OERR_SYSTEM: Ne peut pas construire orbitals à l'extérieur des systèmes.
+OERR_SYSTEM: Ne peut pas construire orbital à l'extérieur des systèmes.
 OERR_TRADE: Doit construire dans des frontières commerciales.
 OERR_VISION: Ne peut pas construire à l'extérieur de la vision.
 OERR_LIMIT: Seulement un par système autorisé.
@@ -54,7 +54,7 @@ ORB_DRY_DOCK: Cale Sèche
 ORB_DRY_DOCK_BLURB: A usage unique pour construction de vaisseau dans l'espace.
 ORB_DRY_DOCK: <<|
 	Peut construire un vaisseau amiral dans l'espace, d'autres planètes contribuent facilement
-	a la force de main d'oeuvre pour la construction.
+	à la force de main d'œuvre pour la construction.
 >>
 
 ORB_REMNANT_DEFENSE_CORE: Station de défense vestige
@@ -86,16 +86,16 @@ ORB_ANCIENT_EMBASSY_DESC: <<|
 >>
 
 ORB_SHIPYARD: Chantier naval
-ORB_SHIPYARD_BLURB: Peut construire vaisseau amiral et vaisseau de soutien. Les planètes peuvent être commandés d'exporter leur main d'oeuvre sur ce chantier naval.
+ORB_SHIPYARD_BLURB: Peut construire vaisseau amiral et vaisseau de soutien. Les planètes peuvent être commandées d'exporter leur main d'œuvre sur ce chantier naval.
 ORB_SHIPYARD_DESC: <<|
 	Un chantier naval orbital massif capable de construire des flottes dans l'espace.
 
 	Construire des vaisseaux dans un chantier naval a un coût de construction de 20% moins chers.
 
-	A 6 génération de main-d'œuvre innée par minute. Les planètes peuvent exporter leur propre
-	main d'oeuvre aux chantiers navals à portée de commerce avec un taux réduit de 75%.
+	A 6 générations de main-d'œuvre innée par minute. Les planètes peuvent exporter leur propre
+	main d'œuvre aux chantiers navals à portée de commerce avec un taux réduit de 75%.
 
-	Les gains de main d'oeuvre pour la recherche de l'usine de métallurgie sont à un taux réduit de 75%.
+	Les gains de main d'œuvre pour la recherche de l'usine de métallurgie sont à un taux réduit de 75%.
 >>
 ORB_ARTILLERY_PLATFORM: Plate-forme d'artillerie
 ORB_ARTILLERY_PLATFORM_BLURB: Artillerie à longue portée.
@@ -106,7 +106,7 @@ ORB_ARTILLERY_PLATFORM_DESC: <<|
 ORB_DEFENSE_PLATFORM: Plate-forme de défense
 ORB_DEFENSE_PLATFORM_BLURB: Plate-forme de défense avec des armes de courte portée.
 ORB_DEFENSE_PLATFORM_DESC: <<|
-	Une plate-forme de défense orbitale équipé d'un arsenal d'armes de courte portée
+	Une plate-forme de défense orbitale équipée d'un arsenal d'armes de courte portée
 	pour défendre son voisinage.
 >>
 ORB_TRADE_OUTPOST: Avant-poste
@@ -136,10 +136,10 @@ ORB_TRADE_STATION_DESC: <<|
 	entre tous les territoires avec les autres stations de commerce.
 
 	En outre, sur chaque station de commerce, vous pouvez acheter une quantité de
-	recherche, énergie, influence ou main d'oeuvre en échange d'argent toute les 3 minutes.
+	recherche, énergie, influence ou main d'œuvre en échange d'argent toute les 3 minutes.
 
 	[i]Normalement, les planètes dans les territoires séparés ne peuvent pas exporter les ressources pour
-	l'une et l'autre. Construiser une station de commerce dans les deux territoires pour
+	l'une et l'autre. Construisez une station de commerce dans les deux territoires pour
 	autoriser l'importation et l'exportation des ressources des planètes dans votre
 	territoires.[/i]
 >>
@@ -149,7 +149,7 @@ ABL_BUY_INFLUENCE: Achat influence
 ABL_BUY_INFLUENCE_DESC: Propager quelques points d'influence. Actions avec temps de recharge partagé avec les autres capacités d'achat.
 ABL_BUY_RESEARCH: Achat de recherche
 ABL_BUY_RESEARCH_DESC: Investir dans des recherches. Actions avec temps de recharge partagé avec les autres capacités d'achat.
-ABL_BUY_LABOR: Achat main d'oeuvre
+ABL_BUY_LABOR: Achat main d'œuvre
 ABL_BUY_LABOR_DESC: Achetez de la main-d'œuvre pour une planète ou un chantier. Actions avec temps de recharge partagé avec les autres capacités d'achat.
 
 ORB_SUPPLY_DEPOT: Dépôt d'approvisionnement
@@ -162,10 +162,10 @@ ORB_SUPPLY_DEPOT_DESC: <<|
 STATUS_FAST_RESUPPLY: Réception des approvisionnements
 STATUS_FAST_RESUPPLY_DESC: <<|
 	Reçoit des fournitures à partir d'un dépôt de ravitaillement dans le système. La régénération
-	des fournitures a un taux augmenté de manière significative en dehors des combats.
+	des fournitures à un taux augmenté de manière significative en dehors des combats.
 >>
 ORB_FTL_JAMMER: Brouilleur FTL
-ORB_FTL_JAMMER_BLURB: Empêche les empires hostiles d'utiiser leur FTL dans ce système.
+ORB_FTL_JAMMER_BLURB: Empêche les empires hostiles d'utiliser leur FTL dans ce système.
 ORB_FTL_JAMMER_DESC: <<|
 	Un tableau d'excitateurs d'hyper vitesse précis et calibré à des fréquences spécifiques
 	peut bloquer l'utilisation de marques particulières de propulsion FTL.
@@ -184,7 +184,7 @@ NAME_SCAFFOLDING: $1 (Echafaudage)
 ORB_SOLAR_ORBITAL: Moteur Solaire
 ORB_SOLAR_ORBITAL_BLURB: Génère de l'énergie par seconde en fonction de la température de l'étoile du système.
 ORB_SOLAR_ORBITAL_DESC: <<
-	Génère énergie supplémentaire par seconde. Plus la température de l'étoile du système est élevé, plus l'énergie générée est importante.
+	Génère énergie supplémentaire par seconde. Plus la température de l'étoile du système est élevée, plus l'énergie générée est importante.
 
 	Un seul peut être construit par système.
 >>
@@ -192,9 +192,9 @@ ORB_SOLAR_ORBITAL_DESC: <<
 ORB_FRAME: Cadre Orbital
 ORB_FRAME_BLURB: Un orbitale peut être construit sur ce cadre pour un coût de construction réduit.
 ORB_FRAME_DESC: <<
-	Un cadre pré-construit et échafaudé qui peut être réaménagé pour d'autres types orbitales.
+	Un cadre préconstruit et échafaudé qui peut être réaménagé pour d'autres types orbitaux.
 
-	Orbitales construits au-dessus de ce cadre réduit de 50% l'accumulation et le coût du main d'oeuvre, et ne souffrent pas de pénalités de main d'oeuvre de construction à distance.
+	Orbitales construits au-dessus de ce cadre réduit de 50% l'accumulation et le coût de la main d'œuvre, et ne souffrent pas de pénalités de main d'œuvre de construction à distance.
 >>
 
 ORB_SINGULARITY_LAB: Laboratoire de singularité
