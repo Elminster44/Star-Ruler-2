@@ -43,12 +43,12 @@ ONLY_WITH_RESOURCES: Peut cibler uniquement planètes ou astéroïdes.
 INCOME: Revenu
 REQ_FOR_LEVEL: Exigée pour le niveau $1:
 POP_REQ: [img=ResourceIcon::8;20/] [color=#ff9000][b]$1[/b]+ population[/color]
-REQ_STOP_DECAY: Ressources manquantes ! Déterioration retour au niveau $1 à $2 sauf si les besoins sont satisfaits:
+REQ_STOP_DECAY: Ressources manquantes ! Détérioration retour au niveau $1 à $2 sauf si les besoins sont satisfaits:
 REQ_TYPE: [font=Subtitle]Toute Ressource [b]$1[/b] [img=$2;26/][/font]
 REQ_TYPE_UNIQUE: Tout type unique de $1:
 REQ_LEVEL: [font=Subtitle]Toute Ressource [b]Rang $1[/b] [img=$2;26/][/font]
 REQ_LEVEL_UNIQUE: N'importe quel type unique de ressource de Niveau $1 :
-WAIT_CONSTRUCT: La construction ne sera pas commencé jusqu'à leur résolution.
+WAIT_CONSTRUCT: La construction ne sera pas commencée jusqu'à leur résolution.
 CONSTRUCTION_REQUIRES_LEVEL: Niveau $1 de planète requis pour produire.
 ABANDON: Abandon Planète
 ABANDON_ACCEPT: Abandon
@@ -68,10 +68,10 @@ DEFENSE_OFF_OPTION: Arrêtez d'utiliser défense pour $1
 TT_IS_DEFENDING: Marqué pour utiliser la défense. La défense fourni par les ressources de votre empire sera utilisé pour produire des vaisseaux de défense ici.\n\nLes vaisseaux de défense produit sont répartis équitablement entre chaque endroit marqué pour la défense.
 TERRAFORM: Terraformation
 TERRAFORM_OPTION: Terraformation...
-TERRAFORM_ITEM: $1 ($2, $3 Main d'oeuvre)
+TERRAFORM_ITEM: $1 ($2, $3 Main d'œuvre)
 BUILD_TERRAFORM: Terraformation $2 sur $1
 BUILD_DRY_DOCK: Cale Sèche: $1
-EXPORT_LABOR: Exportation main d'oeuvre vers $1
+EXPORT_LABOR: Exportation main d'œuvre vers $1
 WORK_DRY_DOCK: Travail sur Cale sèche
 TT_DRY_DOCK: <<
 	[b]Construire une Cale Sèche[/b]
@@ -96,9 +96,9 @@ AUTO_IMPORT_OPTION: Auto-Importation $1 Ressource
 AUTO_IMPORT_TWO_OPTION: Auto-Importation $1 et $2 Ressources
 CANCEL_AUTO_IMPORT: Annuler Auto-Importations
 QUEUED_AUTO_IMPORT: File d'attente auto importation...
-DESTROY_BUILDING: Détruir $1
+DESTROY_BUILDING: Détruire $1
 CANCEL_BUILDING: Annuler $1
-STORED_LABOR: Stocker Main d'oeuvre: $1 / $2
+STORED_LABOR: Stocker Main d'œuvre: $1 / $2
 TILE_BIOME_DEVELOPED: $1 (Développé)
 TILE_BIOME_UNDEVELOPED: $1 (Sous-développé)
 TILE_BIOME_GROWN: $1 (Cultivé)
@@ -109,10 +109,10 @@ CANCEL_CONSTRUCTION: Annuler cette construction
 EXPBLOCK_USE: [color=#f33][b]Impossible d'utiliser ressources:[/b][/color]\n$1
 EXPBLOCK_EXPORT: [color=#f33][b]Impossible d'exporter ressources:[/b][/color]\n$1
 EXPBLOCK_IMPORT: [color=#f33][b]Impossible d'importer ressources:[/b][/color]\n$1
-EXPBLOCK_DISABLED: La planète est bloqué pour l'exportation.
+EXPBLOCK_DISABLED: La planète est bloquée pour l'exportation.
 EXPBLOCK_DEEPSPACE: Peut seulement commercer au sein de systèmes.
 EXPBLOCK_UNOWNED: Peut seulement commercer au sein du même empire.
-EXPBLOCK_UNMINED: Asteroid doit être exploité.
+EXPBLOCK_UNMINED: Astéroïde doit être exploité.
 EXPBLOCK_UNCOLONIZED: Planète doit être colonisée.
 EXPBLOCK_LOWLEVEL: Planète doit être au moins de niveau $1.
 EXPBLOCK_POP: La planète a besoin de $1 Milliard de population pour exporter les ressources.
@@ -124,7 +124,7 @@ HINT_USE_PLANETS: <<|
 	Les planètes de niveau 0 coûtent de l'argent à entretenir.
 	
 	Exporter les ressources de vos planètes de bas niveau pour construire ceux de niveau supérieur,
-	ou abandonner les planètes inutilisés pour libérer votre budget.
+	ou abandonner les planètes inutilisées pour libérer votre budget.
 >>
 
 HINT_COLONIZE_TITLE: Colonisation lente
@@ -132,7 +132,7 @@ HINT_COLONIZE: <<|
 	La colonisation nécessite de la population et coûte de l'argent. Lorsque qu'il y a de la dette, le taux
 	de colonisation peut être considérablement ralenti.
 	
-	Concentrez vous sur la colonisation d'un petit nombre de planètes en premier et améliorez ces planètes pour soutenir davantage
+	Concentrez-vous sur la colonisation d'un petit nombre de planètes en premier et améliorez ces planètes pour soutenir davantage
 	de colonisation. Vous pouvez également annuler des commandes de colonisation pour accélérer les commandes restantes.
 >>
 
@@ -171,7 +171,7 @@ TT_DEFENSE_TARGET: <<|
 PLANET_POPULATION_TIP: <<|
 	[b]Population[/b]
 	
-	Combien de milliards de personnes vivent sur la planète. Plus une planète a de la population, plus son revenu de base et sa capacité de pression sont élevé.
+	Combien de milliards de personnes vivent sur la planète. Plus une planète a de la population, plus son revenu de base et sa capacité de pression sont élevés.
 >>
 
 PLANET_INCOME_TIP: <<
@@ -188,7 +188,7 @@ PLANET_INFLUENCE_TIP: <<
 	
 	Chaque intérêt d'influence sur une planète augmente votre pourcentage de production d'influence galactique.
 
-	L'influence est utilisé pour affecter d'autres empires diplomatiquement.
+	L'influence est utilisée pour affecter d'autres empires diplomatiquement.
 
 	[b]Pression importée:[/b] [offset=220]$1[/offset]
 	[b]Pression active:[/b] [offset=220]$2[/offset]
@@ -216,10 +216,10 @@ PLANET_DEFENSE_TIP: <<
 PLANET_LOYALTY_TIP: <<|
 	[b]Fidélité[/b]
 
-	La fidélisation indique comment vos sujets vous sont dédié sur cette planète.
+	La fidélisation indique comment vos sujets vous sont dédiés sur cette planète.
 
-	Assiègez une planète va progressivement réduire sa fidélité jusqu'à ce qu'elle arrive à 0, après
-	elle sera capturé par l'empire qui fait le siège.
+	Assiégez une planète va progressivement réduire sa fidélité jusqu'à ce qu'elle arrive à 0, après
+	elle sera capturée par l'empire qui fait le siège.
 
 	Plus une planète est fidèle, plus il faut d'influence pour l'annexer.
 >>
@@ -229,9 +229,9 @@ PLANET_PRESSURE_TIP: <<
 
 	De nombreux types de ressources planétaires fournissent de la [b]Pression[/b] aux planètes où elles se trouvent.
 
-	La [b]Pression[/b] incite les civils sur une planète à construir les bâtiments qui génèrent certains types de ressources pour vous.
+	La [b]Pression[/b] incite les civils sur une planète à construire les bâtiments qui génèrent certains types de ressources pour vous.
 
-	La quantité de structures civiles qu'une planète peut supporter est limitée par sa [b]Capacité de pression[/b]. Si la capacité de pression est dépassée, l'efficacité des civils à contruire des bâtiments sera réduite, conduisant à une perte de production de ressources.
+	La quantité de structures civiles qu'une planète peut supporter est limitée par sa [b]Capacité de pression[/b]. Si la capacité de pression est dépassée, l'efficacité des civils à construire des bâtiments sera réduite, conduisant à une perte de production de ressources.
 
 	Plus une planète a de [b]Population[/b], plus elle a de [b]Capacité de pression[/b].
 
@@ -241,9 +241,9 @@ PLANET_PRESSURE_TIP: <<
 >>
 
 PLANET_LABOR_TIP: <<
-	[b]Main d'oeuvre[/b]
+	[b]Main d'œuvre[/b]
 	
-	La main d'oeuvre affecte le taux de construction de la planète.
+	La main d'œuvre affecte le taux de construction de la planète.
 
 	[b]Pression importée:[/b] [offset=220]$1[/offset]
 	[b]Pression active:[/b] [offset=220]$2[/offset]
@@ -277,7 +277,7 @@ STATUS_VIRILE_DESC: <<|
 
 COND_NATIVE_FISH: Poissons indigènes
 COND_NATIVE_FISH_DESC: <<
-	Delicieux, mais une forme de vie aquatique extrêmement périssable. Inexportable.
+	Délicieux, mais une forme de vie aquatique extrêmement périssable. Inexportable.
 >>
 NATIVE_FISH: Poissons indigènes
 NATIVE_FISH_DESC: <<
@@ -303,7 +303,7 @@ COND_EXTRA_INFLUENCE_DESC: <<|
 
 COND_EXTRA_LABOR: Gravité Basse
 COND_EXTRA_LABOR_DESC: <<|
-	La ressource de cette planète donne [b]1 bonus [img=ResourceIcon::6;20/] pression [color=#b1b4b6]Main d'oeuvre[/color][/b].
+	La ressource de cette planète donne [b]1 bonus [img=ResourceIcon::6;20/] pression [color=#b1b4b6]Main d'œuvre[/color][/b].
 >>
 
 COND_EXTRA_DEFENSE: Minéraux Volatils
@@ -361,7 +361,7 @@ COND_MOON: Lune
 COND_MOON_DESC: <<
 	Cette planète a une lune assez grande y pour construire une base lunaire.
 	
-	Les cas multiples indiquent plus de lunes et plus de bases lunaire potentielles.
+	Les cas multiples indiquent plus de lunes et plus de bases lunaires potentielles.
 >>
 
 BIOME_CRYSTALLIC: Cristallique
