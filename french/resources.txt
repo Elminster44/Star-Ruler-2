@@ -19,14 +19,14 @@ NEED_BORROW: Vous ne pouvez pas vous le permettre vu le budget actuel. [color=#f
 CANNOT_BORROW: Vous ne pouvez pas vous le permettre vu le budget actuel. Le prochain budget ne suffit pas à emprunter le coût restant.
 CANNOT_EXPORT: \n[right]Ne peut pas être exporté[/right]
 BUILD_ASTEROID: $1 exploitation minière
-BUILD_ASTEROID_OPTION: Construire $1 exploitation minière ($2 Main d'oeuvre)
+BUILD_ASTEROID_OPTION: Construire $1 exploitation minière ($2 Main d'œuvre)
 VANISH_TIP: Sera utilisé dans $1.
 VANISH_TIP_NOUSE: Sera utilisé après $1 utile.
 RESOURCE: Ressource
 RES_PROVIDES_PRESSURE: Pression:
 
 WELFARE_TT: <<|
-	Tous les fonds laissés dans votre budget lorsque le cycle budgétaire est achevée seront
+	Tous les fonds laissés dans votre budget lorsque le cycle budgétaire est achevé seront
 	enlevé et convertie en ressource que vous choisirez dans la liste déroulante.
 >>
 
@@ -47,7 +47,7 @@ WELFARE_RESEARCH: <<
 
 WELFARE_LABOR: <<
 	Travaux Publics
-	Convertit chaque $1 du budget non dépensé en main d'oeuvre sur le monde natal.
+	Convertit chaque $1 du budget non dépensé en main d'œuvre sur le monde natal.
 >>
 
 WELFARE_DEFENSE: <<
@@ -93,12 +93,12 @@ GTT_INFLUENCE: <<
 	Intérêt d'Influence: [right]$5[/right]
 	Pourcentage d'Intérêt Galactique: [right]$4[/right]
 
-	[i]L'intérêt d'influence est fourni par les batiments d'influence. Le pourcentage de l'intérêt d'influence totale de tous les empires que vous contrôlez actuellement détermine votre taux de génération d'influence.[/i]
+	[i]L'intérêt d'influence est fourni par les bâtiments d'influence. Le pourcentage de l'intérêt d'influence totale de tous les empires que vous contrôlez actuellement détermine votre taux de génération d'influence.[/i]
 >>
 
 GTT_ENERGY: <<
 	[font=Medium]Energie[/font]
-	[i]L'énergie est utilisée pour activer les capacités des artefacts trouvés à travers la galaxie. Plus vous stockez d'energie au-dessus de votre capacité de stockage libre, plus votre taux de génération est réduit.[/i]
+	[i]L'énergie est utilisée pour activer les capacités des artefacts trouvés à travers la galaxie. Plus vous stockez d'énergie au-dessus de votre capacité de stockage libre, plus votre taux de génération est réduit.[/i]
 
 	Energie disponible: [right]$1[/right]
 	Taux de génération: [right]$2[/right]
@@ -141,7 +141,7 @@ RESOURCE_ENERGY: Energie
 RESOURCE_FTL: FTL
 RESOURCE_RESEARCH: Recherche
 RESOURCE_DEFENSE: Défense
-RESOURCE_LABOR: Main d'oeuvre
+RESOURCE_LABOR: Main d'œuvre
 LOYALTY: Fidélité
 
 PRESSURE_Money: <<|
@@ -154,7 +154,7 @@ PRESSURE_Defense: <<|
 	[b]Défense[/b] produit des vaisseaux de soutien gratuitement sur une planète.
 >>
 PRESSURE_Labor: <<|
-	[b]Main d'oeuvre[/b] augmente le taux de construction des vaisseaux et orbitale.
+	[b]Main d'œuvre[/b] augmente le taux de construction des vaisseaux et orbitale.
 >>
 PRESSURE_Energy: <<|
 	[b]Energie[/b] produit l'énergie nécessaire pour l'activation des artefacts.
@@ -165,11 +165,11 @@ PRESSURE_Research: <<|
 
 MONEY_TYPE_0: Divers.
 MONEY_TYPE_1: Construction
-MONEY_TYPE_2: Orbitals
+MONEY_TYPE_2: Orbitales
 MONEY_TYPE_3: Bâtiments
 MONEY_TYPE_4: Vaisseaux
 MONEY_TYPE_5: Entretien planètes
-MONEY_TYPE_6: Reveneu planètes
+MONEY_TYPE_6: Revenu planètes
 MONEY_TYPE_7: Colonisateurs
 MONEY_TYPE_8: Handicap
 MONEY_TYPE_9: Commerce
@@ -221,7 +221,7 @@ IRON_DESC: <<
 >>
 
 COAL: Charbon
-COAL_EFFECT: Main d'oeuvre civile
+COAL_EFFECT: Main d'œuvre civile
 COAL_DESC: <<
 	Augmente la génération de main-d'œuvre des structures civiles de 30%.
 >>
@@ -238,7 +238,7 @@ PHASITE_DESC: <<
 
 FULRATE: Fulrate
 FULRATE_DESC: <<
-	Ajoute 4 pression supplémentaire de ressource native de la planète.
+	Ajoute 4 pressions supplémentaires de ressource native de la planète.
 >>
 
 GEMS: Pierres précieuses
@@ -249,7 +249,7 @@ GEMS_DESC: <<
 PEKELM: Pekelm
 PEKELM_EFFECT: Colonisateur Acc.
 PEKELM_DESC: <<
-	Augmente l'accélération des vaisseaux colonisateur qui quittent la planète de 100%.
+	Augmente l'accélération des vaisseaux colonisateurs qui quittent la planète de 100%.
 >>
 
 SPICE: Epice
@@ -284,7 +284,7 @@ NATIVE_GOLD: Or natif
 NATIVE_GOLD_EFFECT: Influence
 NATIVE_GOLD_DESC: Donne 1 [img=ResourceIcon::1;20/] Génération d'influence.
 
-DEUTERIUM: Deuterium
+DEUTERIUM: Deutérium
 DEUTERIUM_DESC: <<
 >>
 
@@ -310,7 +310,7 @@ PLASTICS_DESC: <<
 
 LUXURY_MATERIALS: Matériaux de luxe
 LUXURY_MATERIALS_DESC: <<
-	La planète qui en consomme devient heureux.
+	La planète qui en consomme devient heureuse.
 >>
 
 TITANIUM: Titanium
@@ -363,7 +363,7 @@ DEGENERATE_MATTER_DESC: <<
 PSIONIC_REAGENTS: Réactifs psioniques
 PSIONIC_REAGENTS_EFFECT: Protège fidélisation
 PSIONIC_REAGENTS_DESC: <<
-	Planètes dans le système qui en consomme sont protégés contre la perte de loyauté.
+	Planètes dans le système qui en consomme sont protégées contre la perte de loyauté.
 
 	Prend 3 minutes pour le permettre dans un nouveau système.
 >>
@@ -379,10 +379,10 @@ SUPERCARBONS: Supercarbons
 SUPERCARBONS_DESC: <<
 >>
 
-HYDROCONDUCTORS: Hydroconductors
+HYDROCONDUCTORS: Hydroconducteurs
 HYDROCONDUCTORS_EFFECT: Effets en double
 HYDROCONDUCTORS_DESC: <<|
-	Augmente toute les génération de main-d'œuvre sur la planète de 50%.
+	Augmente toute les générations de main-d'œuvre sur la planète de 50%.
 >>
 
 ANTIMATTER: Antimatière
@@ -392,7 +392,7 @@ ANTIMATTER_DESC: <<|
 
 EXOTIC_MATTER: Matière Exotique
 EXOTIC_MATTER_DESC: <<
-	Bâtiments de la planète sont construit instantanément.
+	Bâtiments de la planète sont construits instantanément.
 >>
 
 CORINIUM: Corinium
@@ -407,7 +407,7 @@ ILLINIUM_DESC: <<
 
 KALSUNIM: Kalsunim
 KALSUNIM_DESC: <<
-	Génération de main d'oeuvre sur la planète augmente également la consommation de la Défense.
+	Génération de main d'œuvre sur la planète augmente également la consommation de la Défense.
 >>
 
 DRUGS: Drogues
@@ -478,16 +478,16 @@ ASTEROID_INFLUENCE_DESC: <<|
 >>
 
 ASTEROID_LABOR: Matériaux De Construction
-ASTEROID_LABOR_EFFECT: Main d'oeuvre civile
+ASTEROID_LABOR_EFFECT: Main d'œuvre civile
 ASTEROID_LABOR_DESC: <<
-	Ajoute 10 génération du main d'oeuvre pour la planète.
+	Ajoute 10 générations de main d'œuvre pour la planète.
 
 	Seulement actif tant que la planète a des constructions actives.
 >>
 
 ASTEROID_DEFENSE: Matériaux volatils
 ASTEROID_DEFENSE_DESC: <<
-	Accorde un arsenal d'armes à courte portée là où ils sont utilisé.
+	Accorde un arsenal d'armes à courte portée là où ils sont utilisés.
 
 	Peut seulement être exporté une fois, puis verrouille sa destination et ne peut plus être modifiée.
 
@@ -496,7 +496,7 @@ ASTEROID_DEFENSE_DESC: <<
 
 ASTEROID_AFFINITY: Matériaux transformable
 ASTEROID_AFFINITY_DESC: <<
-	Ajoute 2 pression de ressources natif sur la planète.
+	Ajoute 2 pressions de ressources natives sur la planète.
 >>
 
 SOYLENT1: Solvant Bleu
@@ -521,7 +521,7 @@ SOYLENT4_DESC: <<
 
 HEAVY_WATER: Eau Lourde
 HEAVY_WATER_DESC: <<|
-	Créé à partir d'une liaison de 2 eau.
+	Créé à partir d'une liaison de 2 eaux.
 
 	Ajoute $1 pression aléatoire au fil du temps.
 	Le type de la pression change toutes les 3 minutes.
@@ -529,7 +529,7 @@ HEAVY_WATER_DESC: <<|
 
 BOOST_WATER: Eau Réactive
 BOOST_WATER_DESC: <<|
-	Créé à partir d'une liaison de 4 eau.
+	Créé à partir d'une liaison de 4 eaux.
 
 	[b]Stimule la ressource native avec:[/b]
 	[nl/][offset=30]+$1 Pression supplémentaire donnée.[/offset]
@@ -537,7 +537,7 @@ BOOST_WATER_DESC: <<|
 
 CLEAR_WATER: Eau Claire
 CLEAR_WATER_DESC: <<|
-	Créé à partir d'une liaison de 8 eau.
+	Créé à partir d'une liaison de 8 eaux.
 
 	Convertit tout Influence civile, Défense, production de la recherche et de l'énergie
 	en génération d'argent.
@@ -545,7 +545,7 @@ CLEAR_WATER_DESC: <<|
 
 AWESOME_WATER: Phoenix Water
 AWESOME_WATER_DESC: <<|
-	Créé à partir d'une liaison de 16 eau.
+	Créé à partir d'une liaison de 16 eaux.
 
 	Toute la production civile +$1.
 >>
@@ -564,7 +564,7 @@ MICROCLINE_DESC: <<|
 
 SLAVE_LABOR: Travail des esclaves
 SLAVE_LABOR_DESC: <<
-	Ajoute 5 génération de main d'oeuvre.
+	Ajoute 5 générations de main d'œuvre.
 
 	Seulement actif si utilisé dans la construction.
 >>
@@ -583,12 +583,12 @@ PLAINS_DESC: <<
 
 QUARTZ: Quartz
 QUARTZ_BLURB: <<
-	Gain [levels=$1;#ffb4b6]10/25/50/80/120/200[/niveau] bonus de main d'oeuvre accumulé par artefact activé.
+	Gain [levels=$1;#ffb4b6]10/25/50/80/120/200[/niveau] bonus de main d'œuvre accumulé par artefact activé.
 >>
 QUARTZ_DESC: <<
 	Chaque fois que vous activez un artefact, cette planète gagne [levels=$1;#ffb4b6]10/25/50/80/120/200[/niveau] de main-d'œuvre stockée, pourvu qu'il y est assez de stockage.
 
-	Cette planète a [levels=$1;#ffb4b6]10/110/210/310/410/510[/niveau] de stockage de main d'oeuvre en bonus.
+	Cette planète a [levels=$1;#ffb4b6]10/110/210/310/410/510[/niveau] de stockage de main d'œuvre en bonus.
 
 	[i][color=#aaa]Cette ressource est une ressource évolutive et ne peut pas être exporté ou utilisé pour monter de niveau. Les bonus dépendent du niveau de la planète.[/color][/i]
 >>
@@ -615,13 +615,13 @@ ABL_BUY_NAME_FLAGSHIP: Achat 'Nom vaisseau amiral'
 ABL_BUY_NAME_FLAGSHIP_DESC: <<
 	Achetez une carte de diplomatie "Nom vaisseau amiral" en utilisant la capacité de cette planète.
 
-	[i][color=#aaa]Le temps de recharge est partagée avec la capacité Achat 'Annexion Planète'.[/color][/i]
+	[i][color=#aaa]Le temps de recharge est partagé avec la capacité Achat 'Annexion Planète'.[/color][/i]
 >>
 ABL_BUY_ANNEX_PLANET: Achat 'Annexion Planète'
 ABL_BUY_ANNEX_PLANET_DESC: <<
 	Achetez une carte de diplomatie "Annexion Planète" en utilisant la capacité de cette planète.
 
-	[i][color=#aaa]Le temps de recharge est partagée avec la capacité Achat 'Nom vaisseau amiral'.[/color][/i]
+	[i][color=#aaa]Le temps de recharge est partagé avec la capacité Achat 'Nom vaisseau amiral'.[/color][/i]
 >>
 
 PHOSPHATE: Phosphate
