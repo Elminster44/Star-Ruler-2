@@ -1,7 +1,7 @@
 OPT_GAME: Jeu
 OPT_GALAXY_BG: Afficher la Galaxie en arrière-plan du menu
-OPT_ROTATE_OBJS: Rotate Objects in UI Display
-OPT_ICONIFY_NOTIFICATIONS: Icônifier les notifications
+OPT_ROTATE_OBJS: Faites tourner les objets dans l’affichage
+OPT_ICONIFY_NOTIFICATIONS: Iconifier les notifications
 OPT_MAX_NOTIFICATIONS: Max Visible
 OPT_AUTOPAUSE: Mettre en pause automatiquement lors de l'affichage d'un autre onglet
 OPT_HOLD_FOR_POPUP: Maintenir clic gauche pour ancrage infobulles
@@ -54,7 +54,7 @@ KB_TAB_NEW: Ouvrir nouvel onglet
 KB_TAB_NEW_BG: Ouvrir un nouvel onglet en arrière-plan
 KB_TAB_REOPEN: Réouvrir l'onglet fermé
 KB_TAB_CLOSE: Fermé l'onglet
-KB_TAB_HOME: Onglet d'Acceuil
+KB_TAB_HOME: Onglet d'Accueil
 KB_TAB_1: Basculer sur l'onglet 1
 KB_TAB_2: Basculer sur l'onglet 2
 KB_TAB_3: Basculer sur l'onglet 3
@@ -77,7 +77,7 @@ KB_SPEED_DEFAULT: Vitesse de jeu par défaut
 KB_SPEED_FASTER: Augmenter la vitesse de jeu
 
 KB_TOGGLE_CONSOLE: Basculer sur la console
-KB_TOGGLE_MENU: Basculer sur le menu principale
+KB_TOGGLE_MENU: Basculer sur le menu principal
 KB_GO_MENU: Ouvrir le menu go
 KB_CHANGE_EMPIRE: Changer d'empire
 
@@ -140,12 +140,12 @@ OPT_INVERT_ROTATION_Y: Inverser rotation vertical
 OPT_FREE_CAMERA: Activé la rotation de la caméra
 OPT_CURSOR_ZOOM_IN: Zoom avant sur le curseur
 OPT_CURSOR_ZOOM_OUT: Zoom arrière depuis le curseur
-OPT_MOD_SPEED_PAN: Holding Shift Speeds Up Panning
+OPT_MOD_SPEED_PAN: Maintenir touche Shift accélère le panoramique
 OPT_SHOW_GAS: Afficher le gaz de la galaxie
 OPT_EDGE_PAN: Activer le bord panoramique
-OPT_RESEARCH_EDGE_PAN: Research Tab Edge Panning
-OPT_ESCAPE_GALAXY_TAB: Escape Returns to Galaxy Tab
-OPT_DELAY_TOP_EDGE: Délais du bords panoramique
+OPT_RESEARCH_EDGE_PAN: Edge Panning onglet Recherche
+OPT_ESCAPE_GALAXY_TAB: Touche Esc pour retour à l’onglet Galaxie
+OPT_DELAY_TOP_EDGE: Délais des bords panoramiques
 OPT_CAPTURE_CURSOR: Capturer le curseur
 
 KG_DesignEditor: Éditeur de modèle
