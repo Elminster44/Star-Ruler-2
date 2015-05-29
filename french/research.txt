@@ -17,7 +17,7 @@ R_DEV_ENERGY_DESC: <<
 	Génère $1 bonus d'énergie immédiatement quand recherché normalement. L'énergie gagnée est diminuée par la pénalité de stockage d'énergie.
 
 	[color=#42b4bd][b]Déblocage alternatif:[/b] Dépenser $2 énergie.[/color]
-	[offset=40][color=#f88][i]Aucun bonus d'énergie n'est gangé à partir des recherches en utilisant le déblocage alternatif.[/i][/color][/offset]
+	[offset=40][color=#f88][i]Aucun bonus d'énergie n'est gagné à partir des recherches en utilisant le déblocage alternatif.[/i][/color][/offset]
 >>
 
 R_DEV_MONEY: Economie
@@ -162,9 +162,9 @@ R_SYS_LIQUID_ARMOR_DESC: <<
 	[color=#d1cb6a][b]Déblocage alternatif:[/b] Dépenser §1M.[/color]
 >>
 
-R_SYS_SELF_DESTRUCT: Dispositif Auto-destruction
+R_SYS_SELF_DESTRUCT: Dispositif Autodestruction
 R_SYS_SELF_DESTRUCT_DESC: <<
-	[color=#aaa][i]Débloque le sous-système Dispositif Auto-destruction.[/i][/color]
+	[color=#aaa][i]Débloque le sous-système Dispositif Autodestruction.[/i][/color]
 
 	[bbloc=#S_SELF_DESTRUCT_DESC/]
 
@@ -301,7 +301,7 @@ R_IMP_ALL_HEALTH_BLURB: Santé des Sous-système +$1
 R_IMP_ALL_HEALTH_DESC: <<
 	[i][color=#aaa]Les recherches sur la façon d'améliorer l'intégrité structurelle des sous-systèmes de vaisseaux, leur permettant de prendre plus de dégâts avant de cesser de fonctionner.[/color][/i]
 
-	Augmente la santé des sous-sytèmes des vaisseaux de $1.
+	Augmente la santé des sous-systèmes des vaisseaux de $1.
 >>
 
 R_IMP_REPAIR: Réparation
@@ -317,14 +317,14 @@ R_IMP_CIV_HEALTH_BLURB: Santé civil +$1
 R_IMP_CIV_HEALTH_DESC: <<
 	[i][color=#aaa]La conception et le développement de formes abordables d'armures et des systèmes militaires, améliorer la santé des unités civiles.[/color][/i]
 
-	Augmente la santé civil de $1.
+	Augmente la santé civile de $1.
 >>
 
 R_IMP_DECAY: Stockage
 R_IMP_DECAY2: Stockage Dense
 R_IMP_DECAY_BLURB: Décrépitude de Planètes $1 plus lentement
 R_IMP_DECAY_DESC: <<
-	[i][color=#aaa]Les capacités et les méthodesde de stockage améliorées permettent aux planètes de durée plus longtemps sans provisions de ressources vitales..[/color][/i]
+	[i][color=#aaa]Les capacités et les méthodes de stockage améliorées permettent aux planètes de durée plus longtemps sans provisions de ressources vitales..[/color][/i]
 
 	Les planètes se délabrent $1 plus lentement quand manque de ressources nécessaires.
 >>
@@ -335,7 +335,7 @@ R_IMP_ALL_RANGE_BLURB: Portée d'arme +$1
 R_IMP_ALL_RANGE_DESC: <<
 	[i][color=#aaa]Les améliorations apportées au ciblage d'arme, le suivi et la miniaturisation leur permettent d'atteindre des cibles plus lointaine.[/color][/i]
 
-	Augmente toute les portée des armes de $1.
+	Augmente toute les portées des armes de $1.
 
 	[color=#42b4bd][b]Déblocage alternatif:[/b] Dépenser $2 énergie.[/color]
 >>
@@ -346,7 +346,7 @@ R_IMP_ARMOR_HEALTH_BLURB: Santé armure +$1
 R_IMP_ARMOR_HEALTH_DESC: <<
 	[i][color=#aaa]Meilleurs moyens de renforcer les plaques de blindage.[/color][/i]
 
-	Augmente la santé de toute les armures de $1.
+	Augmente la santé de toutes les armures de $1.
 
 	[color=#d1cb6a][b]Déblocage alternatif:[/b] Dépenser §$2.[/color]
 >>
@@ -362,11 +362,11 @@ R_IMP_ARMOR_DR_DESC: <<
 
 R_IMP_FACTORY_LABOR: Métallurgie
 R_IMP_FACTORY_LABOR2: Métallurgie 2
-R_IMP_FACTORY_LABOR_BLURB: Usine de main d'oeuvre +$1
+R_IMP_FACTORY_LABOR_BLURB: Usine de main d'œuvre +$1
 R_IMP_FACTORY_LABOR_DESC: <<
 	[i][color=#aaa]Les améliorations apportées à l'utilisation de matériaux et de la division du travail dans les usines de surface planétaires.[/color][/i]
 
-	Augmente la génération de main d'oeuvre par les construction d'usine de $1.
+	Augmente la génération de main d'œuvre par les constructions d'usine de $1.
 
 	[color=#0087c7][b]Déblocage alternatif:[/b] Dépenser $2 points d'influence.[/color]
 >>
@@ -409,7 +409,7 @@ R_IMP_THRUST_BLURB: Poussée +$1
 R_IMP_THRUST_DESC: <<
 	[i][color=#aaa]Des études et des expériences sur l'amélioration de la sortie de poussée des moteurs de vaisseaux, conventionnel et autres.[/color][/i]
 
-	Augmente toute les poussée des moteurs des vaisseaux de $1.
+	Augmente toute les poussées des moteurs des vaisseaux de $1.
 
 	Si vous utilisez Hyperdrive, augmente la vitesse hyperdrive de $1.
 
@@ -563,7 +563,7 @@ R_SYS_MUON_CANNON_DESC: <<
 
 	[bbloc=#MUONBATTERY_DESC/]
 
-	[color=#d1cb6a][b]Déblocage alternatif:[/b] Dépensre §2M.[/color]
+	[color=#d1cb6a][b]Déblocage alternatif:[/b] Dépenser §2M.[/color]
 >>
 
 R_SYS_TITAN_HULL: Coque de Titan
@@ -586,7 +586,7 @@ R_DEV_INFLUENCE_INCOME_BLURB: Intérêt d'Influence +$1
 R_DEV_INFLUENCE_INCOME_DESC: <<
 	Augmente votre Intérêt d'Influence de $1.
 
-	Intérêt d'Influence augmente votre revenus d'influence par rapport à tous les autres empires.
+	Intérêt d'Influence augmente votre revenu d'influence par rapport à tous les autres empires.
 >>
 
 R_DEV_DEFENSE: Défense
