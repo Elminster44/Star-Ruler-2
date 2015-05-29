@@ -2,6 +2,7 @@
 Traduction FR
 
 Statut : Final Beta 
+
 Quelques lignes restent en anglais car codé en dur dans le jeu et non dans les fichiers de localisation
   - sous-sytèmes
     - Armes : Carpet Bomb, Rocket Pod, Torpedo Launcher
