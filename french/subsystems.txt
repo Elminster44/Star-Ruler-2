@@ -20,7 +20,7 @@ CREWCONTROL_DESC: <<
 
 CREWDECK_NAME: Pont d'Équipage
 CREWDECK_DESC: <<
-	Fournit un pont et des installations minime pour que l'équipage puisse commander des vaisseaux de soutien.
+	Fournit un pont et des installations minimes pour que l'équipage puisse commander des vaisseaux de soutien.
 
 	[img=ActionBarIcons::0;22;#00ff80]Fournit [b][color=#00ff80]le contrôle[/color][/b] pour exploiter d'autres sous-systèmes.[/img]
 	[img=Plus]Répare lentement le vaisseau.[/img]
@@ -126,7 +126,7 @@ MUONBATTERY_DESC: <<
 
 RAILGUN_NAME: Railgun
 RAILGUN_DESC: <<
-	Un canon magnétique qui tirent de petits projectiles à très haute vitesses.
+	Un canon magnétique qui tire de petits projectiles à très haute vitesses.
 	
 	[img=Plus]Haut dégâts par coup.[/img]
 	[img=Minus]Projectiles imprécis.[/img]
@@ -167,16 +167,16 @@ MISSILELAUNCHER_DESC: <<
 	[img=Minus]Très haut [b][color=#fefc61]coût d'approvisionnement[/color][/b].[/img]
 >>
 
-S_SELF_DESTRUCT: Dispositif Auto-destruction
+S_SELF_DESTRUCT: Dispositif Autodestruction
 S_SELF_DESTRUCT_DESC: <<
-	Une ogive massive conçu pour exploser lorsque le vaisseau hôte devient instable.
+	Une ogive massive conçue pour exploser lorsque le vaisseau hôte devient instable.
 	
 	[img=Plus]Dommages extrêmes dans une vaste zone.[/img]
 	[img=Minus]Mort.[/img]
 >>
-ABL_SELF_DESTRUCT: Activer Auto-destruction
+ABL_SELF_DESTRUCT: Activer Autodestruction
 ABL_SELF_DESTRUCT_DESC: <<
-	Activer le dispositif d'autodestruction contenues sur ce vaisseau, le vaisseau explose dans un brasier ardent.
+	Activer le dispositif d’autodestruction contenue sur ce vaisseau, le vaisseau explose dans un brasier ardent.
 >>
 
 PLATEARMOR_NAME: Armure de Plaque
@@ -191,9 +191,9 @@ PLATEARMOR_DESC: <<
 
 ABLATIVEARMOR_NAME: Armure ablative
 ABLATIVEARMOR_DESC: <<
-	Une mousse métallique rigide conçu pour absorber les dégâtspar par l'ablation continuelle.
+	Une mousse métallique rigide conçu pour absorber les dégâts par l'ablation continuelle.
 	
-	[img=Plus]Haute [b][color=#c6c33a]résistance aux dégâts[/color][/b].[/img]
+	[img=Plus]Haute [b][color=#c6c33a]résistance au dégâts[/color][/b].[/img]
 	[img=Plus]Armure à l'extérieur du vaisseau, n'utilise pas d'espace intérieur.[/img]
 	[img=Plus]Résistance accrue contre les dommages des lasers.[/img]
 	[img=MenuIcons::3;20]Efficace contre de nombreux petits coups.[/img]
@@ -255,7 +255,7 @@ BULKHEAD_DESC: <<
 	[img=Plus;22;#cf00ff]Peut être placé sur des sous-systèmes non-blindés qui ont des noyaux ou des tourelles. Ne peut pas être placé sur des ponts ou des sous-systèmes principaux.[/img]
 	[img=Plus]Augmente la santé de tous les hexagones du sous-système.[/img]
 	[img=Minus]Augmente le coût de construction du sous-système.[/img]
-	[i][color=#aaa]Plaçer plus d'une cloison sur un sous-système va continuer à augmenter la santé de tous ses hexagones, mais va monter en flèche le coût de construction.[/color][/i]
+	[i][color=#aaa]Placer plus d'une cloison sur un sous-système va continuer à augmenter la santé de tous ses hexagones, mais va monter en flèche le coût de construction.[/color][/i]
 >>
 
 TARGETINGSENSOR_NAME: Capteur de ciblage
@@ -271,7 +271,7 @@ TARGETINGSENSOR_DESC: <<
 
 SUPPORTSUPPLY_NAME: Caisse de fournitures
 SUPPORTSUPPLY_DESC: <<
-	Une installation de stockage de fournitures secondaire peut être placé sur certains vaisseaux de soutien, l'augmentation de la quantité de munitions et de matériels de combat généraux est à la disposition de la flotte.
+	Une installation de stockage de fournitures secondaire peut être placée sur certains vaisseaux de soutien, l'augmentation de la quantité de munitions et de matériels de combat généraux est à la disposition de la flotte.
 
 	[img=AttributeIcons::4;22]Fournit [b][color=#fefc61]capacité de ravitaillement[/color][/b] à la flotte.[/img]
 	[img=Minus]Ajoute coût de maintenance aux vaisseaux de soutien.[/img]
@@ -281,7 +281,7 @@ SUPPORTSUPPLY_DESC: <<
 
 S_EMERGENCY_SUPPLIES: Fournitures d'urgence
 S_EMERGENCY_SUPPLIES_DESC: <<
-	Un noeud de production pour l'énergie de l'Empire. Permet aux provisions d'être produit immédiatement n'importe où dans la galaxie, à grands frais.
+	Un nœud de production pour l'énergie de l'Empire. Permet aux provisions d'être produit immédiatement n'importe où dans la galaxie, à grands frais.
 	
 	[img=AttributeIcons::4;22]Produit immédiatement des provisions.[/img]
 	[img=Minus]Coût en énergie.[/img]
@@ -292,7 +292,7 @@ ABL_EMERGENCY_SUPPLIES_DESC: Remplissez à nouveau les provisions du vaisseau.
 
 S_HYPERLASER: Laser Hyperdense 
 S_HYPERLASER_DESC: <<
-	Un laser bref avec une densité d'énergie assez haute pour pour produire spontanément de la matière.
+	Un laser bref avec une densité d'énergie assez haute pour produire spontanément de la matière.
 
 	[img=Plus]Faisceau verrouillé précis et instantané.[/img]
 	[img=Plus]Inflige des dégâts rapidement.[/img]
@@ -319,7 +319,7 @@ S_ION_CANNON: Canon à Ion
 S_ION_CANNON_DESC: <<
 	Un rayon d'énergie fortement chargé surcharge temporairement les systèmes d'énergie d'un ennemi.
 	
-	[img=Plus]Désactive les moteurs subluminiques ennemi et les capacités FTL.[/img]
+	[img=Plus]Désactive les moteurs subliminiques ennemi et les capacités FTL.[/img]
 	[img=ResourceIcon::2;22]Coûts en [b][color=#42b4bd]Energie[/color][/b] pour tirer.[/img]
 	[img=MenuIcons::3;20][color=#aaa]Peut tirer avec des canons à ion sur les vaisseaux ennemis.[/color][/img]
 	[img=MenuIcons::3;20][color=#aaa]Durée de l'effet incapacitant dépend de la taille du canon à ion.[/color][/img]
@@ -346,7 +346,7 @@ ABL_GRAVITON_CONDENSER_DESC: Tir un faisceau qui s'effondre sur la propre gravit
 
 S_CLOAKPLATING: Dissimulation de Maille
 S_CLOAKPLATING_DESC: <<
-	Couvrant entièrement un vaisseau dans un maillage de matériel hyperabsorbant lui permet d'éviter la détection par les ennemis à l'extérieur de la portée visuelle immédiate.
+	Couvrant entièrement un vaisseau dans un maillage de matériel hyper absorbant lui permet d'éviter la détection par les ennemis à l'extérieur de la portée visuelle immédiate.
 
 	[img=Plus]Lorsqu'il est activé, la flotte ne peut pas être vu de loin.[/img]
 	[img=ResourceIcon::2;22]Maille draine lentement de l'[b][color=#42b4bd]Energie[/color][/b] lorsqu'il est activé.[/img]
@@ -471,7 +471,7 @@ S_LIQUIDARMOR_DESC: <<
 
 S_AUGMENT_RELOAD: Système de refroidissement
 S_AUGMENT_RELOAD_DESC: <<
-	Augmente le mécanisme de l'arme pour le rechargement et le refroidissement, une plus grande cadence de tir peut être obtenus au prix d'une fragilité.
+	Augmente le mécanisme de l'arme pour le rechargement et le refroidissement, une plus grande cadence de tir peut être obtenue au prix d'une fragilité.
 
 	[img=Plus]Augmente [b][color=#c680ff]la vitesse de rechargement[/color][/b] de 20%.[/img]
 	[img=Minus]Diminue la [b][color=#80ff80]santé[/color][/b] de 50%.[/img]
@@ -496,7 +496,7 @@ S_AUGMENT_SUPPLY_DESC: <<
 
 S_SHRINE: Tombeau
 S_SHRINE_DESC: <<
-	Un sanctuaire pour honorer les Anciens Dieux, construit conformément aux plans qu'ils nous ont accordé. Prier au sanctuaire protège le vaisseau contre le mal.
+	Un sanctuaire pour honorer les Anciens Dieux, construit conformément aux plans qu'ils nous ont accordés. Prier au sanctuaire protège le vaisseau contre le mal.
 
 	[img=Plus]Ajoute un bouclier pour le vaisseau.[/img]
 	[img=Minus]Assez de prière doit être généré pour que le vaisseau dispose d'un contrôle.[/img]
@@ -505,7 +505,7 @@ S_SHRINE_DESC: <<
 
 S_QUANTUM_BATTERY: Pile Quantique
 S_QUANTUM_BATTERY_DESC: <<
-	Les Piles Quantique peuvent stocker des morceaux de la vaste quantité d'énergie captée par un empire dans l'énergie du point zéro d'une petite région du sous-espace plié. Cette énergie est ensuite lentement utilisé afin de compléter les exigences de puissance du sous-système.
+	Les Piles Quantique peuvent stocker des morceaux de la vaste quantité d'énergie captée par un empire dans l'énergie du point zéro d'une petite région du sous-espace plié. Cette énergie est ensuite lentement utilisée afin de compléter les exigences de puissance du sous-système.
 
 	[img=Plus]Divise par deux la puissance requise par le sous-système placé à l'intérieur.[/img]
 	[img=Minus]Si une pile quantique est détruite au combat, le sous-système est non fonctionnel jusqu'à ce qu'il soit réparé.[/img]
