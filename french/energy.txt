@@ -3,7 +3,7 @@ ABL_FLEET_EFFICIENCY_DESC: <<|
 	Augmentation permanente de l'efficacité de la flotte de 30%.
 >>
 
-STATUS_OVERCHARGED: Surchage
+STATUS_OVERCHARGED: Surcharge
 STATUS_OVERCHARGED_DESC: <<|
 	L'efficacité du combat a augmenté de 30%.
 >>
@@ -30,7 +30,7 @@ STATUS_DEFENDED_DESC: <<|
 
 STATUS_PRESS_ATTACK: Appuyez sur l'attaque
 STATUS_PRESS_ATTACK_DESC: <<|
-	L'efficacité de base a doublé. La flotte guérit de 50 santé par seconde.
+	L'efficacité de base a doublé. La flotte guérit de 50 santés par seconde.
 >>
 
 ABL_FLOAT_BUDGET: Contributions Warchest
@@ -44,7 +44,7 @@ ABL_FLOAT_BUDGET_DESC: <<|
 
 STATUS_ENTANGLED: Incapable
 STATUS_ENTANGLED_DESC: <<|
-	 Les vaisseaux amiraux ne peuvent pas se déplacer ou utilisater le FTL.
+	 Les vaisseaux amiraux ne peuvent pas se déplacer ou utiliser le FTL.
 >>
 
 OT_Ship: Vaisseau
@@ -56,7 +56,7 @@ OT_Anomaly: Anomalie
 OT_Asteroid: Astéroïde
 
 NTRG_NOT_SPACE: Vous ne pouvez pas cibler l'espace.
-NTRG_SPACE: Doit cibler unowned.
+NTRG_SPACE: Doit cibler non en possession.
 NTRG_NOT_SELF: Ne peut pas ce cibler soi-même.
 NTRG_TRADE_PRESENCE: Nécessite une présence commerciale.
 NTRG_NOT_WAR: Impossible de cibler des ennemis.
@@ -69,7 +69,7 @@ NTRG_ALLIED: Doit ce cibler soi-même ou un allié.
 NTRG_NOT_ALLIED: Vous ne pouvez pas cibler d'alliés.
 NTRG_UNNAMED: Ne peut pas cibler déjà nommé.
 NTRG_STATUS: A déjà le statut.
-NTRG_FTL: Ne peut pas cibler les vaisseau en FTL.
+NTRG_FTL: Ne peut pas cibler les vaisseaux en FTL.
 NTRG_TERRITORY: Doit cibler le même territoire.
 NTRG_SAME_REGION: Doit cibler le même système.
 NTRG_PLLEV: Doit cibler le niveau $1 ou au-dessous.
@@ -103,7 +103,7 @@ STATUS_ENSLAVED: Asservi
 
 STATUS_SEEDSHIP: Vaisseau semeur d'artefact
 STATUS_SEEDSHIP_DESC: <<|
-	Ce vaisseau d'ancien voyage de galaxie en galaxie, fabriquant des aterfacts
+	Ce vaisseau d'ancien voyage de galaxie en galaxie, fabriquant des artéfacts
 	et les laissant pour les jeunes races pour qu'ils les découvrent.
 >>
 
