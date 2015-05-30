@@ -21,7 +21,7 @@ COLONIZE_UNSAFE_PROMPT: <<|
 	Êtes-vous sûr de vouloir coloniser malgré la baisse potentielle de niveau ?
 >>
 ONLY_PLANETS: Peut cibler uniquement planètes.
-LEVEL: Niveau
+LEVEL: Niv.
 MANAGE: Gérer
 EXPORT_RESOURCE: Exportation de $1 vers $2
 EXPORT_RESOURCES: Exportation ressources vers $1
