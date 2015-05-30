@@ -7,7 +7,7 @@ SCUTTLE_SUPPORT_SHIPS: Retirer/Saborder vaisseau de soutien
 MANAGE_SUPPORTS: Gérer vaisseau de soutien
 ORDER_SUPPORT_COUNT: Ordre $1x $2
 ORDER_SUPPORT_CUSTOM: Commandez quantité personnalisée...
-ORDER_SUPPORT_DESIGN: Conception vaisseau de soutien:
+ORDER_SUPPORT_DESIGN: Conception vaisseau soutien:
 ORDER_SUPPORT_AMOUNT: Quantité:
 ORDER_SUPPORT_COST: Coût:
 ADD_SUPPORTS: Ajout vaisseau soutien
