@@ -10,7 +10,7 @@ ORDER_SUPPORT_CUSTOM: Commandez quantité personnalisée...
 ORDER_SUPPORT_DESIGN: Conception vaisseau de soutien:
 ORDER_SUPPORT_AMOUNT: Quantité:
 ORDER_SUPPORT_COST: Coût:
-ADD_SUPPORTS: Ajout vaisseaux soutien
+ADD_SUPPORTS: Ajout vaisseau soutien
 SHIP_ORDERS: Commandés
 SHIP_FORMATIONS: Formations
 CONSTRUCTOR_CONSTRUCT: Construire $1
@@ -18,7 +18,7 @@ CONSTRUCTOR_CONSTRUCT_COST: construire $1 ($2)
 SUPPLY: Fourniture
 STRENGTH: Résistance
 PIRATE_HOARD: Magot pirate
-REBUY_GHOSTS: Acheter ($1)
+REBUY_GHOSTS: Rempl. ($1)
 FREIGHTER: Cargo
 TT_REBUY_GHOSTS: <<
 	Remplacer tous les vaisseaux de soutien morts par l'achat de nouveaux. La flotte devra être déplacée vers un système avec des installations de main d'œuvre avant que les vaisseaux soient effectivement construits.
