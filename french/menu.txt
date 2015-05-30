@@ -12,7 +12,7 @@ DISABLE_MOD: Désactiver le Mod
 ENABLE_MOD: Activer le Mod
 NEW_MOD: Créer un Nouveau Mod
 EDIT_MOD: Éditer le Mod
-MENU_CONTINUE_MAIN: Continuer vers le Menu Principale
+MENU_CONTINUE_MAIN: Continuer vers le Menu Principal
 MENU_MOD_COUNTS: $1 Mod(s) Installé(s), $2 Mods(s) Activé(s)
 MANAGE_MODS: Gérer les Mods
 OPEN_WORKSHOP: Voir Steam Workshop
