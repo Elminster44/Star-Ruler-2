@@ -232,7 +232,7 @@ ABL_ORBITAL_FRAME: Constructeur de Cadre Orbital
 ABL_ORBITAL_FRAME_DESC: <<
 	Créer un cadre orbital à l'emplacement spécifié.
 
-	Vous pouvez construire tout autre orbitale au-dessus d'un cadre orbitale pour le remplacer. Un orbitale construit au-dessus des cadres bénéficie d'une réduction de 50% des coûts de construction et de main-d'œuvre, et ne souffre pas de pénalités de travail à distance pour la construction.
+	Vous  pouvez construire tout autre orbitale au-dessus d'un cadre orbitale pour le remplacer. Un orbitale construit au-dessus des cadres bénéficie d'une réduction de 50% des coûts de construction et de main-d'œuvre, et ne souffre pas de pénalités de travail à distance pour la construction.
 >>
 
 ART_SUPPORT_STATION: Station de soutien
