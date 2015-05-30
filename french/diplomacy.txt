@@ -25,7 +25,7 @@ ACTIVE_INFLUENCE_EFFECTS: Effets actifs
 ACTIVE_TREATIES: Traités
 SIGNED_BY: Signé par
 INVITED_TO: Invitations à signer
-SURRENDER_NAME: [b][color=#f00]Assujettissement[/color][/b] de $1
+SURRENDER_NAME: [b][color=#f00]assujettissement[/color][/b] de $1
 SURRENDER_OFFER: [b][color=#f00]offre de vassalisation[/color][/b] de $1
 SURRENDER_DEMAND: [b][color=#f00]demande la vassalisation[/color][/b] de $1
 SURRENDER_OPTION: Offrez votre reddition sans conditions
