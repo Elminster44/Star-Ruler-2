@@ -10,7 +10,7 @@ ORDER_SUPPORT_CUSTOM: Commandez quantité personnalisée...
 ORDER_SUPPORT_DESIGN: Conception vaisseau de soutien:
 ORDER_SUPPORT_AMOUNT: Quantité:
 ORDER_SUPPORT_COST: Coût:
-ADD_SUPPORTS: Ajouter un groupe de soutien
+ADD_SUPPORTS: Ajouter groupe de soutien
 SHIP_ORDERS: Commandés
 SHIP_FORMATIONS: Formations
 CONSTRUCTOR_CONSTRUCT: Construire $1
@@ -18,7 +18,7 @@ CONSTRUCTOR_CONSTRUCT_COST: construire $1 ($2)
 SUPPLY: Fourniture
 STRENGTH: Résistance
 PIRATE_HOARD: Magot pirate
-REBUY_GHOSTS: Ré acheter ($1)
+REBUY_GHOSTS: Réacheter ($1)
 FREIGHTER: Cargo
 TT_REBUY_GHOSTS: <<
 	Remplacer tous les vaisseaux de soutien morts par l'achat de nouveaux. La flotte devra être déplacée vers un système avec des installations de main d'œuvre avant que les vaisseaux soient effectivement construits.
@@ -27,11 +27,11 @@ CLEAR_GHOSTS: Effacer Mort
 TT_CLEAR_GHOSTS: <<
 	Effacer tous les vaisseaux de soutien mort dans la flotte.
 >>
-AUTO_FILL_SUPPORTS: Remplissage automatique
+AUTO_FILL_SUPPORTS: Rempli. auto
 TT_AUTO_FILL_SUPPORTS: <<
 	Quand coché, la flotte prendra automatiquement des vaisseaux de soutien des planètes proches afin de reconstituer sa force.
 >>
-AUTO_BUY_SUPPORTS: Achat automatique
+AUTO_BUY_SUPPORTS: Achat auto
 TT_AUTO_BUY_SUPPORTS: <<
 	Quand coché, la flotte sera automatiquement achetée avec de nouveaux vaisseaux de soutien si vous êtes proche de systèmes avec des équipements de main d'œuvre, jusqu'à ce que la flotte soit pleine.
 >>
@@ -101,7 +101,7 @@ AREA_BOUND: Engager les ennemis proches
 AREA_BOUND_DESC: Chasser flottes ennemies dans le voisinage direct.
 
 BEH_CLOSE_IN: Refermer sur Ennemies
-BEH_CLOSE_IN_DESC: Se déplacer à portée de tir lors de l'attaque des ennemis.
+BEH_CLOSE_IN_DESC: Se déplacer à portée de tir lors d'attaque de l'ennemi.
 BEH_KEEP_DISTANCE: Gardez Distance
 BEH_KEEP_DISTANCE_DESC: Déplacez-vous à portée de tir et essayez de garder la distance.
 
