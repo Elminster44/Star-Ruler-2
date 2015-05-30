@@ -10,7 +10,7 @@ ORDER_SUPPORT_CUSTOM: Commandez quantité personnalisée...
 ORDER_SUPPORT_DESIGN: Conception vaisseau de soutien:
 ORDER_SUPPORT_AMOUNT: Quantité:
 ORDER_SUPPORT_COST: Coût:
-ADD_SUPPORTS: Ajouter groupe de soutien
+ADD_SUPPORTS: Ajouter vais. de soutien
 SHIP_ORDERS: Commandés
 SHIP_FORMATIONS: Formations
 CONSTRUCTOR_CONSTRUCT: Construire $1
@@ -18,7 +18,7 @@ CONSTRUCTOR_CONSTRUCT_COST: construire $1 ($2)
 SUPPLY: Fourniture
 STRENGTH: Résistance
 PIRATE_HOARD: Magot pirate
-REBUY_GHOSTS: Réacheter ($1)
+REBUY_GHOSTS: Acheter ($1)
 FREIGHTER: Cargo
 TT_REBUY_GHOSTS: <<
 	Remplacer tous les vaisseaux de soutien morts par l'achat de nouveaux. La flotte devra être déplacée vers un système avec des installations de main d'œuvre avant que les vaisseaux soient effectivement construits.
@@ -45,7 +45,7 @@ RETROFIT_OPTION: Rénovation de la flotte ($1, $2 Main d'œuvre)
 CAPTURE_OPTION: Capture Planète ($1 Ravitaillement, $2)
 PROTECTED_OPTION: Vous ne pouvez pas capturer - Protégé par Avant-poste ou décret
 REV_SPEC: " r$1"
-SUPPORT_CAPACITY: Capacité Soutien
+SUPPORT_CAPACITY: Capacité de soutien
 SLIPSTREAM_TEAR: Déchirure de Sillage
 ODDITY_GATE: Warp Through
 EFFECTIVENESS: Efficacité
