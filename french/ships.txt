@@ -10,7 +10,7 @@ ORDER_SUPPORT_CUSTOM: Commandez quantité personnalisée...
 ORDER_SUPPORT_DESIGN: Conception vaisseau soutien:
 ORDER_SUPPORT_AMOUNT: Quantité:
 ORDER_SUPPORT_COST: Coût:
-ADD_SUPPORTS: Ajout vaisseau soutien
+ADD_SUPPORTS: Ajout vais. soutien
 SHIP_ORDERS: Commandés
 SHIP_FORMATIONS: Formations
 CONSTRUCTOR_CONSTRUCT: Construire $1
